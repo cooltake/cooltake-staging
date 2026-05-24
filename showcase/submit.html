@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>作品を投稿する — Cooltake Studio Showcase</title>
+  <style>
+    :root {
+      --bg: #0a0e1a;
+      --card: #0f1525;
+      --border: rgba(255,255,255,.08);
+      --text: #f1f5ff;
+      --muted: #8896b3;
+      --accent: #3b82f6;
+      --accent2: #818cf8;
+      --error: #ef4444;
+      --success: #22c55e;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+
+    /* NAV */
+    nav { display: flex; align-items: center; justify-content: space-between; padding: 16px 32px; border-bottom: 1px solid var(--border); position: sticky; top: 0; background: rgba(10,14,26,.9); backdrop-filter: blur(12px); z-index: 100; }
+    .nav-logo { font-size: 1.1rem; font-weight: 700; background: linear-gradient(135deg,var(--accent),var(--accent2)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-decoration: none; }
+    .nav-link { color: var(--muted); text-decoration: none; font-size: .9rem; }
+    .nav-link:hover { color: var(--text); }
+
+    /* HERO */
+    .hero { text-align: center; padding: 64px 24px 48px; }
+    .hero-badge { display: inline-block; background: rgba(59,130,246,.12); border: 1px solid rgba(59,130,246,.3); color: var(--accent2); font-size: .8rem; font-weight: 600; padding: 4px 14px; border-radius: 20px; letter-spacing: .05em; margin-bottom: 20px; }
+    .hero h1 { font-size: clamp(1.6rem,4vw,2.4rem); font-weight: 800; margin-bottom: 12px; }
+    .hero p { color: var(--muted); font-size: 1rem; line-height: 1.7; max-width: 520px; margin: 0 auto; }
+
+    /* FORM */
+    .form-wrap { max-width: 680px; margin: 0 auto; padding: 0 20px 80px; }
+    .form-card { background: var(--card); border: 1px solid var(--border); border-radius: 20px; padding: 40px; }
+    .section-title { font-size: .8rem; font-weight: 700; letter-spacing: .1em; color: var(--accent2); text-transform: uppercase; margin-bottom: 20px; padding-bottom: 8px; border-bottom: 1px solid var(--border); }
+    .field { margin-bottom: 20px; }
+    label { display: block; font-size: .85rem; font-weight: 600; margin-bottom: 6px; color: var(--muted); }
+    label .req { color: var(--accent); margin-left: 3px; }
+    input, textarea, select {
+      width: 100%; background: rgba(255,255,255,.04); border: 1px solid var(--border);
+      border-radius: 10px; padding: 11px 14px; color: var(--text); font-size: .95rem;
+      font-family: inherit; transition: border-color .2s;
+      outline: none;
+    }
+    input::placeholder, textarea::placeholder { color: var(--muted); }
+    input:focus, textarea:focus, select:focus { border-color: var(--accent); }
+    select option { background: #1a2236; }
+    textarea { resize: vertical; min-height: 110px; }
+    .hint { font-size: .78rem; color: var(--muted); margin-top: 5px; }
+    .char-count { font-size: .78rem; color: var(--muted); text-align: right; margin-top: 4px; }
+    .field-error { font-size: .78rem; color: var(--error); margin-top: 5px; display: none; }
+    input.invalid, textarea.invalid, select.invalid { border-color: var(--error); }
+
+    .divider { border: none; border-top: 1px solid var(--border); margin: 28px 0; }
+
+    /* 同意チェック */
+    .consent-group { display: flex; flex-direction: column; gap: 12px; }
+    .consent-item { display: flex; align-items: flex-start; gap: 10px; cursor: pointer; }
+    .consent-item input[type="checkbox"] { width: 16px; height: 16px; accent-color: var(--accent); flex-shrink: 0; margin-top: 2px; cursor: pointer; }
+    .consent-item span { font-size: .88rem; color: var(--muted); line-height: 1.5; }
+
+    /* SUBMIT */
+    .btn-submit {
+      width: 100%; padding: 14px; background: linear-gradient(135deg,var(--accent),var(--accent2));
+      color: #fff; font-size: 1rem; font-weight: 700; border: none; border-radius: 12px;
+      cursor: pointer; margin-top: 28px; transition: opacity .2s, transform .1s;
+      letter-spacing: .03em;
+    }
+    .btn-submit:hover { opacity: .9; }
+    .btn-submit:active { transform: scale(.98); }
+    .btn-submit:disabled { opacity: .5; cursor: not-allowed; }
+
+    /* RESULT */
+    .result { display: none; text-align: center; padding: 48px 24px; }
+    .result .icon { font-size: 3rem; margin-bottom: 16px; }
+    .result h2 { font-size: 1.3rem; margin-bottom: 12px; }
+    .result p { color: var(--muted); line-height: 1.7; }
+    .result.success h2 { color: var(--success); }
+    .result.error h2 { color: var(--error); }
+
+    .spinner { display: inline-block; width: 18px; height: 18px; border: 2px solid rgba(255,255,255,.3); border-top-color: #fff; border-radius: 50%; animation: spin .7s linear infinite; vertical-align: middle; margin-right: 8px; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* NOTE */
+    .note-box { background: rgba(59,130,246,.06); border: 1px solid rgba(59,130,246,.2); border-radius: 12px; padding: 16px 20px; margin-bottom: 24px; font-size: .85rem; color: var(--muted); line-height: 1.7; }
+    .note-box strong { color: var(--text); }
+
+    /* FOOTER */
+    footer { text-align: center; padding: 32px; color: var(--muted); font-size: .8rem; border-top: 1px solid var(--border); }
+    footer a { color: var(--muted); text-decoration: none; }
+    footer a:hover { color: var(--text); }
+
+    @media (max-width: 600px) {
+      .form-card { padding: 24px 20px; }
+      nav { padding: 14px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <a href="/showcase/" class="nav-logo">🎵 Cooltake Studio</a>
+  <a href="/showcase/" class="nav-link">← Showcaseに戻る</a>
+</nav>
+
+<section class="hero">
+  <div class="hero-badge">Creator Showcase</div>
+  <h1>作品を投稿する</h1>
+  <p>あなたの音楽・楽曲をCooltake Studioで紹介しませんか？<br>投稿はARIAによる審査後（通常3〜7日）に掲載されます。</p>
+</section>
+
+<div class="form-wrap">
+  <div class="form-card" id="formCard">
+    <div class="note-box">
+      <strong>📧 メール認証について</strong><br>
+      投稿後、入力したメールアドレスに確認メールを送信します。メール内のリンクをクリックして投稿を確定してください（有効期限24時間）。
+    </div>
+
+    <form id="submitForm" novalidate>
+      <div class="section-title">基本情報</div>
+
+      <div class="field">
+        <label>投稿者名（ニックネーム）<span class="req">*</span></label>
+        <input type="text" name="nickname" id="nickname" placeholder="例: tanaka_beats" maxlength="30" autocomplete="off">
+        <div class="hint">2〜30文字</div>
+        <div class="field-error" id="err-nickname"></div>
+      </div>
+
+      <div class="field">
+        <label>作品タイトル<span class="req">*</span></label>
+        <input type="text" name="title" id="title" placeholder="例: 春の宅録 ep.01" maxlength="60">
+        <div class="char-count"><span id="cnt-title">0</span>/60</div>
+        <div class="field-error" id="err-title"></div>
+      </div>
+
+      <div class="field">
+        <label>ジャンル<span class="req">*</span></label>
+        <select name="genre" id="genre">
+          <option value="">選択してください</option>
+          <option value="宅録・弾き語り">宅録・弾き語り</option>
+          <option value="DTM・電子音楽">DTM・電子音楽</option>
+          <option value="バンド演奏">バンド演奏</option>
+          <option value="ボカロ・UTAU">ボカロ・UTAU</option>
+          <option value="ビートメイク・ヒップホップ">ビートメイク・ヒップホップ</option>
+          <option value="アンビエント・実験音楽">アンビエント・実験音楽</option>
+          <option value="その他">その他</option>
+        </select>
+        <div class="field-error" id="err-genre"></div>
+      </div>
+
+      <hr class="divider">
+      <div class="section-title">作品リンク</div>
+
+      <div class="field">
+        <label>メイン作品リンク<span class="req">*</span></label>
+        <input type="url" name="main_link" id="main_link" placeholder="https://youtu.be/xxxxx">
+        <div class="hint">YouTube / SoundCloud / ニコ動 / Spotify / Bandcamp など</div>
+        <div class="field-error" id="err-main_link"></div>
+      </div>
+
+      <div class="field">
+        <label>追加リンク（任意）</label>
+        <input type="url" name="extra_link" id="extra_link" placeholder="https://booth.pm/...">
+        <div class="hint">BOOTH / note / Gumroad など（販売・配布ページ）</div>
+        <div class="field-error" id="err-extra_link"></div>
+      </div>
+
+      <hr class="divider">
+      <div class="section-title">作品紹介</div>
+
+      <div class="field">
+        <label>作品紹介文<span class="req">*</span></label>
+        <textarea name="description" id="description" placeholder="作品のこだわり、制作背景、聴いてほしいポイントなどを教えてください。" maxlength="400"></textarea>
+        <div class="char-count"><span id="cnt-description">0</span>/400</div>
+        <div class="hint">50〜400文字</div>
+        <div class="field-error" id="err-description"></div>
+      </div>
+
+      <div class="field">
+        <label>使用機材<span class="req">*</span></label>
+        <input type="text" name="gear" id="gear" placeholder="例: SM58, Apollo Twin, Ableton Live 12">
+        <div class="hint">カンマ区切りで入力。例: SM58, Roland TD-17, GarageBand</div>
+        <div class="field-error" id="err-gear"></div>
+      </div>
+
+      <div class="field">
+        <label>SNSリンク（任意）</label>
+        <input type="url" name="sns_link" id="sns_link" placeholder="https://x.com/yourname">
+        <div class="hint">X (Twitter) / Instagram など</div>
+      </div>
+
+      <hr class="divider">
+      <div class="section-title">連絡先</div>
+
+      <div class="field">
+        <label>メールアドレス<span class="req">*</span></label>
+        <input type="email" name="email" id="email" placeholder="your@email.com">
+        <div class="hint">メール認証に使用します。公開されません。</div>
+        <div class="field-error" id="err-email"></div>
+      </div>
+
+      <hr class="divider">
+      <div class="section-title">同意事項</div>
+
+      <div class="consent-group">
+        <label class="consent-item">
+          <input type="checkbox" name="agree1" id="agree1">
+          <span>投稿規約・免責事項に同意する</span>
+        </label>
+        <label class="consent-item">
+          <input type="checkbox" name="agree2" id="agree2">
+          <span>自分自身が制作した作品、または投稿権限を持つ作品であることを確認する</span>
+        </label>
+        <label class="consent-item">
+          <input type="checkbox" name="agree3" id="agree3">
+          <span>他者の著作権・肖像権を侵害していないことを確認する</span>
+        </label>
+      </div>
+      <div class="field-error" id="err-agree" style="margin-top:8px"></div>
+
+      <button type="submit" class="btn-submit" id="btnSubmit">作品を投稿する</button>
+    </form>
+
+    <div class="result success" id="resultSuccess">
+      <div class="icon">✅</div>
+      <h2>投稿を受け付けました！</h2>
+      <p>入力したメールアドレスに確認メールを送信しました。<br>メール内のリンクをクリックして投稿を確定してください（有効期限24時間）。<br><br>ARIAによる審査後（通常3〜7日）に掲載されます。</p>
+    </div>
+
+    <div class="result error" id="resultError">
+      <div class="icon">❌</div>
+      <h2>エラーが発生しました</h2>
+      <p id="errorMsg">しばらくしてから再度お試しください。</p>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <p>&copy; 2026 Cooltake Studio — <a href="/">ホーム</a> · <a href="/showcase/">Showcase</a></p>
+</footer>
+
+<script>
+  const GAS_URL = 'https://script.google.com/macros/s/AKfycbxglhZLIy1tJRHZ4bXLxiq5xx9HPcELw4otj2u4l3cqD_4JO5iFwa5tkmkdY4c96Fby/exec';
+
+  // キャラクターカウント
+  ['title', 'description'].forEach(id => {
+    const el = document.getElementById(id);
+    const cnt = document.getElementById('cnt-' + id);
+    if (!el || !cnt) return;
+    el.addEventListener('input', () => { cnt.textContent = el.value.length; });
+  });
+
+  // バリデーション
+  function validateForm() {
+    let valid = true;
+
+    const rules = [
+      { id: 'nickname', min: 2, max: 30, msg: '2〜30文字で入力してください' },
+      { id: 'title',    min: 5, max: 60, msg: '5〜60文字で入力してください' },
+      { id: 'description', min: 50, max: 400, msg: '50〜400文字で入力してください' },
+      { id: 'gear',     min: 1, max: 500, msg: '使用機材を入力してください' },
+    ];
+
+    rules.forEach(r => {
+      const el = document.getElementById(r.id);
+      const err = document.getElementById('err-' + r.id);
+      const val = el.value.trim();
+      if (val.length < r.min || val.length > r.max) {
+        el.classList.add('invalid'); err.textContent = r.msg; err.style.display = 'block'; valid = false;
+      } else {
+        el.classList.remove('invalid'); err.style.display = 'none';
+      }
+    });
+
+    // genre
+    const genre = document.getElementById('genre');
+    const errGenre = document.getElementById('err-genre');
+    if (!genre.value) {
+      genre.classList.add('invalid'); errGenre.textContent = 'ジャンルを選択してください'; errGenre.style.display = 'block'; valid = false;
+    } else { genre.classList.remove('invalid'); errGenre.style.display = 'none'; }
+
+    // email
+    const email = document.getElementById('email');
+    const errEmail = document.getElementById('err-email');
+    const emailRe = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    if (!emailRe.test(email.value.trim())) {
+      email.classList.add('invalid'); errEmail.textContent = '正しいメールアドレスを入力してください'; errEmail.style.display = 'block'; valid = false;
+    } else { email.classList.remove('invalid'); errEmail.style.display = 'none'; }
+
+    // main_link
+    const mainLink = document.getElementById('main_link');
+    const errMainLink = document.getElementById('err-main_link');
+    try { new URL(mainLink.value.trim()); mainLink.classList.remove('invalid'); errMainLink.style.display = 'none'; }
+    catch { mainLink.classList.add('invalid'); errMainLink.textContent = '正しいURLを入力してください'; errMainLink.style.display = 'block'; valid = false; }
+
+    // extra_link (optional but validate if filled)
+    const extraLink = document.getElementById('extra_link');
+    const errExtraLink = document.getElementById('err-extra_link');
+    if (extraLink.value.trim()) {
+      try { new URL(extraLink.value.trim()); extraLink.classList.remove('invalid'); errExtraLink.style.display = 'none'; }
+      catch { extraLink.classList.add('invalid'); errExtraLink.textContent = '正しいURLを入力してください'; errExtraLink.style.display = 'block'; valid = false; }
+    }
+
+    // agree
+    const a1 = document.getElementById('agree1').checked;
+    const a2 = document.getElementById('agree2').checked;
+    const a3 = document.getElementById('agree3').checked;
+    const errAgree = document.getElementById('err-agree');
+    if (!a1 || !a2 || !a3) {
+      errAgree.textContent = 'すべての同意事項にチェックしてください'; errAgree.style.display = 'block'; valid = false;
+    } else { errAgree.style.display = 'none'; }
+
+    return valid;
+  }
+
+  document.getElementById('submitForm').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    if (!validateForm()) return;
+
+    const btn = document.getElementById('btnSubmit');
+    btn.disabled = true;
+    btn.innerHTML = '<span class="spinner"></span>送信中...';
+
+    const payload = {
+      action: 'submit',
+      nickname: document.getElementById('nickname').value.trim(),
+      title:    document.getElementById('title').value.trim(),
+      genre:    document.getElementById('genre').value,
+      main_link: document.getElementById('main_link').value.trim(),
+      extra_link: document.getElementById('extra_link').value.trim(),
+      description: document.getElementById('description').value.trim(),
+      gear:     document.getElementById('gear').value.trim(),
+      sns_link: document.getElementById('sns_link').value.trim(),
+      email:    document.getElementById('email').value.trim(),
+    };
+
+    try {
+      const res = await fetch(GAS_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
+      });
+      const data = await res.json();
+
+      document.getElementById('submitForm').style.display = 'none';
+      document.querySelector('.note-box').style.display = 'none';
+
+      if (data.ok) {
+        document.getElementById('resultSuccess').style.display = 'block';
+      } else {
+        const errMsg = data.errors
+          ? Object.values(data.errors).join('<br>')
+          : (data.error || 'エラーが発生しました');
+        document.getElementById('errorMsg').innerHTML = errMsg;
+        document.getElementById('resultError').style.display = 'block';
+        // エラー時はフォームを再表示できるようにする
+        setTimeout(() => {
+          document.getElementById('resultError').style.display = 'none';
+          document.getElementById('submitForm').style.display = 'block';
+          document.querySelector('.note-box').style.display = 'block';
+          btn.disabled = false;
+          btn.textContent = '作品を投稿する';
+        }, 5000);
+      }
+    } catch (err) {
+      document.getElementById('errorMsg').textContent = 'ネットワークエラーが発生しました。しばらくしてから再度お試しください。';
+      document.getElementById('resultError').style.display = 'block';
+      setTimeout(() => {
+        document.getElementById('resultError').style.display = 'none';
+        document.getElementById('submitForm').style.display = 'block';
+        document.querySelector('.note-box').style.display = 'block';
+        btn.disabled = false;
+        btn.textContent = '作品を投稿する';
+      }, 5000);
+    }
+  });
+</script>
+</body>
+</html>
