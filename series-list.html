@@ -86,7 +86,7 @@
 </nav>
 
 <div class="page-header">
-  <a href="/" class="back-link">← トップに戻る</a>
+  <a href="/#categories" class="back-link">← トップに戻る</a>
   <h1 class="page-title" id="pageTitle">シリーズ記事一覧</h1>
   <p class="page-count" id="pageCount"></p>
 </div>
@@ -240,7 +240,7 @@ const SERIES_DATA = {
   if (!series) {
     titleEl.textContent = 'シリーズ一覧';
     countEl.textContent = '';
-    gridEl.innerHTML = '<div class="page-error"><h2>シリーズが見つかりません</h2><p>URLのseriesパラメータを確認してください。</p><p style="margin-top:16px"><a href="/" style="color:var(--accent)">← トップに戻る</a></p></div>';
+    gridEl.innerHTML = '<div class="page-error"><h2>シリーズが見つかりません</h2><p>URLのseriesパラメータを確認してください。</p><p style="margin-top:16px"><a href="/#categories" style="color:var(--accent)">← トップに戻る</a></p></div>';
     return;
   }
 
