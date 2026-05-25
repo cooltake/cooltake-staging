@@ -16,6 +16,7 @@
       --gradient: linear-gradient(135deg,#3b82f6,#818cf8);
     }
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scrollbar-gutter: stable; }
     body { font-family: 'DM Sans','Noto Sans JP',sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; line-height: 1.7; }
     a { text-decoration: none; color: inherit; }
 
@@ -23,7 +24,7 @@
     .container-wide { max-width: 1547px; margin: 0 auto; padding: 0 28px; }
     .site-header { position: sticky; top: 0; z-index: 100; background: rgba(10,14,26,.88); backdrop-filter: blur(24px); -webkit-backdrop-filter: blur(24px); border-bottom: 1px solid var(--border); }
     .site-header .container-wide { display: flex; align-items: center; justify-content: space-between; height: 68px; }
-    .logo { display: flex; align-items: center; }
+    .logo { display: flex; align-items: center; gap: 12px; font-size: 1.05rem; font-weight: 800; letter-spacing: -.02em; }
     .site-nav { display: flex; align-items: center; gap: 4px; }
     .site-nav a { color: var(--muted); font-size: .875rem; font-weight: 500; padding: 7px 14px; border-radius: 8px; transition: color .2s, background .2s; }
     .site-nav a:hover { color: var(--text); background: rgba(255,255,255,.05); }
