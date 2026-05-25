@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}Cooltake Studio</title>
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,700;0,9..40,800;0,9..40,900&family=Noto+Sans+JP:wght@400;500;700;900&family=Kiwi+Maru:wght@300;400;500&family=BIZ+UDPGothic:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="{{ '/' | relative_url }}" class="logo">
+        <svg class="logo-icon" width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="2" y="10" width="3" height="8" rx="1.5" fill="url(#lg)"/>
+          <rect x="7" y="6" width="3" height="16" rx="1.5" fill="url(#lg)"/>
+          <rect x="12" y="2" width="3" height="24" rx="1.5" fill="url(#lg)"/>
+          <rect x="17" y="7" width="3" height="14" rx="1.5" fill="url(#lg)"/>
+          <rect x="22" y="11" width="3" height="6" rx="1.5" fill="url(#lg)"/>
+          <defs>
+            <linearGradient id="lg" x1="2" y1="2" x2="25" y2="26" gradientUnits="userSpaceOnUse">
+              <stop offset="0%" stop-color="#3b82f6"/>
+              <stop offset="100%" stop-color="#818cf8"/>
+            </linearGradient>
+          </defs>
+        </svg>
+        <span class="logo-main">Cooltake <span class="logo-dot">Studio</span></span>
+      </a>
+      <nav class="site-nav">
+        <a href="{{ '/' | relative_url }}">記事一覧</a>
+        <a href="{{ '/#categories' | relative_url }}">カテゴリ</a>
+        <a href="{{ '/#about' | relative_url }}" class="nav-cta">About</a>
+      </nav>
+      <button class="nav-toggle" aria-label="メニューを開く">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+  <script>
+    (function() {
+      var toggle = document.querySelector('.nav-toggle');
+      var nav = document.querySelector('.site-nav');
+      if (!toggle || !nav) return;
+      toggle.addEventListener('click', function() {
+        var open = nav.classList.toggle('open');
+        toggle.classList.toggle('open', open);
+        toggle.setAttribute('aria-label', open ? 'メニューを閉じる' : 'メニューを開く');
+      });
+      nav.querySelectorAll('a').forEach(function(a) {
+        a.addEventListener('click', function() {
+          nav.classList.remove('open');
+          toggle.classList.remove('open');
+          toggle.setAttribute('aria-label', 'メニューを開く');
+        });
+      });
+    })();
+  </script>
+  <main>{{ content }}</main>
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-inner">
+        <div class="footer-brand">
+          <svg class="logo-icon" width="22" height="22" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect x="2" y="10" width="3" height="8" rx="1.5" fill="#3b82f6" opacity="0.6"/>
+            <rect x="7" y="6" width="3" height="16" rx="1.5" fill="#818cf8" opacity="0.75"/>
+            <rect x="12" y="2" width="3" height="24" rx="1.5" fill="#818cf8"/>
+            <rect x="17" y="7" width="3" height="14" rx="1.5" fill="#3b82f6" opacity="0.8"/>
+            <rect x="22" y="11" width="3" height="6" rx="1.5" fill="#3b82f6" opacity="0.5"/>
+          </svg>
+          <span>Cooltake Studio</span>
+        </div>
+        <div class="footer-links">
+          <a href="{{ '/' | relative_url }}">記事一覧</a>
+          <a href="{{ '/#categories' | relative_url }}">カテゴリ</a>
+          <a href="{{ '/#about' | relative_url }}">About</a>
+        </div>
+      </div>
+      <p class="footer-copy">本サイトはアフィリエイト広告を利用しています &nbsp;|&nbsp; &copy; 2026 Cooltake Studio All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
