@@ -186,7 +186,7 @@ layout: default
 <article>
   <div class="post-header">
     <div class="post-hero-wrap{% if page.image %} has-image{% endif %}"{% if page.image %} style="--hero-img: url('{{ page.image }}');"{% endif %}>
-      <a href="{{ '/' | relative_url }}" class="back-link">&larr; 記事一覧に戻る</a>
+      <a href="{{ '/#categories' | relative_url }}" class="back-link">&larr; 記事一覧に戻る</a>
       <div class="post-hero-body">
         <div class="post-meta">
           <span class="post-tag">{{ page.categories | first | default: "Guide" | upcase }}</span>
