@@ -8,7 +8,6 @@ tags: [Gibson, Les Paul, レスポール, エレキギター, ギター選び方
 image: /assets/images/thumb-les-paul-custom.jpg
 ---
 
-<p style="font-size:.85em;color:#64748b;background:#f8fafc;border:1px solid #e2e8f0;padding:.5rem 1rem;border-radius:4px;margin-bottom:1.5rem;">本記事はアフィリエイト広告を含む場合があります。</p>
 
 ## Gibson Les Paul Customとは
 
