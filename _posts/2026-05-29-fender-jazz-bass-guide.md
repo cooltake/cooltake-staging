@@ -8,7 +8,6 @@ tags: [Fender, Jazz Bass, ジャズベース, ベース, ベース選び方, ジ
 image: /assets/images/thumb-jazz-bass.jpg
 ---
 
-<p style="font-size:.85em;color:#64748b;background:#f8fafc;border:1px solid #e2e8f0;padding:.5rem 1rem;border-radius:4px;margin-bottom:1.5rem;">本記事はアフィリエイト広告を含む場合があります。</p>
 
 ## Fender Jazz Bassとは
 
