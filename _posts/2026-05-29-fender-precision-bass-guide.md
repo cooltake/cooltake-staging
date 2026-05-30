@@ -6,6 +6,7 @@ date: 2026-05-29
 categories: [gear]
 tags: [Fender, Precision Bass, プレシジョンベース, プレベ, ベース選び方, ロック]
 image: /assets/images/thumb-precision-bass.jpg
+image: /assets/images/thumb-precision-bass.jpg
 ---
 
 
