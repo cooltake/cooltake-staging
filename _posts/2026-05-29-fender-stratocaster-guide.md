@@ -6,7 +6,6 @@ date: 2026-05-29
 categories: [gear]
 tags: [Fender, Stratocaster, ストラトキャスター, エレキギター, ギター選び方, ロック]
 image: /assets/images/thumb-stratocaster.jpg
-image: /assets/images/thumb-stratocaster.jpg
 ---
 
 
@@ -38,11 +37,11 @@ image: /assets/images/thumb-stratocaster.jpg
 
 | シリーズ | 価格帯 | 特徴 | おすすめ対象 |
 |---------|--------|------|------------|
-| **Squier Affinity** | ¥30,000〜 | Fenderブランドの入門機 | 完全初心者 |
-| **Squier Classic Vibe** | ¥50,000〜 | コスパ最高。ヴィンテージ寄りの音 | 中級者・予算重視 |
-| **Player Series（MIM）** | ¥120,000〜 | Fender正規・メキシコ製 | 本格的に弾きたい方 |
-| **American Professional II** | ¥280,000〜 | USA製。現代スペック | 上級者・プロ |
-| **American Vintage II** | ¥350,000〜 | ヴィンテージスペック忠実再現 | コレクター・ヴィンテージ好き |
+| **Squier Affinity** | ¥37,000〜 | Fenderブランドの入門機 | 完全初心者 |
+| **Squier Classic Vibe** | ¥62,000〜 | コスパ最高。ヴィンテージ寄りの音 | 中級者・予算重視 |
+| **Player Series（MIM）** | ¥100,000〜 | Fender正規・メキシコ製 | 本格的に弾きたい方 |
+| **American Professional II** | ¥235,000〜 | USA製。現代スペック | 上級者・プロ |
+| **American Vintage II** | ¥390,000〜 | ヴィンテージスペック忠実再現 | コレクター・ヴィンテージ好き |
 
 予算とレベルに応じてシリーズを選ぶのがポイントです。「まず弾いてみたい」ならSquier、「本物のFenderを持ちたい」ならPlayer Seriesがバランスの良い選択肢です。
 
@@ -68,8 +67,8 @@ image: /assets/images/thumb-stratocaster.jpg
 
 ## おすすめ購入場所
 
-<div style="margin:2rem 0;padding:1.2rem 1.5rem;background:#fff7ed;border-left:4px solid #f97316;border-radius:8px;"><p style="margin:0 0 .6rem;font-weight:bold;font-size:1rem;">&#x1F6D2; 楽天市場でFender Stratocasterをチェック</p><a href="https://hb.afl.rakuten.co.jp/hgc/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFender%2BStratocaster%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;background:#bf0000;color:#fff;padding:.45rem 1.1rem;border-radius:4px;text-decoration:none;font-weight:bold;font-size:.95rem;">楽天市場でFender Stratocasterを探す →</a><img src="//i.moshimo.com/af/i/impression?a_id=5565352&amp;p_id=54&amp;pc_id=54&amp;pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy"></div>
-<div style="margin:2rem 0;padding:1.2rem 1.5rem;background:#f0f9ff;border-left:4px solid #0ea5e9;border-radius:8px;"><p style="margin:0 0 .6rem;font-weight:bold;font-size:1rem;">&#x1F3B8; サウンドハウスでもFender Stratocasterをチェック</p><a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%2F%3Fsearch_all%3DFender%2520Stratocaster" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;background:#0369a1;color:#fff;padding:.45rem 1.1rem;border-radius:4px;text-decoration:none;font-weight:bold;font-size:.95rem;">サウンドハウスで探す →</a><img src="https://h.accesstrade.net/sp/rr?rk=01001xqc00os63" width="1" height="1" border="0" alt="" loading="lazy"></div>
+<div style="margin:2rem 0;padding:1.2rem 1.5rem;background:#2d0a00;border-left:4px solid #f97316;border-radius:8px;color:#fff;"><p style="margin:0 0 .6rem;font-weight:bold;font-size:1rem;color:#fff;">&#x1F6D2; 楽天市場でFender Stratocasterをチェック</p><a href="https://hb.afl.rakuten.co.jp/hgc/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFender%2BStratocaster%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;background:#bf0000;color:#fff;padding:.45rem 1.1rem;border-radius:4px;text-decoration:none;font-weight:bold;font-size:.95rem;">楽天市場でFender Stratocasterを探す →</a><img src="//i.moshimo.com/af/i/impression?a_id=5565352&amp;p_id=54&amp;pc_id=54&amp;pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy"></div>
+<div style="margin:2rem 0;padding:1.2rem 1.5rem;background:#001e35;border-left:4px solid #0ea5e9;border-radius:8px;color:#fff;"><p style="margin:0 0 .6rem;font-weight:bold;font-size:1rem;color:#fff;">&#x1F3B8; サウンドハウスでもFender Stratocasterをチェック</p><a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%2F%3Fsearch_all%3DFender%2520Stratocaster" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;background:#0369a1;color:#fff;padding:.45rem 1.1rem;border-radius:4px;text-decoration:none;font-weight:bold;font-size:.95rem;">サウンドハウスで探す →</a><img src="https://h.accesstrade.net/sp/rr?rk=01001xqc00os63" width="1" height="1" border="0" alt="" loading="lazy"></div>
 
 <!-- AFFILIATE_PLACEHOLDER: Amazon（もしもアフィリエイト Amazon審査通過後に設置予定） -->
 
