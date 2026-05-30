@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "ゴダイゴとフュージョン時代【1970年代後期】バークリー世代が変えた日本の音楽水準"
 date: 2026-05-30
@@ -7,7 +7,6 @@ image: /assets/images/thumb-godiego-fusion.jpg
 description: "ゴダイゴ・カシオペア・T-SQUAREが牽引した1970年代後期〜80年代のフュージョンブーム。バークリー音大帰りのミュージシャンが持ち込んだ高度な音楽理論と機材、現代のソフトシンセで再現する方法。"
 ---
 
-本記事にはプロモーション・広告が含まれる場合があります。
 
 ## バークリー帰りが変えた「日本の音楽水準」
 
@@ -39,7 +38,7 @@ description: "ゴダイゴ・カシオペア・T-SQUAREが牽引した1970年代
 - **Eventide Harmonizer**：ピッチシフターを使った空間系エフェクト
 
 <div style="margin:1.5rem 0;">
-<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D310%26s_maker_cd%3D%26s_search_all%3D%26s_ord%3D" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 <img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </a>
 </div>
@@ -76,7 +75,7 @@ description: "ゴダイゴ・カシオペア・T-SQUAREが牽引した1970年代
 フュージョンに不可欠なエレピサウンド：
 
 <div style="margin:1.5rem 0;">
-<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AD%25E3%2583%25BC%25E3%2583%259C%25E3%2583%25BC%25E3%2583%2589%2BMIDI%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AD%25E3%2583%25BC%25E3%2583%259C%25E3%2583%25BC%25E3%2583%2589%2BMIDI%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 <img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </a>
 </div>
@@ -105,7 +104,7 @@ description: "ゴダイゴ・カシオペア・T-SQUAREが牽引した1970年代
 ### 関連アルバム・CDを探す
 
 <div style="margin:1.5rem 0;">
-<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%82%B4%E3%83%80%E3%82%A4%E3%82%B4%2B%E3%82%AB%E3%82%B7%E3%82%AA%E3%83%9A%E3%82%A2%2BT-SQUARE%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%82%B4%E3%83%80%E3%82%A4%E3%82%B4%2B%E3%82%AB%E3%82%B7%E3%82%AA%E3%83%9A%E3%82%A2%2BT-SQUARE%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 <img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </a>
 </div>
@@ -113,7 +112,7 @@ description: "ゴダイゴ・カシオペア・T-SQUAREが牽引した1970年代
 ### 関連書籍・教則本を探す
 
 <div style="margin:1.5rem 0;">
-<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/%E9%9F%B3%E6%A5%BD%E7%90%86%E8%AB%96%2B%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%2B%E6%9C%AC/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E9%9F%B3%E6%A5%BD%E7%90%86%E8%AB%96%2B%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%2B%E6%9C%AC/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 <img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </a>
 </div>
@@ -121,13 +120,41 @@ description: "ゴダイゴ・カシオペア・T-SQUAREが牽引した1970年代
 ### 関連機材・楽器を探す
 
 <div style="margin:1.5rem 0;">
-<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC%2B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC%2B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 <img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </a>
 </div>
 
 <div style="margin:1.5rem 0;">
-<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D310%26s_maker_cd%3D%26s_search_all%3D%26s_ord%3D" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 <img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </a>
 </div>
+---
+
+## フュージョンを学ぶための理論的アプローチ
+
+### コード進行の深堀り
+
+フュージョンで多用されるコード進行の例：
+
+```
+Dm9 → G13 → Cmaj9 → Am7 → Dm9 ...（リズムチェンジ系）
+Em7(b5) → A7(#9) → Dm9（モーダル・インターチェンジ）
+```
+
+これをDAWで再現するときのポイント：
+- **テンションノート（9th・13th・#11th）**を積極的に使う
+- 4音和音が基本（7thコードを土台にする）
+- **ヴォイシング**（どの音を低音に置くか）がフュージョンの洗練さを決める
+
+### カシオペア vs T-SQUAREの違い
+
+| 項目 | カシオペア | T-SQUARE |
+|------|----------|---------|
+| サウンド | 硬質、タイト、テクニカル | メロディアス、ポップ |
+| ギタリスト | 野呎孝司（刻みの速さが特徴） | 安藤まさひろ（メロディ重視） |
+| 代表曲 | 「ASAYAKE」「GALACTIC FUNK」 | 「TRUTH」「ADVENTURES」 |
+| 世界的評価 | ギタリストに高評価 | F1テーマで国際的知名度 |
+
+T-SQUAREの「TRUTH」（F1テーマ）は1987〜91年にかけてフジテレビF1中継で使われ、日本フュージョンの最大の輸出曲となった。
