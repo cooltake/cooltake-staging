@@ -6,7 +6,6 @@ date: 2026-05-29
 categories: [gear]
 tags: [Fender, Jazz Bass, ジャズベース, ベース, ベース選び方, ジャズ]
 image: /assets/images/thumb-jazz-bass.jpg
-image: /assets/images/thumb-jazz-bass.jpg
 ---
 
 
@@ -54,15 +53,15 @@ Fenderの2大ベースを徹底比較します。
 
 | シリーズ | 価格帯 | 製造 |
 |---------|--------|------|
-| **Squier Affinity** | ¥35,000〜 | インドネシア |
-| **Squier Classic Vibe** | ¥55,000〜 | 中国 |
-| **Player Series（MIM）** | ¥120,000〜 | メキシコ |
-| **American Professional II** | ¥280,000〜 | USA |
+| **Squier Affinity** | ¥38,000〜 | インドネシア |
+| **Squier Classic Vibe** | ¥63,000〜 | 中国 |
+| **Player Series（MIM）** | ¥100,000〜 | メキシコ |
+| **American Professional II** | ¥235,000〜 | USA |
 
 ---
 
-<div style="margin:2rem 0;padding:1.2rem 1.5rem;background:#fff7ed;border-left:4px solid #f97316;border-radius:8px;"><p style="margin:0 0 .6rem;font-weight:bold;font-size:1rem;">&#x1F6D2; 楽天市場でFender Jazz Bassをチェック</p><a href="https://hb.afl.rakuten.co.jp/hgc/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFender%2BJazz%2BBass%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;background:#bf0000;color:#fff;padding:.45rem 1.1rem;border-radius:4px;text-decoration:none;font-weight:bold;font-size:.95rem;">楽天市場でFender Jazz Bassを探す →</a><img src="//i.moshimo.com/af/i/impression?a_id=5565352&amp;p_id=54&amp;pc_id=54&amp;pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy"></div>
-<div style="margin:2rem 0;padding:1.2rem 1.5rem;background:#f0f9ff;border-left:4px solid #0ea5e9;border-radius:8px;"><p style="margin:0 0 .6rem;font-weight:bold;font-size:1rem;">&#x1F3B8; サウンドハウスでもFender Jazz Bassをチェック</p><a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%2F%3Fsearch_all%3DFender%2520Jazz%2520Bass" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;background:#0369a1;color:#fff;padding:.45rem 1.1rem;border-radius:4px;text-decoration:none;font-weight:bold;font-size:.95rem;">サウンドハウスで探す →</a><img src="https://h.accesstrade.net/sp/rr?rk=01001xqc00os63" width="1" height="1" border="0" alt="" loading="lazy"></div>
+<div style="margin:2rem 0;padding:1.2rem 1.5rem;background:#2d0a00;border-left:4px solid #f97316;border-radius:8px;color:#fff;"><p style="margin:0 0 .6rem;font-weight:bold;font-size:1rem;color:#fff;">&#x1F6D2; 楽天市場でFender Jazz Bassをチェック</p><a href="https://hb.afl.rakuten.co.jp/hgc/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFender%2BJazz%2BBass%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;background:#bf0000;color:#fff;padding:.45rem 1.1rem;border-radius:4px;text-decoration:none;font-weight:bold;font-size:.95rem;">楽天市場でFender Jazz Bassを探す →</a><img src="//i.moshimo.com/af/i/impression?a_id=5565352&amp;p_id=54&amp;pc_id=54&amp;pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy"></div>
+<div style="margin:2rem 0;padding:1.2rem 1.5rem;background:#001e35;border-left:4px solid #0ea5e9;border-radius:8px;color:#fff;"><p style="margin:0 0 .6rem;font-weight:bold;font-size:1rem;color:#fff;">&#x1F3B8; サウンドハウスでもFender Jazz Bassをチェック</p><a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%2F%3Fsearch_all%3DFender%2520Jazz%2520Bass" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;background:#0369a1;color:#fff;padding:.45rem 1.1rem;border-radius:4px;text-decoration:none;font-weight:bold;font-size:.95rem;">サウンドハウスで探す →</a><img src="https://h.accesstrade.net/sp/rr?rk=01001xqc00os63" width="1" height="1" border="0" alt="" loading="lazy"></div>
 
 <!-- AFFILIATE_PLACEHOLDER: Amazon（もしもアフィリエイト Amazon審査通過後に設置予定） -->
 
