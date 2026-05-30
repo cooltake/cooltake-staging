@@ -5,7 +5,7 @@ description: "デジタルピアノ・電子キーボードを始めたい初心
 date: 2026-05-24
 categories: [gear]
 tags: [デジタルピアノ, 電子キーボード, ピアノ, 初心者, 選び方, 楽器, 始め方]
-image: /assets/images/thumb-digital-piano.png
+image: /assets/images/thumb-digital-piano.jpg
 ---
 
 ## デジタルピアノとは？ — 自宅で弾けるピアノの進化系
