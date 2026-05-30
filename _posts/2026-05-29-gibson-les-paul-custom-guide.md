@@ -6,6 +6,7 @@ date: 2026-05-29
 categories: [gear]
 tags: [Gibson, Les Paul, レスポール, エレキギター, ギター選び方, クラシックロック]
 image: /assets/images/thumb-les-paul-custom.jpg
+image: /assets/images/thumb-les-paul-custom.jpg
 ---
 
 
