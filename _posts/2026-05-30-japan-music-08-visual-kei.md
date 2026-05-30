@@ -99,3 +99,37 @@ Marshall JCM800を現代で再現するには：
 2000年代以降、ヴィジュアル系は「ジャパニーズ・ロック」として世界中にファンを獲得。特にフランス・ドイツなどのヨーロッパ圏や、東南アジアでの人気は本国を上回るほどになった。
 
 「日本のロックは輸出できる」——それを最初に証明したのはYMOだったが、若者文化としてグローバルに広まったのはヴィジュアル系が初めてかもしれない。
+
+---
+
+## ヴィジュアル系を聴く・学ぶ・機材を揃える
+
+### 関連アルバム・CDを探す
+
+<div style="margin:1.5rem 0;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/X%2BJAPAN%2BGLAY%2BLUNA%2BSEA%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+</a>
+</div>
+
+### 関連書籍・教則本を探す
+
+<div style="margin:1.5rem 0;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%83%8F%E3%83%BC%E3%83%89%E3%83%AD%E3%83%83%E3%82%AF%2B%E3%82%AE%E3%82%BF%E3%83%BC%2B%E6%95%99%E5%89%87%E6%9C%AC/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+</a>
+</div>
+
+### 関連機材・楽器を探す
+
+<div style="margin:1.5rem 0;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC%2BMarshall%2B%E3%82%A2%E3%83%B3%E3%83%97/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+</a>
+</div>
+
+<div style="margin:1.5rem 0;">
+<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+</a>
+</div>
