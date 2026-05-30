@@ -108,3 +108,37 @@ Lexiconのリバーブが作る「空間の広さ」——現代では：
 City Popリバイバルとともに、80年代のアイドルサウンドも世界中で再評価されている。「あの時代の音」にはデジタルとアナログが混在する独特の温かさがある。現代の高解像度DAWで作るより、あえて「80年代的な制約」を設けた方がむしろ魅力的なサウンドが生まれることも多い。
 
 **今のDTMクリエイターへの教訓**：制約こそが創造性を生む。
+
+---
+
+## 80年代アイドルサウンドを聴く・学ぶ・機材を揃える
+
+### 関連アルバム・CDを探す
+
+<div style="margin:1.5rem 0;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/%E6%9D%BE%E7%94%B0%E8%81%96%E5%AD%90%2B%E4%B8%AD%E6%A3%AE%E6%98%8E%E8%8F%9C%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+</a>
+</div>
+
+### 関連書籍・教則本を探す
+
+<div style="margin:1.5rem 0;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/%E9%9F%B3%E6%A5%BD%E5%88%B6%E4%BD%9C%2B%E3%82%A2%E3%83%AC%E3%83%B3%E3%82%B8%2B%E6%95%99%E5%89%87%E6%9C%AC/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+</a>
+</div>
+
+### 関連機材・楽器を探す
+
+<div style="margin:1.5rem 0;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/DTM%2B%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%2B%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+</a>
+</div>
+
+<div style="margin:1.5rem 0;">
+<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+</a>
+</div>
