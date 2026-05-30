@@ -6,6 +6,7 @@ date: 2026-05-29
 categories: [gear]
 tags: [ピックアップ, パッシブ, アクティブ, ハムバッカー, シングルコイル, エレキギター]
 image: /assets/images/thumb-pickup-guide.jpg
+image: /assets/images/thumb-pickup-guide.jpg
 ---
 
 
