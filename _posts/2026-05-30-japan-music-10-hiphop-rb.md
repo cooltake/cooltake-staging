@@ -101,3 +101,37 @@ Bass:  キックに合わせたシンプルなサブベース
 ## 2000年代が残したもの
 
 ヒップホップ・R&Bが日本に根付いたことで、**「言葉を音楽に乗せる」という表現の多様性**が生まれた。メロディに依存しない、リズムと言葉の組み合わせによる表現——それはやがてボカロ文化、現代のラップシーンへと受け継がれていく。
+
+---
+
+## 日本語ヒップホップ・R&Bを聴く・学ぶ・機材を揃える
+
+### 関連アルバム・CDを探す
+
+<div style="margin:1.5rem 0;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/m-flo%2BSOUL%2BOUT%2BRIP%2BSLYME%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+</a>
+</div>
+
+### 関連書籍・教則本を探す
+
+<div style="margin:1.5rem 0;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%83%92%E3%83%83%E3%83%97%E3%83%9B%E3%83%83%E3%83%97%2B%E3%83%93%E3%83%BC%E3%83%88%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%2B%E6%9C%AC/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+</a>
+</div>
+
+### 関連機材・楽器を探す
+
+<div style="margin:1.5rem 0;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%82%B3%E3%83%B3%E3%83%87%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%9E%E3%82%A4%E3%82%AF%2B%E3%82%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AA%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+</a>
+</div>
+
+<div style="margin:1.5rem 0;">
+<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+</a>
+</div>
