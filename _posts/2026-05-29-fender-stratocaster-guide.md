@@ -6,6 +6,7 @@ date: 2026-05-29
 categories: [gear]
 tags: [Fender, Stratocaster, ストラトキャスター, エレキギター, ギター選び方, ロック]
 image: /assets/images/thumb-stratocaster.jpg
+image: /assets/images/thumb-stratocaster.jpg
 ---
 
 
