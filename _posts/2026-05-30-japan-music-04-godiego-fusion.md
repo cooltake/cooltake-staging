@@ -97,3 +97,37 @@ description: "ゴダイゴ・カシオペア・T-SQUAREが牽引した1970年代
 この時代のミュージシャンたちが日本に持ち込んだものは、単なる「音楽スタイル」ではなかった。**音楽を論理的に理解し、技術として習得するという姿勢**——それが後のJ-POP、ゲーム音楽、アニメ音楽の高いクオリティを支える礎になった。
 
 現代のDAWで音楽制作を始める人にとって、フュージョンの理論（コードの積み上げ方、モーダルな旋律など）は今でも大きな武器になる。
+
+---
+
+## ゴダイゴ・フュージョンを聴く・学ぶ・機材を揃える
+
+### 関連アルバム・CDを探す
+
+<div style="margin:1.5rem 0;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%82%B4%E3%83%80%E3%82%A4%E3%82%B4%2B%E3%82%AB%E3%82%B7%E3%82%AA%E3%83%9A%E3%82%A2%2BT-SQUARE%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+</a>
+</div>
+
+### 関連書籍・教則本を探す
+
+<div style="margin:1.5rem 0;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/%E9%9F%B3%E6%A5%BD%E7%90%86%E8%AB%96%2B%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%2B%E6%9C%AC/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+</a>
+</div>
+
+### 関連機材・楽器を探す
+
+<div style="margin:1.5rem 0;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC%2B%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+</a>
+</div>
+
+<div style="margin:1.5rem 0;">
+<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+</a>
+</div>
