@@ -6,6 +6,7 @@ date: 2026-05-29
 categories: [gear]
 tags: [Fender, Jazz Bass, ジャズベース, ベース, ベース選び方, ジャズ]
 image: /assets/images/thumb-jazz-bass.jpg
+image: /assets/images/thumb-jazz-bass.jpg
 ---
 
 
