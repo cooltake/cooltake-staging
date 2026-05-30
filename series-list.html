@@ -315,18 +315,18 @@ const SERIES_DATA = {
     return;
   }
 
-  document.title = series.label + ' — Cooltake Studio';
-  titleEl.textContent = series.label;
-  countEl.textContent = series.articles.length + '本の記事';
+  document.title = (series.label || series.title) + ' — Cooltake Studio';
+  titleEl.textContent = series.label || series.title;
+  countEl.textContent = (series.articles || series.posts || []).length + '本の記事';
 
-  gridEl.innerHTML = series.articles.map(a => `
+  gridEl.innerHTML = (series.articles || series.posts || []).map(a => `
     <a href="${a.url}" class="article-card" target="_blank" rel="noopener">
       <div class="card-thumb">
         <img src="${a.img}" alt="" loading="lazy" onerror="this.style.display='none'">
       </div>
       <div class="card-body">
         <div class="card-title">${a.title}</div>
-        <div class="card-excerpt">${a.excerpt}</div>
+        <div class="card-excerpt">${a.excerpt || a.desc || ""}</div>
         <div class="card-arrow">続きを読む →</div>
       </div>
     </a>
