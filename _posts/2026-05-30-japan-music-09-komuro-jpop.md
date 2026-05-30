@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "小室サウンドとJ-POP量産時代【1993〜1999年】TK・avexが変えた日本の音楽産業"
 date: 2026-05-30
@@ -7,7 +7,6 @@ image: /assets/images/thumb-komuro-jpop.jpg
 description: "小室哲哉・avexが牽引した1990年代J-POPの黄金期。TRF・globe・安室奈美恵・SPEEDを生んだ「打ち込みポップス」の制作手法と、現代DTMで小室サウンドを再現する完全ガイド。"
 ---
 
-本記事にはプロモーション・広告が含まれる場合があります。
 
 ## 「TK」が変えた日本の音楽産業
 
@@ -81,7 +80,7 @@ Roland JV-1080の「ジャパニーズグランジパッド」や「アトモス
 - **Serum**：ウェーブテーブルでJV系の音を作れる
 
 <div style="margin:1.5rem 0;">
-<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D311%26s_maker_cd%3D%26s_search_all%3D%26s_ord%3D" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 <img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </a>
 </div>
@@ -101,7 +100,7 @@ Clap:  スネアに重ねる
 小室サウンドの再現にはMIDIキーボードが有効：
 
 <div style="margin:1.5rem 0;">
-<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMIDI%25E3%2582%25AD%25E3%2583%25BC%25E3%2583%259C%25E3%2583%25BC%25E3%2583%2589%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMIDI%25E3%2582%25AD%25E3%2583%25BC%25E3%2583%259C%25E3%2583%25BC%25E3%2583%2589%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 <img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </a>
 </div>
@@ -121,7 +120,7 @@ TKが90年代にMac+Logic Audioでやっていたことを、今は誰でもiPho
 ### 関連アルバム・CDを探す
 
 <div style="margin:1.5rem 0;">
-<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/TRF%2Bglobe%2B%E5%AE%89%E5%AE%A4%E5%A5%88%E7%BE%8E%E6%81%B5%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/TRF%2Bglobe%2B%E5%AE%89%E5%AE%A4%E5%A5%88%E7%BE%8E%E6%81%B5%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 <img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </a>
 </div>
@@ -129,7 +128,7 @@ TKが90年代にMac+Logic Audioでやっていたことを、今は誰でもiPho
 ### 関連書籍・教則本を探す
 
 <div style="margin:1.5rem 0;">
-<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/DTM%2B%E9%9F%B3%E6%A5%BD%E5%88%B6%E4%BD%9C%2B%E5%85%A5%E9%96%80%2B%E6%9C%AC/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/DTM%2B%E9%9F%B3%E6%A5%BD%E5%88%B6%E4%BD%9C%2B%E5%85%A5%E9%96%80%2B%E6%9C%AC/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 <img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </a>
 </div>
@@ -137,13 +136,46 @@ TKが90年代にMac+Logic Audioでやっていたことを、今は誰でもiPho
 ### 関連機材・楽器を探す
 
 <div style="margin:1.5rem 0;">
-<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/MIDI%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%2B%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/MIDI%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%2B%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 <img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </a>
 </div>
 
 <div style="margin:1.5rem 0;">
-<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D311%26s_maker_cd%3D%26s_search_all%3D%26s_ord%3D" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 <img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </a>
 </div>
+---
+
+## 小室哲哉のプロダクション手法——深堀り分析
+
+### 「Overnight Sensation」制作の裏側
+
+TRFの代表曲「Overnight Sensation」（1995年）の構造を分解：
+
+```
+BPM：140
+キー：E♭マイナー → 転調あり
+構成：イントロ（ピアノリフ）→ Aメロ → Bメロ → サビ → ブレイク → 大サビ
+特徴：ユーロビート的な4つ打ち + ストリングスの急上昇 + ピアノリフの反復
+```
+
+### 小室哲哉がMac+Logicで作ったもの
+
+90年代、TKは「Apple Macintosh + Opcode Studio Vision」（後にLogic）でほぼ全ての楽曲を制作した：
+
+- **MIDIシーケンス**：フル打ち込みでバンドの代わりにシンセが全パートを担当
+- **ハードシンセ**：Roland JV-1080とKorg Trinityが主力音源モジュール
+- **ボーカルはアナログ録音**：当時のDAWはオーディオ録音よりMIDI中心
+
+現代のProducerがTKサウンドを再現するなら：**DAW + Rolandの音源モジュール（VST）+ 4つ打ちドラムパターン**が最短ルート。
+
+### globeのコード進行分析
+
+globeの楽曲に多い「切ない進行」：
+```
+Am → F → C → G（王道進行の亜種）
+Em → C → G → D（電子音と組み合わせると90年代感が出る）
+```
+これらをJV-1080系のパッドサウンドで鳴らすだけで「あの時代の音」が蘇る。
