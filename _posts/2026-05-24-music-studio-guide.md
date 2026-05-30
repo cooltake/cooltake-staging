@@ -5,7 +5,7 @@ description: "リハーサルスタジオとレコーディングスタジオの
 date: 2026-05-24
 categories: [gear]
 tags: [音楽スタジオ, リハーサルスタジオ, レコーディング, バンド, スタジオ予約]
-image: /assets/images/thumb-studio.png
+image: /assets/images/thumb-music-studio.jpg
 ---
 
 ## スタジオには2種類ある — まず目的を決める
