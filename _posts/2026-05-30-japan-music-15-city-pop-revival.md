@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "シティポップ・リバイバル現象【2020年代】世界が再発見した日本の「失われた音楽」"
 date: 2026-05-30
@@ -7,7 +7,6 @@ image: /assets/images/thumb-city-pop-revival.jpg
 description: "山下達郎・竹内まりや・大貫妙子が世界で再評価されたシティポップリバイバル現象。YouTubeアルゴリズムが発掘した80年代の名盤と、現代で「シティポップ風サウンド」を作るDTGガイド。"
 ---
 
-本記事にはプロモーション・広告が含まれる場合があります。
 
 ## なぜ今、80年代の日本音楽が世界で聴かれるのか
 
@@ -81,7 +80,7 @@ Fmaj7 → Em7 → Am7 → Dm7 → G7sus4 → G7
 ### 必要な機材・プラグイン
 
 <div style="margin:1.5rem 0;">
-<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D120%26s_maker_cd%3D%26s_search_all%3D%26s_ord%3D" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 <img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </a>
 </div>
@@ -92,7 +91,7 @@ Fmaj7 → Em7 → Am7 → Dm7 → G7sus4 → G7
 - **アコースティックギター**：カッティングとアルペジオ
 
 <div style="margin:1.5rem 0;">
-<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%A2%25E3%2582%B3%25E3%2583%BC%25E3%2582%B9%25E3%2583%86%25E3%2582%A3%25E3%2583%83%25E3%2582%AF%25E3%2582%AE%25E3%2582%BF%25E3%2583%BC%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%A2%25E3%2582%B3%25E3%2583%BC%25E3%2582%B9%25E3%2583%86%25E3%2582%A3%25E3%2583%83%25E3%2582%AF%25E3%2582%AE%25E3%2582%BF%25E3%2583%BC%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 <img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </a>
 </div>
@@ -112,7 +111,7 @@ Fmaj7 → Em7 → Am7 → Dm7 → G7sus4 → G7
 ### 関連アルバム・CDを探す
 
 <div style="margin:1.5rem 0;">
-<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E%2B%E7%AB%B9%E5%86%85%E3%81%BE%E3%82%8A%E3%82%84%2B%E3%82%B7%E3%83%86%E3%82%A3%E3%83%9D%E3%83%83%E3%83%97%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E%2B%E7%AB%B9%E5%86%85%E3%81%BE%E3%82%8A%E3%82%84%2B%E3%82%B7%E3%83%86%E3%82%A3%E3%83%9D%E3%83%83%E3%83%97%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 <img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </a>
 </div>
@@ -120,7 +119,7 @@ Fmaj7 → Em7 → Am7 → Dm7 → G7sus4 → G7
 ### 関連書籍・教則本を探す
 
 <div style="margin:1.5rem 0;">
-<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%82%B3%E3%83%BC%E3%83%89%E9%80%B2%E8%A1%8C%2B%E3%82%AE%E3%82%BF%E3%83%BC%2B%E6%9C%AC/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%82%B3%E3%83%BC%E3%83%89%E9%80%B2%E8%A1%8C%2B%E3%82%AE%E3%82%BF%E3%83%BC%2B%E6%9C%AC/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 <img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </a>
 </div>
@@ -128,13 +127,46 @@ Fmaj7 → Em7 → Am7 → Dm7 → G7sus4 → G7
 ### 関連機材・楽器を探す
 
 <div style="margin:1.5rem 0;">
-<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%82%A2%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%AE%E3%82%BF%E3%83%BC%2BMIDI%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%82%A2%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%AE%E3%82%BF%E3%83%BC%2BMIDI%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 <img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </a>
 </div>
 
 <div style="margin:1.5rem 0;">
-<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D120%26s_maker_cd%3D%26s_search_all%3D%26s_ord%3D" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 <img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </a>
 </div>
+---
+
+## シティポップリバイバルの世界的現象——なぜ今なのか
+
+### 「Plastic Love」（竹内まりや）のバイラル現象の解析
+
+2017〜2019年にかけてYouTubeで起きた現象の背景：
+
+1. **アルゴリズムの偶然**：80年代のロングテールコンテンツがレコメンドに登場
+2. **サムネイルの力**：竹内まりやの若い頃の写真がクリック率を上げた
+3. **Lo-Fiヒップホップとの音楽的類似性**：同じチルアウト層が聴くようになった
+4. **日本語という「異国感」**：意味がわからないことで逆に「純粋に音楽として」聴かれた
+
+### シティポップ制作の具体的コード進行集
+
+最もシティポップらしい進行パターン：
+
+```
+パターン1（王道）：Fmaj7 → E7 → Am7 → Gm7 → C7
+パターン2（浮遊感）：Cmaj7 → Bm7 → Em7 → Am7
+パターン3（ファンク寄り）：Dm9 → G13 → Cmaj9 → Am11
+```
+
+これらをRhodesエレピ + スラップベース + コーラスエフェクトで鳴らすと「瞬時にシティポップ」になる。
+
+### 日本人アーティストの「逆輸入」現象
+
+シティポップリバイバルにより起きた逆輸入：
+- 竹内まりや「Plastic Love」の公式MV：2億回超の再生
+- 山下達郎のSpotifyでの新規海外フォロワー増加
+- 松原みき「真夜中のドア」がインドネシア・フィリピンでチャートイン
+
+「Midnight Rain by Taylor Swift」にもシティポップ的なコード感が使われているという分析もあり、世界的な音楽語彙に組み込まれた。
