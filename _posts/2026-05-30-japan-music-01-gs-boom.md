@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "グループサウンズ革命【1960年代】エレキギターが日本を変えた日"
 date: 2026-05-30
@@ -7,7 +7,6 @@ image: /assets/images/thumb-gs-boom.jpg
 description: "1960年代、ベンチャーズ来日をきっかけに爆発したグループサウンズブーム。日本にエレキギター文化を根付かせたムーブメントの全貌と、現代で同じサウンドを再現する方法を解説。"
 ---
 
-本記事にはプロモーション・広告が含まれる場合があります。
 
 ## グループサウンズとは？日本のロック元年
 
@@ -66,13 +65,13 @@ GSサウンドの核心はエレキギター。当時使われていた主なモ
 - **Mosrite復刻モデル**：各社から復刻品あり
 
 <div style="margin:1.5rem 0;">
-<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGretsch%2B%25E3%2582%25AE%25E3%2582%25BF%25E3%2583%25BC%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGretsch%2B%25E3%2582%25AE%25E3%2582%25BF%25E3%2583%25BC%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 <img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </a>
 </div>
 
 <div style="margin:1.5rem 0;">
-<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D130%26s_maker_cd%3D%26s_search_all%3D%26s_ord%3D" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 <img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </a>
 </div>
@@ -104,7 +103,7 @@ DAWユーザーなら以下のプラグインでGS的なサウンドを作れま
 GSの音楽を聴いて「ギターを弾いてみたい」と思ったなら、今がその時。現代のエントリーギターは当時と比べ物にならないクオリティで、初心者でも音を出しやすい環境が整っています。
 
 <div style="margin:1.5rem 0;">
-<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25A8%25E3%2583%25AC%25E3%2582%25AD%25E3%2582%25AE%25E3%2582%25BF%25E3%2583%25BC%2B%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25A8%25E3%2583%25AC%25E3%2582%25AD%25E3%2582%25AE%25E3%2582%25BF%25E3%2583%25BC%2B%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 <img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </a>
 </div>
@@ -116,7 +115,7 @@ GSの音楽を聴いて「ギターを弾いてみたい」と思ったなら、
 ### 関連アルバム・CDを探す
 
 <div style="margin:1.5rem 0;">
-<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%82%B5%E3%82%A6%E3%83%B3%E3%82%BA%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%82%B5%E3%82%A6%E3%83%B3%E3%82%BA%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 <img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </a>
 </div>
@@ -124,7 +123,7 @@ GSの音楽を聴いて「ギターを弾いてみたい」と思ったなら、
 ### 関連書籍・教則本を探す
 
 <div style="margin:1.5rem 0;">
-<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC%2B%E6%95%99%E5%89%87%E6%9C%AC%2B%E5%88%9D%E5%BF%83%E8%80%85/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC%2B%E6%95%99%E5%89%87%E6%9C%AC%2B%E5%88%9D%E5%BF%83%E8%80%85/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 <img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </a>
 </div>
@@ -132,13 +131,33 @@ GSの音楽を聴いて「ギターを弾いてみたい」と思ったなら、
 ### 関連機材・楽器を探す
 
 <div style="margin:1.5rem 0;">
-<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC%2B%E3%83%93%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B8/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC%2B%E3%83%93%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B8/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 <img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </a>
 </div>
 
 <div style="margin:1.5rem 0;">
-<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D130%26s_maker_cd%3D%26s_search_all%3D%26s_ord%3D" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 <img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 </a>
 </div>
+---
+
+## GSサウンドを今すぐ体験できる楽曲・動画ガイド
+
+### 必聴プレイリスト（入門5選）
+
+| 楽曲 | アーティスト | ポイント |
+|------|------------|---------|
+| 「君だけに愛を」 | ザ・タイガース（1967年） | GSの教科書。フォルスコードの王道 |
+| 「いつまでもどこまでも」 | ブルー・コメッツ（1967年） | グラミー賞候補になった国際的名曲 |
+| 「バン・バン・バン」 | ザ・スパイダース（1966年） | 堺正章・かまやつひろしのコミカルなGS |
+| 「エメラルドの伝説」 | テンプターズ（1968年） | 萩原健一（ショーケン）のカリスマ性 |
+| 「花の首飾り」 | ザ・タイガース（1968年） | 歌謡曲寄りのGS。ポップさの極致 |
+
+### 覚えておきたい豆知識
+
+- GSブームのピークは**1967〜1968年**のわずか2年間
+- ザ・タイガースのレコードは発売と同時に売り切れる社会現象だった
+- 「エレキは不良の音楽」として親世代から反対された——この構図はロックが誕生した国すべてで繰り返された
+- 日本のグループサウンズから世界へ羽ばたいたのが後の**モンキーズ日本版**とも言われる
