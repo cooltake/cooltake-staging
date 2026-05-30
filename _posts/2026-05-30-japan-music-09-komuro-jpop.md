@@ -113,3 +113,37 @@ Clap:  スネアに重ねる
 1999年以降、CDの売上が落ち始めた時、小室時代は終わりを告げた。しかし彼が残したものは大きい。**「打ち込みで本格的なポップスを作れる」という実証**——それは現代のDTMクリエイター全員の財産だ。
 
 TKが90年代にMac+Logic Audioでやっていたことを、今は誰でもiPhoneのGarageBandでできる。音楽制作の民主化の礎を、彼は確かに作った。
+
+---
+
+## 小室サウンド・J-POPを聴く・学ぶ・機材を揃える
+
+### 関連アルバム・CDを探す
+
+<div style="margin:1.5rem 0;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/TRF%2Bglobe%2B%E5%AE%89%E5%AE%A4%E5%A5%88%E7%BE%8E%E6%81%B5%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+</a>
+</div>
+
+### 関連書籍・教則本を探す
+
+<div style="margin:1.5rem 0;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/DTM%2B%E9%9F%B3%E6%A5%BD%E5%88%B6%E4%BD%9C%2B%E5%85%A5%E9%96%80%2B%E6%9C%AC/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+</a>
+</div>
+
+### 関連機材・楽器を探す
+
+<div style="margin:1.5rem 0;">
+<a href="https://hb.afl.rakuten.co.jp/ichiba/2c3fa5a0.94ef6741.2c3fa5a1.98b5e1ce/?pc=https%3A//search.rakuten.co.jp/search/mall/MIDI%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%2B%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+</a>
+</div>
+
+<div style="margin:1.5rem 0;">
+<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
+<img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+</a>
+</div>
