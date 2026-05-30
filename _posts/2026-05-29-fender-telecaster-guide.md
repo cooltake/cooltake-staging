@@ -6,6 +6,7 @@ date: 2026-05-29
 categories: [gear]
 tags: [Fender, Telecaster, テレキャスター, エレキギター, ギター選び方, カントリー]
 image: /assets/images/thumb-telecaster.jpg
+image: /assets/images/thumb-telecaster.jpg
 ---
 
 
