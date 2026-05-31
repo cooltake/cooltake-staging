@@ -32,7 +32,7 @@ description: "2007年の初音ミク登場からニコニコ動画・YouTube・S
 
 ボカロPに人気のDAWは時代とともに変化した：
 
-<div style="background:linear-gradient(135deg,#1a2e2a,#1e3a3a);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(94,234,212,.3);">
+<div style="background:rgba(255,255,255,0.8);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(94,234,212,0.8);">
 <h3 style="color:#5eead4;margin-top:0;">💻 ボカロPたちが使ったDAW</h3>
 <ul style="color:#e2e8f0;">
 <li><strong>Cubase</strong>：最多派。VOCALOIDとの親和性が高い</li>
