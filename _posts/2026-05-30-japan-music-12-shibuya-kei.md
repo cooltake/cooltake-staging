@@ -1,17 +1,10 @@
-﻿---
-
+---
 layout: post
-
 title: "渋谷系・J-R&Bの時代【1993〜2000年】フリッパーズ・ギターから宇多田ヒカルまで"
-
 date: 2026-05-30
-
 tags: [音楽史, ギター, キーボード, 作曲, DTM]
-
-japan-music-12-shibuya-kei
-
 description: "90年代中盤、渋谷を舞台に花開いたサブカルチャー音楽「渋谷系」と、宇多田ヒカル登場で完成したJ-R&B黄金期を解説。フリッパーズ・ギター、ピチカート・ファイヴ、小沢健二、宇多田ヒカルらが変えた日本の音楽地図。"
-
+image: /assets/images/thumb-japan-music-12-shibuya-kei.jpg
 ---
 
 
