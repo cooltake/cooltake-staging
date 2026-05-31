@@ -16,7 +16,7 @@ description: "モーニング娘。からAKB48へ、着うたからYouTubeへ—
 
 <div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(99,102,241,0.75);">
 <h3 style="color:#c7d2fe;margin-top:0;">📱 着うた時代の数字</h3>
-<ul style="color:#e2e8f0;">
+<ul style="color:#f1f5f9;">
 <li>2007年：着うたフル市場規模 約900億円（CDシングルを逆転）</li>
 <li>2008年：着うた市場ピーク 約920億円</li>
 <li>2010年：スマートフォン普及開始→着うた市場が急速縮小</li>
@@ -62,7 +62,7 @@ EXILEの成功は後に**LDH**（Love Dream Happiness）という大きなエン
 
 <div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(244,63,94,0.75);">
 <h3 style="color:#fda4af;margin-top:0;">📊 AKBの記録</h3>
-<ul style="color:#e2e8f0;">
+<ul style="color:#f1f5f9;">
 <li>「Everyday、カチューシャ」（2011年）：初週192万枚——CDシングル歴代最高記録</li>
 <li>AKB総選挙：テレビの特番として成立するほどの国民的イベントに</li>
 <li>姉妹グループ：SKE48（名古屋）、NMB48（大阪）、HKT48（福岡）など全国展開</li>
