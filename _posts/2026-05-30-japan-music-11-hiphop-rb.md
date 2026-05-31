@@ -34,7 +34,7 @@ R&Bボーカルの録音には：
 - **AKG C414**：ブライトでクリアな高域特性
 - **Avalon 737sp**：マイクプリアンプ+コンプレッサー
 
-<div style="background:rgba(255,255,255,0.75);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(52,211,153,0.75);">
+<div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(52,211,153,0.75);">
 <h3 style="color:#a7f3d0;margin-top:0;">🎤 R&Bボーカルサウンドの特徴</h3>
 <ul style="color:#e2e8f0;">
 <li><strong>オートチューン（T-Pain Effect）</strong>：2000年代後半から浸透</li>
