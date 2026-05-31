@@ -67,7 +67,9 @@ Aメロ：DX7系シンセベース + TR-909ドラム
 特徴：Yamaha DX7、Roland D-50、Korg M1をフル活用
 ```
 
+<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:rgba(255,255,255,0.06);border-left:3px solid rgba(248,113,113,.6);border-radius:6px;">
 <a href="https://www.youtube.com/results?search_query=TM%20NETWORK%20Get%20Wild" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#f87171;text-decoration:none;font-weight:600;">▶ 「Get Wild」を聴く</a>
+</div>
 
 ### 「My Revolution」（渡辺美里, 1986年）——小室哲哉の転換点
 
@@ -77,7 +79,9 @@ Aメロ：DX7系シンセベース + TR-909ドラム
 - **アレンジ**：デジタルシンセの層にロックギターを重ねる手法
 - **歌詞の方向性**：アイドル的な「恋愛」ではなく「自立と挑戦」を歌う
 
+<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:rgba(255,255,255,0.06);border-left:3px solid rgba(248,113,113,.6);border-radius:6px;">
 <a href="https://www.youtube.com/results?search_query=%E6%B8%A1%E8%BE%BA%E7%BE%8E%E9%87%8C%20My%20Revolution" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#f87171;text-decoration:none;font-weight:600;">▶ 「My Revolution」を聴く</a>
+</div>
 
 ---
 
@@ -117,15 +121,15 @@ Aメロ：DX7系シンセベース + TR-909ドラム
 
 ## CDを探す
 
-<div style="margin:.8rem 0;"><a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B7%E3%83%86%E3%82%A3%E3%83%9D%E3%83%83%E3%83%97%2080%E5%B9%B4%E4%BB%A3%20J-POP%20CD%20TM%20NETWORK%20%E6%B8%A1%E8%BE%BA%E7%BE%8E%E9%87%8C%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="150" style="height:auto;border-radius:8px;display:block;"></a></div>
+<div style="margin:.8rem 0;"><a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B7%E3%83%86%E3%82%A3%E3%83%9D%E3%83%83%E3%83%97%2080%E5%B9%B4%E4%BB%A3%20J-POP%20CD%20TM%20NETWORK%20%E6%B8%A1%E8%BE%BA%E7%BE%8E%E9%87%8C%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="height:auto;border-radius:8px;display:block;"></a></div>
 
 ### 関連書籍を探す
 
-<div style="margin:.8rem 0;"><a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B7%E3%83%86%E3%82%A3%E3%83%9D%E3%83%83%E3%83%97%20%E9%9F%B3%E6%A5%BD%20%E6%9C%AC%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="150" style="height:auto;border-radius:8px;display:block;"></a></div>
+<div style="margin:.8rem 0;"><a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B7%E3%83%86%E3%82%A3%E3%83%9D%E3%83%83%E3%83%97%20%E9%9F%B3%E6%A5%BD%20%E6%9C%AC%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="height:auto;border-radius:8px;display:block;"></a></div>
 
 ### 機材を探す
 
-<div style="margin:.8rem 0;"><a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D311" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="150" style="height:auto;border-radius:8px;display:block;"></a></div>
+<div style="margin:.8rem 0;"><a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D311" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="200" style="height:auto;border-radius:8px;display:block;"></a></div>
 
 
 ---
