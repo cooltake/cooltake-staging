@@ -1,17 +1,10 @@
-﻿---
-
+---
 layout: post
-
 title: "小室サウンドとJ-POP量産時代【1993〜1999年】TK・avexが変えた日本の音楽産業"
-
 date: 2026-05-30
-
 tags: [DAW, MIDI, キーボード, MIDIキーボード, 音楽制作, DTM]
-
-japan-music-11-komuro-jpop
-
 description: "小室哲哉・avexが牽引した1990年代J-POPの黄金期。TRF・globe・安室奈美恵・SPEEDを生んだ「打ち込みポップス」の制作手法と、現代DTMで小室サウンドを再現する完全ガイド。"
-
+image: /assets/images/thumb-japan-music-11-komuro-jpop.jpg
 ---
 
 
