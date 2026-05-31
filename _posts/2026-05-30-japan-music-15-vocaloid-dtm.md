@@ -30,7 +30,7 @@ description: "2007年の初音ミク登場からニコニコ動画・YouTube・S
 
 
 
-image: /assets/images/japan-music-15-img1.jpg
+image: /assets/images/thumb-japan-music-15-vocaloid-dtm.png
 ---
 
 
