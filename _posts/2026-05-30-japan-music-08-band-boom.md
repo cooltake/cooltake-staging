@@ -55,9 +55,17 @@ image: /assets/images/thumb-band-boom.jpg
 | **ZI:KILL** | ヴィジュアル系の先駆けとして注目 | バンドブームからV系ブームへの橋渡し役 |
 | **BLANKEY JET CITY** | ガレージロック的な荒々しさで登場 | 1990年代ロックシーンを代表するバンドへ |
 
+<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:rgba(255,255,255,0.06);border-left:3px solid rgba(248,113,113,.6);border-radius:6px;">
 <a href="https://www.youtube.com/results?search_query=%E3%81%9F%E3%81%BE%20%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E4%BA%BA%E9%A1%9E" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#f87171;text-decoration:none;font-weight:600;">▶ 「さよなら人類」（たま）を聴く</a>
+<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:rgba(255,255,255,0.06);border-left:3px solid rgba(248,113,113,.6);border-radius:6px;">
 <a href="https://www.youtube.com/results?search_query=BOOWY%20Dreamin" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#f87171;text-decoration:none;font-weight:600;">▶ BOØWY「Dreamin'」を聴く</a>
+<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:rgba(255,255,255,0.06);border-left:3px solid rgba(248,113,113,.6);border-radius:6px;">
+
 <a href="https://www.youtube.com/results?search_query=THE%20BLUE%20HEARTS%201%202%203%204" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#f87171;text-decoration:none;font-weight:600;">▶ THE BLUE HEARTS「1・2・3・4」を聴く</a>
+
+</div>
+</div>
+</div>
 
 ---
 
@@ -101,7 +109,7 @@ image: /assets/images/thumb-band-boom.jpg
 <figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>バンドブーム時代の定番エフェクターボード。DS-1・CE-2・DD-3が並ぶ</figcaption>
 </figure>
 
-<div style="margin:.8rem 0;"><a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D150" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="150" style="height:auto;border-radius:8px;display:block;"></a></div><div style="margin:.8rem 0;"><a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC%20%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%82%BF%E3%83%BC%20%E3%83%90%E3%83%B3%E3%83%89%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="150" style="height:auto;border-radius:8px;display:block;"></a></div>
+<div style="margin:.8rem 0;"><a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D150" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="200" style="height:auto;border-radius:8px;display:block;"></a></div><div style="margin:.8rem 0;"><a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC%20%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%82%BF%E3%83%BC%20%E3%83%90%E3%83%B3%E3%83%89%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="height:auto;border-radius:8px;display:block;"></a></div>
 
 ### 機材の配線図（シグナルチェーン）
 
@@ -127,17 +135,17 @@ image: /assets/images/thumb-band-boom.jpg
 - **Line 6 Helix**：JCM800・JCM900の忠実なモデリング
 - **Neural DSP Archetype シリーズ**：ブランド別のキャプチャープラグイン
 
-<div style="margin:.8rem 0;"><a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%83%AB%E3%83%81%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%82%BF%E3%83%BC%20%E3%82%AE%E3%82%BF%E3%83%BC%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="150" style="height:auto;border-radius:8px;display:block;"></a></div>
+<div style="margin:.8rem 0;"><a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%83%AB%E3%83%81%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%82%BF%E3%83%BC%20%E3%82%AE%E3%82%BF%E3%83%BC%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="height:auto;border-radius:8px;display:block;"></a></div>
 
 ---
 
 ## CDを探す
 
-<div style="margin:.8rem 0;"><a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBOOWY%20BUCK-TICK%20THE%20BLUE%20HEARTS%20CD%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="150" style="height:auto;border-radius:8px;display:block;"></a></div>
+<div style="margin:.8rem 0;"><a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FBOOWY%20BUCK-TICK%20THE%20BLUE%20HEARTS%20CD%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="height:auto;border-radius:8px;display:block;"></a></div>
 
 ### 関連書籍・教則本を探す
 
-<div style="margin:.8rem 0;"><a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC%20%E3%83%90%E3%83%B3%E3%83%89%20%E6%95%99%E5%89%87%E6%9C%AC%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="150" style="height:auto;border-radius:8px;display:block;"></a></div>
+<div style="margin:.8rem 0;"><a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC%20%E3%83%90%E3%83%B3%E3%83%89%20%E6%95%99%E5%89%87%E6%9C%AC%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="height:auto;border-radius:8px;display:block;"></a></div>
 
 ## バンドブームが残したもの
 
