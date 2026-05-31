@@ -47,7 +47,7 @@ description: "山下達郎・竹内まりや・大貫妙子が世界で再評価
 
 <div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(110,231,183,0.75);">
 <h3 style="color:#a7f3d0;margin-top:0;">🌙 シティポップの音楽的要素</h3>
-<ul style="color:#e2e8f0;">
+<ul style="color:#f1f5f9;">
 <li><strong>maj7・9thコードの多用</strong>：浮遊感のあるオシャレなコード感</li>
 <li><strong>ファルセットボーカル</strong>：裏声を使ったなめらかな歌い方</li>
 <li><strong>スラップベース</strong>：ファンク由来のパーカッシブなベース</li>
