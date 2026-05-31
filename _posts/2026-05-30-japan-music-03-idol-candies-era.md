@@ -4,7 +4,7 @@ title: "キャンディーズ・ピンクレディーと歌謡曲黄金期【197
 date: 2026-05-30
 tags: [音楽制作, DAW, 初心者, 作曲]
 description: "1970年代中期、キャンディーズ・ピンクレディーが席巻した歌謡曲黄金期。阿久悠・都倉俊一らの職人が作り上げたサウンドの秘密と、現代DTMでの再現テクニックを解説。"
-image: /assets/images/japan-music-03-img1.jpg
+image: /assets/images/thumb-japan-music-03-idol-candies-era.png
 ---
 
 ## 歌謡職人たちが作った黄金時代
