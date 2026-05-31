@@ -4,7 +4,7 @@ title: "1980年代半ばの商業音楽【1984〜1987年】バブル前夜に花
 date: 2026-05-30
 tags: [音楽制作, DAW, 初心者, 作曲, キーボード]
 description: "80年代アイドルとバンドブームの間に存在する「バブル前夜の商業音楽」。角松敏生・杉山清貴・渡辺美里・小比類巻かほる——この時代に完成したJ-POPの文法とサウンドを解説。"
-image: /assets/images/japan-music-07-img1.jpg
+image: /assets/images/thumb-japan-music-07-80s-commercial.png
 ---
 
 ## アイドルとバンドの間に——1984〜1987年の商業音楽
