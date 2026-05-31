@@ -30,6 +30,7 @@ X JAPAN（YOSHIKI・hide・Toshi・PATA・Heath）が確立したスタイルは
 
 
 
+image: /assets/images/japan-music-10-img1.jpg
 ---
 
 
