@@ -34,7 +34,7 @@ description: "2007年の初音ミク登場からニコニコ動画・YouTube・S
 
 <div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(94,234,212,0.75);">
 <h3 style="color:#5eead4;margin-top:0;">💻 ボカロPたちが使ったDAW</h3>
-<ul style="color:#e2e8f0;">
+<ul style="color:#f1f5f9;">
 <li><strong>Cubase</strong>：最多派。VOCALOIDとの親和性が高い</li>
 <li><strong>FL Studio</strong>：ビートメイク寄りのボカロP多数</li>
 <li><strong>Domino（無料）</strong>：入門用MIDIシーケンサー。多くの人の最初の一歩</li>
