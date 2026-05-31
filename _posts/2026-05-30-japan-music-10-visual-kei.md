@@ -1,17 +1,10 @@
-﻿---
-
+---
 layout: post
-
 title: "ヴィジュアル系とハードロック化【1990年代】X JAPAN・hide・GLAYが世界に証明したこと"
-
 date: 2026-05-30
-
 tags: [ギター, エレキギター, エフェクター, 音楽制作]
-
-japan-music-10-visual-kei
-
 description: "X JAPAN・hide・GLAY・L'Arc-en-Cielが牽引した1990年代ヴィジュアル系ムーブメント。日本独自のロック美学とハードロック技術の融合、当時の機材とアンプセッティングを現代で再現する方法。"
-
+image: /assets/images/thumb-japan-music-10-visual-kei.jpg
 ---
 
 
