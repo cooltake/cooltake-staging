@@ -3,8 +3,8 @@ layout: post
 title: "80年代アイドル黄金期の音楽制作【1980〜1988年】松田聖子・中森明菜を支えた職人サウンド"
 date: 2026-05-30
 tags: [DAW, VST, プラグイン, 音楽制作, MIX, リバーブ]
-japan-music-06-80s-idol-production
 description: "松田聖子・中森明菜・少年隊が輝いた80年代アイドル黄金期。大村雅朗・松任谷正隆ら編曲家が作り上げた「バブル前夜のサウンド」の秘密と、現代DAWでの再現テクニックを完全解説。"
+image: /assets/images/japan-music-06-img1.jpg
 ---
 
 ## 職人編曲家・プロデューサーたちが生んだ「80年代サウンド」
