@@ -50,7 +50,7 @@ description: "モーニング娘。からAKB48へ、着うたからYouTubeへ—
 
 
 
-image: /assets/images/thumb-japan-music-14-2000s-idol.png
+image: /assets/images/thumb-2000s-idol.jpg
 ---
 
 
