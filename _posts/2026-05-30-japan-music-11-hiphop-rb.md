@@ -36,7 +36,7 @@ R&Bボーカルの録音には：
 
 <div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(52,211,153,0.75);">
 <h3 style="color:#a7f3d0;margin-top:0;">🎤 R&Bボーカルサウンドの特徴</h3>
-<ul style="color:#e2e8f0;">
+<ul style="color:#f1f5f9;">
 <li><strong>オートチューン（T-Pain Effect）</strong>：2000年代後半から浸透</li>
 <li><strong>ボコーダー</strong>：m-floのLISAボーカルに多用されたエフェクト</li>
 <li><strong>コーラスの重ね</strong>：リードに3〜4本のハーモニーを重ねる</li>
