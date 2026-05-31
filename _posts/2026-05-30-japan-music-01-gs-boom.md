@@ -32,7 +32,9 @@ image: /assets/images/thumb-gs-boom.jpg
 
 来日公演を見た若者たちが「俺もあのギターを弾きたい」と楽器屋に殺到。国内のエレキギター需要が急増し、テスコ・グヤトーン・ヤマハなどの国産メーカーが急成長した。ベンチャーズ自身も「ベンチャーズのテーマ」「10番街の殺人」などで演奏法を見せ、後のGSバンドたちの教師となった。
 
+<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:rgba(255,255,255,0.06);border-left:3px solid rgba(248,113,113,.6);border-radius:6px;">
 <a href="https://www.youtube.com/results?search_query=%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BA%20%E6%97%A5%E6%9C%AC%E5%85%AC%E6%BC%94%201960%E5%B9%B4%E4%BB%A3" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#f87171;text-decoration:none;font-weight:600;">▶ ベンチャーズのライブ映像を見る</a>
+</div>
 
 ---
 
@@ -56,7 +58,7 @@ GSサウンドの核心はエレキギター。当時使われていた主なモ
 
 **Mosriteの復刻・類似モデル**は現在も人気で、ビザールギターとして注目されています。
 
-<div style="margin:.8rem 0;"><a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMosrite%20%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC%20%E3%83%93%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B8%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="150" style="height:auto;border-radius:8px;display:block;"></a></div><div style="margin:.8rem 0;"><a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D130" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="150" style="height:auto;border-radius:8px;display:block;"></a></div>
+<div style="margin:.8rem 0;"><a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMosrite%20%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC%20%E3%83%93%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B8%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="height:auto;border-radius:8px;display:block;"></a></div><div style="margin:.8rem 0;"><a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D130" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="200" style="height:auto;border-radius:8px;display:block;"></a></div>
 
 ### アンプ
 
@@ -95,7 +97,7 @@ GSサウンドの核心はエレキギター。当時使われていた主なモ
 
 ### アルバム・CDを探す
 
-<div style="margin:.8rem 0;"><a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%82%B5%E3%82%A6%E3%83%B3%E3%82%BA%20CD%20%E3%83%99%E3%82%B9%E3%83%88%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="150" style="height:auto;border-radius:8px;display:block;"></a></div>
+<div style="margin:.8rem 0;"><a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%82%B5%E3%82%A6%E3%83%B3%E3%82%BA%20CD%20%E3%83%99%E3%82%B9%E3%83%88%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="height:auto;border-radius:8px;display:block;"></a></div>
 
 ---
 
@@ -109,7 +111,7 @@ GSサウンドの核心はエレキギター。当時使われていた主なモ
 - **Gretsch Electromatic**：手の届く価格でホロウボディサウンド
 - **Mosrite復刻モデル**：各社から復刻品あり
 
-<div style="margin:.8rem 0;"><a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGretsch%20%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="150" style="height:auto;border-radius:8px;display:block;"></a></div><div style="margin:.8rem 0;"><a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D130" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="150" style="height:auto;border-radius:8px;display:block;"></a></div>
+<div style="margin:.8rem 0;"><a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGretsch%20%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="height:auto;border-radius:8px;display:block;"></a></div><div style="margin:.8rem 0;"><a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D130" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="200" style="height:auto;border-radius:8px;display:block;"></a></div>
 
 ### プラグインでGSサウンドを再現
 
@@ -145,7 +147,7 @@ DAWユーザーなら以下のプラグインでGS的なサウンドを作れま
 
 ### 関連書籍・教則本を探す
 
-<div style="margin:.8rem 0;"><a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC%20%E6%95%99%E5%89%87%E6%9C%AC%20%E5%88%9D%E5%BF%83%E8%80%85%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="150" style="height:auto;border-radius:8px;display:block;"></a></div>
+<div style="margin:.8rem 0;"><a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC%20%E6%95%99%E5%89%87%E6%9C%AC%20%E5%88%9D%E5%BF%83%E8%80%85%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="height:auto;border-radius:8px;display:block;"></a></div>
 
 
 ---
