@@ -72,7 +72,7 @@ GSサウンドの核心はエレキギター。当時使われていた主なモ
 
 <div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(99,102,241,0.75);">
 <h3 style="color:#c7d2fe;margin-top:0;">🎸 GSサウンドの3要素</h3>
-<ul style="color:#e2e8f0;">
+<ul style="color:#f1f5f9;">
 <li><strong>クリーントーン中心</strong>：歪みは少なく、ブライトでカラッとした音</li>
 <li><strong>トレモロ・ビブラート</strong>：アームを使ったサーフサウンド的揺らぎ</li>
 <li><strong>リバーブたっぷり</strong>：スプリングリバーブで広がりを演出</li>
