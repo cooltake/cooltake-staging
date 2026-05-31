@@ -158,7 +158,7 @@ Fmaj7 → Em7 → Am7 → Dm7 → G7sus4 → G7
 
 <a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D120%26s_maker_cd%3D%26s_search_all%3D%26s_ord%3D" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 
-<img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+<img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 
 </a>
 
@@ -180,7 +180,7 @@ Fmaj7 → Em7 → Am7 → Dm7 → G7sus4 → G7
 
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%A2%25E3%2582%B3%25E3%2583%BC%25E3%2582%B9%25E3%2583%86%25E3%2582%A3%25E3%2583%83%25E3%2582%AF%25E3%2582%AE%25E3%2582%BF%25E3%2583%BC%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 
-<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 
 </a>
 
@@ -220,7 +220,7 @@ Fmaj7 → Em7 → Am7 → Dm7 → G7sus4 → G7
 
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E%2B%E7%AB%B9%E5%86%85%E3%81%BE%E3%82%8A%E3%82%84%2B%E3%82%B7%E3%83%86%E3%82%A3%E3%83%9D%E3%83%83%E3%83%97%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 
-<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 
 </a>
 
@@ -236,7 +236,7 @@ Fmaj7 → Em7 → Am7 → Dm7 → G7sus4 → G7
 
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%82%B3%E3%83%BC%E3%83%89%E9%80%B2%E8%A1%8C%2B%E3%82%AE%E3%82%BF%E3%83%BC%2B%E6%9C%AC/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 
-<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 
 </a>
 
@@ -248,27 +248,28 @@ Fmaj7 → Em7 → Am7 → Dm7 → G7sus4 → G7
 
 
 
-<div style="margin:1.5rem 0;">
+
+<div style="display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin:1.5rem 0;">
+<div>
 
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%82%A2%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%AE%E3%82%BF%E3%83%BC%2BMIDI%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 
-<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 
 </a>
 
 </div>
-
-
-
-<div style="margin:1.5rem 0;">
+<div>
 
 <a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D120%26s_maker_cd%3D%26s_search_all%3D%26s_ord%3D" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
 
-<img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+<img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;">
 
 </a>
 
 </div>
+</div>
+
 
 ---
 
