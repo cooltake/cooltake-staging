@@ -4,7 +4,7 @@ title: "2010年代バンドリバイバル・インディーズ台頭【2010〜2
 date: 2026-05-30
 tags: [音楽史, ギター, ベース, ドラム, 作曲, DTM, 音楽制作]
 description: "ストリーミング以前の最後の時代、2010年代の日本音楽は多様化と「発見の時代」だった。RADWIMPS、星野源、ゲスの極み乙女。、amazarashi——個性的なバンドが乱立し、タイアップアニメ・映画との連動で世界市場へ。サブスク普及前夜の音楽シーンを解説。"
-image: /assets/images/thumb-japan-music-16-2010s-band.jpg
+image: /assets/images/thumb-2010s-band.jpg
 ---
 
 
