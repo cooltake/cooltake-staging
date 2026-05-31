@@ -45,8 +45,8 @@ description: "山下達郎・竹内まりや・大貫妙子が世界で再評価
 
 ## シティポップサウンドの特徴
 
-<div style="background:linear-gradient(135deg,#1a2e2a,#1e3a2e);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(110,231,183,.3);">
-<h3 style="color:#6ee7b7;margin-top:0;">🌙 シティポップの音楽的要素</h3>
+<div style="background:rgba(255,255,255,0.8);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(110,231,183,0.8);">
+<h3 style="color:#a7f3d0;margin-top:0;">🌙 シティポップの音楽的要素</h3>
 <ul style="color:#e2e8f0;">
 <li><strong>maj7・9thコードの多用</strong>：浮遊感のあるオシャレなコード感</li>
 <li><strong>ファルセットボーカル</strong>：裏声を使ったなめらかな歌い方</li>
