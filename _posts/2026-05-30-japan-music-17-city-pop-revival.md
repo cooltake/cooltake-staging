@@ -40,7 +40,7 @@ description: "山下達郎・竹内まりや・大貫妙子が世界で再評価
 
 
 
-image: /assets/images/japan-music-17-img1.jpg
+image: /assets/images/thumb-japan-music-17-city-pop-revival.png
 ---
 
 
