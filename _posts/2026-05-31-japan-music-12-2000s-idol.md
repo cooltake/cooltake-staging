@@ -14,8 +14,8 @@ description: "モーニング娘。からAKB48へ、着うたからYouTubeへ—
 
 それまでCD主体だった音楽流通は、急速に**モバイル・ダウンロード**にシフト。2007年には着うたフルの市場規模がCDシングル売上を逆転するという歴史的な転換が起きた。
 
-<div style="background:linear-gradient(135deg,#1e2040,#1a2858);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(99,102,241,.3);">
-<h3 style="color:#a5b4fc;margin-top:0;">📱 着うた時代の数字</h3>
+<div style="background:rgba(255,255,255,0.8);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(99,102,241,0.8);">
+<h3 style="color:#c7d2fe;margin-top:0;">📱 着うた時代の数字</h3>
 <ul style="color:#e2e8f0;">
 <li>2007年：着うたフル市場規模 約900億円（CDシングルを逆転）</li>
 <li>2008年：着うた市場ピーク 約920億円</li>
@@ -60,7 +60,7 @@ EXILEの成功は後に**LDH**（Love Dream Happiness）という大きなエン
 
 「会いに行けるアイドル」というコンセプトは、それまでのアイドルの常識を覆した。専用劇場での毎日公演、握手会、総選挙——ファンが「参加」できる仕組みが熱狂的なコミュニティを生んだ。
 
-<div style="background:linear-gradient(135deg,#2e1a1a,#3a1e28);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(244,63,94,.3);">
+<div style="background:rgba(255,255,255,0.8);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(244,63,94,0.8);">
 <h3 style="color:#fda4af;margin-top:0;">📊 AKBの記録</h3>
 <ul style="color:#e2e8f0;">
 <li>「Everyday、カチューシャ」（2011年）：初週192万枚——CDシングル歴代最高記録</li>
