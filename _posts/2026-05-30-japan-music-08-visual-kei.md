@@ -39,7 +39,7 @@ YOSHIKIのドラムは「クラシックとロックの融合」が特徴：
 
 <div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(252,165,165,0.75);">
 <h3 style="color:#fecaca;margin-top:0;">🎸 ヴィジュアル系サウンドの核心</h3>
-<ul style="color:#e2e8f0;">
+<ul style="color:#f1f5f9;">
 <li><strong>ハイゲインの歪み</strong>：Marshall JCM800のハイゲインチャンネルが基本</li>
 <li><strong>美しいクリーントーン</strong>：激しさとの対比を生む叙情的なアルペジオ</li>
 <li><strong>ツインリードギター</strong>：2本のギターがユニゾン・ハーモニーで絡む</li>
