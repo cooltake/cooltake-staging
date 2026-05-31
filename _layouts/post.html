@@ -186,7 +186,13 @@ layout: default
 <article>
   <div class="post-header">
     <div class="post-hero-wrap{% if page.image %} has-image{% endif %}"{% if page.image %} style="--hero-img: url('{{ page.image }}');"{% endif %}>
+      {% if page.url contains 'japan-music' %}
+      <a href="/series-list.html?series=japan-music-series" class="back-link">&larr; 同シリーズ記事一覧に戻る</a>
+      {% elsif page.url contains 'chord-progression' %}
+      <a href="/series-list.html?series=chord-progression-series" class="back-link">&larr; 同シリーズ記事一覧に戻る</a>
+      {% else %}
       <a href="{{ '/#categories' | relative_url }}" class="back-link">&larr; 記事一覧に戻る</a>
+      {% endif %}
       <div class="post-hero-body">
         <div class="post-meta">
           <span class="post-tag">{{ page.categories | first | default: "Guide" | upcase }}</span>
