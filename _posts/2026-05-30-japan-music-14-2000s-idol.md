@@ -1,17 +1,10 @@
-﻿---
-
+---
 layout: post
-
 title: "2000年代アイドル・着うた時代【2003〜2012年】AKB48とモバイル音楽革命"
-
 date: 2026-05-30
-
 tags: [音楽史, キーボード, 作曲, DTM, 音楽制作]
-
-japan-music-14-2000s-idol
-
 description: "モーニング娘。からAKB48へ、着うたからYouTubeへ——2000年代の日本音楽はビジネスモデルごと激変した。EXILE・EXILE系列の台頭、EXILEブーム、そして秋元康が設計した「参加型アイドル」AKB48が音楽産業を塗り替えた10年間を解説。"
-
+image: /assets/images/thumb-japan-music-14-2000s-idol.jpg
 ---
 
 
