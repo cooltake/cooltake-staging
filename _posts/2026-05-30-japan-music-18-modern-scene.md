@@ -30,6 +30,7 @@ description: "Vtuber・サブスク・AI音楽が共存する2020年代の日本
 
 
 
+image: /assets/images/japan-music-18-img1.jpg
 ---
 
 
