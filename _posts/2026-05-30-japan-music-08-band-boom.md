@@ -3,8 +3,8 @@ layout: post
 title: "バンドブーム第一波【1980年代後半】BOØWY・BUCK-TICK・イカ天世代が切り開いた日本のロック"
 date: 2026-05-30
 tags: [ギター, エレキギター, エフェクター, 音楽制作]
-japan-music-08-band-boom
 description: "1987〜1990年、BOØWY・BUCK-TICK・THE BLUE HEARTSが牽引した空前のバンドブーム。イカ天・ホコ天が生んだDIYロック精神と、当時の機材・現代エフェクターで同じサウンドを出す方法を解説。"
+image: /assets/images/japan-music-08-img1.jpg
 ---
 
 ## 「バンドをやろうぜ」の時代
