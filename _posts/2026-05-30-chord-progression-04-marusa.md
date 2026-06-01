@@ -14,8 +14,8 @@ Dm7 → G7 → Cmaj7 → Bm7♭5 → E7……
 
 ジャズの「Ⅱ-Ⅴ-Ⅰ」を拡張した進行。7thコードのテンションと解決感が、シティポップ独特の「オシャレな哀愁」を作り出す。
 
-<div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(94,234,212,.3);">
-<h3 style="color:#5eead4;margin-top:0;">🌍 世界での使われ方</h3>
+<div style="background:rgba(94,234,212,0.08);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(94,234,212,.3);">
+<h3 style="color:#f1f5f9;margin-top:0;">🌍 世界での使われ方</h3>
 <ul style="color:#e2e8f0;">
 <li><strong>欧米</strong>：ジャズ・ボサノバの基本。枯葉（Autumn Leaves）など無数のスタンダード曲に使用</li>
 <li><strong>日本</strong>：竹内まりや・山下達郎のシティポップで独自の発展。世界的リバイバルで再注目</li>
@@ -27,7 +27,7 @@ Dm7 → G7 → Cmaj7 → Bm7♭5 → E7……
 ## 丸サ進行を使った代表曲20選
 
 
-<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(94,234,212,0.08);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#01</span>
   <span style="color:#e2e8f0;font-weight:bold;">「Plastic Love」</span>
@@ -40,7 +40,7 @@ Dm7 → G7 → Cmaj7 → Bm7♭5 → E7……
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E7%AB%B9%E5%86%85%E3%81%BE%E3%82%8A%E3%82%84%2BVARIETY%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="竹内まりや ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(94,234,212,0.08);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#02</span>
   <span style="color:#e2e8f0;font-weight:bold;">「真夜中のドア〜Stay With Me」</span>
@@ -53,7 +53,7 @@ Dm7 → G7 → Cmaj7 → Bm7♭5 → E7……
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E6%9D%BE%E5%8E%9F%E3%81%BF%E3%81%8D%2BPocket%2BPark%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="松原みき ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(94,234,212,0.08);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#03</span>
   <span style="color:#e2e8f0;font-weight:bold;">「夜に駆ける」</span>
@@ -66,7 +66,7 @@ Dm7 → G7 → Cmaj7 → Bm7♭5 → E7……
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/YOASOBI%2BTHE%2BBOOK%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="YOASOBI ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(94,234,212,0.08);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#04</span>
   <span style="color:#e2e8f0;font-weight:bold;">「Ride On Time」</span>
@@ -79,7 +79,7 @@ Dm7 → G7 → Cmaj7 → Bm7♭5 → E7……
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="山下達郎 ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(94,234,212,0.08);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#05</span>
   <span style="color:#e2e8f0;font-weight:bold;">「都会」</span>
@@ -92,7 +92,7 @@ Dm7 → G7 → Cmaj7 → Bm7♭5 → E7……
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E5%A4%A7%E8%B2%AB%E5%A6%99%E5%AD%90%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="大貫妙子 ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(94,234,212,0.08);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#06</span>
   <span style="color:#e2e8f0;font-weight:bold;">「4:00 A.M.」</span>
@@ -105,7 +105,7 @@ Dm7 → G7 → Cmaj7 → Bm7♭5 → E7……
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E5%A4%A7%E8%B2%AB%E5%A6%99%E5%AD%90%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="大貫妙子 ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(94,234,212,0.08);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#07</span>
   <span style="color:#e2e8f0;font-weight:bold;">「Fly Me to the Moon」</span>
@@ -118,7 +118,7 @@ Dm7 → G7 → Cmaj7 → Bm7♭5 → E7……
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/Frank%2BSinatra%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="Frank Sinatra ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(94,234,212,0.08);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#08</span>
   <span style="color:#e2e8f0;font-weight:bold;">「Autumn Leaves（枯葉）」</span>
@@ -131,7 +131,7 @@ Dm7 → G7 → Cmaj7 → Bm7♭5 → E7……
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/Autumn%2BLeaves%2BJazz%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="Various Artists ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(94,234,212,0.08);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#09</span>
   <span style="color:#e2e8f0;font-weight:bold;">「September」</span>
@@ -144,7 +144,7 @@ Dm7 → G7 → Cmaj7 → Bm7♭5 → E7……
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E7%AB%B9%E5%86%85%E3%81%BE%E3%82%8A%E3%82%84%2BMiss%2BM%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="竹内まりや ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(94,234,212,0.08);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#10</span>
   <span style="color:#e2e8f0;font-weight:bold;">「いとしのエリー」</span>
@@ -157,7 +157,7 @@ Dm7 → G7 → Cmaj7 → Bm7♭5 → E7……
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%82%B5%E3%82%B6%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="サザンオールスターズ ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(94,234,212,0.08);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#11</span>
   <span style="color:#e2e8f0;font-weight:bold;">「悲しみがとまらない」</span>
@@ -170,7 +170,7 @@ Dm7 → G7 → Cmaj7 → Bm7♭5 → E7……
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E6%9D%8F%E9%87%8C%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="杏里 ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(94,234,212,0.08);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#12</span>
   <span style="color:#e2e8f0;font-weight:bold;">「キャンディ」</span>
@@ -183,7 +183,7 @@ Dm7 → G7 → Cmaj7 → Bm7♭5 → E7……
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E5%8E%9F%E7%94%B0%E7%9F%A5%E4%B8%96%2B%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="原田知世 ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(94,234,212,0.08);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#13</span>
   <span style="color:#e2e8f0;font-weight:bold;">「Misty」</span>
@@ -196,7 +196,7 @@ Dm7 → G7 → Cmaj7 → Bm7♭5 → E7……
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/Erroll%2BGarner%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="Erroll Garner ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(94,234,212,0.08);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#14</span>
   <span style="color:#e2e8f0;font-weight:bold;">「ガラス越しに消えた夏」</span>
@@ -209,7 +209,7 @@ Dm7 → G7 → Cmaj7 → Bm7♭5 → E7……
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E9%88%B4%E6%9C%A8%E9%9B%85%E4%B9%8B%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="鈴木雅之 ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(94,234,212,0.08);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#15</span>
   <span style="color:#e2e8f0;font-weight:bold;">「プラスティック・ラブ（YMO Mix）」</span>
@@ -222,7 +222,7 @@ Dm7 → G7 → Cmaj7 → Bm7♭5 → E7……
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E7%AB%B9%E5%86%85%E3%81%BE%E3%82%8A%E3%82%84%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="竹内まりや（Remix） ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(94,234,212,0.08);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#16</span>
   <span style="color:#e2e8f0;font-weight:bold;">「Saturday In The Park」</span>
@@ -235,7 +235,7 @@ Dm7 → G7 → Cmaj7 → Bm7♭5 → E7……
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/Chicago%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="Chicago ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(94,234,212,0.08);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#17</span>
   <span style="color:#e2e8f0;font-weight:bold;">「ソバカスは恋のしるし」</span>
@@ -248,7 +248,7 @@ Dm7 → G7 → Cmaj7 → Bm7♭5 → E7……
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/JUDY%2BAND%2BMARY%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="JUDY AND MARY ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(94,234,212,0.08);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#18</span>
   <span style="color:#e2e8f0;font-weight:bold;">「マーマレード・キッス」</span>
@@ -261,7 +261,7 @@ Dm7 → G7 → Cmaj7 → Bm7♭5 → E7……
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E6%9D%BE%E7%94%B0%E8%81%96%E5%AD%90%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="松田聖子 ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(94,234,212,0.08);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#19</span>
   <span style="color:#e2e8f0;font-weight:bold;">「東京は夜の七時」</span>
@@ -274,7 +274,7 @@ Dm7 → G7 → Cmaj7 → Bm7♭5 → E7……
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/Pizzicato%2BFive%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="Pizzicato Five ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(94,234,212,0.08);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#20</span>
   <span style="color:#e2e8f0;font-weight:bold;">「Somebody That I Used To Know」</span>
@@ -305,6 +305,6 @@ Cmaj7: ド・ミ・ソ・シ
 ---
 
 <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:.8rem;margin:2rem 0;">
-<a href="/2026/05/30/chord-progression-03-komuro/" style="display:inline-block;padding:.5rem 1rem;background:rgba(99,102,241,.15);border:1px solid rgba(99,102,241,.3);border-radius:8px;color:#a5b4fc;text-decoration:none;font-size:.9rem;">← #03 小室進行</a>
-<a href="/2026/05/30/chord-progression-05-junkan/" style="display:inline-block;padding:.5rem 1rem;background:rgba(99,102,241,.15);border:1px solid rgba(99,102,241,.3);border-radius:8px;color:#a5b4fc;text-decoration:none;font-size:.9rem;">#05 循環コード →</a>
+<a href="/2026/05/30/chord-progression-03-komuro/" style="display:inline-block;padding:.5rem 1rem;background:rgba(99,102,241,.15);border:1px solid rgba(99,102,241,.3);border-radius:8px;color:#f1f5f9;text-decoration:none;font-size:.9rem;">← #03 小室進行</a>
+<a href="/2026/05/30/chord-progression-05-junkan/" style="display:inline-block;padding:.5rem 1rem;background:rgba(99,102,241,.15);border:1px solid rgba(99,102,241,.3);border-radius:8px;color:#f1f5f9;text-decoration:none;font-size:.9rem;">#05 循環コード →</a>
 </div>
