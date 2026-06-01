@@ -14,7 +14,7 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
 
 **ベースライン例（Cキー）：ド → シ → シ♭ → ラ**
 
-<div style="background:linear-gradient(135deg,#1a2a2e,#1e343a);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(56,189,248,.3);">
+<div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(56,189,248,.3);">
 <h3 style="color:#7dd3fc;margin-top:0;">🌍 世界での使われ方</h3>
 <ul style="color:#e2e8f0;">
 <li><strong>欧米</strong>：Michelle（Beatles）、Stairway to Heaven（Led Zeppelin）、Hotel California（Eagles）——ロックの名曲に頻出</li>
@@ -27,7 +27,7 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
 ## クリシェ進行を使った代表曲20選
 
 
-<div style="background:linear-gradient(135deg,#1e1e2e,#252535);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#01</span>
   <span style="color:#e2e8f0;font-weight:bold;">「Michelle」</span>
@@ -40,7 +40,7 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/Beatles%2BRubber%2BSoul%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="The Beatles ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:linear-gradient(135deg,#1e1e2e,#252535);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#02</span>
   <span style="color:#e2e8f0;font-weight:bold;">「Stairway to Heaven（イントロ）」</span>
@@ -53,7 +53,7 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/Led%2BZeppelin%2BIV%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="Led Zeppelin ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:linear-gradient(135deg,#1e1e2e,#252535);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#03</span>
   <span style="color:#e2e8f0;font-weight:bold;">「津軽海峡・冬景色」</span>
@@ -66,7 +66,7 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E7%9F%B3%E5%B7%9D%E3%81%95%E3%82%86%E3%82%8A%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="石川さゆり ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:linear-gradient(135deg,#1e1e2e,#252535);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#04</span>
   <span style="color:#e2e8f0;font-weight:bold;">「昴（すばる）」</span>
@@ -79,7 +79,7 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E8%B0%B7%E6%9D%91%E6%96%B0%E5%8F%B8%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="谷村新司 ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:linear-gradient(135deg,#1e1e2e,#252535);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#05</span>
   <span style="color:#e2e8f0;font-weight:bold;">「ガラスの十代」</span>
@@ -92,7 +92,7 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E5%85%89GENJI%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="光GENJI ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:linear-gradient(135deg,#1e1e2e,#252535);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#06</span>
   <span style="color:#e2e8f0;font-weight:bold;">「Fly Me to the Moon」</span>
@@ -105,7 +105,7 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/Frank%2BSinatra%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="Frank Sinatra ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:linear-gradient(135deg,#1e1e2e,#252535);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#07</span>
   <span style="color:#e2e8f0;font-weight:bold;">「Hotel California（イントロ）」</span>
@@ -118,7 +118,7 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/Eagles%2BHotel%2BCalifornia%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="Eagles ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:linear-gradient(135deg,#1e1e2e,#252535);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#08</span>
   <span style="color:#e2e8f0;font-weight:bold;">「北の国から」</span>
@@ -131,7 +131,7 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%81%95%E3%81%A0%E3%81%BE%E3%81%95%E3%81%97%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="さだまさし ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:linear-gradient(135deg,#1e1e2e,#252535);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#09</span>
   <span style="color:#e2e8f0;font-weight:bold;">「Romeo and Juliet」</span>
@@ -144,7 +144,7 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/Dire%2BStraits%2BMaking%2BMovies%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="Dire Straits ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:linear-gradient(135deg,#1e1e2e,#252535);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#10</span>
   <span style="color:#e2e8f0;font-weight:bold;">「夜霧よ今夜も有難う」</span>
@@ -157,7 +157,7 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E7%9F%B3%E5%8E%9F%E8%A3%95%E6%AC%A1%E9%83%8E%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="石原裕次郎 ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:linear-gradient(135deg,#1e1e2e,#252535);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#11</span>
   <span style="color:#e2e8f0;font-weight:bold;">「Georgia On My Mind」</span>
@@ -170,7 +170,7 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/Ray%2BCharles%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="Ray Charles ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:linear-gradient(135deg,#1e1e2e,#252535);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#12</span>
   <span style="color:#e2e8f0;font-weight:bold;">「ふれあい」</span>
@@ -183,7 +183,7 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E4%B8%AD%E6%9D%91%E9%9B%85%E4%BF%8A%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="中村雅俊 ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:linear-gradient(135deg,#1e1e2e,#252535);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#13</span>
   <span style="color:#e2e8f0;font-weight:bold;">「What's Going On」</span>
@@ -196,7 +196,7 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/Marvin%2BGaye%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="Marvin Gaye ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:linear-gradient(135deg,#1e1e2e,#252535);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#14</span>
   <span style="color:#e2e8f0;font-weight:bold;">「悲しい色やね」</span>
@@ -209,7 +209,7 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E4%B8%8A%E7%94%B0%E6%AD%A3%E6%A8%B9%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="上田正樹 ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:linear-gradient(135deg,#1e1e2e,#252535);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#15</span>
   <span style="color:#e2e8f0;font-weight:bold;">「My Funny Valentine」</span>
@@ -222,7 +222,7 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/Chet%2BBaker%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="Chet Baker ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:linear-gradient(135deg,#1e1e2e,#252535);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#16</span>
   <span style="color:#e2e8f0;font-weight:bold;">「テキーラ・サンライズ」</span>
@@ -235,7 +235,7 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/Eagles%2BDesperado%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="Eagles ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:linear-gradient(135deg,#1e1e2e,#252535);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#17</span>
   <span style="color:#e2e8f0;font-weight:bold;">「クリスマス・イブ」</span>
@@ -248,7 +248,7 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="山下達郎 ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:linear-gradient(135deg,#1e1e2e,#252535);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#18</span>
   <span style="color:#e2e8f0;font-weight:bold;">「September In The Rain」</span>
@@ -261,7 +261,7 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/Dinah%2BWashington%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="Dinah Washington ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:linear-gradient(135deg,#1e1e2e,#252535);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#19</span>
   <span style="color:#e2e8f0;font-weight:bold;">「時代」</span>
@@ -274,7 +274,7 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E4%B8%AD%E5%B3%B6%E3%81%BF%E3%82%86%E3%81%8D%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="中島みゆき ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:linear-gradient(135deg,#1e1e2e,#252535);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
+<div style="background:rgba(255,255,255,0.10);border-radius:10px;padding:1.1rem 1.3rem;margin:.8rem 0;border:1px solid rgba(148,163,184,.15);">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#20</span>
   <span style="color:#e2e8f0;font-weight:bold;">「Hurt」</span>
