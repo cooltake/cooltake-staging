@@ -8,6 +8,21 @@ description: "パッヘルベルのカノンに由来する「カノン進行」
 ---
 
 
+
+<div style="background:#eceae7;border-radius:8px;padding:1.2rem 1.4rem;margin:1.5rem 0;border-left:4px solid #6366f1;">
+<h3 style="color:#111827;margin-top:0;font-size:1rem;font-weight:700;">🎵 コード進行図</h3>
+<p style="color:#374151;font-size:.9rem;margin:.4rem 0 1rem;"><span style="font-weight:700;color:#111827;">C</span> → <span style="font-weight:700;color:#111827;">G</span> → <span style="font-weight:700;color:#111827;">Am</span> → <span style="font-weight:700;color:#111827;">Em</span> → <span style="font-weight:700;color:#111827;">F</span></p>
+<div style="display:grid;grid-template-columns:repeat(5, 1fr);gap:.8rem;overflow-x:auto;">
+<div style="text-align:center;"><p style="font-size:.75rem;font-weight:700;color:#374151;margin:0 0 4px;">C</p><img src="/assets/chord-diagrams/guitar-c.svg" alt="C ギター" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto 4px;"><img src="/assets/chord-diagrams/piano-c.svg" alt="C ピアノ" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto;"></div>
+<div style="text-align:center;"><p style="font-size:.75rem;font-weight:700;color:#374151;margin:0 0 4px;">G</p><img src="/assets/chord-diagrams/guitar-g.svg" alt="G ギター" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto 4px;"><img src="/assets/chord-diagrams/piano-g.svg" alt="G ピアノ" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto;"></div>
+<div style="text-align:center;"><p style="font-size:.75rem;font-weight:700;color:#374151;margin:0 0 4px;">Am</p><img src="/assets/chord-diagrams/guitar-am.svg" alt="Am ギター" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto 4px;"><img src="/assets/chord-diagrams/piano-am.svg" alt="Am ピアノ" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto;"></div>
+<div style="text-align:center;"><p style="font-size:.75rem;font-weight:700;color:#374151;margin:0 0 4px;">Em</p><img src="/assets/chord-diagrams/guitar-em.svg" alt="Em ギター" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto 4px;"><img src="/assets/chord-diagrams/piano-em.svg" alt="Em ピアノ" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto;"></div>
+<div style="text-align:center;"><p style="font-size:.75rem;font-weight:700;color:#374151;margin:0 0 4px;">F</p><img src="/assets/chord-diagrams/guitar-f.svg" alt="F ギター" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto 4px;"><img src="/assets/chord-diagrams/piano-f.svg" alt="F ピアノ" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto;"></div>
+</div>
+<p style="color:#6b7280;font-size:.78rem;margin:.8rem 0 0;">※ Cキー表示。実際の楽曲は移調される場合があります。</p>
+</div>
+
+
 ## カノン進行とは？300年愛され続ける音楽の黄金律
 
 1680年頃、ドイツのヨハン・パッヘルベルが作った「カノン ニ長調」。そのコード進行は300年後の現代ポップスにも脈々と流れる。
