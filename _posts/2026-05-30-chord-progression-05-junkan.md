@@ -27,7 +27,8 @@ Cキーで：**C → Am → F → G（Ⅰ-Ⅵm-Ⅳ-Ⅴ）**
 ## 循環コードを使った代表曲20選
 
 
-<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:.6rem 0;border-left:3px solid #d97706;">
+<div style="display:grid;grid-template-columns:repeat(2,1fr);gap:.6rem;margin:1rem 0;">
+<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:0;border-left:3px solid #d97706;">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#01</span>
   <span style="color:#111827;font-weight:bold;">「亜麻色の髪の乙女」</span>
@@ -40,7 +41,7 @@ Cキーで：**C → Am → F → G（Ⅰ-Ⅵm-Ⅳ-Ⅴ）**
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E5%B3%B6%E8%B0%B7%E3%81%B2%E3%81%A8%E3%81%BF%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="島谷ひとみ ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:.6rem 0;border-left:3px solid #d97706;">
+<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:0;border-left:3px solid #d97706;">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#02</span>
   <span style="color:#111827;font-weight:bold;">「Stand By Me」</span>
@@ -53,7 +54,7 @@ Cキーで：**C → Am → F → G（Ⅰ-Ⅵm-Ⅳ-Ⅴ）**
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/Ben%2BE%2BKing%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="Ben E. King ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:.6rem 0;border-left:3px solid #d97706;">
+<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:0;border-left:3px solid #d97706;">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#03</span>
   <span style="color:#111827;font-weight:bold;">「Blue Moon」</span>
@@ -66,7 +67,7 @@ Cキーで：**C → Am → F → G（Ⅰ-Ⅵm-Ⅳ-Ⅴ）**
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/Blue%2BMoon%2B%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="Various Artists ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:.6rem 0;border-left:3px solid #d97706;">
+<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:0;border-left:3px solid #d97706;">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#04</span>
   <span style="color:#111827;font-weight:bold;">「Earth Angel」</span>
@@ -79,7 +80,7 @@ Cキーで：**C → Am → F → G（Ⅰ-Ⅵm-Ⅳ-Ⅴ）**
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/Earth%2BAngel%2B50s%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="The Penguins ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:.6rem 0;border-left:3px solid #d97706;">
+<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:0;border-left:3px solid #d97706;">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#05</span>
   <span style="color:#111827;font-weight:bold;">「夢をあきらめないで」</span>
@@ -92,7 +93,7 @@ Cキーで：**C → Am → F → G（Ⅰ-Ⅵm-Ⅳ-Ⅴ）**
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E5%B2%A1%E6%9D%91%E5%AD%9D%E5%AD%90%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="岡村孝子 ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:.6rem 0;border-left:3px solid #d97706;">
+<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:0;border-left:3px solid #d97706;">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#06</span>
   <span style="color:#111827;font-weight:bold;">「ダイアモンド」</span>
@@ -105,7 +106,7 @@ Cキーで：**C → Am → F → G（Ⅰ-Ⅵm-Ⅳ-Ⅴ）**
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="プリンセス プリンセス ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:.6rem 0;border-left:3px solid #d97706;">
+<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:0;border-left:3px solid #d97706;">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#07</span>
   <span style="color:#111827;font-weight:bold;">「少年時代」</span>
@@ -118,7 +119,7 @@ Cキーで：**C → Am → F → G（Ⅰ-Ⅵm-Ⅳ-Ⅴ）**
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E4%BA%95%E4%B8%8A%E9%99%BD%E6%B0%B4%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="井上陽水 ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:.6rem 0;border-left:3px solid #d97706;">
+<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:0;border-left:3px solid #d97706;">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#08</span>
   <span style="color:#111827;font-weight:bold;">「You've Lost That Lovin' Feelin'」</span>
@@ -131,7 +132,7 @@ Cキーで：**C → Am → F → G（Ⅰ-Ⅵm-Ⅳ-Ⅴ）**
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/Righteous%2BBrothers%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="Righteous Brothers ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:.6rem 0;border-left:3px solid #d97706;">
+<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:0;border-left:3px solid #d97706;">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#09</span>
   <span style="color:#111827;font-weight:bold;">「In The Still Of The Night」</span>
@@ -144,7 +145,7 @@ Cキーで：**C → Am → F → G（Ⅰ-Ⅵm-Ⅳ-Ⅴ）**
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/Five%2BSatins%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="The Five Satins ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:.6rem 0;border-left:3px solid #d97706;">
+<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:0;border-left:3px solid #d97706;">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#10</span>
   <span style="color:#111827;font-weight:bold;">「愛をとりもどせ!!」</span>
@@ -157,7 +158,7 @@ Cキーで：**C → Am → F → G（Ⅰ-Ⅵm-Ⅳ-Ⅴ）**
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AB%E3%82%AD%E3%83%B3%E3%82%B0%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="クリスタルキング ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:.6rem 0;border-left:3px solid #d97706;">
+<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:0;border-left:3px solid #d97706;">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#11</span>
   <span style="color:#111827;font-weight:bold;">「OH MY LITTLE GIRL」</span>
@@ -170,7 +171,7 @@ Cキーで：**C → Am → F → G（Ⅰ-Ⅵm-Ⅳ-Ⅴ）**
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E5%B0%BE%E5%B4%8E%E8%B1%8A%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="尾崎豊 ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:.6rem 0;border-left:3px solid #d97706;">
+<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:0;border-left:3px solid #d97706;">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#12</span>
   <span style="color:#111827;font-weight:bold;">「未来予想図Ⅱ」</span>
@@ -183,7 +184,7 @@ Cキーで：**C → Am → F → G（Ⅰ-Ⅵm-Ⅳ-Ⅴ）**
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/DREAMS%2BCOME%2BTRUE%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="DREAMS COME TRUE ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:.6rem 0;border-left:3px solid #d97706;">
+<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:0;border-left:3px solid #d97706;">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#13</span>
   <span style="color:#111827;font-weight:bold;">「ロビンソン」</span>
@@ -196,7 +197,7 @@ Cキーで：**C → Am → F → G（Ⅰ-Ⅵm-Ⅳ-Ⅴ）**
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%82%B9%E3%83%94%E3%83%83%E3%83%84%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="スピッツ ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:.6rem 0;border-left:3px solid #d97706;">
+<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:0;border-left:3px solid #d97706;">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#14</span>
   <span style="color:#111827;font-weight:bold;">「やんちゃ車」</span>
@@ -209,7 +210,7 @@ Cキーで：**C → Am → F → G（Ⅰ-Ⅵm-Ⅳ-Ⅴ）**
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E5%98%89%E9%96%80%E9%81%94%E5%A4%AB%2B%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="嘉門達夫 ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:.6rem 0;border-left:3px solid #d97706;">
+<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:0;border-left:3px solid #d97706;">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#15</span>
   <span style="color:#111827;font-weight:bold;">「Will You Love Me Tomorrow」</span>
@@ -222,7 +223,7 @@ Cキーで：**C → Am → F → G（Ⅰ-Ⅵm-Ⅳ-Ⅴ）**
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/Carole%2BKing%2BTapestry%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="Carole King ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:.6rem 0;border-left:3px solid #d97706;">
+<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:0;border-left:3px solid #d97706;">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#16</span>
   <span style="color:#111827;font-weight:bold;">「ウェディング・ベル」</span>
@@ -235,7 +236,7 @@ Cキーで：**C → Am → F → G（Ⅰ-Ⅵm-Ⅳ-Ⅴ）**
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E6%9D%8F%E9%87%8C%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="杏里 / Sugar ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:.6rem 0;border-left:3px solid #d97706;">
+<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:0;border-left:3px solid #d97706;">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#17</span>
   <span style="color:#111827;font-weight:bold;">「Yesterday Once More」</span>
@@ -248,7 +249,7 @@ Cキーで：**C → Am → F → G（Ⅰ-Ⅵm-Ⅳ-Ⅴ）**
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/Carpenters%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="Carpenters ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:.6rem 0;border-left:3px solid #d97706;">
+<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:0;border-left:3px solid #d97706;">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#18</span>
   <span style="color:#111827;font-weight:bold;">「プレイバックPart2」</span>
@@ -261,7 +262,7 @@ Cキーで：**C → Am → F → G（Ⅰ-Ⅵm-Ⅳ-Ⅴ）**
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E5%B1%B1%E5%8F%A3%E7%99%BE%E6%81%B5%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="山口百恵 ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:.6rem 0;border-left:3px solid #d97706;">
+<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:0;border-left:3px solid #d97706;">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#19</span>
   <span style="color:#111827;font-weight:bold;">「WOMAN"Wの悲劇"より」</span>
@@ -274,7 +275,7 @@ Cキーで：**C → Am → F → G（Ⅰ-Ⅵm-Ⅳ-Ⅴ）**
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E8%96%AC%E5%B8%AB%E4%B8%B8%E3%81%B2%E3%82%8D%E5%AD%90%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="薬師丸ひろ子 ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 </div>
 </div>
-<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:.6rem 0;border-left:3px solid #d97706;">
+<div style="background:#f0eeeb;border-radius:6px;padding:1rem 1.2rem;margin:0;border-left:3px solid #d97706;">
 <div style="display:flex;align-items:baseline;gap:.6rem;margin-bottom:.5rem;">
   <span style="color:#64748b;font-size:.8rem;min-width:1.8rem;">#20</span>
   <span style="color:#111827;font-weight:bold;">「Where Did Our Love Go」</span>
@@ -285,6 +286,7 @@ Cキーで：**C → Am → F → G（Ⅰ-Ⅵm-Ⅳ-Ⅴ）**
 <div style="margin-left:2.4rem;">
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/Where%2BDid%2BOur%2BLove%2BGo%2BSupremes%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="「Where Did Our Love Go」収録作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/Supremes%2B%E3%83%99%E3%82%B9%E3%83%88%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="The Supremes ベスト・全作品を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
+</div>
 </div>
 </div>
 
