@@ -23,6 +23,21 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
 </div>
 
 
+
+<div style="background:#eceae7;border-radius:8px;padding:1.4rem 1.6rem;margin:1.5rem 0;border-left:4px solid #1e3a5f;">
+<h3 style="color:#111827;margin-top:0;font-size:1rem;font-weight:700;">🎵 コード進行図（Cキー）</h3>
+<p style="color:#374151;font-size:.9rem;margin:.4rem 0 1.2rem;"><strong>C</strong> → <strong>CB</strong> → <strong>CBb</strong> → <strong>CA</strong> → <strong>Am</strong></p>
+<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:1rem;overflow-x:auto;">
+<div style="text-align:center;min-width:0;"><p style="font-size:.85rem;font-weight:700;color:#111827;margin:0 0 6px;">C</p><p style="font-size:.7rem;color:#6b7280;margin:0 0 4px;">ギター</p><img src="/assets/chord-diagrams/guitar-c.svg" alt="C ギター" style="width:100%;max-width:150px;height:auto;display:block;margin:0 auto 10px;"><p style="font-size:.7rem;color:#6b7280;margin:0 0 4px;">ピアノ</p><img src="/assets/chord-diagrams/piano-c.svg" alt="C ピアノ" style="width:100%;max-width:230px;height:auto;display:block;margin:0 auto;"></div>
+<div style="text-align:center;min-width:0;"><p style="font-size:.85rem;font-weight:700;color:#111827;margin:0 0 6px;">C/B</p><p style="font-size:.7rem;color:#6b7280;margin:0 0 4px;">ギター</p><img src="/assets/chord-diagrams/guitar-cb.svg" alt="C/B ギター" style="width:100%;max-width:150px;height:auto;display:block;margin:0 auto 10px;"><p style="font-size:.7rem;color:#6b7280;margin:0 0 4px;">ピアノ</p><img src="/assets/chord-diagrams/piano-cb.svg" alt="C/B ピアノ" style="width:100%;max-width:230px;height:auto;display:block;margin:0 auto;"></div>
+<div style="text-align:center;min-width:0;"><p style="font-size:.85rem;font-weight:700;color:#111827;margin:0 0 6px;">C/Bb</p><p style="font-size:.7rem;color:#6b7280;margin:0 0 4px;">ギター</p><img src="/assets/chord-diagrams/guitar-cbb.svg" alt="C/Bb ギター" style="width:100%;max-width:150px;height:auto;display:block;margin:0 auto 10px;"><p style="font-size:.7rem;color:#6b7280;margin:0 0 4px;">ピアノ</p><img src="/assets/chord-diagrams/piano-cbb.svg" alt="C/Bb ピアノ" style="width:100%;max-width:230px;height:auto;display:block;margin:0 auto;"></div>
+<div style="text-align:center;min-width:0;"><p style="font-size:.85rem;font-weight:700;color:#111827;margin:0 0 6px;">C/A</p><p style="font-size:.7rem;color:#6b7280;margin:0 0 4px;">ギター</p><img src="/assets/chord-diagrams/guitar-ca.svg" alt="C/A ギター" style="width:100%;max-width:150px;height:auto;display:block;margin:0 auto 10px;"><p style="font-size:.7rem;color:#6b7280;margin:0 0 4px;">ピアノ</p><img src="/assets/chord-diagrams/piano-ca.svg" alt="C/A ピアノ" style="width:100%;max-width:230px;height:auto;display:block;margin:0 auto;"></div>
+<div style="text-align:center;min-width:0;"><p style="font-size:.85rem;font-weight:700;color:#111827;margin:0 0 6px;">Am</p><p style="font-size:.7rem;color:#6b7280;margin:0 0 4px;">ギター</p><img src="/assets/chord-diagrams/guitar-am.svg" alt="Am ギター" style="width:100%;max-width:150px;height:auto;display:block;margin:0 auto 10px;"><p style="font-size:.7rem;color:#6b7280;margin:0 0 4px;">ピアノ</p><img src="/assets/chord-diagrams/piano-am.svg" alt="Am ピアノ" style="width:100%;max-width:230px;height:auto;display:block;margin:0 auto;"></div>
+</div>
+<p style="color:#6b7280;font-size:.75rem;margin:.8rem 0 0;">※ Cキー表示。実際の楽曲は移調される場合があります。</p>
+</div>
+
+
 ## クリシェ進行とは？半音下降が生む哀愁
 
 コードを保持したままベース音だけが半音ずつ下降する。この「C/B♭ → C/B → C/A」という動きが「Michelle」（Beatles）や「津軽海峡・冬景色」の深い哀愁を生む。
