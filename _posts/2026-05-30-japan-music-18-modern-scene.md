@@ -136,11 +136,8 @@ Spotify・Apple Music・YouTube Musicが主流となり、**1曲あたりの再�
 
 <div style="margin:1.5rem 0;">
 
-<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D780%26s_maker_cd%3D%26s_search_all%3D%26s_ord%3D" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
-
-<img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;">
-
-</a>
+<span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🛒 サウンドハウスで探す</span>
+<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D780%26s_maker_cd%3D%26s_search_all%3D%26s_ord%3D" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 
 </div>
 
@@ -172,11 +169,8 @@ Spotify・Apple Music・YouTube Musicが主流となり、**1曲あたりの再�
 
 <div style="margin:1.5rem 0;">
 
-<a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDTM%2B%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%2B%25E6%25A9%259F%25E6%259D%2590%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
-
-<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;">
-
-</a>
+<span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDTM%2B%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%2B%25E6%25A9%259F%25E6%259D%2590%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 
 </div>
 
@@ -220,11 +214,8 @@ Spotify・Apple Music・YouTube Musicが主流となり、**1曲あたりの再�
 
 <div style="margin:1.5rem 0;">
 
-<a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%2BYOASOBI%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
-
-<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;">
-
-</a>
+<span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%2BYOASOBI%2BCD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 
 </div>
 
@@ -236,11 +227,8 @@ Spotify・Apple Music・YouTube Musicが主流となり、**1曲あたりの再�
 
 <div style="margin:1.5rem 0;">
 
-<a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/DTM%2B%E9%9F%B3%E6%A5%BD%E5%88%B6%E4%BD%9C%2B%E5%88%9D%E5%BF%83%E8%80%85%2B%E6%9C%AC/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
-
-<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;">
-
-</a>
+<span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/DTM%2B%E9%9F%B3%E6%A5%BD%E5%88%B6%E4%BD%9C%2B%E5%88%9D%E5%BF%83%E8%80%85%2B%E6%9C%AC/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 
 </div>
 
@@ -254,20 +242,14 @@ Spotify・Apple Music・YouTube Musicが主流となり、**1曲あたりの再�
 <div style="display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin:1.5rem 0;">
 <div>
 
-<a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/DTM%2B%E5%85%A5%E9%96%80%2B%E3%82%BB%E3%83%83%E3%83%88/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
-
-<img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;">
-
-</a>
+<span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span>
+<a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/DTM%2B%E5%85%A5%E9%96%80%2B%E3%82%BB%E3%83%83%E3%83%88/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 
 </div>
 <div>
 
-<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D780%26s_maker_cd%3D%26s_search_all%3D%26s_ord%3D" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;">
-
-<img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;">
-
-</a>
+<span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🛒 サウンドハウスで探す</span>
+<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D780%26s_maker_cd%3D%26s_search_all%3D%26s_ord%3D" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 
 </div>
 </div>
