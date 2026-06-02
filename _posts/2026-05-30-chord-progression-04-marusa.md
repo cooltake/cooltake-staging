@@ -8,6 +8,20 @@ description: "シティポップとジャズを繋ぐ「丸サ進行」を徹底
 ---
 
 
+
+<div style="background:#eceae7;border-radius:8px;padding:1.2rem 1.4rem;margin:1.5rem 0;border-left:4px solid #0891b2;">
+<h3 style="color:#111827;margin-top:0;font-size:1rem;font-weight:700;">🎵 コード進行図</h3>
+<p style="color:#374151;font-size:.9rem;margin:.4rem 0 1rem;"><span style="font-weight:700;color:#111827;">Dm7</span> → <span style="font-weight:700;color:#111827;">G7</span> → <span style="font-weight:700;color:#111827;">Cmaj7</span> → <span style="font-weight:700;color:#111827;">E7</span></p>
+<div style="display:grid;grid-template-columns:repeat(4, 1fr);gap:.8rem;overflow-x:auto;">
+<div style="text-align:center;"><p style="font-size:.75rem;font-weight:700;color:#374151;margin:0 0 4px;">Dm7</p><img src="/assets/chord-diagrams/guitar-dm7.svg" alt="Dm7 ギター" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto 4px;"><img src="/assets/chord-diagrams/piano-dm7.svg" alt="Dm7 ピアノ" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto;"></div>
+<div style="text-align:center;"><p style="font-size:.75rem;font-weight:700;color:#374151;margin:0 0 4px;">G7</p><img src="/assets/chord-diagrams/guitar-g7.svg" alt="G7 ギター" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto 4px;"><img src="/assets/chord-diagrams/piano-g7.svg" alt="G7 ピアノ" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto;"></div>
+<div style="text-align:center;"><p style="font-size:.75rem;font-weight:700;color:#374151;margin:0 0 4px;">Cmaj7</p><img src="/assets/chord-diagrams/guitar-cmaj7.svg" alt="Cmaj7 ギター" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto 4px;"><img src="/assets/chord-diagrams/piano-cmaj7.svg" alt="Cmaj7 ピアノ" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto;"></div>
+<div style="text-align:center;"><p style="font-size:.75rem;font-weight:700;color:#374151;margin:0 0 4px;">E7</p><img src="/assets/chord-diagrams/guitar-e7.svg" alt="E7 ギター" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto 4px;"><img src="/assets/chord-diagrams/piano-e7.svg" alt="E7 ピアノ" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto;"></div>
+</div>
+<p style="color:#6b7280;font-size:.78rem;margin:.8rem 0 0;">※ Cキー表示。実際の楽曲は移調される場合があります。</p>
+</div>
+
+
 ## 丸サ進行とは？ジャズからシティポップへ
 
 Dm7 → G7 → Cmaj7 → Bm7♭5 → E7……
