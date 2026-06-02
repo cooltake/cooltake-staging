@@ -13,8 +13,14 @@
 <line x1="90" y1="53" x2="90" y2="183" stroke="#888" stroke-width="1.5"/>
 <line x1="110" y1="53" x2="110" y2="183" stroke="#888" stroke-width="1.5"/>
 <line x1="130" y1="53" x2="130" y2="183" stroke="#888" stroke-width="1.5"/>
+<text x="30" y="197" text-anchor="middle" font-size="9" fill="#9ca3af">E</text>
+<text x="50" y="197" text-anchor="middle" font-size="9" fill="#9ca3af">A</text>
+<text x="70" y="197" text-anchor="middle" font-size="9" fill="#9ca3af">D</text>
+<text x="90" y="197" text-anchor="middle" font-size="9" fill="#9ca3af">G</text>
+<text x="110" y="197" text-anchor="middle" font-size="9" fill="#9ca3af">B</text>
+<text x="130" y="197" text-anchor="middle" font-size="9" fill="#9ca3af">e</text>
 <rect x="30" y="57" width="100" height="18" rx="9" fill="#1e3a5f" opacity="0.9"/>
-<circle cx="90" cy="92" r="9" fill="#1e3a5f"/>
-<circle cx="70" cy="118" r="9" fill="#1e3a5f"/>
-<circle cx="50" cy="118" r="9" fill="#1e3a5f"/>
+<circle cx="70" cy="92" r="9" fill="#1e3a5f"/>
+<circle cx="90" cy="118" r="9" fill="#1e3a5f"/>
+<circle cx="110" cy="118" r="9" fill="#1e3a5f"/>
 </svg>
