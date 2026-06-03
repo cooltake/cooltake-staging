@@ -20,7 +20,7 @@
 <text x="110" y="197" text-anchor="middle" font-size="9" fill="#9ca3af">B</text>
 <text x="130" y="197" text-anchor="middle" font-size="9" fill="#9ca3af">e</text>
 <rect x="30" y="57" width="100" height="18" rx="9" fill="#1e3a5f" opacity="0.9"/>
-<circle cx="70" cy="92" r="9" fill="#1e3a5f"/>
-<circle cx="90" cy="118" r="9" fill="#1e3a5f"/>
-<circle cx="110" cy="118" r="9" fill="#1e3a5f"/>
+<circle cx="50" cy="118" r="9" fill="#1e3a5f"/>
+<circle cx="70" cy="118" r="9" fill="#1e3a5f"/>
+<circle cx="90" cy="92" r="9" fill="#1e3a5f"/>
 </svg>
