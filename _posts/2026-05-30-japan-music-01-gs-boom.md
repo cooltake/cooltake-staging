@@ -32,7 +32,7 @@ image: /assets/images/thumb-gs-boom.jpg
 
 来日公演を見た若者たちが「俺もあのギターを弾きたい」と楽器屋に殺到。国内のエレキギター需要が急増し、テスコ・グヤトーン・ヤマハなどの国産メーカーが急成長した。ベンチャーズ自身も「ベンチャーズのテーマ」「10番街の殺人」などで演奏法を見せ、後のGSバンドたちの教師となった。
 
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#f0eeeb;border-left:3px solid #1e3a5f;border-radius:6px;">
+<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;">
 <a href="https://www.youtube.com/results?search_query=%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BA%20%E6%97%A5%E6%9C%AC%E5%85%AC%E6%BC%94%201960%E5%B9%B4%E4%BB%A3" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ ベンチャーズのライブ映像を見る</a>
 </div>
 
@@ -162,5 +162,5 @@ DAWユーザーなら以下のプラグインでGS的なサウンドを作れま
 
 <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:.8rem;margin:2rem 0;">
 <span></span>
-<a href="/2026/05/30/japan-music-02-folk-new-music/" style="display:inline-block;padding:.5rem 1rem;background:#eceae7;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">#02 フォーク・ニューミュージック →</a>
+<a href="/2026/05/30/japan-music-02-folk-new-music/" style="display:inline-block;padding:.5rem 1rem;background:#e8edf2;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">#02 フォーク・ニューミュージック →</a>
 </div>
