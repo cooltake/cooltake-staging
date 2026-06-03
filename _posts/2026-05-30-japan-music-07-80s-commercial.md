@@ -44,7 +44,7 @@ image: /assets/images/thumb-80s-commercial.jpg
 ## サウンドの特徴——「バブル前夜」の音作り
 
 <div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(74,222,128,.3);">
-<h3 style="color:#bbf7d0;margin-top:0;">🎹 1984〜1987年サウンドの核心</h3>
+<h3 style="color:#111827;margin-top:0;">🎹 1984〜1987年サウンドの核心</h3>
 <ul style="color:#374151;">
 <li><strong>シンセの多層重ね</strong>：Yamaha DX7、Roland D-50を複数重ねて豊かな音壁を作る</li>
 <li><strong>デジタルリバーブの空間感</strong>：Lexicon 224の「広い空間」が当時の「豊かさ」の象徴</li>
