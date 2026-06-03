@@ -340,6 +340,6 @@ Em → C → G → D（電子音と組み合わせると90年代感が出る）
 ---
 
 <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:.8rem;margin:2rem 0;">
-<a href="/2026/05/30/japan-music-10-visual-kei/" style="display:inline-block;padding:.5rem 1rem;background:#eceae7;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">← #10 ヴィジュアル系</a>
-<a href="/2026/05/30/japan-music-12-shibuya-kei/" style="display:inline-block;padding:.5rem 1rem;background:#eceae7;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">#12 渋谷系・J-R&B →</a>
+<a href="/2026/05/30/japan-music-10-visual-kei/" style="display:inline-block;padding:.5rem 1rem;background:#e8edf2;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">← #10 ヴィジュアル系</a>
+<a href="/2026/05/30/japan-music-12-shibuya-kei/" style="display:inline-block;padding:.5rem 1rem;background:#e8edf2;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">#12 渋谷系・J-R&B →</a>
 </div>
