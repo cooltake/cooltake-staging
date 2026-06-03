@@ -33,10 +33,10 @@ image: /assets/images/thumb-godiego.jpg
 | 世界的評価 | テクニカルギタリストに高評価 | F1テーマで国際的知名度 |
 | 活動スタイル | インスト中心・テクニック勝負 | 歌モノも取り入れた幅広さ |
 
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:rgba(255,255,255,0.06);border-left:3px solid rgba(248,113,113,.6);border-radius:6px;">
-<a href="https://www.youtube.com/results?search_query=%E3%82%AB%E3%82%B7%E3%82%AA%E3%83%9A%E3%82%A2+ASAYAKE" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#f87171;text-decoration:none;font-weight:600;margin-right:1rem;">▶ カシオペア「ASAYAKE」を聴く</a>
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:rgba(255,255,255,0.06);border-left:3px solid rgba(248,113,113,.6);border-radius:6px;">
-<a href="https://www.youtube.com/results?search_query=T-SQUARE+TRUTH" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#f87171;text-decoration:none;font-weight:600;">▶ T-SQUARE「TRUTH」を聴く</a>
+<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#f0eeeb;border-left:3px solid #1e3a5f;border-radius:6px;">
+<a href="https://www.youtube.com/results?search_query=%E3%82%AB%E3%82%B7%E3%82%AA%E3%83%9A%E3%82%A2+ASAYAKE" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;margin-right:1rem;">▶ カシオペア「ASAYAKE」を聴く</a>
+<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#f0eeeb;border-left:3px solid #1e3a5f;border-radius:6px;">
+<a href="https://www.youtube.com/results?search_query=T-SQUARE+TRUTH" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ T-SQUARE「TRUTH」を聴く</a>
 </div>
 </div>
 
@@ -50,7 +50,7 @@ image: /assets/images/thumb-godiego.jpg
 
 <div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(56,189,248,.3);">
 <h3 style="color:#bae6fd;margin-top:0;">🎸 カシオペアサウンドの核心</h3>
-<ul style="color:#f1f5f9;">
+<ul style="color:#374151;">
 <li><strong>超絶テクニックの16ビート</strong>：全楽器がタイトに絡み合うファンク的グルーヴ</li>
 <li><strong>ユニゾンフレーズ</strong>：ギター+キーボード+ベースが同じラインを弾く瞬間</li>
 <li><strong>複雑なコード進行</strong>：Dm9→G13→Cmaj9など拡張コードを縦横に使用</li>
@@ -70,7 +70,7 @@ image: /assets/images/thumb-godiego.jpg
 T-SQUAREの「TRUTH」（1987年）は、日本フュージョン史上最も有名な曲になった。フジテレビF1中継のオープニングテーマとして1987〜1991年の4年間使用され、週末の夕方に日本中に流れた。
 
 <div style="border-left:3px solid #60a5fa;padding:.8rem 1rem;margin:1rem 0;background:rgba(96,165,250,.08);border-radius:0 8px 8px 0;">
-<p style="color:#f1f5f9;margin:0;">「TRUTH」は「フュージョンを聴いたことがない人にも届いた曲」。F1中継の興奮と絡み合い、日本人の集合的記憶に深く刻まれた。</p>
+<p style="color:#374151;margin:0;">「TRUTH」は「フュージョンを聴いたことがない人にも届いた曲」。F1中継の興奮と絡み合い、日本人の集合的記憶に深く刻まれた。</p>
 </div>
 
 **「TRUTH」が残した功績**:
@@ -136,6 +136,6 @@ T-SQUAREの「TRUTH」（1987年）は、日本フュージョン史上最も有
 ---
 
 <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:.8rem;margin:2rem 0;">
-<a href="/2026/05/30/japan-music-08-band-boom/" style="display:inline-block;padding:.5rem 1rem;background:rgba(99,102,241,.15);border:1px solid rgba(99,102,241,.3);border-radius:8px;color:#a5b4fc;text-decoration:none;font-size:.9rem;">← #08 バンドブーム</a>
-<a href="/2026/05/30/japan-music-10-visual-kei/" style="display:inline-block;padding:.5rem 1rem;background:rgba(99,102,241,.15);border:1px solid rgba(99,102,241,.3);border-radius:8px;color:#a5b4fc;text-decoration:none;font-size:.9rem;">#10 ヴィジュアル系 →</a>
+<a href="/2026/05/30/japan-music-08-band-boom/" style="display:inline-block;padding:.5rem 1rem;background:#eceae7;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">← #08 バンドブーム</a>
+<a href="/2026/05/30/japan-music-10-visual-kei/" style="display:inline-block;padding:.5rem 1rem;background:#eceae7;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">#10 ヴィジュアル系 →</a>
 </div>
