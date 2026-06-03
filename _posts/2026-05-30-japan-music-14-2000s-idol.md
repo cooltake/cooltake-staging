@@ -27,7 +27,7 @@ image: /assets/images/thumb-2000s-idol.jpg
 
 <h3 style="color:#c7d2fe;margin-top:0;">📱 着うた時代の数字</h3>
 
-<ul style="color:#f1f5f9;">
+<ul style="color:#374151;">
 
 <li>2007年：着うたフル市場規模 約900億円（CDシングルを逆転）</li>
 
@@ -120,7 +120,7 @@ EXILEの成功は後に**LDH**（Love Dream Happiness）という大きなエン
 
 <h3 style="color:#fda4af;margin-top:0;">📊 AKBの記録</h3>
 
-<ul style="color:#f1f5f9;">
+<ul style="color:#374151;">
 
 <li>「Everyday、カチューシャ」（2011年）：初週192万枚——CDシングル歴代最高記録</li>
 
@@ -308,6 +308,6 @@ EXILEが確立した「ダンスに最適化された楽曲設計」：
 ---
 
 <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:.8rem;margin:2rem 0;">
-<a href="/2026/05/30/japan-music-13-hiphop-rb/" style="display:inline-block;padding:.5rem 1rem;background:rgba(99,102,241,.15);border:1px solid rgba(99,102,241,.3);border-radius:8px;color:#a5b4fc;text-decoration:none;font-size:.9rem;">← #13 ヒップホップ・R&B</a>
-<a href="/2026/05/30/japan-music-15-vocaloid-dtm/" style="display:inline-block;padding:.5rem 1rem;background:rgba(99,102,241,.15);border:1px solid rgba(99,102,241,.3);border-radius:8px;color:#a5b4fc;text-decoration:none;font-size:.9rem;">#15 ボカロ・DTM →</a>
+<a href="/2026/05/30/japan-music-13-hiphop-rb/" style="display:inline-block;padding:.5rem 1rem;background:#eceae7;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">← #13 ヒップホップ・R&B</a>
+<a href="/2026/05/30/japan-music-15-vocaloid-dtm/" style="display:inline-block;padding:.5rem 1rem;background:#eceae7;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">#15 ボカロ・DTM →</a>
 </div>
