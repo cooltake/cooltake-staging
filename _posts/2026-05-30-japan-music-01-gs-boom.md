@@ -32,8 +32,8 @@ image: /assets/images/thumb-gs-boom.jpg
 
 来日公演を見た若者たちが「俺もあのギターを弾きたい」と楽器屋に殺到。国内のエレキギター需要が急増し、テスコ・グヤトーン・ヤマハなどの国産メーカーが急成長した。ベンチャーズ自身も「ベンチャーズのテーマ」「10番街の殺人」などで演奏法を見せ、後のGSバンドたちの教師となった。
 
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:rgba(255,255,255,0.06);border-left:3px solid rgba(248,113,113,.6);border-radius:6px;">
-<a href="https://www.youtube.com/results?search_query=%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BA%20%E6%97%A5%E6%9C%AC%E5%85%AC%E6%BC%94%201960%E5%B9%B4%E4%BB%A3" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#f87171;text-decoration:none;font-weight:600;">▶ ベンチャーズのライブ映像を見る</a>
+<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#f0eeeb;border-left:3px solid #1e3a5f;border-radius:6px;">
+<a href="https://www.youtube.com/results?search_query=%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BA%20%E6%97%A5%E6%9C%AC%E5%85%AC%E6%BC%94%201960%E5%B9%B4%E4%BB%A3" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ ベンチャーズのライブ映像を見る</a>
 </div>
 
 ---
@@ -76,7 +76,7 @@ GSサウンドの核心はエレキギター。当時使われていた主なモ
 
 <div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(99,102,241,0.75);">
 <h3 style="color:#c7d2fe;margin-top:0;">🎸 GSサウンドの3要素</h3>
-<ul style="color:#f1f5f9;">
+<ul style="color:#374151;">
 <li><strong>クリーントーン中心</strong>：歪みは少なく、ブライトでカラッとした音</li>
 <li><strong>トレモロ・ビブラート</strong>：アームを使ったサーフサウンド的揺らぎ</li>
 <li><strong>リバーブたっぷり</strong>：スプリングリバーブで広がりを演出</li>
@@ -91,11 +91,11 @@ GSサウンドの核心はエレキギター。当時使われていた主なモ
 
 | 楽曲 | アーティスト | 視聴 |
 |------|------------|------|
-| 「君だけに愛を」 | ザ・タイガース（1967年） | <a href="https://www.youtube.com/results?search_query=%E3%82%B6%E3%83%BB%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%B9%20%E5%90%9B%E3%81%A0%E3%81%91%E3%81%AB%E6%84%9B%E3%82%92" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#f87171;text-decoration:none;font-weight:600;">▶ 動画を見る</a> |
-| 「いつまでもどこまでも」 | ブルー・コメッツ（1967年） | <a href="https://www.youtube.com/results?search_query=%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B3%E3%83%A1%E3%83%83%E3%83%84%20%E3%81%84%E3%81%A4%E3%81%BE%E3%81%A7%E3%82%82%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E3%82%82" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#f87171;text-decoration:none;font-weight:600;">▶ 動画を見る</a> |
-| 「バン・バン・バン」 | ザ・スパイダース（1966年） | <a href="https://www.youtube.com/results?search_query=%E3%82%B6%E3%83%BB%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC%E3%82%B9%20%E3%83%90%E3%83%B3%E3%83%BB%E3%83%90%E3%83%B3%E3%83%BB%E3%83%90%E3%83%B3" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#f87171;text-decoration:none;font-weight:600;">▶ 動画を見る</a> |
-| 「エメラルドの伝説」 | テンプターズ（1968年） | <a href="https://www.youtube.com/results?search_query=%E3%83%86%E3%83%B3%E3%83%97%E3%82%BF%E3%83%BC%E3%82%BA%20%E3%82%A8%E3%83%A1%E3%83%A9%E3%83%AB%E3%83%89%E3%81%AE%E4%BC%9D%E8%AA%AC" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#f87171;text-decoration:none;font-weight:600;">▶ 動画を見る</a> |
-| 「花の首飾り」 | ザ・タイガース（1968年） | <a href="https://www.youtube.com/results?search_query=%E3%82%B6%E3%83%BB%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%B9%20%E8%8A%B1%E3%81%AE%E9%A6%96%E9%A3%BE%E3%82%8A" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#f87171;text-decoration:none;font-weight:600;">▶ 動画を見る</a> |
+| 「君だけに愛を」 | ザ・タイガース（1967年） | <a href="https://www.youtube.com/results?search_query=%E3%82%B6%E3%83%BB%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%B9%20%E5%90%9B%E3%81%A0%E3%81%91%E3%81%AB%E6%84%9B%E3%82%92" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 動画を見る</a> |
+| 「いつまでもどこまでも」 | ブルー・コメッツ（1967年） | <a href="https://www.youtube.com/results?search_query=%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B3%E3%83%A1%E3%83%83%E3%83%84%20%E3%81%84%E3%81%A4%E3%81%BE%E3%81%A7%E3%82%82%E3%81%A9%E3%81%93%E3%81%BE%E3%81%A7%E3%82%82" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 動画を見る</a> |
+| 「バン・バン・バン」 | ザ・スパイダース（1966年） | <a href="https://www.youtube.com/results?search_query=%E3%82%B6%E3%83%BB%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC%E3%82%B9%20%E3%83%90%E3%83%B3%E3%83%BB%E3%83%90%E3%83%B3%E3%83%BB%E3%83%90%E3%83%B3" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 動画を見る</a> |
+| 「エメラルドの伝説」 | テンプターズ（1968年） | <a href="https://www.youtube.com/results?search_query=%E3%83%86%E3%83%B3%E3%83%97%E3%82%BF%E3%83%BC%E3%82%BA%20%E3%82%A8%E3%83%A1%E3%83%A9%E3%83%AB%E3%83%89%E3%81%AE%E4%BC%9D%E8%AA%AC" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 動画を見る</a> |
+| 「花の首飾り」 | ザ・タイガース（1968年） | <a href="https://www.youtube.com/results?search_query=%E3%82%B6%E3%83%BB%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%B9%20%E8%8A%B1%E3%81%AE%E9%A6%96%E9%A3%BE%E3%82%8A" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 動画を見る</a> |
 
 ### アルバム・CDを探す
 
@@ -162,5 +162,5 @@ DAWユーザーなら以下のプラグインでGS的なサウンドを作れま
 
 <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:.8rem;margin:2rem 0;">
 <span></span>
-<a href="/2026/05/30/japan-music-02-folk-new-music/" style="display:inline-block;padding:.5rem 1rem;background:rgba(99,102,241,.15);border:1px solid rgba(99,102,241,.3);border-radius:8px;color:#a5b4fc;text-decoration:none;font-size:.9rem;">#02 フォーク・ニューミュージック →</a>
+<a href="/2026/05/30/japan-music-02-folk-new-music/" style="display:inline-block;padding:.5rem 1rem;background:#eceae7;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">#02 フォーク・ニューミュージック →</a>
 </div>
