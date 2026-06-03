@@ -90,7 +90,7 @@ image: /assets/images/thumb-city-pop-revival.jpg
 
 <h3 style="color:#a7f3d0;margin-top:0;">🌙 シティポップの音楽的要素</h3>
 
-<ul style="color:#f1f5f9;">
+<ul style="color:#374151;">
 
 <li><strong>maj7・9thコードの多用</strong>：浮遊感のあるオシャレなコード感</li>
 
@@ -322,6 +322,6 @@ Fmaj7 → Em7 → Am7 → Dm7 → G7sus4 → G7
 ---
 
 <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:.8rem;margin:2rem 0;">
-<a href="/2026/05/30/japan-music-16-2010s-band/" style="display:inline-block;padding:.5rem 1rem;background:rgba(99,102,241,.15);border:1px solid rgba(99,102,241,.3);border-radius:8px;color:#a5b4fc;text-decoration:none;font-size:.9rem;">← #16 2010年代バンドリバイバル</a>
-<a href="/2026/05/30/japan-music-18-modern-scene/" style="display:inline-block;padding:.5rem 1rem;background:rgba(99,102,241,.15);border:1px solid rgba(99,102,241,.3);border-radius:8px;color:#a5b4fc;text-decoration:none;font-size:.9rem;">#18 現代の日本音楽 →</a>
+<a href="/2026/05/30/japan-music-16-2010s-band/" style="display:inline-block;padding:.5rem 1rem;background:#eceae7;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">← #16 2010年代バンドリバイバル</a>
+<a href="/2026/05/30/japan-music-18-modern-scene/" style="display:inline-block;padding:.5rem 1rem;background:#eceae7;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">#18 現代の日本音楽 →</a>
 </div>
