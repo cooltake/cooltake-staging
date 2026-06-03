@@ -55,13 +55,13 @@ image: /assets/images/thumb-band-boom.jpg
 | **ZI:KILL** | ヴィジュアル系の先駆けとして注目 | バンドブームからV系ブームへの橋渡し役 |
 | **BLANKEY JET CITY** | ガレージロック的な荒々しさで登場 | 1990年代ロックシーンを代表するバンドへ |
 
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:rgba(255,255,255,0.06);border-left:3px solid rgba(248,113,113,.6);border-radius:6px;">
-<a href="https://www.youtube.com/results?search_query=%E3%81%9F%E3%81%BE%20%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E4%BA%BA%E9%A1%9E" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#f87171;text-decoration:none;font-weight:600;">▶ 「さよなら人類」（たま）を聴く</a>
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:rgba(255,255,255,0.06);border-left:3px solid rgba(248,113,113,.6);border-radius:6px;">
-<a href="https://www.youtube.com/results?search_query=BOOWY%20Dreamin" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#f87171;text-decoration:none;font-weight:600;">▶ BOØWY「Dreamin'」を聴く</a>
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:rgba(255,255,255,0.06);border-left:3px solid rgba(248,113,113,.6);border-radius:6px;">
+<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#f0eeeb;border-left:3px solid #1e3a5f;border-radius:6px;">
+<a href="https://www.youtube.com/results?search_query=%E3%81%9F%E3%81%BE%20%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E4%BA%BA%E9%A1%9E" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「さよなら人類」（たま）を聴く</a>
+<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#f0eeeb;border-left:3px solid #1e3a5f;border-radius:6px;">
+<a href="https://www.youtube.com/results?search_query=BOOWY%20Dreamin" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ BOØWY「Dreamin'」を聴く</a>
+<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#f0eeeb;border-left:3px solid #1e3a5f;border-radius:6px;">
 
-<a href="https://www.youtube.com/results?search_query=THE%20BLUE%20HEARTS%201%202%203%204" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#f87171;text-decoration:none;font-weight:600;">▶ THE BLUE HEARTS「1・2・3・4」を聴く</a>
+<a href="https://www.youtube.com/results?search_query=THE%20BLUE%20HEARTS%201%202%203%204" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ THE BLUE HEARTS「1・2・3・4」を聴く</a>
 
 </div>
 </div>
@@ -85,7 +85,7 @@ image: /assets/images/thumb-band-boom.jpg
 
 <div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(134,239,172,.3);">
 <h3 style="color:#bbf7d0;margin-top:0;">🔊 80年代バンドサウンドのアンプ</h3>
-<ul style="color:#f1f5f9;">
+<ul style="color:#374151;">
 <li><strong>Marshall JCM800</strong>：布袋寅泰の象徴的なハイゲインサウンド。2チャンネル設計で歪みと音量のコントロールが革命的だった</li>
 <li><strong>Marshall JCM900</strong>：90年代に移行するにつれ普及。JCM800より現代的でゲインが高い</li>
 <li><strong>Roland JC-120（ジャズコーラス）</strong>：クリーンとコーラスの組み合わせ。今井寿がよく使用</li>
@@ -162,6 +162,6 @@ image: /assets/images/thumb-band-boom.jpg
 ---
 
 <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:.8rem;margin:2rem 0;">
-<a href="/2026/05/30/japan-music-07-80s-commercial/" style="display:inline-block;padding:.5rem 1rem;background:rgba(99,102,241,.15);border:1px solid rgba(99,102,241,.3);border-radius:8px;color:#a5b4fc;text-decoration:none;font-size:.9rem;">← #07 80年代半ば商業音楽</a>
-<a href="/2026/05/30/japan-music-09-fusion-jazz/" style="display:inline-block;padding:.5rem 1rem;background:rgba(99,102,241,.15);border:1px solid rgba(99,102,241,.3);border-radius:8px;color:#a5b4fc;text-decoration:none;font-size:.9rem;">#09 フュージョン カシオペア・T-SQUARE →</a>
+<a href="/2026/05/30/japan-music-07-80s-commercial/" style="display:inline-block;padding:.5rem 1rem;background:#eceae7;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">← #07 80年代半ば商業音楽</a>
+<a href="/2026/05/30/japan-music-09-fusion-jazz/" style="display:inline-block;padding:.5rem 1rem;background:#eceae7;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">#09 フュージョン カシオペア・T-SQUARE →</a>
 </div>
