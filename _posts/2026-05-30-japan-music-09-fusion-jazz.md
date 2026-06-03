@@ -33,9 +33,9 @@ image: /assets/images/thumb-godiego.jpg
 | 世界的評価 | テクニカルギタリストに高評価 | F1テーマで国際的知名度 |
 | 活動スタイル | インスト中心・テクニック勝負 | 歌モノも取り入れた幅広さ |
 
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#f0eeeb;border-left:3px solid #1e3a5f;border-radius:6px;">
+<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;">
 <a href="https://www.youtube.com/results?search_query=%E3%82%AB%E3%82%B7%E3%82%AA%E3%83%9A%E3%82%A2+ASAYAKE" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;margin-right:1rem;">▶ カシオペア「ASAYAKE」を聴く</a>
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#f0eeeb;border-left:3px solid #1e3a5f;border-radius:6px;">
+<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;">
 <a href="https://www.youtube.com/results?search_query=T-SQUARE+TRUTH" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ T-SQUARE「TRUTH」を聴く</a>
 </div>
 </div>
@@ -136,6 +136,6 @@ T-SQUAREの「TRUTH」（1987年）は、日本フュージョン史上最も有
 ---
 
 <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:.8rem;margin:2rem 0;">
-<a href="/2026/05/30/japan-music-08-band-boom/" style="display:inline-block;padding:.5rem 1rem;background:#eceae7;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">← #08 バンドブーム</a>
-<a href="/2026/05/30/japan-music-10-visual-kei/" style="display:inline-block;padding:.5rem 1rem;background:#eceae7;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">#10 ヴィジュアル系 →</a>
+<a href="/2026/05/30/japan-music-08-band-boom/" style="display:inline-block;padding:.5rem 1rem;background:#e8edf2;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">← #08 バンドブーム</a>
+<a href="/2026/05/30/japan-music-10-visual-kei/" style="display:inline-block;padding:.5rem 1rem;background:#e8edf2;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">#10 ヴィジュアル系 →</a>
 </div>
