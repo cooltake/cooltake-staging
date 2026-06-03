@@ -94,7 +94,7 @@ image: /assets/images/thumb-2010s-band.jpg
 
 <div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(74,222,128,0.75);">
 
-<h3 style="color:#bbf7d0;margin-top:0;">🌟 星野源の転換点</h3>
+<h3 style="color:#111827;margin-top:0;">🌟 星野源の転換点</h3>
 
 <ul style="color:#374151;">
 
@@ -174,9 +174,9 @@ image: /assets/images/thumb-2010s-band.jpg
 
 <div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(148,163,184,0.75);">
 
-<h3 style="color:#bfdbfe;margin-top:0;">🎛️ 2010年代の定番制作環境</h3>
+<h3 style="color:#111827;margin-top:0;">🎛️ 2010年代の定番制作環境</h3>
 
-<table style="width:100%;color:#e2e8f0;border-collapse:collapse;">
+<table style="width:100%;color:#374151;border-collapse:collapse;">
 
 <tr style="border-bottom:1px solid rgba(148,163,184,.2);"><td style="padding:.5rem 0;"><strong>DAW</strong></td><td>Logic Pro X、Ableton Live、FL Studio</td></tr>
 
