@@ -74,7 +74,7 @@ YOSHIKIのドラムは「クラシックとロックの融合」が特徴：
 
 <h3 style="color:#fecaca;margin-top:0;">🎸 ヴィジュアル系サウンドの核心</h3>
 
-<ul style="color:#f1f5f9;">
+<ul style="color:#374151;">
 
 <li><strong>ハイゲインの歪み</strong>：Marshall JCM800のハイゲインチャンネルが基本</li>
 
@@ -306,6 +306,6 @@ YOSHIKI（ドラム）の演奏の特徴：
 ---
 
 <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:.8rem;margin:2rem 0;">
-<a href="/2026/05/30/japan-music-09-fusion-jazz/" style="display:inline-block;padding:.5rem 1rem;background:rgba(99,102,241,.15);border:1px solid rgba(99,102,241,.3);border-radius:8px;color:#a5b4fc;text-decoration:none;font-size:.9rem;">← #09 フュージョン カシオペア・T-SQUARE</a>
-<a href="/2026/05/30/japan-music-11-komuro-jpop/" style="display:inline-block;padding:.5rem 1rem;background:rgba(99,102,241,.15);border:1px solid rgba(99,102,241,.3);border-radius:8px;color:#a5b4fc;text-decoration:none;font-size:.9rem;">#11 小室サウンド →</a>
+<a href="/2026/05/30/japan-music-09-fusion-jazz/" style="display:inline-block;padding:.5rem 1rem;background:#eceae7;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">← #09 フュージョン カシオペア・T-SQUARE</a>
+<a href="/2026/05/30/japan-music-11-komuro-jpop/" style="display:inline-block;padding:.5rem 1rem;background:#eceae7;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">#11 小室サウンド →</a>
 </div>
