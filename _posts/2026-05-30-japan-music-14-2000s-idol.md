@@ -308,6 +308,6 @@ EXILEが確立した「ダンスに最適化された楽曲設計」：
 ---
 
 <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:.8rem;margin:2rem 0;">
-<a href="/2026/05/30/japan-music-13-hiphop-rb/" style="display:inline-block;padding:.5rem 1rem;background:#eceae7;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">← #13 ヒップホップ・R&B</a>
-<a href="/2026/05/30/japan-music-15-vocaloid-dtm/" style="display:inline-block;padding:.5rem 1rem;background:#eceae7;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">#15 ボカロ・DTM →</a>
+<a href="/2026/05/30/japan-music-13-hiphop-rb/" style="display:inline-block;padding:.5rem 1rem;background:#e8edf2;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">← #13 ヒップホップ・R&B</a>
+<a href="/2026/05/30/japan-music-15-vocaloid-dtm/" style="display:inline-block;padding:.5rem 1rem;background:#e8edf2;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">#15 ボカロ・DTM →</a>
 </div>
