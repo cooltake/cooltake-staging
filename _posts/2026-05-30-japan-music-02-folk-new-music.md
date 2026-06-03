@@ -54,7 +54,7 @@ image: /assets/images/thumb-folk-new-music.jpg
 ## フォーク・ニューミュージックの音作りの特徴
 
 <div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(74,222,128,.3);">
-<h3 style="color:#bbf7d0;margin-top:0;">🎵 サウンドの特徴</h3>
+<h3 style="color:#111827;margin-top:0;">🎵 サウンドの特徴</h3>
 <ul style="color:#374151;">
 <li><strong>アコギの存在感</strong>：カポタスト多用、オープンチューニング</li>
 <li><strong>ストリングスアレンジ</strong>：生オーケストラ録音が楽曲に深みを加えた</li>
