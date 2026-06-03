@@ -25,7 +25,7 @@ image: /assets/images/thumb-shibuya-kei.jpg
 
 <div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(74,222,128,0.75);">
 
-<h3 style="color:#bbf7d0;margin-top:0;">🗺️ 渋谷系の震源地</h3>
+<h3 style="color:#111827;margin-top:0;">🗺️ 渋谷系の震源地</h3>
 
 <ul style="color:#374151;">
 
@@ -160,7 +160,7 @@ image: /assets/images/thumb-shibuya-kei.jpg
 
 <div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(148,163,184,0.75);">
 
-<h3 style="color:#bfdbfe;margin-top:0;">🎛️ 時代の機材</h3>
+<h3 style="color:#111827;margin-top:0;">🎛️ 時代の機材</h3>
 
 <ul style="color:#374151;">
 
