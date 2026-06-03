@@ -84,7 +84,7 @@ image: /assets/images/thumb-band-boom.jpg
 ### アンプ
 
 <div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(134,239,172,.3);">
-<h3 style="color:#bbf7d0;margin-top:0;">🔊 80年代バンドサウンドのアンプ</h3>
+<h3 style="color:#111827;margin-top:0;">🔊 80年代バンドサウンドのアンプ</h3>
 <ul style="color:#374151;">
 <li><strong>Marshall JCM800</strong>：布袋寅泰の象徴的なハイゲインサウンド。2チャンネル設計で歪みと音量のコントロールが革命的だった</li>
 <li><strong>Marshall JCM900</strong>：90年代に移行するにつれ普及。JCM800より現代的でゲインが高い</li>
