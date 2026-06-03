@@ -53,8 +53,8 @@ image: /assets/images/thumb-80s-idol.jpg
 | **Roland D-50** | 1987年 | PCM+デジタルシンセ。バブル期サウンドの核心 |
 | **Lexicon 224** | 1978年〜 | デジタルリバーブ。80年代の「広がり感」の正体 |
 
-<div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(252,165,165,.3);">
-<h3 style="color:#fecaca;margin-top:0;">🎹 DX7が変えた音楽の世界</h3>
+<div style="background:#eceae7;border-radius:12px;padding:1.5rem;margin:1.5rem 0;border-left:4px solid #1e3a5f;">
+<h3 style="color:#111827;margin-top:0;">🎹 DX7が変えた音楽の世界</h3>
 <p style="color:#374151;">Yamaha DX7（1983年）は当時19万8千円という価格でありながら、飛ぶように売れた。FM音源による金属的な電子ピアノ音・ベル音・ブラス音は、80年代のポップミュージックを文字通り「定義」した。あの時代の音楽に必ずと言っていいほど入っているEレズ（DXベース）やマリンバ系の音——すべてDX7の仕業だ。</p>
 </div>
 
