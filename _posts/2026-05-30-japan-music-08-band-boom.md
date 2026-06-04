@@ -152,7 +152,7 @@ image: /assets/images/thumb-band-boom.jpg
 <tr style="background:#d0d8e4;"><th style="padding:.5rem .8rem;text-align:left;color:#111827;">代</th><th style="padding:.5rem .8rem;text-align:left;color:#111827;">バンド</th><th style="padding:.5rem .8rem;text-align:left;color:#111827;">特記</th></tr>
 <tr style="border-bottom:1px solid #c8d0dc;"><td style="padding:.5rem .8rem;color:#374151;">初代</td><td style="padding:.5rem .8rem;color:#374151;font-weight:700;">FLYING KIDS</td><td style="padding:.5rem .8rem;color:#374151;">ファンクロック。「幸せであるように」がヒット</td></tr>
 <tr style="background:#eef1f5;border-bottom:1px solid #c8d0dc;"><td style="padding:.5rem .8rem;color:#374151;">２代目</td><td style="padding:.5rem .8rem;color:#374151;font-weight:700;">BEGIN</td><td style="padding:.5rem .8rem;color:#374151;">沖縄出身。「島人ぬ宝」など独自の沖縄ポップで長く活躍</td></tr>
-<tr style="border-bottom:1px solid #c8d0dc;"><td style="padding:.5rem .8rem;color:#374151;">３代目</td><td style="padding:.5rem .8rem;color:#374151;font-weight:700;">たま</td><td style="padding:.5rem .8rem;color:#374151;">「さよなら人類」がオリコン1位。社会現象に</td></tr>
+<tr style="border-bottom:1px solid #c8d0dc;"><td style="padding:.5rem .8rem;color:#374151;">３代目</td><td style="padding:.5rem .8rem;color:#374151;font-weight:700;">たま</td><td style="padding:.5rem .8rem;color:#374151;">「さよなら人類」がオリコン1位。社会現象に　<a href="https://www.youtube.com/results?search_query=%E3%81%9F%E3%81%BE%20%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E4%BA%BA%E9%A1%9E" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;font-weight:600;">▶ 聴く</a></td></tr>
 <tr style="background:#eef1f5;border-bottom:1px solid #c8d0dc;"><td style="padding:.5rem .8rem;color:#374151;">４代目</td><td style="padding:.5rem .8rem;color:#374151;font-weight:700;">マルコシアスバンプ</td><td style="padding:.5rem .8rem;color:#374151;">ハードロック×個性的なビジュアルで異彩を放った</td></tr>
 <tr style="border-bottom:1px solid #c8d0dc;"><td style="padding:.5rem .8rem;color:#374151;">５代目</td><td style="padding:.5rem .8rem;color:#374151;font-weight:700;">LITTLE CREATURES</td><td style="padding:.5rem .8rem;color:#374151;">洗練されたポップセンスとアンサンブルが高評価</td></tr>
 <tr style="background:#eef1f5;"><td style="padding:.5rem .8rem;color:#374151;">６代目</td><td style="padding:.5rem .8rem;color:#374151;font-weight:700;">BLANKEY JET CITY</td><td style="padding:.5rem .8rem;color:#374151;">ガレージロックの荒々しさで圧倒。90年代を代表するバンドへ</td></tr>
@@ -162,17 +162,6 @@ image: /assets/images/thumb-band-boom.jpg
 **番組の革命性**：当時のテレビ音楽番組は「プロだけが出演するもの」だった。イカ天はアマチュアを全国放送に乗せ、ピーク時視聴率20%超を記録。楽器販売が急増し、全国のライブハウスに若いバンドが溢れた。
 
 ### イカ天出身バンドのその後
-
-#### グランドイカ天キング6組
-
-| 代 | バンド | その後 |
-|---|-------|--------|
-| 初代 | **FLYING KIDS** | ファンクロック。「幸せであるように」がヒット |
-| ２代目 | **BEGIN** | 沖縄出身。「島人ぬ宝」など独自の沖縄ポップで長く活躍 |
-| ３代目 | **たま** | 「さよなら人類」がオリコン1位。メジャーデビュー後も独自路線。2003年解散　[▶ 聴く](https://www.youtube.com/results?search_query=%E3%81%9F%E3%81%BE%20%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E4%BA%BA%E9%A1%9E) |
-| ４代目 | **マルコシアスバンプ** | ハードロック×個性的なビジュアルで異彩を放った |
-| ５代目 | **LITTLE CREATURES** | 洗練されたポップセンスとアンサンブルで高評価 |
-| ６代目 | **BLANKEY JET CITY** | ガレージロックの荒々しさで圧倒。90年代ロックを牽引。2000年解散 |
 
 #### グランドイカ天キング以外でイカ天出身のプロデビューバンド
 
