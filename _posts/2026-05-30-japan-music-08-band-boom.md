@@ -18,42 +18,140 @@ image: /assets/images/thumb-band-boom.jpg
 
 ---
 
-## イカ天（三宅裕司のいかすバンド天国）の詳細
+## バンドブームを牽引した10バンド
 
-### 番組の基本システム
+### BOØWY（ボウイ）
 
-「三宅裕司のいかすバンド天国」（略称：イカ天）は1989年2月〜1990年12月、TBSで放送されたアマチュアバンド対抗バトル番組だ。
+<div style="background:#e8edf2;border-radius:12px;padding:1.4rem 1.6rem;margin:1.2rem 0;border-left:4px solid #1e3a5f;">
+<p style="color:#374151;margin:.3rem 0;"><strong>活動期間：</strong>1981〜1987年（解散）</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>メンバー：</strong>氷室京介（Vo）、布袋寅泰（Gt）、松井常松（Ba）、高橋まこと（Dr）</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>サウンドの特徴：</strong>タイトな16ビートカッティング、布袋のコーラスをかけたクリーントーン、氷室の乾いたボーカル。シンプルな構成でありながら圧倒的なグルーヴを生み出した。</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>代表曲：</strong>「Dreamin'」「MARIONETTE」「BAD FEELING」「CLOUDY HEART」</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>なぜ重要か：</strong>1987年の解散がバンドブームの引き金を引いた。「BOØWY になりたい」という若者が全国でバンドを結成し、楽器販売が急増。日本のロックバンドが「かっこいい」という概念を定着させた張本人。</p>
+</div>
 
-**勝ち抜きシステム**：
-1. 毎週5組のバンドが演奏を披露
-2. 審査員（ゲスト含む）とコンテスタントバンドが投票で順位を決定
-3. 1位のバンドは翌週も出場する「チャンピオン」となる
-4. **5週連続チャンピオン**（＝イカ天キング）になると「殿堂入り」となり、メジャーデビューへの道が開かれた
+### BUCK-TICK（バクチク）
+
+<div style="background:#e8edf2;border-radius:12px;padding:1.4rem 1.6rem;margin:1.2rem 0;border-left:4px solid #1e3a5f;">
+<p style="color:#374151;margin:.3rem 0;"><strong>活動期間：</strong>1983年〜2023年（櫻井敦司逝去により終幕）</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>メンバー：</strong>櫻井敦司（Vo）、今井寿（Gt）、星野英彦（Gt）、樋口豊（Ba）、ヤガミ・トール（Dr）</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>サウンドの特徴：</strong>今井寿のアヴァンギャルドなギタースタイルと、電子音楽・ゴシック・インダストリアルを取り込んだ実験性。バンドブームの中で唯一、商業的な成功と芸術的な深化を両立し続けた。</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>代表曲：</strong>「JUST ONE MORE KISS」「悪の華」「JUPITER」「独壇場 Beauty」</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>なぜ重要か：</strong>群馬県出身の5人がメジャーデビューし40年にわたり進化し続けた。バンドブーム出身バンドの中で最長のキャリアを誇り、ヴィジュアル系の源流のひとつでもある。</p>
+</div>
+
+### THE BLUE HEARTS（ザ・ブルーハーツ）
+
+<div style="background:#e8edf2;border-radius:12px;padding:1.4rem 1.6rem;margin:1.2rem 0;border-left:4px solid #1e3a5f;">
+<p style="color:#374151;margin:.3rem 0;"><strong>活動期間：</strong>1985〜1995年</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>メンバー：</strong>甲本ヒロト（Vo）、真島昌利（Gt）、河ちゃん（Ba）、梶くん（Dr）</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>サウンドの特徴：</strong>3コードのシンプルなパンクロック。余計なものを一切排除した直球のサウンドと、甲本ヒロトの絶叫に近いボーカル。「誰でも弾ける」シンプルさが若者を鼓舞した。</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>代表曲：</strong>「リンダリンダ」「TRAIN-TRAIN」「1・2・3・4」「情熱の薔薇」</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>なぜ重要か：</strong>「3コードで世界を変えられる」というパンクの本質を日本に根付かせた。「リンダリンダ」は現在も甲子園の応援歌として歌われ続けている。</p>
+</div>
+
+### ユニコーン
+
+<div style="background:#e8edf2;border-radius:12px;padding:1.4rem 1.6rem;margin:1.2rem 0;border-left:4px solid #1e3a5f;">
+<p style="color:#374151;margin:.3rem 0;"><strong>活動期間：</strong>1986〜1993年（第一期）、2009年〜（再結成）</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>メンバー：</strong>奥田民生（Vo/Gt）、川西幸一（Dr）、手島いさむ（Gt）、阿部義晴（Kb/Vo）、EBI（Ba）</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>サウンドの特徴：</strong>ポップ・ファンク・ハードロック・コメディを自在に横断するカオスな多様性。奥田民生のソングライティングは一見ふざけているようで、メロディの完成度が異常に高い。</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>代表曲：</strong>「大迷惑」「働く男」「すばらしい日々」「ヒゲとボイン」</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>なぜ重要か：</strong>バンドブームの「シリアスなロック」に笑いと余裕を持ち込んだ。奥田民生は解散後もソロ・プロデューサーとして90年代を牽引。</p>
+</div>
+
+### レッド・ウォーリアーズ
+
+<div style="background:#e8edf2;border-radius:12px;padding:1.4rem 1.6rem;margin:1.2rem 0;border-left:4px solid #1e3a5f;">
+<p style="color:#374151;margin:.3rem 0;"><strong>活動期間：</strong>1983〜1990年</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>メンバー：</strong>ダイアモンド✡ユカイ（Vo）、シェイン（Gt）ほか</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>サウンドの特徴：</strong>ハードロックをベースにしながらポップなフックを持つ楽曲。ダイアモンド✡ユカイの個性的なルックスとパフォーマンスで視覚的にも強烈な印象を残した。</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>代表曲：</strong>「Rock'n Rouge」「ロックンロール・ドール」「くちびるから媚薬」</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>なぜ重要か：</strong>バンドブームの中で「ハードロック×アイドル的人気」を両立した先駆け。ダイアモンド✡ユカイは現在もタレントとして活躍し、時代を超えた存在感を示す。</p>
+</div>
+
+### PERSONZ（パーソンズ）
+
+<div style="background:#e8edf2;border-radius:12px;padding:1.4rem 1.6rem;margin:1.2rem 0;border-left:4px solid #1e3a5f;">
+<p style="color:#374151;margin:.3rem 0;"><strong>活動期間：</strong>1982年〜</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>メンバー：</strong>JILL（Vo）、仲川慎之輔（Gt）ほか</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>サウンドの特徴：</strong>女性ボーカルJILLの力強い歌声と、ハードエッジなギターサウンドの融合。男性バンドが主流だったバンドブームで、女性フロントのバンドとして際立った存在感を持った。</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>代表曲：</strong>「DEAR FRIENDS」「Precious Lie」「DON'T BE AFRAID」</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>なぜ重要か：</strong>「DEAR FRIENDS」は後にフジテレビドラマ主題歌として再ブレイク。女性ロックボーカリストの先駆けとして後続への影響は大きい。</p>
+</div>
+
+### THE ROOSTERS（ザ・ルースターズ）
+
+<div style="background:#e8edf2;border-radius:12px;padding:1.4rem 1.6rem;margin:1.2rem 0;border-left:4px solid #1e3a5f;">
+<p style="color:#374151;margin:.3rem 0;"><strong>活動期間：</strong>1979〜1992年</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>メンバー：</strong>大江慎也（Vo/Gt）、花田裕之（Gt）ほか</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>サウンドの特徴：</strong>英国のパブロックとR&Bを消化した本格派ロック。バンドブーム世代の「先生」的存在で、後輩バンドから尊敬を集めた。大江慎也の独特な歌唱スタイルは唯一無二。</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>代表曲：</strong>「I Can Hear The Heart」「Mono Chrome」「20代のレクイエム」</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>なぜ重要か：</strong>バンドブームより先に日本のロックシーンを耕したパイオニア。BOØWYをはじめ多くのバンドに影響を与えた「バンドブームの父」的存在。</p>
+</div>
+
+### BARBEE BOYS（バービーボーイズ）
+
+<div style="background:#e8edf2;border-radius:12px;padding:1.4rem 1.6rem;margin:1.2rem 0;border-left:4px solid #1e3a5f;">
+<p style="color:#374151;margin:.3rem 0;"><strong>活動期間：</strong>1982〜1992年</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>メンバー：</strong>INARAZAKI KOICHI（Vo/Sax）、杏子（Vo）、いまみちともたか（Gt）ほか</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>サウンドの特徴：</strong>男女ツインボーカルとサックスを組み込んだファンキーなロック。バンドブームの中で最もソウル・R&Bの影響を色濃く反映していた。杏子と恭一の掛け合いボーカルが独特の色気を生んだ。</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>代表曲：</strong>「暗闇でDANCE」「負けるもんか」「女ぎつねon the Run」</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>なぜ重要か：</strong>「男女バンド」という形態を定着させ、バンドのサウンドの幅を広げた。杏子はソロでも活躍し現在も精力的に活動。</p>
+</div>
+
+### BLANKEY JET CITY（ブランキー・ジェット・シティ）
+
+<div style="background:#e8edf2;border-radius:12px;padding:1.4rem 1.6rem;margin:1.2rem 0;border-left:4px solid #1e3a5f;">
+<p style="color:#374151;margin:.3rem 0;"><strong>活動期間：</strong>1990〜2000年</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>メンバー：</strong>浅井健一（Vo/Gt）、照井利幸（Ba）、中村達也（Dr）</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>サウンドの特徴：</strong>3ピースとは思えない爆音と圧密なグルーヴ。アメリカのガレージロック・ブルースを飲み込んだ荒削りなサウンドに、浅井健一の詩的で暴力的な歌詞が乗る。</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>代表曲：</strong>「悪いひとたち」「sweet days」「JUKEBOX」「赤いタンバリン」</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>なぜ重要か：</strong>イカ天出演をきっかけにプロデビュー。バンドブームの終盤から90年代ロックへの橋渡し役を担い、解散後の浅井健一（ベンジー）は伝説的存在に。</p>
+</div>
+
+### THE HIGH-LOWS（ザ・ハイロウズ）
+
+<div style="background:#e8edf2;border-radius:12px;padding:1.4rem 1.6rem;margin:1.2rem 0;border-left:4px solid #1e3a5f;">
+<p style="color:#374151;margin:.3rem 0;"><strong>活動期間：</strong>1995〜2005年</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>メンバー：</strong>甲本ヒロト（Vo）、真島昌利（Gt）ほか</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>サウンドの特徴：</strong>THE BLUE HEARTS解散後に甲本・真島コンビが結成。よりロックンロールの本質に迫るサウンドへ進化。3コードの哲学はそのままに、音の厚みとスピードが増した。</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>代表曲：</strong>「日曜日よりの使者」「Too much pain」「千年メダル」</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>なぜ重要か：</strong>バンドブーム世代のヒロト・マーシーが90年代にも第一線で活躍したことを証明。現在はTHE CROMANYONSとして活動継続中。</p>
+</div>
+
+<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;">
+<a href="https://www.youtube.com/results?search_query=BOOWY%20Dreamin" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ BOØWY「Dreamin'」を聴く</a>
+</div>
+<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;">
+<a href="https://www.youtube.com/results?search_query=THE%20BLUE%20HEARTS%201%202%203%204" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ THE BLUE HEARTS「1・2・3・4」を聴く</a>
+</div>
+
+---
+
+## イカ天（三宅裕司のいかすバンド天国）
+
+「三宅裕司のいかすバンド天国」（略称：イカ天）は1989年2月〜1990年12月、TBSで放送されたアマチュアバンド対抗バトル番組だ。毎週5組が演奏を披露し、審査員と出演バンドの投票で1位を決定。**5週連続チャンピオン**になると「イカ天キング」の称号を得て殿堂入り、メジャーデビューへの道が開かれた。
 
 ### イカ天キングとグランドイカ天キング
 
 <div style="background:#e8edf2;border-radius:12px;padding:1.5rem;margin:1.5rem 0;border-left:4px solid #1e3a5f;">
 <h3 style="color:#111827;margin-top:0;">🏆 称号の仕組み</h3>
 <p style="color:#374151;margin:.4rem 0;"><strong>イカ天キング</strong>：5週連続勝ち抜いたバンドに与えられる称号。番組を通じて複数のバンドが獲得した。</p>
-<p style="color:#374151;margin:.4rem 0;"><strong>グランドイカ天キング</strong>：番組の総決算として行われたトーナメント「グランドイカ天王座決定戦」を制したバンドだけが名乗れる最高称号。1990年の番組終盤に開催され、イカ天キング同士が激突した。グランドイカ天キングに輝いたのは<strong>たま</strong>。「さよなら人類」がオリコンシングル1位を獲得し、アマチュアバンドの全国制覇という前例のない快挙となった。</p>
+<p style="color:#374151;margin:.4rem 0;"><strong>グランドイカ天キング</strong>：番組終盤に開催された「グランドイカ天王座決定戦」でイカ天キング同士が激突し、頂点に立ったバンドだけが名乗れる最高称号。グランドイカ天キングに輝いたのは<strong>たま</strong>。「さよなら人類」がオリコンシングル1位を獲得し、アマチュアバンドの全国制覇という前例のない快挙となった。</p>
 </div>
 
-**番組の革命性**：当時のテレビ音楽番組は「すでにデビューしたプロ」が出演するのが常識だった。イカ天はアマチュアバンドを全国放送に乗せ、「素人でも全国デビューできる」という夢を可視化した。ピーク時の視聴率は20%超。楽器販売が急増し、全国のライブハウスに若いバンドが溢れた。
+**番組の革命性**：当時のテレビ音楽番組は「プロだけが出演するもの」だった。イカ天はアマチュアを全国放送に乗せ、ピーク時視聴率20%超を記録。楽器販売が急増し、全国のライブハウスに若いバンドが溢れた。
 
-<figure style="margin:1.5rem 0;">
-<img src="/assets/images/japan-music-08-img1.jpg" alt="1980年代 原宿ホコ天 路上ライブ バンドブーム" style="width:100%;border-radius:10px;height:auto;" loading="lazy">
-<figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>バンドブーム時代の原宿・渋谷ホコ天。路上ライブに集まる若者たち（イメージ）</figcaption>
-</figure>
-
-### イカ天出身バンドたちのその後
+### イカ天キング・出身バンドのその後
 
 #### グランドイカ天キング・イカ天キング獲得バンド
 
 | バンド | イカ天での記録 | その後 |
 |-------|-------------|--------|
-| **たま** | **グランドイカ天キング**。「さよなら人類」がオリコン1位、社会現象に | メジャーデビュー後も独自路線を貫く。2003年解散 |
-| **人間椅子** | イカ天キング獲得。重金属サウンドと文学的歌詞で審査員を唖然とさせた | 現在も精力的に活動中。イカ天出身で最も長く続くバンドのひとつ |
-| **FLYING KIDS** | イカ天キング獲得。社会人バンドとして話題。ファンクロックが特徴 | メジャーデビューし「幸せであるように」がヒット |
+| **たま** | **グランドイカ天キング**。「さよなら人類」がオリコン1位 | メジャーデビュー後も独自路線を貫く。2003年解散 |
+| **人間椅子** | イカ天キング獲得。重金属×文学的歌詞で審査員を唖然とさせた | 現在も精力的に活動中。イカ天出身最長寿バンドのひとつ |
+| **FLYING KIDS** | イカ天キング獲得。社会人バンドとして話題。ファンクロック | 「幸せであるように」がヒット |
 | **ウルフルズ** | イカ天キング獲得。大阪弁のロックで個性を放つ | 「ガッツだぜ!!」「バンザイ」など90年代を代表するヒット連発 |
 | **ラブリーズ** | イカ天キング獲得。当時珍しい女性バンドとして注目 | メジャーデビュー後、活動を継続 |
 
@@ -61,60 +159,47 @@ image: /assets/images/thumb-band-boom.jpg
 
 | バンド | イカ天での印象 | その後 |
 |-------|------------|--------|
-| **BLANKEY JET CITY** | ガレージロック的な荒々しさと圧倒的な存在感 | 仲井戸麗市・浅井健一・中村達也のトリオが1990年代ロックを牽引。2000年解散 |
-| **ZI:KILL** | ヴィジュアル系の先駆けとして登場、退廃的な世界観 | バンドブームからV系ブームへの架け橋。1995年解散 |
-| **東京少年** | 徳永英明プロデュース。女性ボーカルの透明感が話題 | メジャーデビューし「渡良瀬橋」などを輩出 |
-| **GLAY** | イカ天出演当時はまだ無名の函館出身バンド。後にTERUのボーカルが評価される | BUCK-TICKの今井寿に認められTERU・TAKU・HISASHI・JIROの4人でデビュー。「BELOVED」「Winter,again」など累計3000万枚超の記録的セールスを誇る | 
-| **筋肉少女帯** | イカ天時はすでにメジャー。特別枠的な出演で視聴者を圧倒 | 大槻ケンヂ率いる個性派として現在も活動継続 |
+| **BLANKEY JET CITY** | ガレージロック的な荒々しさと圧倒的な存在感 | 90年代ロックを牽引。2000年解散 |
+| **GLAY** | 函館出身の無名バンド。TERUのボーカルが評価される | 「BELOVED」「Winter,again」など累計3000万枚超 |
+| **ZI:KILL** | ヴィジュアル系の先駆け。退廃的な世界観 | V系ブームへの架け橋。1995年解散 |
+| **東京少年** | 女性ボーカルの透明感が話題 | メジャーデビュー |
+| **筋肉少女帯** | すでにメジャー。特別出演的な衝撃を与えた | 大槻ケンヂ率いる個性派として現在も活動 |
 
 <div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;">
 <a href="https://www.youtube.com/results?search_query=%E3%81%9F%E3%81%BE%20%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E4%BA%BA%E9%A1%9E" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「さよなら人類」（たま）を聴く</a>
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;">
-<a href="https://www.youtube.com/results?search_query=BOOWY%20Dreamin" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ BOØWY「Dreamin'」を聴く</a>
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;">
-
-<a href="https://www.youtube.com/results?search_query=THE%20BLUE%20HEARTS%201%202%203%204" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ THE BLUE HEARTS「1・2・3・4」を聴く</a>
-
-</div>
-</div>
 </div>
 
 ---
 
-## バンドブームを支えた機材（詳細）
+## バンドブームを支えた機材
+
+<figure style="margin:1.5rem 0;">
+<img src="/assets/images/japan-music-08-img1.jpg" alt="1980年代 原宿ホコ天 路上ライブ バンドブーム" style="width:100%;border-radius:10px;height:auto;" loading="lazy">
+<figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>バンドブーム時代の原宿・渋谷ホコ天。路上ライブに集まる若者たち（イメージ）</figcaption>
+</figure>
 
 ### エレキギター
 
 | モデル | 代表ユーザー | サウンドの特徴 |
 |---|---|---|
-| **Gibson Les Paul** | 布袋寅泰（BOØWY）、樋口宗孝 | 太くウォームなトーン。ハムバッカーによる中低域の厚み |
+| **Gibson Les Paul** | 布袋寅泰（BOØWY） | 太くウォームなトーン。ハムバッカーによる中低域の厚み |
 | **Fender Stratocaster** | 今井寿（BUCK-TICK） | シャープでブライトなトーン。シングルコイルの繊細さ |
-| **ESP カスタム** | X JAPAN・BUCK-TICK各メンバー | 日本製カスタムの精度が世界レベルへ。ネックの薄さと速弾き対応 |
-| **Fender Telecaster** | THE BLUE HEARTSのギタリスト | シンプルでパンキッシュな音。ローコストで手に入るのもパンク的 |
+| **ESP カスタム** | X JAPAN・BUCK-TICK各メンバー | 日本製カスタムの精度が世界レベルへ |
+| **Fender Telecaster** | THE BLUE HEARTSのギタリスト | シンプルでパンキッシュな音 |
 | **Greco / Tokai（国産コピーモデル）** | 地方の若手バンドマン全般 | 本家の1/3以下の価格で同等のプレイアビリティ |
 
-### アンプ
+### アンプ・エフェクター
 
-<div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(134,239,172,.3);">
-<h3 style="color:#111827;margin-top:0;">🔊 80年代バンドサウンドのアンプ</h3>
+<div style="background:#e8edf2;border-radius:12px;padding:1.5rem;margin:1.5rem 0;border-left:4px solid #1e3a5f;">
+<h3 style="color:#111827;margin-top:0;">🔊 80年代バンドサウンドの定番機材</h3>
 <ul style="color:#374151;">
-<li><strong>Marshall JCM800</strong>：布袋寅泰の象徴的なハイゲインサウンド。2チャンネル設計で歪みと音量のコントロールが革命的だった</li>
-<li><strong>Marshall JCM900</strong>：90年代に移行するにつれ普及。JCM800より現代的でゲインが高い</li>
+<li><strong>Marshall JCM800</strong>：布袋寅泰の象徴的なハイゲインサウンド。この時代のロックギタリストの「基準」となったアンプ</li>
 <li><strong>Roland JC-120（ジャズコーラス）</strong>：クリーンとコーラスの組み合わせ。今井寿がよく使用</li>
-<li><strong>Fender Twin Reverb</strong>：クリーントーン派のギタリストが愛用。コーラス系エフェクトをかけて使うのが定番</li>
+<li><strong>BOSS DS-1</strong>：安価で扱いやすい歪み。初心者から上級者まで幅広く使われた</li>
+<li><strong>BOSS CE-2（コーラス）</strong>：布袋寅泰の代名詞。廃番後も中古市場で高値が続く</li>
+<li><strong>BOSS DD-3（デジタルディレイ）</strong>：空間系の定番。クリアなリピート音</li>
 </ul>
 </div>
-
-### エフェクター（詳細）
-
-| エフェクター | 種類 | 代表ユーザー | 音の特徴 |
-|------------|------|------------|--------|
-| **BOSS DS-1** | ディストーション | 多くのバンド | 安価で扱いやすい歪み。初心者の定番 |
-| **BOSS CE-2** | コーラス | 布袋寅泰 | 温かくウォームなコーラス音。廃番後も根強い人気 |
-| **BOSS DD-3** | デジタルディレイ | 広く普及 | クリアなリピート音。空間系の基本 |
-| **Ibanez TS-808 Tube Screamer** | オーバードライブ | SRV影響を受けたギタリスト | 中域のプッシュ感が独特。アンプのドライブを引き出す |
-| **MXR Phase 90** | フェイザー | 一部のギタリスト | 揺れる空間系サウンド |
-| **BOSS CS-3** | コンプレッサー | プロ志向のプレイヤー | サステインを均一にし、音の粒を揃える |
 
 <figure style="margin:1.5rem 0;">
 <img src="/assets/images/japan-music-08-img2.jpg" alt="エフェクターボード BOSS DS-1 CE-2 DD-3" style="width:100%;border-radius:10px;height:auto;" loading="lazy">
@@ -124,24 +209,6 @@ image: /assets/images/thumb-band-boom.jpg
 <div style="margin:.8rem 0;"><span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🛒 サウンドハウスで探す</span>
 <a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D150" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="200" style="height:auto;border-radius:8px;display:block;"></a></div><div style="margin:.8rem 0;"><span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span>
 <a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC%20%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%82%BF%E3%83%BC%20%E3%83%90%E3%83%B3%E3%83%89%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="height:auto;border-radius:8px;display:block;"></a></div>
-
-### 機材の配線図（シグナルチェーン）
-
-```
-ギター → チューナー → コンプレッサー → 歪みペダル → モジュレーション → ディレイ → アンプ
-         (BOSS TU-2)  (Boss CS-3)   (DS-1 or TS-808)    (CE-2)       (DD-3)  (Marshall JCM800)
-```
-
----
-
-## バンドブーム世代のサウンドを現代で再現
-
-### BOØWY的なサウンドを作る
-
-1. **Gibson Les Paul**（またはハムバッカー搭載ギター）
-2. **Marshall系アンプ**のミドル多めのセッティング
-3. **コーラスエフェクト**をクリーントーンにかける
-4. **16ビートカッティング**のタイト感が特徴
 
 ### 現代のマルチエフェクターで再現
 
@@ -167,9 +234,6 @@ image: /assets/images/thumb-band-boom.jpg
 ## バンドブームが残したもの
 
 バンドブームは1992年頃に第一の波が終わるが、その後も第二波（ヴィジュアル系）、第三波（渋谷系）と形を変えながら続いていく。最大の遺産は**「バンドを組んで自分たちで音楽を作る」というDIY精神の定着**。プロでなくても音楽を表現できる——その感覚が、後のDTM普及やボカロ文化へと繋がっていく。
-
-
----
 
 ---
 
