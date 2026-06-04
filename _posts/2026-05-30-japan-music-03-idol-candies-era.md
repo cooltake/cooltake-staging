@@ -109,8 +109,8 @@ E → F#m → C#m → A → E → B（転調感を出す）
 <a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMIDI%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="height:auto;border-radius:8px;display:block;"></a></div>
 
 Fender Rhodesの音色は、以下のプラグインで高品質に再現できる：
-- **Arturia Wurli V**（Wurlitzer再現）
-- **Native Instruments Vintage Organs**
+- **Arturia Wurli V**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F286994%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a>（Wurlitzer再現）
+- **Native Instruments Vintage Organs**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F241657%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a>
 - **Lounge Lizard EP-4**（Applied Acoustics）
 
 ### ストリングスアレンジ
