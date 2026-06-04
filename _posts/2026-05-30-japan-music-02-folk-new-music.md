@@ -28,7 +28,7 @@ image: /assets/images/thumb-folk-new-music.jpg
 この時代の歌詞の特徴は「具体的な生活の描写」だ。「神田川」では「二十四色のクレパス買って あなたはわたしに似せて描く」という一節が、当時の若者の日常をそのまま切り取った。音楽が「社会問題を叫ぶもの」から「自分たちの日常を歌うもの」へと変わった瞬間だった。
 
 **使用機材**
-- **Martin D-28 / Gibson J-45**：フォーク御三家の愛用アコギ
+- **Martin D-28 / Gibson J-45**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F52519%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a>：フォーク御三家の愛用アコギ
 - **YAMAHA FG-180**：国産フォークギターの代名詞。1万円台という安さで日本中に普及し、フォークブームを底辺から支えた
 
 ### 2. ニューミュージックへの進化（1974〜79年）
@@ -97,9 +97,9 @@ image: /assets/images/thumb-folk-new-music.jpg
 
 Roland RE-201の温かいエコーサウンドは、現代ではプラグインで手軽に再現できる：
 
-- **Roland RE-201 Space Echo**（公式ソフトウェア版）
+- **Roland RE-201 Space Echo**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F305846%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a>（公式ソフトウェア版）
 - **Valhalla Delay**：テープサチュレーション対応
-- **Arturia Tape MELLO-FI**：アナログテープ質感
+- **Arturia Tape MELLO-FI**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F385582%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a>：アナログテープ質感
 
 
 ## 時代別必聴アルバム5選
