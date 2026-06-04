@@ -153,7 +153,7 @@ Fmaj7 → Em7 → Am7 → Dm7 → G7sus4 → G7
 
 
 
-- **Rhodes / Wurlitzer プラグイン**：エレピは必須
+- **Rhodes / Wurlitzer プラグイン**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F182811%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a>：エレピは必須
 
 - **コーラスエフェクト**：Roland JC-120系の広がり（Valhalla Chorus等）
 
