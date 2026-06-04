@@ -91,10 +91,10 @@ Aメロ：DX7系シンセベース + TR-909ドラム
 
 | 機材 | 特徴 | 代表的な使われ方 |
 |---|---|---|
-| **Yamaha DX7** | FM音源の電子ピアノ・ベル音 | TM NETWORKのシンセベース |
+| **Yamaha DX7**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F205252%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a> | FM音源の電子ピアノ・ベル音 | TM NETWORKのシンセベース |
 | **Roland D-50** | PCM+デジタルシンセ。1987年登場 | バブル期サウンドの象徴的な音色 |
 | **Korg M1** | 1988年登場。PCM音源の革命 | 後の小室サウンドに直結 |
-| **Roland JD-800** | 1991年。アナログ感覚のデジタルシンセ | 90年代への橋渡し |
+| **Roland JD-800**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F320031%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a> | 1991年。アナログ感覚のデジタルシンセ | 90年代への橋渡し |
 | **LinnDrum** | 高品質ドラムマシン | AOR系アーティストが愛用 |
 
 
