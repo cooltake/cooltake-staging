@@ -89,7 +89,7 @@ T-SQUAREの「TRUTH」（1987年）は、日本フュージョン史上最も有
 
 ### ギター・アンプ
 
-- **Ibanez カスタムギター**（日本製クオリティがこの時代に急上昇）
+- **Ibanez カスタムギター**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F202881%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a>（日本製クオリティがこの時代に急上昇）
 - **Roland JC-120（ジャズコーラス）**：クリーントーンアンプの定番
 - **Eventide Harmonizer**：ピッチシフターを使った空間系エフェクト
 
