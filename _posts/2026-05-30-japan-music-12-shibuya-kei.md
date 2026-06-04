@@ -41,8 +41,6 @@ image: /assets/images/thumb-shibuya-kei.jpg
 
 
 
-image: /assets/images/thumb-shibuya-kei.jpg
----
 
 
 
@@ -98,7 +96,6 @@ image: /assets/images/thumb-shibuya-kei.jpg
 
 
 
----
 
 
 
@@ -123,15 +120,10 @@ image: /assets/images/thumb-shibuya-kei.jpg
 
 
 | 変革点 | 従来のJ-POP | 宇多田以降 |
-
 |--------|------------|----------|
-
 | ボーカルスタイル | メロディー重視・母音強調 | R&B的コブシ・メリスマ |
-
 | 歌詞の語り口 | 三人称・情景描写 | 一人称・内省的・英語混じり |
-
 | サウンド | 歌謡曲的コード進行 | ミニマルR&B・トリップホップ |
-
 | プロデュース | 大手音楽プロダクション主導 | 本人が詞・曲・プロデュース |
 
 
@@ -150,7 +142,6 @@ image: /assets/images/thumb-shibuya-kei.jpg
 
 
 
----
 
 
 
@@ -180,7 +171,6 @@ image: /assets/images/thumb-shibuya-kei.jpg
 
 
 
----
 
 
 
@@ -202,7 +192,6 @@ image: /assets/images/thumb-shibuya-kei.jpg
 
 
 
----
 
 
 
@@ -257,7 +246,6 @@ image: /assets/images/thumb-shibuya-kei.jpg
 </div>
 
 
----
 
 
 
@@ -274,17 +262,11 @@ image: /assets/images/thumb-shibuya-kei.jpg
 
 
 | アーティスト | 影響を与えた要素 |
-
 |------------|--------------|
-
 | Orange Juice（スコットランド） | ネオアコのギターカッティング |
-
 | The Smiths（英国） | 内省的な歌詞とポップなメロディの同居 |
-
 | Felt（英国） | インディーズ的な音のシンプルさ |
-
 | Serge Gainsbourg（フランス） | フレンチポップ的な洒落た感覚 |
-
 | Astrud Gilberto（ブラジル） | ボサノバのリズムと浮遊感 |
 
 
@@ -323,7 +305,6 @@ image: /assets/images/thumb-shibuya-kei.jpg
 
 4. **英語と日本語の自然な混在**：翻訳感のない日英ミックス
 
----
 
 <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:.8rem;margin:2rem 0;">
 <a href="/2026/05/30/japan-music-11-komuro-jpop/" style="display:inline-block;padding:.5rem 1rem;background:#e8edf2;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">← #11 小室サウンド</a>
