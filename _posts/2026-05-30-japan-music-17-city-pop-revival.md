@@ -33,8 +33,6 @@ image: /assets/images/thumb-city-pop-revival.jpg
 
 
 
-image: /assets/images/thumb-city-pop-revival.jpg
----
 
 
 
@@ -63,22 +61,15 @@ image: /assets/images/thumb-city-pop-revival.jpg
 
 
 | アーティスト | 代表作 | 特徴 |
-
 |---|---|---|
-
 | **山下達郎** | 「Ride On Time」「クリスマス・イブ」 | コーラスワークの職人 |
-
 | **竹内まりや** | 「Plastic Love」「September」 | AOR×J-POP |
-
 | **大貫妙子** | 「都会」「4:00 A.M.」 | フレンチポップ×シティポップ |
-
 | **松原みき** | 「真夜中のドア〜Stay With Me」 | 世界的バイラルヒット |
-
 | **杏里** | 「悲しみがとまらない」 | AORの傑作 |
 
 
 
----
 
 
 
@@ -108,7 +99,6 @@ image: /assets/images/thumb-city-pop-revival.jpg
 
 
 
----
 
 
 
@@ -182,7 +172,6 @@ Fmaj7 → Em7 → Am7 → Dm7 → G7sus4 → G7
 
 
 
----
 
 
 
@@ -198,7 +187,6 @@ Fmaj7 → Em7 → Am7 → Dm7 → G7sus4 → G7
 
 
 
----
 
 
 
@@ -253,7 +241,6 @@ Fmaj7 → Em7 → Am7 → Dm7 → G7sus4 → G7
 </div>
 
 
----
 
 
 
@@ -319,7 +306,6 @@ Fmaj7 → Em7 → Am7 → Dm7 → G7sus4 → G7
 
 「Midnight Rain by Taylor Swift」にもシティポップ的なコード感が使われているという分析もあり、世界的な音楽語彙に組み込まれた。
 
----
 
 <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:.8rem;margin:2rem 0;">
 <a href="/2026/05/30/japan-music-16-2010s-band/" style="display:inline-block;padding:.5rem 1rem;background:#e8edf2;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">← #16 2010年代バンドリバイバル</a>
