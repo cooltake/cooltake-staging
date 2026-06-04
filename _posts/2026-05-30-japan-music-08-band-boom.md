@@ -28,6 +28,7 @@ image: /assets/images/thumb-band-boom.jpg
 <p style="color:#374151;margin:.3rem 0;"><strong>サウンドの特徴：</strong>タイトな16ビートカッティング、布袋のコーラスをかけたクリーントーン、氷室の乾いたボーカル。シンプルな構成でありながら圧倒的なグルーヴを生み出した。</p>
 <p style="color:#374151;margin:.3rem 0;"><strong>代表曲：</strong>「Dreamin'」「MARIONETTE」「BAD FEELING」「CLOUDY HEART」</p>
 <p style="color:#374151;margin:.3rem 0;"><strong>なぜ重要か：</strong>1987年の解散がバンドブームの引き金を引いた。「BOØWY になりたい」という若者が全国でバンドを結成し、楽器販売が急増。日本のロックバンドが「かっこいい」という概念を定着させた張本人。</p>
+<a href="https://www.youtube.com/results?search_query=BOOWY%20Dreamin" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;margin-top:.6rem;">▶ BOØWY「Dreamin'」を聴く</a>
 </div>
 
 ### BUCK-TICK（バクチク）
@@ -48,6 +49,7 @@ image: /assets/images/thumb-band-boom.jpg
 <p style="color:#374151;margin:.3rem 0;"><strong>サウンドの特徴：</strong>3コードのシンプルなパンクロック。余計なものを一切排除した直球のサウンドと、甲本ヒロトの絶叫に近いボーカル。「誰でも弾ける」シンプルさが若者を鼓舞した。</p>
 <p style="color:#374151;margin:.3rem 0;"><strong>代表曲：</strong>「リンダリンダ」「TRAIN-TRAIN」「1・2・3・4」「情熱の薔薇」</p>
 <p style="color:#374151;margin:.3rem 0;"><strong>なぜ重要か：</strong>「3コードで世界を変えられる」というパンクの本質を日本に根付かせた。「リンダリンダ」は現在も甲子園の応援歌として歌われ続けている。</p>
+<a href="https://www.youtube.com/results?search_query=THE%20BLUE%20HEARTS%201%202%203%204" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;margin-top:.6rem;">▶ THE BLUE HEARTS「1・2・3・4」を聴く</a>
 </div>
 
 ### ユニコーン
@@ -120,12 +122,6 @@ image: /assets/images/thumb-band-boom.jpg
 <p style="color:#374151;margin:.3rem 0;"><strong>なぜ重要か：</strong>バンドブーム世代のヒロト・マーシーが90年代にも第一線で活躍したことを証明。現在はTHE CROMANYONSとして活動継続中。</p>
 </div>
 
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;">
-<a href="https://www.youtube.com/results?search_query=BOOWY%20Dreamin" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ BOØWY「Dreamin'」を聴く</a>
-</div>
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;">
-<a href="https://www.youtube.com/results?search_query=THE%20BLUE%20HEARTS%201%202%203%204" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ THE BLUE HEARTS「1・2・3・4」を聴く</a>
-</div>
 
 ---
 
@@ -168,7 +164,7 @@ image: /assets/images/thumb-band-boom.jpg
 |---|-------|--------|
 | 初代 | **FLYING KIDS** | ファンクロック。「幸せであるように」がヒット |
 | ２代目 | **BEGIN** | 沖縄出身。「島人ぬ宝」など独自の沖縄ポップで長く活躍 |
-| ３代目 | **たま** | 「さよなら人類」がオリコン1位。メジャーデビュー後も独自路線。2003年解散 |
+| ３代目 | **たま** | 「さよなら人類」がオリコン1位。メジャーデビュー後も独自路線。2003年解散　[▶ 聴く](https://www.youtube.com/results?search_query=%E3%81%9F%E3%81%BE%20%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E4%BA%BA%E9%A1%9E) |
 | ４代目 | **マルコシアスバンプ** | ハードロック×個性的なビジュアルで異彩を放った |
 | ５代目 | **LITTLE CREATURES** | 洗練されたポップセンスとアンサンブルで高評価 |
 | ６代目 | **BLANKEY JET CITY** | ガレージロックの荒々しさで圧倒。90年代ロックを牽引。2000年解散 |
@@ -180,9 +176,6 @@ image: /assets/images/thumb-band-boom.jpg
 | **人間椅子** | 重金属×文学的歌詞で審査員を唖然とさせた | 現在も精力的に活動中。イカ天出身最長寿バンドのひとつ |
 | **GLAY** | 函館出身の無名バンド。TERUのボーカルが評価される | 「BELOVED」「Winter,again」など累計3000万枚超 |
 
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;">
-<a href="https://www.youtube.com/results?search_query=%E3%81%9F%E3%81%BE%20%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E4%BA%BA%E9%A1%9E" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「さよなら人類」（たま）を聴く</a>
-</div>
 
 ---
 
