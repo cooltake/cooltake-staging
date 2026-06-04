@@ -43,8 +43,6 @@ image: /assets/images/thumb-2000s-idol.jpg
 
 
 
-image: /assets/images/thumb-2000s-idol.jpg
----
 
 
 
@@ -70,7 +68,6 @@ image: /assets/images/thumb-2000s-idol.jpg
 
 
 
----
 
 
 
@@ -100,7 +97,6 @@ EXILEの成功は後に**LDH**（Love Dream Happiness）という大きなエン
 
 
 
----
 
 
 
@@ -136,7 +132,6 @@ EXILEの成功は後に**LDH**（Love Dream Happiness）という大きなエン
 
 
 
----
 
 
 
@@ -145,22 +140,15 @@ EXILEの成功は後に**LDH**（Love Dream Happiness）という大きなエン
 
 
 | 機材 | 用途 | 特記 |
-
 |------|------|------|
-
 | Apple Logic Pro | DAW | 2000年代にProToolsと並ぶ標準に |
-
 | Roland Fantom-X | シンセ・音源 | J-POP制作の定番ワークステーション |
-
 | Akai MPC2500 | サンプラー | R&B・ヒップホップ系に必須 |
-
 | Native Instruments Komplete | プラグイン | ソフトシンセ普及の象徴 |
-
 | Pro Tools HD | DAW/録音 | プロスタジオの標準 |
 
 
 
----
 
 
 
@@ -178,7 +166,6 @@ EXILEの成功は後に**LDH**（Love Dream Happiness）という大きなエン
 
 
 
----
 
 
 
@@ -233,7 +220,6 @@ EXILEの成功は後に**LDH**（Love Dream Happiness）という大きなエン
 </div>
 
 
----
 
 
 
@@ -305,7 +291,6 @@ EXILEが確立した「ダンスに最適化された楽曲設計」：
 
 - ブレイクダウン（静かなパート）を必ず入れる（技の見せ場）
 
----
 
 <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:.8rem;margin:2rem 0;">
 <a href="/2026/05/30/japan-music-13-hiphop-rb/" style="display:inline-block;padding:.5rem 1rem;background:#e8edf2;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">← #13 ヒップホップ・R&B</a>
