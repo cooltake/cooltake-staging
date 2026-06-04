@@ -16,6 +16,11 @@ image: /assets/images/thumb-band-boom.jpg
 - **ホコ天（歩行者天国）**：原宿・渋谷の歩行者天国でバンドが路上ライブを行い、スカウトされるケースが続出
 - **イカ天（三宅裕司のいかすバンド天国、1989年〜）**：TBSのオーディション番組。週1回の放送が社会現象に
 
+<figure style="margin:1.5rem 0;">
+<img src="/assets/images/japan-music-08-img1.jpg" alt="1980年代 原宿ホコ天 路上ライブ バンドブーム" style="width:100%;border-radius:10px;height:auto;" loading="lazy">
+<figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>バンドブーム時代の原宿・渋谷ホコ天。路上ライブに集まる若者たち（イメージ）</figcaption>
+</figure>
+
 ---
 
 ## バンドブームを牽引した10バンド
@@ -180,11 +185,6 @@ image: /assets/images/thumb-band-boom.jpg
 ---
 
 ## バンドブームを支えた機材
-
-<figure style="margin:1.5rem 0;">
-<img src="/assets/images/japan-music-08-img1.jpg" alt="1980年代 原宿ホコ天 路上ライブ バンドブーム" style="width:100%;border-radius:10px;height:auto;" loading="lazy">
-<figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>バンドブーム時代の原宿・渋谷ホコ天。路上ライブに集まる若者たち（イメージ）</figcaption>
-</figure>
 
 ### エレキギター
 
