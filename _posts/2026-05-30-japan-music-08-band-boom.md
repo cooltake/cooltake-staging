@@ -173,15 +173,12 @@ image: /assets/images/thumb-band-boom.jpg
 | ５代目 | **LITTLE CREATURES** | 洗練されたポップセンスとアンサンブルで高評価 |
 | ６代目 | **BLANKEY JET CITY** | ガレージロックの荒々しさで圧倒。90年代ロックを牽引。2000年解散 |
 
-#### イカ天出演後にプロデビューした主なバンド
+#### グランドイカ天キング以外でイカ天出身のプロデビューバンド
 
 | バンド | イカ天での印象 | その後 |
 |-------|------------|--------|
 | **人間椅子** | 重金属×文学的歌詞で審査員を唖然とさせた | 現在も精力的に活動中。イカ天出身最長寿バンドのひとつ |
 | **GLAY** | 函館出身の無名バンド。TERUのボーカルが評価される | 「BELOVED」「Winter,again」など累計3000万枚超 |
-| **ZI:KILL** | ヴィジュアル系の先駆け。退廃的な世界観 | V系ブームへの架け橋。1995年解散 |
-| **東京少年** | 女性ボーカルの透明感が話題 | メジャーデビュー |
-| **筋肉少女帯** | すでにメジャー。特別出演的な衝撃を与えた | 大槻ケンヂ率いる個性派として現在も活動 |
 
 <div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;">
 <a href="https://www.youtube.com/results?search_query=%E3%81%9F%E3%81%BE%20%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E4%BA%BA%E9%A1%9E" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「さよなら人類」（たま）を聴く</a>
