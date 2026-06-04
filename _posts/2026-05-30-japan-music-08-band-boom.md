@@ -40,8 +40,8 @@ image: /assets/images/thumb-band-boom.jpg
 - ライブハウス文化の普及を後押しした
 
 <figure style="margin:1.5rem 0;">
-<img src="/assets/images/japan-music-08-img1.jpg" alt="1980年代 日本のロックバンド リハーサル" style="width:100%;border-radius:10px;height:auto;" loading="lazy">
-<figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>バンドブーム時代の若者たちがライブハウスでリハーサルをする風景（イメージ）</figcaption>
+<img src="/assets/images/japan-music-08-img1.jpg" alt="1980年代 原宿ホコ天 路上ライブ バンドブーム" style="width:100%;border-radius:10px;height:auto;" loading="lazy">
+<figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>バンドブーム時代の原宿・渋谷ホコ天。路上ライブに集まる若者たち（イメージ）</figcaption>
 </figure>
 
 ### イカ天出身バンドたちのその後
