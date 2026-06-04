@@ -105,7 +105,7 @@ GSサウンドの核心はエレキギター。当時使われていた主なモ
 
 ビザールギターの質感を現代の品質で再現するなら：
 
-- **Fender Vintera シリーズ**：60年代スペックの復刻
+- **Fender Vintera シリーズ**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F349758%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a>：60年代スペックの復刻
 - **Gretsch Electromatic**：手の届く価格でホロウボディサウンド
 - **Mosrite復刻モデル**：各社から復刻品あり
 
@@ -119,7 +119,7 @@ DAWユーザーなら以下のプラグインでGS的なサウンドを作れま
 
 - **Valhalla Vintage Verb**：スプリングリバーブモード
 - **IK Multimedia AmpliTube**：VOX AC30モデリング搭載
-- **Universal Audio OX**：ビンテージアンプシミュレーター
+- **Universal Audio OX**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F248772%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a>：ビンテージアンプシミュレーター
 
 
 ## 覚えておきたい豆知識
