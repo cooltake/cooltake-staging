@@ -16,7 +16,6 @@ image: /assets/images/thumb-gs-boom.jpg
 <figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>1960年代のGSバンドたちが熱演するステージ（イメージ）</figcaption>
 </figure>
 
----
 
 ## ベンチャーズ来日が火をつけたエレキブーム
 
@@ -36,7 +35,6 @@ image: /assets/images/thumb-gs-boom.jpg
 <a href="https://www.youtube.com/results?search_query=%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BA%20%E6%97%A5%E6%9C%AC%E5%85%AC%E6%BC%94%201960%E5%B9%B4%E4%BB%A3" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ ベンチャーズのライブ映像を見る</a>
 </div>
 
----
 
 ## GSブームを支えた楽器・機材
 
@@ -70,7 +68,6 @@ GSサウンドの核心はエレキギター。当時使われていた主なモ
 
 エレキブームではドラムセットも普及。Ludwig、Pearlが当時の主流。
 
----
 
 ## GSサウンドの音作りの特徴
 
@@ -83,7 +80,6 @@ GSサウンドの核心はエレキギター。当時使われていた主なモ
 </ul>
 </div>
 
----
 
 ## GSサウンドを今すぐ体験できる楽曲・動画ガイド
 
@@ -102,7 +98,6 @@ GSサウンドの核心はエレキギター。当時使われていた主なモ
 <div style="margin:.8rem 0;"><span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span>
 <a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%82%B5%E3%82%A6%E3%83%B3%E3%82%BA%20CD%20%E3%83%99%E3%82%B9%E3%83%88%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="height:auto;border-radius:8px;display:block;"></a></div>
 
----
 
 ## 現代でGSサウンドを再現する
 
@@ -126,7 +121,6 @@ DAWユーザーなら以下のプラグインでGS的なサウンドを作れま
 - **IK Multimedia AmpliTube**：VOX AC30モデリング搭載
 - **Universal Audio OX**：ビンテージアンプシミュレーター
 
----
 
 ## 覚えておきたい豆知識
 
@@ -156,9 +150,7 @@ DAWユーザーなら以下のプラグインでGS的なサウンドを作れま
 <a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%AC%E3%82%AD%E3%82%AE%E3%82%BF%E3%83%BC%20%E6%95%99%E5%89%87%E6%9C%AC%20%E5%88%9D%E5%BF%83%E8%80%85%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="height:auto;border-radius:8px;display:block;"></a></div>
 
 
----
 
----
 
 <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:.8rem;margin:2rem 0;">
 <span></span>
