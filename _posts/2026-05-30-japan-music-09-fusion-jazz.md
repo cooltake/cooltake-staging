@@ -18,7 +18,6 @@ image: /assets/images/thumb-godiego.jpg
 <figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>1980年代、カシオペアとT-SQUAREが日本のフュージョンシーンを牽引した</figcaption>
 </figure>
 
----
 
 ## カシオペアとT-SQUARE——何が違うのか
 
@@ -40,7 +39,6 @@ image: /assets/images/thumb-godiego.jpg
 </div>
 </div>
 
----
 
 ## 野呂一生とカシオペアの「テクニカル革命」
 
@@ -63,7 +61,6 @@ image: /assets/images/thumb-godiego.jpg
 <figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>野呂一生が多用したIbanezカスタムギターとRoland JC-120（ジャズコーラス）</figcaption>
 </figure>
 
----
 
 ## T-SQUARE「TRUTH」——F1テーマが生んだ奇跡
 
@@ -78,7 +75,6 @@ T-SQUAREの「TRUTH」（1987年）は、日本フュージョン史上最も有
 - 海外フュージョンファンの間でも広く知られる「日本発の名曲」になった
 - インストゥルメンタルでもメガヒットが生まれると証明した
 
----
 
 ## フュージョン時代の機材
 
@@ -102,7 +98,6 @@ T-SQUAREの「TRUTH」（1987年）は、日本フュージョン史上最も有
 <a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D310" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="200" style="height:auto;border-radius:8px;display:block;"></a>
 </div>
 
----
 
 ## フュージョンが切り開いた「後の音楽」
 
@@ -118,7 +113,6 @@ T-SQUAREの「TRUTH」（1987年）は、日本フュージョン史上最も有
 - **小室哲哉の編曲法**：カシオペア的なシンセの使い方からの影響が見える
 - **スタジオミュージシャン文化**：フュージョン時代に育った超絶技巧プレイヤーが1990年代ポップスを支えた
 
----
 
 ## CDを探す
 
@@ -129,11 +123,8 @@ T-SQUAREの「TRUTH」（1987年）は、日本フュージョン史上最も有
 <a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D310" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="200" style="height:auto;border-radius:8px;display:block;"></a>
 </div>
 
----
 
----
 
----
 
 <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:.8rem;margin:2rem 0;">
 <a href="/2026/05/30/japan-music-08-band-boom/" style="display:inline-block;padding:.5rem 1rem;background:#e8edf2;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">← #08 バンドブーム</a>
