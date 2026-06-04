@@ -21,7 +21,6 @@ image: /assets/images/thumb-band-boom.jpg
 <figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>バンドブーム時代の原宿・渋谷ホコ天。路上ライブに集まる若者たち（イメージ）</figcaption>
 </figure>
 
----
 
 ## バンドブームを牽引した10バンド
 
@@ -138,7 +137,6 @@ image: /assets/images/thumb-band-boom.jpg
 </div>
 
 
----
 
 ## イカ天（三宅裕司のいかすバンド天国）
 
@@ -181,7 +179,6 @@ image: /assets/images/thumb-band-boom.jpg
 | **GLAY** | 函館出身の無名バンド。TERUのボーカルが評価される | 「BELOVED」「Winter,again」など累計3000万枚超 |
 
 
----
 
 ## バンドブームを支えた機材
 
@@ -226,7 +223,6 @@ image: /assets/images/thumb-band-boom.jpg
 <div style="margin:.8rem 0;"><span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span>
 <a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9E%E3%83%AB%E3%83%81%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%82%BF%E3%83%BC%20%E3%82%AE%E3%82%BF%E3%83%BC%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="200" style="height:auto;border-radius:8px;display:block;"></a></div>
 
----
 
 ## CDを探す
 
@@ -242,7 +238,6 @@ image: /assets/images/thumb-band-boom.jpg
 
 バンドブームは1992年頃に第一の波が終わるが、その後も第二波（ヴィジュアル系）、第三波（渋谷系）と形を変えながら続いていく。最大の遺産は**「バンドを組んで自分たちで音楽を作る」というDIY精神の定着**。プロでなくても音楽を表現できる——その感覚が、後のDTM普及やボカロ文化へと繋がっていく。
 
----
 
 <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:.8rem;margin:2rem 0;">
 <a href="/2026/05/30/japan-music-07-80s-commercial/" style="display:inline-block;padding:.5rem 1rem;background:#e8edf2;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">← #07 80年代半ば商業音楽</a>
