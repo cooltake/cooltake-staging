@@ -137,16 +137,25 @@ image: /assets/images/thumb-band-boom.jpg
 1. 毎週約10組のバンドが事前に演奏を撮影して持ち込む
 2. 審査員が見たくないと判断すると途中で演奏停止（「ストップ」コール）。停止されずに完走することがまず第一関門
 3. すべての演奏を審査後、審査員がその週の挑戦者（チャレンジャー）を選出
-4. 先週のチャンピオンを**イカ天キング**と呼び、今週選出の挑戦者と対決
-5. 審査員の投票によって勝者が決まり、勝ったバンドが翌週のイカ天キングとなる
+4. 選出された挑戦者と前週のイカ天キングが対決
+5. 審査員の投票によって勝者が決まり、**勝ったバンドがその週のイカ天キング**となって翌週も出場する
 6. **5週連続でイカ天キングの座を守り続けると「グランドイカ天キング」**として殿堂入りとなり、メジャーデビューへの道が開かれた
 
 ### イカ天キングとグランドイカ天キング
 
 <div style="background:#e8edf2;border-radius:12px;padding:1.5rem;margin:1.5rem 0;border-left:4px solid #1e3a5f;">
 <h3 style="color:#111827;margin-top:0;">🏆 称号の仕組み</h3>
-<p style="color:#374151;margin:.4rem 0;"><strong>イカ天キング</strong>：その週の対決を制したバンドに与えられる称号。翌週も防衛戦に臨む。</p>
-<p style="color:#374151;margin:.4rem 0;"><strong>グランドイカ天キング</strong>：5週連続でイカ天キングの座を守り抜いたバンドだけが得られる最高称号。グランドイカ天キングに輝いたのは<strong>たま</strong>をはじめとする少数のバンドのみ。たまは「さよなら人類」がオリコンシングル1位を獲得し、アマチュアバンドの全国制覇という前例のない快挙となった。</p>
+<p style="color:#374151;margin:.4rem 0;"><strong>イカ天キング</strong>：その週の対決を制したバンドに与えられる称号。翌週も防衛戦に臨み、負けるまでキングであり続ける。</p>
+<p style="color:#374151;margin:.4rem 0;"><strong>グランドイカ天キング</strong>：5週連続でイカ天キングの座を守り抜いたバンドだけが得られる最高称号。番組を通じて以下の6組が達成した。</p>
+<table style="width:100%;border-collapse:collapse;margin:.8rem 0;font-size:.9rem;">
+<tr style="background:#d0d8e4;"><th style="padding:.5rem .8rem;text-align:left;color:#111827;">代</th><th style="padding:.5rem .8rem;text-align:left;color:#111827;">バンド</th><th style="padding:.5rem .8rem;text-align:left;color:#111827;">特記</th></tr>
+<tr style="border-bottom:1px solid #c8d0dc;"><td style="padding:.5rem .8rem;color:#374151;">初代</td><td style="padding:.5rem .8rem;color:#374151;font-weight:700;">FLYING KIDS</td><td style="padding:.5rem .8rem;color:#374151;">ファンクロック。「幸せであるように」がヒット</td></tr>
+<tr style="background:#eef1f5;border-bottom:1px solid #c8d0dc;"><td style="padding:.5rem .8rem;color:#374151;">２代目</td><td style="padding:.5rem .8rem;color:#374151;font-weight:700;">BEGIN</td><td style="padding:.5rem .8rem;color:#374151;">沖縄出身。「島人ぬ宝」など独自の沖縄ポップで長く活躍</td></tr>
+<tr style="border-bottom:1px solid #c8d0dc;"><td style="padding:.5rem .8rem;color:#374151;">３代目</td><td style="padding:.5rem .8rem;color:#374151;font-weight:700;">たま</td><td style="padding:.5rem .8rem;color:#374151;">「さよなら人類」がオリコン1位。社会現象に</td></tr>
+<tr style="background:#eef1f5;border-bottom:1px solid #c8d0dc;"><td style="padding:.5rem .8rem;color:#374151;">４代目</td><td style="padding:.5rem .8rem;color:#374151;font-weight:700;">マルコシアスバンプ</td><td style="padding:.5rem .8rem;color:#374151;">ハードロック×個性的なビジュアルで異彩を放った</td></tr>
+<tr style="border-bottom:1px solid #c8d0dc;"><td style="padding:.5rem .8rem;color:#374151;">５代目</td><td style="padding:.5rem .8rem;color:#374151;font-weight:700;">LITTLE CREATURES</td><td style="padding:.5rem .8rem;color:#374151;">洗練されたポップセンスとアンサンブルが高評価</td></tr>
+<tr style="background:#eef1f5;"><td style="padding:.5rem .8rem;color:#374151;">６代目</td><td style="padding:.5rem .8rem;color:#374151;font-weight:700;">BLANKEY JET CITY</td><td style="padding:.5rem .8rem;color:#374151;">ガレージロックの荒々しさで圧倒。90年代を代表するバンドへ</td></tr>
+</table>
 </div>
 
 **番組の革命性**：当時のテレビ音楽番組は「プロだけが出演するもの」だった。イカ天はアマチュアを全国放送に乗せ、ピーク時視聴率20%超を記録。楽器販売が急増し、全国のライブハウスに若いバンドが溢れた。
