@@ -67,6 +67,16 @@ image: /assets/images/thumb-band-boom.jpg
 <p style="color:#374151;margin:.3rem 0;"><strong>なぜ重要か：</strong>バンドブームの「シリアスなロック」に笑いと余裕を持ち込んだ。奥田民生は解散後もソロ・プロデューサーとして90年代を牽引。</p>
 </div>
 
+### JUN SKY WALKER(S)（ジュンスカ）
+
+<div style="background:#e8edf2;border-radius:12px;padding:1.4rem 1.6rem;margin:1.2rem 0;border-left:4px solid #1e3a5f;">
+<p style="color:#374151;margin:.3rem 0;"><strong>活動期間：</strong>1986〜1993年（第一期）、2004年〜（再結成）</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>メンバー：</strong>宮田和弥（Vo）、寺岡呼人（Ba）、森純太（Gt）、柴田善明（Dr）</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>サウンドの特徴：</strong>明るくポップなメロディにパンクの疾走感を掛け合わせた「爽快系ロック」。演奏はシンプルで聴きやすく、若者が最初にコピーするバンドとしても人気を集めた。</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>代表曲：</strong>「全部だきしめて」「青空のように」「どんなに離れても」「歩いていこう」</p>
+<p style="color:#374151;margin:.3rem 0;"><strong>なぜ重要か：</strong>バンドブームの中でも特に「明るさ」と「前向きさ」を体現したバンド。暗さやハードさが主流の中で爽やかなロックポップを打ち出し、幅広い層にバンドブームを届けた。</p>
+</div>
+
 ### レッド・ウォーリアーズ
 
 <div style="background:#e8edf2;border-radius:12px;padding:1.4rem 1.6rem;margin:1.2rem 0;border-left:4px solid #1e3a5f;">
