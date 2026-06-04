@@ -186,10 +186,10 @@ image: /assets/images/thumb-band-boom.jpg
 
 | モデル | 代表ユーザー | サウンドの特徴 |
 |---|---|---|
-| **Gibson Les Paul** | 布袋寅泰（BOØWY） | 太くウォームなトーン。ハムバッカーによる中低域の厚み |
-| **Fender Stratocaster** | 今井寿（BUCK-TICK） | シャープでブライトなトーン。シングルコイルの繊細さ |
+| **Gibson Les Paul**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F344042%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a> | 布袋寅泰（BOØWY） | 太くウォームなトーン。ハムバッカーによる中低域の厚み |
+| **Fender Stratocaster**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F349758%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a> | 今井寿（BUCK-TICK） | シャープでブライトなトーン。シングルコイルの繊細さ |
 | **ESP カスタム** | X JAPAN・BUCK-TICK各メンバー | 日本製カスタムの精度が世界レベルへ |
-| **Fender Telecaster** | THE BLUE HEARTSのギタリスト | シンプルでパンキッシュな音 |
+| **Fender Telecaster**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F360091%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a> | THE BLUE HEARTSのギタリスト | シンプルでパンキッシュな音 |
 | **Greco / Tokai（国産コピーモデル）** | 地方の若手バンドマン全般 | 本家の1/3以下の価格で同等のプレイアビリティ |
 
 ### アンプ・エフェクター
@@ -216,8 +216,8 @@ image: /assets/images/thumb-band-boom.jpg
 
 ### 現代のマルチエフェクターで再現
 
-- **Boss GT-1000**：Marshallモデリング + 80年代エフェクト完備
-- **Line 6 Helix**：JCM800・JCM900の忠実なモデリング
+- **Boss GT-1000**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F250227%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a>：Marshallモデリング + 80年代エフェクト完備
+- **Line 6 Helix**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F257209%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a>：JCM800・JCM900の忠実なモデリング
 - **Neural DSP Archetype シリーズ**：ブランド別のキャプチャープラグイン
 
 <div style="margin:.8rem 0;"><span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span>
