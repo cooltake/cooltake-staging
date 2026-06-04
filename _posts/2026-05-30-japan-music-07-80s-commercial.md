@@ -18,7 +18,6 @@ image: /assets/images/thumb-80s-commercial.jpg
 <figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>バブル前夜の東京——ネオンと電子音楽が交差した1985年頃の音楽シーン（イメージ）</figcaption>
 </figure>
 
----
 
 ## この時代を代表するアーティストたち
 
@@ -39,7 +38,6 @@ image: /assets/images/thumb-80s-commercial.jpg
 - **CHAGE and ASKA**：「男と女」「モーニングムーン」——フォークとポップスの融合から商業音楽へと進化。
 - **TM NETWORK**：「Get Wild」（1987年）——小室哲哉率いるシンセポップユニット。テクノとロックを融合させ、後の「小室サウンド」の原型を作った。
 
----
 
 ## サウンドの特徴——「バブル前夜」の音作り
 
@@ -83,7 +81,6 @@ Aメロ：DX7系シンセベース + TR-909ドラム
 <a href="https://www.youtube.com/results?search_query=%E6%B8%A1%E8%BE%BA%E7%BE%8E%E9%87%8C%20My%20Revolution" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「My Revolution」を聴く</a>
 </div>
 
----
 
 ## 機材——1985〜87年のスタジオ
 
@@ -100,7 +97,6 @@ Aメロ：DX7系シンセベース + TR-909ドラム
 | **Roland JD-800** | 1991年。アナログ感覚のデジタルシンセ | 90年代への橋渡し |
 | **LinnDrum** | 高品質ドラムマシン | AOR系アーティストが愛用 |
 
----
 
 ## 現代へのつながり——この時代が作ったもの
 
@@ -117,7 +113,6 @@ Aメロ：DX7系シンセベース + TR-909ドラム
 <figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>ウォークマンでシティポップを聴く1980年代の情景（イメージ）</figcaption>
 </figure>
 
----
 
 ## CDを探す
 
@@ -135,9 +130,7 @@ Aメロ：DX7系シンセベース + TR-909ドラム
 <a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D311" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="200" style="height:auto;border-radius:8px;display:block;"></a></div>
 
 
----
 
----
 
 <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:.8rem;margin:2rem 0;">
 <a href="/2026/05/30/japan-music-06-80s-idol-production/" style="display:inline-block;padding:.5rem 1rem;background:#e8edf2;border:1px solid #c8c5c0;border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">← #06 80年代アイドル</a>
