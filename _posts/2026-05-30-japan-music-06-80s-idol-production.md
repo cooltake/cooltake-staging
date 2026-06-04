@@ -47,10 +47,10 @@ image: /assets/images/thumb-80s-idol.jpg
 | 機材 | 登場時期 | 特徴 |
 |---|---|---|
 | **Roland Juno-106** | 1984年 | DCOアナログシンセ。暖かいパッドの定番 |
-| **Yamaha DX7** | 1983年 | FM音源シンセ。80年代サウンドの象徴 |
-| **Roland TR-909** | 1983年 | リズムマシン。クリアなドラムサウンド |
+| **Yamaha DX7**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F205252%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a> | 1983年 | FM音源シンセ。80年代サウンドの象徴 |
+| **Roland TR-909**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F320011%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a> | 1983年 | リズムマシン。クリアなドラムサウンド |
 | **Roland D-50** | 1987年 | PCM+デジタルシンセ。バブル期サウンドの核心 |
-| **Lexicon 224** | 1978年〜 | デジタルリバーブ。80年代の「広がり感」の正体 |
+| **Lexicon 224**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F360986%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a> | 1978年〜 | デジタルリバーブ。80年代の「広がり感」の正体 |
 
 <div style="background:#e8edf2;border-radius:12px;padding:1.5rem;margin:1.5rem 0;border-left:4px solid #1e3a5f;">
 <h3 style="color:#111827;margin-top:0;">🎹 DX7が変えた音楽の世界</h3>
