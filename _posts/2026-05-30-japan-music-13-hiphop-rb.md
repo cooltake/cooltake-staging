@@ -92,7 +92,7 @@ R&Bボーカルの録音には：
 
 - **Looperman**（無料）：ユーザー投稿のループ素材
 
-- **Native Instruments Komplete**：膨大なサンプルライブラリ
+- **Native Instruments Komplete**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F354040%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a>：膨大なサンプルライブラリ
 
 
 
