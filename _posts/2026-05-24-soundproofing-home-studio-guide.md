@@ -5,7 +5,7 @@ description: "宅録・DTMでの防音に悩む方向けに、遮音・吸音・
 date: 2026-05-24
 categories: [gear]
 tags: [防音, 宅録, 吸音, 遮音, スタジオ環境, DIY, 録音]
-image: /assets/images/thumb-soundproofing.png
+image: /assets/images/thumb-soundproofing.jpg
 ---
 
 ## 宅録の「音問題」は2種類ある
