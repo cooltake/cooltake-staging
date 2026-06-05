@@ -5,7 +5,7 @@ description: "自宅でボーカル録音を始める方法を徹底解説。マ
 date: 2026-05-24
 categories: [gear]
 tags: [ボーカル, 宅録, 歌ってみた, マイク, 録音, ホームレコーディング, DTM, オーディオIF]
-image: /assets/images/thumb-vocal-recording.png
+image: /assets/images/thumb-vocal-recording.jpg
 ---
 
 ## 自宅でボーカルを録音するために必要なもの
