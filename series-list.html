@@ -230,6 +230,19 @@ const SERIES_DATA = {
       { url:"/2026/05/24/monitor-headphones-guide/", title:"モニターヘッドフォン選び方ガイド【DTM・宅録・ミックス用おすすめ機種比較2026】", img:"/assets/images/thumb-monitor-headphones.jpg", excerpt:"DTM・宅録・ミックスに使うモニターヘッドフォンの選び方を解説。リスニング用との違い、密閉型と開放型の使い分け、予算別おすすめ機種（ATH-M50x・MDR-7506・DT770 PRO等）を比較します。" }
     ]
   },
+    "instruments": {
+    label: "楽器別始め方シリーズ",
+    desc: "エレキギター・アコギ・ベース・ドラム・デジタルピアノ・ボーカルまで、楽器ごとの始め方を初心者向けに完全解説。",
+    articles: [
+      { url:"/2026/05/20/guitar-guide/", title:"エレキギター・アコースティックギター 完全選び方ガイド【2026年版】", img:"/assets/images/thumb-guitar.png", date:"2026-05-20", desc:"ギターの始め方・選び方を初心者向けに解説。" },
+      { url:"/2026/05/22/bass-guide/", title:"エレキベース 完全初心者始め方ガイド【2026年版】", img:"/assets/images/thumb-bass.png", date:"2026-05-22", desc:"ベースの始め方・選び方を初心者向けに解説。" },
+      { url:"/2026/05/22/drum-guide/", title:"電子ドラム 完全初心者始め方ガイド【2026年版】", img:"/assets/images/thumb-drum.png", date:"2026-05-22", desc:"ドラムの始め方・選び方を初心者向けに解説。" },
+      { url:"/2026/05/24/digital-piano-guide/", title:"デジタルピアノ・電子キーボード 完全初心者始め方ガイド【2026年版】", img:"/assets/images/thumb-digital-piano.png", date:"2026-05-24", desc:"デジタルピアノの始め方・選び方を初心者向けに解説。" },
+      { url:"/2026/05/24/band-guide/", title:"バンドの始め方 完全ガイド【2026年版】", img:"/assets/images/thumb-band.png", date:"2026-05-24", desc:"バンド結成から初ライブまでの始め方を解説。" },
+      { url:"/2026/05/24/vocal-recording-guide/", title:"ボーカル録音ガイド【マイク選び・録音設定・歌ってみた機材セット】", img:"/assets/images/thumb-vocal-recording.jpg", date:"2026-05-24", desc:"ボーカル宅録の始め方・マイク選びを解説。" },
+      { url:"/2026/05/24/guitar-effects-guide/", title:"ギターエフェクター入門ガイド【歪み・空間系・マルチ 種類と選び方2026】", img:"/assets/images/thumb-guitar-effects.jpg", date:"2026-05-24", desc:"ギターエフェクターの種類と選び方を初心者向けに解説。" },
+    ]
+  },
   "instrument-guide": {
     label: "楽器モデル詳細ガイド",
     articles: [
@@ -309,7 +322,6 @@ const SERIES_DATA = {
   const params = new URLSearchParams(location.search);
   const slug = params.get('series');
   const ALIASES = {
-    'instruments': 'instrument-guide',
     'instrument': 'instrument-guide',
     'japan-music': 'japan-music-series',
     'chord': 'chord-progression'
