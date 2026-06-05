@@ -5,7 +5,7 @@ description: "MIX（ミキシング）とマスタリングの違いをわかり
 date: 2026-05-24
 categories: [production]
 tags: [MIX, ミキシング, マスタリング, DAW, 音楽制作, 初心者]
-image: /assets/images/thumb-mixing.png
+image: /assets/images/thumb-mixing.jpg
 ---
 
 ## MIXとマスタリングの違い — まずここを押さえよう
