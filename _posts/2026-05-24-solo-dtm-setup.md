@@ -45,7 +45,7 @@ image: /assets/images/thumb-solo-dtm.png
 **どちらでも本格的なDTMは可能です。** 選び方のポイントはDAWの好みです。
 
 - **Logic Pro を使いたい** → Mac一択（Mac専用）
-- **Cubase / Ableton / FL Studio** → どちらでもOK
+- **Cubase / Ableton / FL Studio**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F324282%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒</a> → どちらでもOK
 - **コストを抑えたい** → Windows＋Reaper（¥6,000）が最安構成
 
 ### パソコンの最低スペック目安
@@ -66,8 +66,8 @@ image: /assets/images/thumb-solo-dtm.png
 | **GarageBand** | Mac | 無料 | シンプル・直感的操作 | Mac初心者・スマートなUI好き |
 | **Logic Pro** | Mac | ¥32,400 | 豊富な音源・プロ品質 | Mac愛用者・本格志向 |
 | **Cubase** | Win/Mac | ¥33,000〜 | 業界標準・機能豊富 | レコーディング・ポップス制作 |
-| **Ableton Live** | Win/Mac | ¥43,780〜 | ループ・ライブ演奏が強い | EDM・ライブパフォーマンス |
-| **FL Studio** | Win/Mac | ¥17,600〜 | ビート制作・直感的UI | ビートメイカー・ヒップホップ |
+| **Ableton Live**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F364520%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒</a> | Win/Mac | ¥43,780〜 | ループ・ライブ演奏が強い | EDM・ライブパフォーマンス |
+| **FL Studio**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F372831%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒</a> | Win/Mac | ¥17,600〜 | ビート制作・直感的UI | ビートメイカー・ヒップホップ |
 | **Reaper** | Win/Mac | ¥6,000〜 | 軽量・安価・高カスタマイズ | 予算重視・自由に設定したい |
 
 **完全初心者ならGarageBand（Mac）またはCubase Elements（Win/Mac）から始めるのがおすすめです。**
