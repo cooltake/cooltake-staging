@@ -5,7 +5,7 @@ description: "一人で作曲・録音・MIX・配信まで完結させるため
 date: 2026-05-24
 categories: [gear]
 tags: [DTM, 宅録, DAW, ソロ制作, 作曲, 音楽制作環境, セットアップ]
-image: /assets/images/thumb-solo-dtm.png
+image: /assets/images/thumb-solo-dtm.jpg
 ---
 
 ## ソロDTMとは — 一人で音楽制作を完結させる
