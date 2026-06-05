@@ -111,7 +111,6 @@ image: /assets/images/thumb-guitar-effects.png
 まずは「自分がどんなジャンルの音を出したいか」から考えてみてください。そこからOD系かDistortion系か、マルチか単体かが自然と決まってきます。
 
 <div style="margin:2rem 0;padding:1.2rem 1.5rem;background:#f0f9ff;border-left:4px solid #0ea5e9;border-radius:8px;">
-<p style="margin:0 0 .6rem;font-weight:bold;font-size:1rem;">🎸 ギターエフェクターをサウンドハウスでチェック</p>
 <div style="margin:.8rem 0;"><span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🛒 サウンドハウスで探す</span>
 <a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%2F%3Fsearch_all%3D%25E3%2582%AE%25E3%2582%BF%25E3%2583%BC%2B%25E3%2582%A8%25E3%2583%95%25E3%2582%A7%25E3%2582%AF%25E3%2582%BF%25E3%2583%BC" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="240" style="height:auto;border-radius:8px;display:block;"></a></div>
 <img src="https://h.accesstrade.net/sp/rr?rk=01001xqc00os63" width="1" height="1" border="0" alt="" loading="lazy">
