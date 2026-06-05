@@ -43,9 +43,9 @@ image: /assets/images/thumb-monitor-headphones.jpg
 
 | 機種 | メーカー | タイプ | 特徴 |
 |------|---------|--------|------|
-| **ATH-M50x** | Audio-Technica | 密閉 | スタジオ標準機。着脱式ケーブル対応 |
+| **ATH-M50x**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F192282%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒</a> | Audio-Technica | 密閉 | スタジオ標準機。着脱式ケーブル対応 |
 | **DT770 PRO** | Beyerdynamic | 密閉 | ドイツ製。高音域の解像度が高い |
-| **MDR-CD900ST** | SONY | 密閉 | 日本のレコーディングスタジオの定番機 |
+| **MDR-CD900ST**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F71265%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒</a> | SONY | 密閉 | 日本のレコーディングスタジオの定番機 |
 
 ### ¥20,000〜¥40,000：ミドル帯
 
@@ -70,7 +70,7 @@ image: /assets/images/thumb-monitor-headphones.jpg
 | **主な用途** | ミックス・モニタリング全般 | 録音ブース・MA・レコスタ標準 |
 | **向いている人** | 初心者〜中級者 | プロ志向・正確な音が欲しい人 |
 
-初心者が最初の1本を選ぶなら **ATH-M50x** の使い勝手の良さが光ります。プロ機材と同じ環境で耳を鍛えたいなら **MDR-CD900ST** もあり。
+初心者が最初の1本を選ぶなら **ATH-M50x**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F192282%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒</a> の使い勝手の良さが光ります。プロ機材と同じ環境で耳を鍛えたいなら **MDR-CD900ST**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F71265%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒</a> もあり。
 
 ---
 
