@@ -5,7 +5,7 @@ description: "ギターエフェクターの種類と選び方を初心者向け
 date: 2026-05-24
 categories: [gear]
 tags: [エフェクター, ギター, 歪み, リバーブ, ディレイ, コーラス, マルチエフェクター, 初心者, ペダル]
-image: /assets/images/thumb-guitar-effects.png
+image: /assets/images/thumb-guitar-effects.jpg
 ---
 
 ## エフェクターは「ギターの声を変える道具」
