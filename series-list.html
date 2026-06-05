@@ -308,7 +308,14 @@ const SERIES_DATA = {
 (function() {
   const params = new URLSearchParams(location.search);
   const slug = params.get('series');
-  const series = slug && SERIES_DATA[slug];
+  const ALIASES = {
+    'instruments': 'instrument-guide',
+    'instrument': 'instrument-guide',
+    'japan-music': 'japan-music-series',
+    'chord': 'chord-progression'
+  };
+  const resolvedSlug = (slug && ALIASES[slug]) || slug;
+  const series = resolvedSlug && SERIES_DATA[resolvedSlug];
 
   const titleEl = document.getElementById('pageTitle');
   const countEl = document.getElementById('pageCount');
