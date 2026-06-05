@@ -94,7 +94,7 @@ HS5単体では低音域が少し物足りない場合もあるため、**YHSサ
 
 ## まとめ
 
-自宅DTMのスタートには**YAMAHA HS5**か**KRK ROKIT 5 G4**が最もオーソドックスな選択です。予算が限られる場合は**PreSonus Eris E3.5**でスピーカーの感覚に慣れてから、本格的なモニターへステップアップする方法もあります。スピーカーは「使い方」と「設置環境」が音質を左右するため、ある程度の音響環境整備とセットで導入することをおすすめします。
+自宅DTMのスタートには**YAMAHA HS5**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F184221%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒</a>か**KRK ROKIT 5 G4**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F346956%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒</a>が最もオーソドックスな選択です。予算が限られる場合は**PreSonus Eris E3.5**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F284742%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒</a>でスピーカーの感覚に慣れてから、本格的なモニターへステップアップする方法もあります。スピーカーは「使い方」と「設置環境」が音質を左右するため、ある程度の音響環境整備とセットで導入することをおすすめします。
 
 <div style="margin:2rem 0;padding:1.2rem 1.5rem;background:#fff7ed;border-left:4px solid #f97316;border-radius:8px;">
 <p style="margin:0 0 .6rem;font-weight:bold;font-size:1rem;">&#x1F6D2; この記事で紹介した機材を楽天市場でチェック</p>
