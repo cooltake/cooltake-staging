@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ショップボタン 横並びデザイン案</title>
+<style>
+  body { font-family: sans-serif; background: #f5f5f5; padding: 2rem; color: #111; }
+  h1 { font-size: 1.3rem; margin-bottom: 2rem; }
+  .section { background: #fff; border-radius: 10px; padding: 1.5rem 2rem; margin-bottom: 2.5rem; box-shadow: 0 1px 4px rgba(0,0,0,.1); }
+  .section h2 { font-size: 1rem; color: #6b7280; border-bottom: 1px solid #e5e7eb; padding-bottom: .5rem; margin-bottom: 1.2rem; }
+  .label { font-size: .78rem; color: #4b5563; margin-bottom: 4px; display: block; }
+  p.note { font-size: .82rem; color: #9ca3af; margin: .5rem 0 1.2rem; }
+</style>
+</head>
+<body>
+
+<h1>ショップボタン 横並びデザイン案（Staging用）</h1>
+<p style="font-size:.85rem;color:#6b7280;margin-bottom:2rem;">
+  ※ ダミーリンク使用。実際の見た目確認用サンプルです。どのパターンに統一するかhiroが選択してください。
+</p>
+
+<!-- ===== 現状（縦並び）===== -->
+<div class="section">
+  <h2>【現状】縦並び（変更前）— guitar-effects / drum 系</h2>
+  <p class="note">サウンドハウス・楽天がそれぞれ独立したdivで縦に並んでいる状態</p>
+
+  <div style="margin:1rem 0;"><span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:4px;">🛒 サウンドハウスで探す</span>
+  <a href="#" style="display:inline-block;background:#0369a1;color:#fff;padding:.45rem 1.1rem;border-radius:4px;text-decoration:none;font-weight:bold;font-size:.95rem;">サウンドハウスで見る →</a>
+  </div>
+
+  <div style="margin:2rem 0;padding:1.2rem 1.5rem;background:#fff7ed;border-left:4px solid #f97316;border-radius:8px;">
+  <p style="margin:0 0 .6rem;font-weight:bold;font-size:1rem;">🛒 楽天市場でエフェクターを探す</p>
+  <a href="#" style="display:inline-block;background:#bf0000;color:#fff;padding:.45rem 1.1rem;border-radius:4px;text-decoration:none;font-weight:bold;font-size:.95rem;">楽天市場で見る →</a>
+  </div>
+</div>
+
+<!-- ===== 現状（縦並び）画像ボタン ===== -->
+<div class="section">
+  <h2>【現状】縦並び（変更前）— fender / gibson 系（画像ボタン）</h2>
+  <p class="note">楽天・サウンドハウスそれぞれが画像ボタンで縦に並んでいる状態</p>
+
+  <div style="margin:2rem 0;padding:1.2rem 1.5rem;background:linear-gradient(135deg,#431407,#7c2d12);border-radius:10px;border:1px solid rgba(234,88,12,.4);">
+  <a href="#" style="display:inline-block;text-decoration:none;">
+  <img src="https://www.cooltakestudio.com/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+  </a></div>
+
+  <div style="margin:2rem 0;padding:1.2rem 1.5rem;background:linear-gradient(135deg,#0c1a2e,#0c4a6e);border-radius:10px;border:1px solid rgba(8,145,178,.4);">
+  <a href="#" style="display:inline-block;text-decoration:none;">
+  <img src="https://www.cooltakestudio.com/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+  </a></div>
+</div>
+
+<!-- ===== 案1 ===== -->
+<div class="section">
+  <h2>【案1】既存パターンA踏襲 — flex-wrap + ラベル付きテキストリンク</h2>
+  <p class="note">現在Stagingの50記事に適用済みのスタイルと同一。テキストリンク型でシンプル。</p>
+
+  <div style="display:flex;flex-wrap:wrap;gap:1rem;margin:1rem 0;">
+    <div>
+      <span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:4px;">🛒 サウンドハウスで探す</span>
+      <a href="#" style="display:inline-block;background:#0369a1;color:#fff;padding:.45rem 1.1rem;border-radius:4px;text-decoration:none;font-weight:bold;font-size:.95rem;">サウンドハウスで見る →</a>
+    </div>
+    <div>
+      <span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:4px;">🔍 楽天市場で探す</span>
+      <a href="#" style="display:inline-block;background:#bf0000;color:#fff;padding:.45rem 1.1rem;border-radius:4px;text-decoration:none;font-weight:bold;font-size:.95rem;">楽天市場で見る →</a>
+    </div>
+  </div>
+</div>
+
+<!-- ===== 案2 ===== -->
+<div class="section">
+  <h2>【案2】背景色divを横並び — flex で左右50%ずつ</h2>
+  <p class="note">元のサウンドハウス青div・楽天オレンジdivのデザインをそのまま残し、横に並べる。</p>
+
+  <div style="display:flex;gap:.75rem;margin:2rem 0;">
+    <div style="flex:1;padding:1rem 1.2rem;background:#f0f9ff;border-left:4px solid #0ea5e9;border-radius:8px;">
+      <p style="margin:0 0 .5rem;font-weight:bold;font-size:.9rem;">🎵 サウンドハウスで探す</p>
+      <a href="#" style="display:inline-block;background:#0369a1;color:#fff;padding:.4rem 1rem;border-radius:4px;text-decoration:none;font-weight:bold;font-size:.88rem;">見る →</a>
+    </div>
+    <div style="flex:1;padding:1rem 1.2rem;background:#fff7ed;border-left:4px solid #f97316;border-radius:8px;">
+      <p style="margin:0 0 .5rem;font-weight:bold;font-size:.9rem;">🛒 楽天市場で探す</p>
+      <a href="#" style="display:inline-block;background:#bf0000;color:#fff;padding:.4rem 1rem;border-radius:4px;text-decoration:none;font-weight:bold;font-size:.88rem;">見る →</a>
+    </div>
+  </div>
+</div>
+
+<!-- ===== 案3 ===== -->
+<div class="section">
+  <h2>【案3】画像ボタンを横並び — flex で左右50%</h2>
+  <p class="note">btn-soundhouse.jpg / btn-rakuten.jpg 画像ボタンを横並びに。fender / gibson系のグラデーション背景divも省略してシンプル化。</p>
+
+  <div style="display:flex;gap:.75rem;margin:1.5rem 0;">
+    <a href="#" style="display:block;flex:1;text-decoration:none;">
+      <img src="https://www.cooltakestudio.com/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+    </a>
+    <a href="#" style="display:block;flex:1;text-decoration:none;">
+      <img src="https://www.cooltakestudio.com/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:14px;display:block;">
+    </a>
+  </div>
+</div>
+
+<!-- ===== 案4 ===== -->
+<div class="section">
+  <h2>【案4】画像ボタンをグラデーション背景divごと横並び</h2>
+  <p class="note">fender / gibson系の既存グラデーション背景divをそのまま横並びに。</p>
+
+  <div style="display:flex;gap:.75rem;margin:1.5rem 0;">
+    <div style="flex:1;padding:1rem;background:linear-gradient(135deg,#0c1a2e,#0c4a6e);border-radius:10px;border:1px solid rgba(8,145,178,.4);">
+      <a href="#" style="display:block;text-decoration:none;">
+        <img src="https://www.cooltakestudio.com/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:10px;display:block;">
+      </a>
+    </div>
+    <div style="flex:1;padding:1rem;background:linear-gradient(135deg,#431407,#7c2d12);border-radius:10px;border:1px solid rgba(234,88,12,.4);">
+      <a href="#" style="display:block;text-decoration:none;">
+        <img src="https://www.cooltakestudio.com/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:10px;display:block;">
+      </a>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
