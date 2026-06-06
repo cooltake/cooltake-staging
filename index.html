@@ -491,7 +491,7 @@
 
         <!-- Featured スライダー -->
         <div class="featured-slider-wrap">
-          <div class="featured-slider" id="featured-slider" style="width:100%">
+          <div class="featured-slider" id="featured-slider" style="width:100%;overflow:hidden">
             <div class="featured-track" id="featured-track">
 
               <a href="/2026/05/30/japan-music-18-modern-scene/" class="featured-card">
@@ -2137,13 +2137,13 @@
     var nextBtn = document.getElementById('slider-next');
     var dotsContainer = document.getElementById('slider-dots');
     if (!track) return;
-    var total = track.children.length;
+    var total = track.querySelectorAll('.featured-card').length;
     var current = 0;
     var timer;
     var dots = dotsContainer ? dotsContainer.querySelectorAll('.dot') : [];
     function goTo(n) {
       current = ((n % total) + total) % total;
-      track.style.transform = 'translateX(-' + (current * 100) + '%)';
+      track.style.transform = 'translateX(-' + (current * track.parentElement.offsetWidth) + 'px)';
       dots.forEach(function(d, i) { d.classList.toggle('active', i === current); });
     }
     function startTimer() { clearInterval(timer); timer = setInterval(function() { goTo(current + 1); }, 5000); }
