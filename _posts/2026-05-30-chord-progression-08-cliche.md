@@ -382,13 +382,6 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
 
 <span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">📖 コード進行・音楽理論の教則本を楽天で探す</span>
 <a href="https://hb.afl.rakuten.co.jp/ichiba/54518dd8.3792440a.54518dd9.03b99be4/?pc=https%3A//search.rakuten.co.jp/search/mall/%E3%82%B3%E3%83%BC%E3%83%89%E9%80%B2%E8%A1%8C%2B%E9%9F%B3%E6%A5%BD%E7%90%86%E8%AB%96%2B%E6%95%99%E5%89%87%E6%9C%AC/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.4rem 0;"><img src="/assets/images/btn-rakuten.jpg" alt="コード進行・音楽理論の教則本を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
-<div style="margin:2rem 0;">
-<div style="display:inline-block;padding:.8rem 1rem 1rem;background:#e8f4fb;border-radius:10px;border:1px solid rgba(8,145,178,.25);">
-<p style="margin:0 0 .5rem;color:#374151;font-size:.82rem;font-weight:bold;">コード進行&s_ord= をサウンドハウスで探す</p>
-<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_search_all%3D%E3%82%B3%E3%83%BC%E3%83%89%E9%80%B2%E8%A1%8C%26s_ord%3D" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="240" style="height:auto;border-radius:8px;display:block;"></a>
-<img src="https://h.accesstrade.net/sp/rr?rk=01001xqc00os63" width="1" height="1" border="0" alt="" loading="lazy">
-</div>
-</div>
 
 ---
 
