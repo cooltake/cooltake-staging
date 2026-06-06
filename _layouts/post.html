@@ -190,6 +190,18 @@ layout: default
       <a href="/series-list.html?series=japan-music-series" class="back-link">&larr; 同シリーズ記事一覧に戻る</a>
       {% elsif page.url contains 'chord-progression' %}
       <a href="/series-list.html?series=chord-progression" class="back-link">&larr; 同シリーズ記事一覧に戻る</a>
+      {% elsif page.url contains 'les-paul' or page.url contains 'stratocaster' or page.url contains 'telecaster' or page.url contains 'jazz-bass' or page.url contains 'precision-bass' or page.url contains 'pickup-guide' %}
+      <a href="/series-list.html?series=instrument-guide" class="back-link">&larr; 同シリーズ記事一覧に戻る</a>
+      {% elsif page.url contains 'guitar-guide' or page.url contains 'bass-guide' or page.url contains 'drum-guide' or page.url contains 'digital-piano' or page.url contains 'band-guide' or page.url contains 'vocal-recording' or page.url contains 'guitar-effects' %}
+      <a href="/series-list.html?series=instruments" class="back-link">&larr; 同シリーズ記事一覧に戻る</a>
+      {% elsif page.url contains 'soundproofing' or page.url contains 'music-studio' or page.url contains 'monitor-headphones' %}
+      <a href="/series-list.html?series=studio-environment" class="back-link">&larr; 同シリーズ記事一覧に戻る</a>
+      {% elsif page.url contains 'mix-mastering' or page.url contains 'vst-plugin' or page.url contains 'solo-dtm' %}
+      <a href="/series-list.html?series=dtm-techniques" class="back-link">&larr; 同シリーズ記事一覧に戻る</a>
+      {% elsif page.url contains 'suno-ai' or page.url contains 'audiostock' or page.url contains 'beatstars' or page.url contains 'music-copyright' %}
+      <a href="/series-list.html?series=ai-music" class="back-link">&larr; 同シリーズ記事一覧に戻る</a>
+      {% elsif page.url contains 'microphone' or page.url contains 'audio-interface' or page.url contains 'mixer' or page.url contains 'effects-guide' or page.url contains 'daw-guide' or page.url contains 'headphone' or page.url contains 'midi-keyboard' or page.url contains 'studio-monitor' or page.url contains 'budget-setup' or page.url contains 'music-production-basics' or page.url contains 'cable-guide' or page.url contains 'mic-stand' or page.url contains 'rack-case' %}
+      <a href="/series-list.html?series=gear" class="back-link">&larr; 同シリーズ記事一覧に戻る</a>
       {% else %}
       <a href="{{ '/#categories' | relative_url }}" class="back-link">&larr; 記事一覧に戻る</a>
       {% endif %}
