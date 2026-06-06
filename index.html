@@ -130,7 +130,7 @@
     .slider-prev { left: 14px; }
     .slider-next { right: 14px; }
     .slider-btn:hover { background: rgba(59,130,246,.55); border-color: rgba(59,130,246,.45); }
-    .slider-dots { position: absolute; bottom: 14px; left: 50%; transform: translateX(-50%); display: flex; gap: 6px; z-index: 20; }
+    .slider-dots { display: none; }
     .dot { width: 8px; height: 8px; border-radius: 4px; background: rgba(255,255,255,.28); border: none; cursor: pointer; transition: background .25s, width .25s; padding: 0; }
     .dot.active { background: var(--primary); width: 22px; }
 
@@ -1723,7 +1723,7 @@
     var nextBtn = document.getElementById('slider-next');
     var dotsContainer = document.getElementById('slider-dots');
     if (!track) return;
-    var total = track.children.length;
+    var total = track.querySelectorAll('.featured-card').length;
     var current = 0;
     var timer;
     var dots = dotsContainer ? dotsContainer.querySelectorAll('.dot') : [];
