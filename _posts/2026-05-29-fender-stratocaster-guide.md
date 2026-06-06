@@ -65,7 +65,7 @@ image: /assets/images/thumb-stratocaster.jpg
 
 ---
 
-## おすすめ購入場所
+## お店のラインナップを見てみましょう
 
 <div style="display:flex;gap:.75rem;margin:2rem 0;">
 <div style="flex:1;padding:.8rem 1rem 1rem;background:linear-gradient(135deg,#0c1a2e,#0c4a6e);border-radius:10px;border:1px solid rgba(8,145,178,.4);">
