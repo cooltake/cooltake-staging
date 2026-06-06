@@ -68,13 +68,13 @@ image: /assets/images/thumb-stratocaster.jpg
 ## お店のラインナップを見てみましょう
 
 <div style="display:flex;gap:.75rem;margin:2rem 0;">
-<div style="flex:1;padding:.8rem 1rem 1rem;background:linear-gradient(135deg,#0c1a2e,#0c4a6e);border-radius:10px;border:1px solid rgba(8,145,178,.4);">
-<p style="margin:0 0 .5rem;color:#fff;font-size:.82rem;font-weight:bold;">&#x1F3B8; Fender Stratocaster をサウンドハウスで探す</p>
+<div style="flex:1;padding:.8rem 1rem 1rem;background:#e8f4fb;border-radius:10px;border:1px solid rgba(8,145,178,.25);">
+<p style="margin:0 0 .5rem;color:#374151;font-size:.82rem;font-weight:bold;">&#x1F3B8; Fender Stratocaster をサウンドハウスで探す</p>
 <a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%2F%3Fsearch_all%3DFender%2520Stratocaster" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:8px;display:block;"></a>
 <img src="https://h.accesstrade.net/sp/rr?rk=01001xqc00os63" width="1" height="1" border="0" alt="" loading="lazy">
 </div>
-<div style="flex:1;padding:.8rem 1rem 1rem;background:linear-gradient(135deg,#431407,#7c2d12);border-radius:10px;border:1px solid rgba(234,88,12,.4);">
-<p style="margin:0 0 .5rem;color:#fff;font-size:.82rem;font-weight:bold;">&#x1F6D2; Fender Stratocaster を楽天市場で探す</p>
+<div style="flex:1;padding:.8rem 1rem 1rem;background:#fdf3ee;border-radius:10px;border:1px solid rgba(234,88,12,.25);">
+<p style="margin:0 0 .5rem;color:#374151;font-size:.82rem;font-weight:bold;">&#x1F6D2; Fender Stratocaster を楽天市場で探す</p>
 <a href="https://hb.afl.rakuten.co.jp/hgc/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFender%2BStratocaster%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:8px;display:block;"></a>
 <img src="//i.moshimo.com/af/i/impression?a_id=5565352&amp;p_id=54&amp;pc_id=54&amp;pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy">
 </div>
