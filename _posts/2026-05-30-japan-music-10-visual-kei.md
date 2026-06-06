@@ -4,6 +4,7 @@ title: "ヴィジュアル系とハードロック化【1990年代】X JAPAN・h
 date: 2026-05-30
 tags: [ギター, エレキギター, エフェクター, 音楽制作]
 description: "X JAPAN・hide・GLAY・L'Arc-en-Cielが牽引した1990年代ヴィジュアル系ムーブメント。日本独自のロック美学とハードロック技術の融合、当時の機材とアンプセッティングを現代で再現する方法。"
+image: /assets/images/thumb-visual-kei.jpg
 ---
 
 
