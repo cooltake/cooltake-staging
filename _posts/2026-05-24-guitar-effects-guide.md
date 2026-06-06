@@ -110,12 +110,15 @@ image: /assets/images/thumb-guitar-effects.jpg
 
 まずは「自分がどんなジャンルの音を出したいか」から考えてみてください。そこからOD系かDistortion系か、マルチか単体かが自然と決まってきます。
 
-<div style="margin:1rem 0;"><span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:4px;">🛒 サウンドハウスで探す</span>
-<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%2F%3Fsearch_all%3D%25E3%2582%AE%25E3%2582%BF%25E3%2583%BC%2B%25E3%2582%A8%25E3%2583%95%25E3%2582%A7%25E3%2582%AF%25E3%2582%BF%25E3%2583%BC" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="240" style="height:auto;border-radius:8px;display:block;"></a></div>
-
-<div style="margin:2rem 0;padding:1.2rem 1.5rem;background:#fff7ed;border-left:4px solid #f97316;border-radius:8px;">
-<p style="margin:0 0 .6rem;font-weight:bold;font-size:1rem;">🛒 楽天市場でエフェクターを探す</p>
-<div style="margin:.8rem 0;"><span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span>
-<a href="https://hb.afl.rakuten.co.jp/hgc/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%AE%25E3%2582%BF%25E3%2583%BC%2B%25E3%2582%A8%25E3%2583%95%25E3%2582%A7%25E3%2582%AF%25E3%2582%BF%25E3%2583%BC%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="240" style="height:auto;border-radius:8px;display:block;"></a></div>
+<div style="display:flex;gap:.75rem;margin:2rem 0;">
+<div style="flex:1;padding:.8rem 1rem 1rem;background:#e8f4fb;border-radius:10px;border:1px solid rgba(8,145,178,.25);">
+<p style="margin:0 0 .5rem;color:#374151;font-size:.82rem;font-weight:bold;">%E3%82�%E3%82�%E3%83� %E3%82�%E3%83�%E3%82�%E3%82�%E3%82�%E3%83� をサウンドハウスで探す</p>
+<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%2F%3Fsearch_all%3D%25E3%2582%AE%25E3%2582%BF%25E3%2583%BC%2B%25E3%2582%A8%25E3%2583%95%25E3%2582%A7%25E3%2582%AF%25E3%2582%BF%25E3%2583%BC" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="240" style="height:auto;border-radius:8px;display:block;"></a>
+<img src="https://h.accesstrade.net/sp/rr?rk=01001xqc00os63" width="1" height="1" border="0" alt="" loading="lazy">
+</div>
+<div style="flex:1;padding:.8rem 1rem 1rem;background:#fdf3ee;border-radius:10px;border:1px solid rgba(234,88,12,.25);">
+<p style="margin:0 0 .5rem;color:#374151;font-size:.82rem;font-weight:bold;">%E3%82�%E3%82�%E3%83� %E3%82�%E3%83�%E3%82�%E3%82�%E3%82�%E3%83� を楽天市場で探す</p>
+<a href="https://hb.afl.rakuten.co.jp/hgc/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%AE%25E3%2582%BF%25E3%2583%BC%2B%25E3%2582%A8%25E3%2583%95%25E3%2582%A7%25E3%2582%AF%25E3%2582%BF%25E3%2583%BC%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="240" style="height:auto;border-radius:8px;display:block;"></a>
 <img src="//i.moshimo.com/af/i/impression?a_id=5565352&amp;p_id=54&amp;pc_id=54&amp;pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy">
+</div>
 </div>
