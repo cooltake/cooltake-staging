@@ -164,11 +164,8 @@ DTMクリエイターはBeatStarsとAudioStockを**両方活用**するのが理
 
 ---
 
-<div style="margin:2rem 0;padding:1.2rem 1.5rem;background:#fff7ed;border-left:4px solid #f97316;border-radius:8px;">
-<div style="margin:.8rem 0;"><span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span>
+<div style="margin:1rem 0;"><span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:4px;">🔍 楽天市場で探す</span>
 <a href="https://hb.afl.rakuten.co.jp/hgc/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDTM%2B%E9%9F%B3%E6%A5%BD%E5%88%B6%E4%BD%9C%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="240" style="height:auto;border-radius:8px;display:block;"></a></div>
-<img src="//i.moshimo.com/af/i/impression?a_id=5565352&amp;p_id=54&amp;pc_id=54&amp;pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy">
-</div>
 
 <div style="margin:2rem 0;padding:1.2rem 1.5rem;background:#f0f9ff;border-left:4px solid #0ea5e9;border-radius:8px;">
 <p style="margin:0 0 .6rem;font-weight:bold;font-size:1rem;">&#x1F3A7; サウンドハウスでDTM機材をチェック（国内最大の音楽機材専門店）</p>
