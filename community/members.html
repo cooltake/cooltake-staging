@@ -65,6 +65,7 @@
     .tag-list{display:flex;flex-wrap:wrap;gap:6px;}
     .tag{background:rgba(255,255,255,.04);border:1px solid var(--border);border-radius:6px;padding:3px 9px;font-size:.75rem;color:var(--muted);}
     .tag-primary{background:rgba(59,130,246,.08);border-color:rgba(59,130,246,.2);color:#93c5fd;}
+    .tag-note{font-weight:400;opacity:.75;font-size:.7rem;}
     .tag-purple{background:rgba(129,140,248,.08);border-color:rgba(129,140,248,.2);color:#a5b4fc;}
     .card-desc{font-size:.85rem;color:var(--muted);overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;line-height:1.6;}
     .card-meta{display:flex;align-items:center;gap:12px;font-size:.78rem;color:var(--muted);flex-wrap:wrap;}
@@ -197,6 +198,8 @@ function renderCard(m) {
   const parts = (m.recruit_parts || '').split(',').filter(Boolean);
   const genres = (m.genres || '').split(',').filter(Boolean);
   const expLabel = m.expires_at ? daysLeft(m.expires_at) : null;
+  let notes = {};
+  try { notes = m.recruit_parts_notes ? JSON.parse(m.recruit_parts_notes) : {}; } catch(e) {}
   return `
   <div class="member-card" data-type="${m.recruit_type || ''}" data-level="${m.level || ''}">
     <div class="card-head">
@@ -208,7 +211,10 @@ function renderCard(m) {
       ${expLabel ? `<span class="badge badge-blue" title="掲載期限">${expLabel}</span>` : `<span class="badge badge-purple">${esc(m.recruit_type || '')}</span>`}
     </div>
     <div class="tag-list">
-      ${parts.slice(0,4).map(p=>`<span class="tag tag-primary">${esc(p)}</span>`).join('')}
+      ${parts.slice(0,6).map(p=>{
+        const note = notes[p] ? `<span class="tag-note"> — ${esc(notes[p])}</span>` : '';
+        return `<span class="tag tag-primary">${esc(p)}${note}</span>`;
+      }).join('')}
       ${genres.slice(0,3).map(g=>`<span class="tag tag-purple">${esc(g)}</span>`).join('')}
     </div>
     <div class="card-desc">${esc(m.description || '')}</div>
