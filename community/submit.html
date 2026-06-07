@@ -250,9 +250,14 @@
             <label>ジャンル<span class="req">*</span></label>
             <select id="f-genre" name="genre">
               <option value="">選択してください</option>
-              <option>宅録・弾き語り</option><option>DTM・電子音楽</option><option>バンド演奏</option>
-              <option>ボカロ・UTAU</option><option>ビートメイク・ヒップホップ</option>
-              <option>アンビエント・実験音楽</option><option>その他</option>
+              <optgroup label="🎙 歌・演奏動画">
+                <option>歌ってみた</option><option>演奏してみた</option><option>叩いてみた</option>
+              </optgroup>
+              <optgroup label="🎵 オリジナル・制作">
+                <option>宅録・弾き語り</option><option>DTM・電子音楽</option><option>バンド演奏</option>
+                <option>ボカロ・UTAU</option><option>ビートメイク・ヒップホップ</option>
+                <option>アンビエント・実験音楽</option><option>その他</option>
+              </optgroup>
             </select>
             <div class="field-error" id="e-genre"></div>
           </div>
