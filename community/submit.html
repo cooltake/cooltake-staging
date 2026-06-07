@@ -60,15 +60,15 @@
     .type-sub{font-size:.73rem;color:var(--muted);margin-top:4px;}
     .selected-summary{margin-top:12px;padding:10px 14px;background:rgba(59,130,246,.06);border:1px solid rgba(59,130,246,.2);border-radius:10px;font-size:.82rem;color:var(--text);}
     .selected-summary span{font-weight:700;}
-    /* TYPE SECTION HEADERS */
-    .type-section-header{display:flex;align-items:center;gap:10px;margin:28px 0 16px;font-size:.78rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;}
-    .type-section-header::before,.type-section-header::after{content:'';flex:1;height:1px;}
-    .type-section-header.s-showcase{color:#93c5fd;}
-    .type-section-header.s-showcase::before,.type-section-header.s-showcase::after{background:rgba(59,130,246,.25);}
-    .type-section-header.s-member{color:#fcd34d;}
-    .type-section-header.s-member::before,.type-section-header.s-member::after{background:rgba(245,158,11,.25);}
-    .type-section-header.s-event{color:#86efac;}
-    .type-section-header.s-event::before,.type-section-header.s-event::after{background:rgba(34,197,94,.25);}
+    /* TYPE SECTION BLOCK HEADERS */
+    .type-section-block{display:flex;align-items:center;gap:16px;margin:36px -40px 28px;padding:18px 40px;border-top:1px solid;border-bottom:1px solid;}
+    .type-section-block .tsb-icon{font-size:1.6rem;flex-shrink:0;}
+    .type-section-block .tsb-title{font-size:1rem;font-weight:800;line-height:1.2;}
+    .type-section-block .tsb-sub{font-size:.78rem;margin-top:3px;opacity:.7;}
+    .type-section-block.s-showcase{background:rgba(59,130,246,.07);border-color:rgba(59,130,246,.2);color:#bfdbfe;}
+    .type-section-block.s-member{background:rgba(245,158,11,.07);border-color:rgba(245,158,11,.2);color:#fde68a;}
+    .type-section-block.s-event{background:rgba(34,197,94,.07);border-color:rgba(34,197,94,.2);color:#bbf7d0;}
+    @media(max-width:768px){.type-section-block{margin:28px -20px 20px;padding:14px 20px;}}
     /* FORM */
     .form-section{display:none;}
     .form-section.visible{display:block;}
@@ -239,7 +239,10 @@
 
         <!-- SHOWCASE FIELDS -->
         <div id="f-showcase" class="type-fields" style="display:none">
-          <div class="type-section-header s-showcase">🎵 作品情報</div>
+          <div class="type-section-block s-showcase">
+            <div class="tsb-icon">🎵</div>
+            <div><div class="tsb-title">作品投稿</div><div class="tsb-sub">楽曲・演奏・歌ってみた動画などの情報を入力してください</div></div>
+          </div>
           <div class="field">
             <label>作品タイトル<span class="req">*</span></label>
             <input type="text" id="f-title-s" name="title" placeholder="例: 春の宅録 ep.01" maxlength="60">
@@ -293,7 +296,10 @@
 
         <!-- MEMBER FIELDS -->
         <div id="f-member" class="type-fields" style="display:none">
-          <div class="type-section-header s-member">🎸 メンバー募集</div>
+          <div class="type-section-block s-member">
+            <div class="tsb-icon">🎸</div>
+            <div><div class="tsb-title">メンバー募集</div><div class="tsb-sub">募集するパート・活動条件などを入力してください</div></div>
+          </div>
           <div class="field">
             <label>募集タイトル<span class="req">*</span></label>
             <input type="text" id="f-title-m" placeholder="例: ボーカル募集中！週1練習のロックバンド" maxlength="60">
@@ -415,7 +421,10 @@
 
         <!-- EVENT FIELDS -->
         <div id="f-event" class="type-fields" style="display:none">
-          <div class="type-section-header s-event">🎤 イベント告知</div>
+          <div class="type-section-block s-event">
+            <div class="tsb-icon">🎤</div>
+            <div><div class="tsb-title">イベント告知</div><div class="tsb-sub">ライブ・セッション・ワークショップなどの開催情報を入力してください</div></div>
+          </div>
           <div class="field">
             <label>イベントタイトル<span class="req">*</span></label>
             <input type="text" id="f-title-e" placeholder="例: 宅録好き集まれ！アコースティックセッション" maxlength="80">
