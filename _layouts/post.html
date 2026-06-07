@@ -164,7 +164,14 @@ layout: default
     .ad-notice-hero { right: 24px; font-size: .65rem; }
     .post-content { padding: 16px 6% 32px !important; border-radius: 16px; }
     .post-body { padding: 0 3% 48px; }
-  }
+    /* SVGスペック図: 横スクロール */
+    .post-content figure { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+    .post-content figure svg { min-width: 600px; }
+    /* CTAボタン2列 → 1列 */
+    .post-content div[style*="display:flex"] { flex-direction: column !important; }
+    .post-content div[style*="display: flex"] { flex-direction: column !important; }
+    /* テーブル横スクロール */
+    .post-content table { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; }  }
 </style>
 <script>
   document.addEventListener('DOMContentLoaded', function() {
