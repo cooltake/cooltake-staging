@@ -53,10 +53,10 @@ Fenderの2大ベースを徹底比較します。
 
 | シリーズ | 価格帯 | 製造 |
 |---------|--------|------|
-| **Squier Affinity** | ¥38,000〜 | インドネシア |
-| **Squier Classic Vibe** | ¥63,000〜 | 中国 |
 | **Player Series（MIM）** | ¥100,000〜 | メキシコ |
 | **American Professional II** | ¥235,000〜 | USA |
+| **Squier Classic Vibe**（※他社） | ¥63,000〜 | 中国（Fender系列の別ブランド） |
+| **Squier Affinity**（※他社） | ¥38,000〜 | インドネシア（Fender系列の別ブランド） |
 
 ---
 
