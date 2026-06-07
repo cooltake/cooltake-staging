@@ -101,6 +101,16 @@
     .success-icon{font-size:3.5rem;margin-bottom:16px;}
     .success-card h2{font-size:1.4rem;font-weight:800;margin-bottom:12px;color:var(--success);}
     .success-card p{color:var(--muted);margin-bottom:24px;}
+    /* PART ROWS */
+    .part-category{font-size:.72rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:10px 0 6px;padding-left:2px;}
+    .part-category:first-child{margin-top:0;}
+    .part-row{display:flex;align-items:center;gap:10px;padding:8px 10px;border-radius:10px;border:1px solid var(--border);margin-bottom:6px;transition:border-color .2s,background .2s;}
+    .part-row.part-active{border-color:rgba(59,130,246,.35);background:rgba(59,130,246,.04);}
+    .part-row input[type="checkbox"]{width:16px;height:16px;accent-color:var(--primary);flex-shrink:0;cursor:pointer;}
+    .part-row-name{font-size:.875rem;font-weight:600;min-width:110px;cursor:pointer;flex-shrink:0;}
+    .part-note-input{flex:1;background:transparent;border:none;border-bottom:1px solid transparent;color:var(--muted);font-size:.8rem;font-family:inherit;padding:2px 4px;outline:none;transition:.2s;pointer-events:none;opacity:0;}
+    .part-row.part-active .part-note-input{border-bottom-color:var(--border);color:var(--text);pointer-events:auto;opacity:1;}
+    .part-row.part-active .part-note-input:focus{border-bottom-color:var(--primary);}
     /* GROUP FIELD TIP */
     .group-tip{font-size:.78rem;color:var(--muted);background:rgba(129,140,248,.06);border:1px solid rgba(129,140,248,.15);border-radius:8px;padding:8px 12px;margin-top:6px;}
     /* FOOTER */
@@ -283,26 +293,40 @@
             <label>あなたのパート<span class="req">*</span></label>
             <select id="f-my_part">
               <option value="">選択してください</option>
-              <option>ボーカル</option><option>ギター</option><option>ベース</option><option>ドラム</option>
-              <option>キーボード</option><option>管楽器</option><option>弦楽器</option>
-              <option>DJ</option><option>トラックメイカー</option><option>コーラス</option><option>その他</option>
+              <optgroup label="🎵 音楽パート">
+                <option>ボーカル</option><option>ギター</option><option>ベース</option><option>ドラム</option>
+                <option>キーボード</option><option>管楽器</option><option>弦楽器</option>
+                <option>DJ</option><option>トラックメイカー</option><option>コーラス</option>
+              </optgroup>
+              <optgroup label="🎨 クリエイティブ・動画">
+                <option>絵師・イラスト</option><option>動画編集</option><option>映像・MV制作</option>
+                <option>カメラ・撮影</option><option>デザイン</option>
+              </optgroup>
+              <option>その他</option>
             </select>
             <div class="field-error" id="e-my_part"></div>
           </div>
           <div class="field">
-            <label>募集パート<span class="req">*</span>（複数可）</label>
-            <div class="check-group" id="recruit_parts_group">
-              <label class="check-chip"><input type="checkbox" value="ボーカル"> ボーカル</label>
-              <label class="check-chip"><input type="checkbox" value="ギター"> ギター</label>
-              <label class="check-chip"><input type="checkbox" value="ベース"> ベース</label>
-              <label class="check-chip"><input type="checkbox" value="ドラム"> ドラム</label>
-              <label class="check-chip"><input type="checkbox" value="キーボード"> キーボード</label>
-              <label class="check-chip"><input type="checkbox" value="管楽器"> 管楽器</label>
-              <label class="check-chip"><input type="checkbox" value="弦楽器"> 弦楽器</label>
-              <label class="check-chip"><input type="checkbox" value="DJ"> DJ</label>
-              <label class="check-chip"><input type="checkbox" value="トラックメイカー"> トラックメイカー</label>
-              <label class="check-chip"><input type="checkbox" value="コーラス"> コーラス</label>
-              <label class="check-chip"><input type="checkbox" value="その他"> その他</label>
+            <label>募集パート<span class="req">*</span>（複数可・特記事項は任意）</label>
+            <div id="recruit_parts_group">
+              <div class="part-category">🎵 音楽パート</div>
+              <div class="part-row" id="pr-ボーカル"><input type="checkbox" id="pc-ボーカル" value="ボーカル" onchange="togglePartRow(this)"><label class="part-row-name" for="pc-ボーカル">ボーカル</label><input type="text" class="part-note-input" id="pn-ボーカル" placeholder="特記事項（例：ハモリ歓迎）" maxlength="60"></div>
+              <div class="part-row" id="pr-ギター"><input type="checkbox" id="pc-ギター" value="ギター" onchange="togglePartRow(this)"><label class="part-row-name" for="pc-ギター">ギター</label><input type="text" class="part-note-input" id="pn-ギター" placeholder="特記事項（例：ソロ多め歓迎）" maxlength="60"></div>
+              <div class="part-row" id="pr-ベース"><input type="checkbox" id="pc-ベース" value="ベース" onchange="togglePartRow(this)"><label class="part-row-name" for="pc-ベース">ベース</label><input type="text" class="part-note-input" id="pn-ベース" placeholder="特記事項（例：5弦も可）" maxlength="60"></div>
+              <div class="part-row" id="pr-ドラム"><input type="checkbox" id="pc-ドラム" value="ドラム" onchange="togglePartRow(this)"><label class="part-row-name" for="pc-ドラム">ドラム</label><input type="text" class="part-note-input" id="pn-ドラム" placeholder="特記事項（例：電子ドラム可）" maxlength="60"></div>
+              <div class="part-row" id="pr-キーボード"><input type="checkbox" id="pc-キーボード" value="キーボード" onchange="togglePartRow(this)"><label class="part-row-name" for="pc-キーボード">キーボード</label><input type="text" class="part-note-input" id="pn-キーボード" placeholder="特記事項（例：シンセ・ピアノ問わず）" maxlength="60"></div>
+              <div class="part-row" id="pr-管楽器"><input type="checkbox" id="pc-管楽器" value="管楽器" onchange="togglePartRow(this)"><label class="part-row-name" for="pc-管楽器">管楽器</label><input type="text" class="part-note-input" id="pn-管楽器" placeholder="特記事項（例：サックス・トランペット）" maxlength="60"></div>
+              <div class="part-row" id="pr-弦楽器"><input type="checkbox" id="pc-弦楽器" value="弦楽器" onchange="togglePartRow(this)"><label class="part-row-name" for="pc-弦楽器">弦楽器</label><input type="text" class="part-note-input" id="pn-弦楽器" placeholder="特記事項（例：バイオリン・チェロ）" maxlength="60"></div>
+              <div class="part-row" id="pr-DJ"><input type="checkbox" id="pc-DJ" value="DJ" onchange="togglePartRow(this)"><label class="part-row-name" for="pc-DJ">DJ</label><input type="text" class="part-note-input" id="pn-DJ" placeholder="特記事項（例：ターンテーブル経験者優遇）" maxlength="60"></div>
+              <div class="part-row" id="pr-トラックメイカー"><input type="checkbox" id="pc-トラックメイカー" value="トラックメイカー" onchange="togglePartRow(this)"><label class="part-row-name" for="pc-トラックメイカー">トラックメイカー</label><input type="text" class="part-note-input" id="pn-トラックメイカー" placeholder="特記事項（例：DAW問わず）" maxlength="60"></div>
+              <div class="part-row" id="pr-コーラス"><input type="checkbox" id="pc-コーラス" value="コーラス" onchange="togglePartRow(this)"><label class="part-row-name" for="pc-コーラス">コーラス</label><input type="text" class="part-note-input" id="pn-コーラス" placeholder="特記事項（例：3〜4パート希望）" maxlength="60"></div>
+              <div class="part-category">🎨 クリエイティブ・動画</div>
+              <div class="part-row" id="pr-絵師・イラスト"><input type="checkbox" id="pc-絵師・イラスト" value="絵師・イラスト" onchange="togglePartRow(this)"><label class="part-row-name" for="pc-絵師・イラスト">絵師・イラスト</label><input type="text" class="part-note-input" id="pn-絵師・イラスト" placeholder="特記事項（例：MV用イラスト）" maxlength="60"></div>
+              <div class="part-row" id="pr-動画編集"><input type="checkbox" id="pc-動画編集" value="動画編集" onchange="togglePartRow(this)"><label class="part-row-name" for="pc-動画編集">動画編集</label><input type="text" class="part-note-input" id="pn-動画編集" placeholder="特記事項（例：Premiere Pro使用者）" maxlength="60"></div>
+              <div class="part-row" id="pr-映像・MV制作"><input type="checkbox" id="pc-映像・MV制作" value="映像・MV制作" onchange="togglePartRow(this)"><label class="part-row-name" for="pc-映像・MV制作">映像・MV制作</label><input type="text" class="part-note-input" id="pn-映像・MV制作" placeholder="特記事項（例：アニメーションMV希望）" maxlength="60"></div>
+              <div class="part-row" id="pr-カメラ・撮影"><input type="checkbox" id="pc-カメラ・撮影" value="カメラ・撮影" onchange="togglePartRow(this)"><label class="part-row-name" for="pc-カメラ・撮影">カメラ・撮影</label><input type="text" class="part-note-input" id="pn-カメラ・撮影" placeholder="特記事項（例：ライブ撮影歓迎）" maxlength="60"></div>
+              <div class="part-row" id="pr-デザイン"><input type="checkbox" id="pc-デザイン" value="デザイン" onchange="togglePartRow(this)"><label class="part-row-name" for="pc-デザイン">デザイン</label><input type="text" class="part-note-input" id="pn-デザイン" placeholder="特記事項（例：ジャケット・サムネ制作）" maxlength="60"></div>
+              <div class="part-row" id="pr-その他"><input type="checkbox" id="pc-その他" value="その他" onchange="togglePartRow(this)"><label class="part-row-name" for="pc-その他">その他</label><input type="text" class="part-note-input" id="pn-その他" placeholder="どのような方を募集していますか？" maxlength="60"></div>
             </div>
             <div class="field-error" id="e-recruit_parts"></div>
           </div>
@@ -592,6 +616,34 @@ function getChecked(groupId) {
   return Array.from(document.querySelectorAll('#'+groupId+' input:checked')).map(c => c.value);
 }
 
+function getPartsWithNotes() {
+  const parts = [];
+  const notes = {};
+  document.querySelectorAll('#recruit_parts_group .part-row input[type="checkbox"]:checked').forEach(cb => {
+    parts.push(cb.value);
+    const noteEl = document.getElementById('pn-' + cb.value);
+    const note = noteEl ? noteEl.value.trim() : '';
+    if (note) notes[cb.value] = note;
+  });
+  return { parts, notes };
+}
+
+function togglePartRow(cb) {
+  const row = cb.closest('.part-row');
+  const noteInput = document.getElementById('pn-' + cb.value);
+  if (!row) return;
+  row.classList.toggle('part-active', cb.checked);
+  if (noteInput) {
+    if (cb.checked) {
+      noteInput.removeAttribute('disabled');
+      setTimeout(() => noteInput.focus(), 50);
+    } else {
+      noteInput.value = '';
+      noteInput.setAttribute('disabled', '');
+    }
+  }
+}
+
 function showErr(id, msg) {
   const el = document.getElementById(id);
   if (!el) return;
@@ -640,7 +692,7 @@ document.getElementById('mainForm').addEventListener('submit', async e => {
     const my_part = val('f-my_part'), region = val('f-region');
     const frequency = val('f-frequency'), level = val('f-level');
     const description = val('f-description-m'), contact = val('f-contact-m');
-    const recruit_parts = getChecked('recruit_parts_group');
+    const { parts: recruit_parts, notes: recruit_notes } = getPartsWithNotes();
     const genres = getChecked('genres_group');
     if (title.length < 10 || title.length > 60) { showErr('e-title-m','10〜60文字で入力してください'); errors=true; }
     if (!recruit_type) { showErr('e-recruit_type','募集種別を選択してください'); errors=true; }
@@ -652,7 +704,7 @@ document.getElementById('mainForm').addEventListener('submit', async e => {
     if (!level) { showErr('e-level','活動レベルを選択してください'); errors=true; }
     if (description.length < 50 || description.length > 500) { showErr('e-description-m','50〜500文字で入力してください'); errors=true; }
     if (!contact) { showErr('e-contact-m','連絡先を入力してください'); errors=true; }
-    if (!errors) payload = { ...payload, action:'post_member', title, recruit_type, my_part, recruit_parts: recruit_parts.join(','), genres: genres.join(','), region, frequency, level, description, contact, sample_link: val('f-sample-m') };
+    if (!errors) payload = { ...payload, action:'post_member', title, recruit_type, my_part, recruit_parts: recruit_parts.join(','), recruit_parts_notes: JSON.stringify(recruit_notes), genres: genres.join(','), region, frequency, level, description, contact, sample_link: val('f-sample-m') };
   } else if (selectedType === 'event') {
     const title = val('f-title-e'), event_type = val('f-event_type');
     const event_date = val('f-event_date'), format = val('f-format');
