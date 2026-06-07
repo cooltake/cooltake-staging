@@ -50,12 +50,25 @@
     .form-card{background:var(--card);border:1px solid var(--border);border-radius:20px;padding:36px 40px;}
     /* TYPE SELECTOR */
     .type-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-bottom:8px;}
-    .type-card{background:rgba(255,255,255,.03);border:2px solid var(--border);border-radius:16px;padding:20px 12px 16px;text-align:center;cursor:pointer;transition:border-color .2s,background .2s,transform .15s;}
+    .type-card{position:relative;background:rgba(255,255,255,.03);border:2px solid var(--border);border-radius:16px;padding:20px 12px 16px;text-align:center;cursor:pointer;transition:border-color .2s,background .2s,transform .15s;}
     .type-card:hover{border-color:var(--primary);background:rgba(59,130,246,.06);transform:translateY(-2px);}
     .type-card.selected{border-color:var(--primary);background:rgba(59,130,246,.1);}
+    .type-card-check{position:absolute;top:8px;right:8px;width:20px;height:20px;border-radius:50%;background:var(--primary);color:#fff;font-size:.7rem;display:none;align-items:center;justify-content:center;font-weight:900;}
+    .type-card.selected .type-card-check{display:flex;}
     .type-icon{font-size:1.75rem;margin-bottom:8px;}
     .type-label{font-size:.82rem;font-weight:700;color:var(--text);line-height:1.4;}
     .type-sub{font-size:.73rem;color:var(--muted);margin-top:4px;}
+    .selected-summary{margin-top:12px;padding:10px 14px;background:rgba(59,130,246,.06);border:1px solid rgba(59,130,246,.2);border-radius:10px;font-size:.82rem;color:var(--text);}
+    .selected-summary span{font-weight:700;}
+    /* TYPE SECTION HEADERS */
+    .type-section-header{display:flex;align-items:center;gap:10px;margin:28px 0 16px;font-size:.78rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;}
+    .type-section-header::before,.type-section-header::after{content:'';flex:1;height:1px;}
+    .type-section-header.s-showcase{color:#93c5fd;}
+    .type-section-header.s-showcase::before,.type-section-header.s-showcase::after{background:rgba(59,130,246,.25);}
+    .type-section-header.s-member{color:#fcd34d;}
+    .type-section-header.s-member::before,.type-section-header.s-member::after{background:rgba(245,158,11,.25);}
+    .type-section-header.s-event{color:#86efac;}
+    .type-section-header.s-event::before,.type-section-header.s-event::after{background:rgba(34,197,94,.25);}
     /* FORM */
     .form-section{display:none;}
     .form-section.visible{display:block;}
@@ -175,26 +188,30 @@
 
   <div class="form-card" id="formCard">
 
-    <!-- STEP 1: TYPE SELECT -->
+    <!-- STEP 1: MULTI TYPE SELECT -->
     <div id="step1" class="form-section visible">
-      <div class="section-title" style="margin-top:0;">投稿タイプを選んでください</div>
+      <div class="section-title" style="margin-top:0;">投稿タイプを選んでください（複数選択可）</div>
       <div class="type-grid">
-        <div class="type-card" data-type="showcase" onclick="selectType('showcase',this)">
+        <div class="type-card" data-type="showcase" onclick="toggleType('showcase',this)">
+          <div class="type-card-check">✓</div>
           <div class="type-icon">🎵</div>
           <div class="type-label">作品を投稿する</div>
           <div class="type-sub">楽曲・音楽作品のShowcase</div>
         </div>
-        <div class="type-card" data-type="member" onclick="selectType('member',this)">
+        <div class="type-card" data-type="member" onclick="toggleType('member',this)">
+          <div class="type-card-check">✓</div>
           <div class="type-icon">🎸</div>
           <div class="type-label">メンバーを募集する</div>
           <div class="type-sub">バンド・ユニットのメンバー募集</div>
         </div>
-        <div class="type-card" data-type="event" onclick="selectType('event',this)">
+        <div class="type-card" data-type="event" onclick="toggleType('event',this)">
+          <div class="type-card-check">✓</div>
           <div class="type-icon">🎤</div>
           <div class="type-label">イベントを告知する</div>
           <div class="type-sub">ライブ・セッション・ワークショップ</div>
         </div>
       </div>
+      <div class="selected-summary" id="selected-summary" style="display:none"></div>
       <div class="btn-row">
         <button class="btn-primary" id="btn-next1" onclick="goStep2()" disabled>次へ →</button>
       </div>
@@ -222,8 +239,7 @@
 
         <!-- SHOWCASE FIELDS -->
         <div id="f-showcase" class="type-fields" style="display:none">
-          <hr class="divider">
-          <div class="section-title">作品情報</div>
+          <div class="type-section-header s-showcase">🎵 作品情報</div>
           <div class="field">
             <label>作品タイトル<span class="req">*</span></label>
             <input type="text" id="f-title-s" name="title" placeholder="例: 春の宅録 ep.01" maxlength="60">
@@ -272,8 +288,7 @@
 
         <!-- MEMBER FIELDS -->
         <div id="f-member" class="type-fields" style="display:none">
-          <hr class="divider">
-          <div class="section-title">募集内容</div>
+          <div class="type-section-header s-member">🎸 メンバー募集</div>
           <div class="field">
             <label>募集タイトル<span class="req">*</span></label>
             <input type="text" id="f-title-m" placeholder="例: ボーカル募集中！週1練習のロックバンド" maxlength="60">
@@ -395,8 +410,7 @@
 
         <!-- EVENT FIELDS -->
         <div id="f-event" class="type-fields" style="display:none">
-          <hr class="divider">
-          <div class="section-title">イベント情報</div>
+          <div class="type-section-header s-event">🎤 イベント告知</div>
           <div class="field">
             <label>イベントタイトル<span class="req">*</span></label>
             <input type="text" id="f-title-e" placeholder="例: 宅録好き集まれ！アコースティックセッション" maxlength="80">
@@ -544,32 +558,50 @@
 
 <script>
 const WORKER = 'https://cooltake-showcase.cooltakestudio.workers.dev';
-let selectedType = null;
+// 選択中のタイプセット（順序固定: showcase → member → event）
+const TYPE_ORDER = ['showcase', 'member', 'event'];
+const TYPE_LABELS = { showcase:'作品投稿', member:'メンバー募集', event:'イベント告知' };
+let selectedTypes = new Set();
 
-function selectType(type, el) {
-  document.querySelectorAll('.type-card').forEach(c => c.classList.remove('selected'));
-  el.classList.add('selected');
-  selectedType = type;
-  document.getElementById('btn-next1').disabled = false;
+// ── Step 1: タイプ選択 ─────────────────────────────────────────
+function toggleType(type, el) {
+  el.classList.toggle('selected');
+  if (selectedTypes.has(type)) selectedTypes.delete(type);
+  else selectedTypes.add(type);
+  document.getElementById('btn-next1').disabled = selectedTypes.size === 0;
+  updateSummary();
+}
+
+function updateSummary() {
+  const sum = document.getElementById('selected-summary');
+  if (selectedTypes.size === 0) { sum.style.display='none'; return; }
+  const labels = TYPE_ORDER.filter(t => selectedTypes.has(t)).map(t => TYPE_LABELS[t]);
+  sum.style.display = 'block';
+  sum.innerHTML = '選択中: <span>' + labels.join(' ＋ ') + '</span> をまとめて送信します';
 }
 
 function goStep2() {
-  if (!selectedType) return;
+  if (selectedTypes.size === 0) return;
   setStep(2);
-  // Show type-specific fields
-  document.querySelectorAll('.type-fields').forEach(f => f.style.display = 'none');
-  document.getElementById('f-'+selectedType).style.display = 'block';
+  // 選択タイプのセクションを表示（順序固定）
+  document.querySelectorAll('.type-fields').forEach(f => f.style.display='none');
+  TYPE_ORDER.filter(t => selectedTypes.has(t)).forEach(t => {
+    document.getElementById('f-'+t).style.display = 'block';
+  });
   document.getElementById('f-shared-bottom').style.display = 'block';
   document.getElementById('f-submit-row').style.display = 'flex';
-  // Show showcase-specific consents
-  const isSC = selectedType === 'showcase';
+  // 著作権同意はShowcase選択時のみ
+  const isSC = selectedTypes.has('showcase');
   document.getElementById('consent2-sc').style.display = isSC ? 'flex' : 'none';
   document.getElementById('consent3-sc').style.display = isSC ? 'flex' : 'none';
+  // 送信ボタンのラベル更新
+  const types = TYPE_ORDER.filter(t => selectedTypes.has(t)).map(t => TYPE_LABELS[t]);
+  document.getElementById('btn-submit').textContent = types.length > 1
+    ? types.join(' ＋ ') + ' を送信する'
+    : types[0] + ' を送信する';
 }
 
-function goStep1() {
-  setStep(1);
-}
+function goStep1() { setStep(1); }
 
 function setStep(n) {
   document.getElementById('step1').classList.toggle('visible', n===1);
@@ -588,157 +620,161 @@ function setStep(n) {
 
 function toggleRegion() {
   const fmt = document.getElementById('f-format').value;
-  const rf = document.getElementById('region-field-e');
-  rf.style.display = (fmt === 'オンライン') ? 'none' : 'block';
+  document.getElementById('region-field-e').style.display = (fmt==='オンライン') ? 'none' : 'block';
 }
 
-// Char counters
+// ── 文字数カウンター ───────────────────────────────────────────
 function bindCounter(inputId, countId) {
-  const el = document.getElementById(inputId);
-  const cnt = document.getElementById(countId);
-  if (!el || !cnt) return;
+  const el = document.getElementById(inputId), cnt = document.getElementById(countId);
+  if (!el||!cnt) return;
   el.addEventListener('input', () => cnt.textContent = el.value.length);
 }
-bindCounter('f-title-s','cnt-title-s');
-bindCounter('f-description-s','cnt-desc-s');
-bindCounter('f-title-m','cnt-title-m');
-bindCounter('f-description-m','cnt-desc-m');
-bindCounter('f-title-e','cnt-title-e');
-bindCounter('f-description-e','cnt-desc-e');
+bindCounter('f-title-s','cnt-title-s'); bindCounter('f-description-s','cnt-desc-s');
+bindCounter('f-title-m','cnt-title-m'); bindCounter('f-description-m','cnt-desc-m');
+bindCounter('f-title-e','cnt-title-e'); bindCounter('f-description-e','cnt-desc-e');
 
-// Checkbox chip toggle style
+// チェックボックスチップスタイル
 document.querySelectorAll('.check-chip').forEach(chip => {
   const cb = chip.querySelector('input[type=checkbox]');
   cb.addEventListener('change', () => chip.classList.toggle('checked', cb.checked));
 });
 
+// ── ユーティリティ ────────────────────────────────────────────
+function val(id) { const el=document.getElementById(id); return el ? el.value.trim() : ''; }
 function getChecked(groupId) {
-  return Array.from(document.querySelectorAll('#'+groupId+' input:checked')).map(c => c.value);
+  return Array.from(document.querySelectorAll('#'+groupId+' input:checked')).map(c=>c.value);
 }
-
 function getPartsWithNotes() {
-  const parts = [];
-  const notes = {};
+  const parts=[], notes={};
   document.querySelectorAll('#recruit_parts_group .part-row input[type="checkbox"]:checked').forEach(cb => {
     parts.push(cb.value);
-    const noteEl = document.getElementById('pn-' + cb.value);
-    const note = noteEl ? noteEl.value.trim() : '';
+    const note = document.getElementById('pn-'+cb.value)?.value.trim();
     if (note) notes[cb.value] = note;
   });
   return { parts, notes };
 }
-
 function togglePartRow(cb) {
   const row = cb.closest('.part-row');
-  const noteInput = document.getElementById('pn-' + cb.value);
+  const noteInput = document.getElementById('pn-'+cb.value);
   if (!row) return;
   row.classList.toggle('part-active', cb.checked);
   if (noteInput) {
-    if (cb.checked) {
-      noteInput.removeAttribute('disabled');
-      setTimeout(() => noteInput.focus(), 50);
-    } else {
-      noteInput.value = '';
-      noteInput.setAttribute('disabled', '');
-    }
+    if (cb.checked) { noteInput.removeAttribute('disabled'); setTimeout(()=>noteInput.focus(),50); }
+    else { noteInput.value=''; noteInput.setAttribute('disabled',''); }
   }
 }
-
 function showErr(id, msg) {
-  const el = document.getElementById(id);
-  if (!el) return;
-  el.textContent = msg;
-  el.classList.toggle('show', !!msg);
+  const el=document.getElementById(id); if(!el) return;
+  el.textContent=msg; el.classList.toggle('show',!!msg);
 }
 
-function val(id) {
-  const el = document.getElementById(id);
-  return el ? el.value.trim() : '';
-}
-
-document.getElementById('mainForm').addEventListener('submit', async e => {
-  e.preventDefault();
+// ── バリデーション（タイプ別）─────────────────────────────────
+function buildPayloads(common) {
+  const payloads = [];
   let errors = false;
 
-  // Clear errors
-  document.querySelectorAll('.field-error').forEach(el => { el.textContent=''; el.classList.remove('show'); });
-
-  const nickname = val('f-nickname');
-  const group_name = val('f-group_name');
-  const email = val('f-email');
-  const agree_terms = document.getElementById('f-agree_terms').checked;
-
-  if (nickname.length < 2 || nickname.length > 30) { showErr('e-nickname','2〜30文字で入力してください'); errors=true; }
-  if (group_name && (group_name.length < 2 || group_name.length > 50)) { showErr('e-nickname','バンド・ユニット名は2〜50文字です'); errors=true; }
-  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) { showErr('e-email','正しいメールアドレスを入力してください'); errors=true; }
-  if (!agree_terms) { showErr('e-consent','投稿規約への同意が必要です'); errors=true; }
-
-  let payload = { nickname, group_name, email, agree_terms: 'true' };
-
-  if (selectedType === 'showcase') {
-    const title = val('f-title-s'), genre = val('f-genre'), main_link = val('f-main_link');
-    const description = val('f-description-s'), gear = val('f-gear');
-    const agree_original = document.getElementById('f-agree_original').checked;
-    const agree_rights = document.getElementById('f-agree_rights').checked;
-    if (title.length < 5 || title.length > 60) { showErr('e-title-s','5〜60文字で入力してください'); errors=true; }
-    if (!genre) { showErr('e-genre','ジャンルを選択してください'); errors=true; }
-    if (!main_link) { showErr('e-main_link','リンクを入力してください'); errors=true; }
-    if (description.length < 50 || description.length > 400) { showErr('e-description-s','50〜400文字で入力してください'); errors=true; }
-    if (!gear) { showErr('e-gear','使用機材を入力してください'); errors=true; }
-    if (!agree_original || !agree_rights) { showErr('e-consent','すべての同意事項にチェックしてください'); errors=true; }
-    if (!errors) payload = { ...payload, action:'submit', title, genre, main_link, extra_link: val('f-extra_link'), description, gear, sns_link: val('f-sns_link'), agree_original:'true', agree_rights:'true' };
-  } else if (selectedType === 'member') {
-    const title = val('f-title-m'), recruit_type = val('f-recruit_type');
-    const my_part = val('f-my_part'), region = val('f-region');
-    const frequency = val('f-frequency'), level = val('f-level');
-    const description = val('f-description-m'), contact = val('f-contact-m');
-    const { parts: recruit_parts, notes: recruit_notes } = getPartsWithNotes();
-    const genres = getChecked('genres_group');
-    if (title.length < 10 || title.length > 60) { showErr('e-title-m','10〜60文字で入力してください'); errors=true; }
-    if (!recruit_type) { showErr('e-recruit_type','募集種別を選択してください'); errors=true; }
-    if (!my_part) { showErr('e-my_part','あなたのパートを選択してください'); errors=true; }
-    if (recruit_parts.length === 0) { showErr('e-recruit_parts','1つ以上選択してください'); errors=true; }
-    if (genres.length === 0 || genres.length > 3) { showErr('e-genres','1〜3つ選択してください'); errors=true; }
-    if (!region) { showErr('e-region-m','活動地域を選択してください'); errors=true; }
-    if (!frequency) { showErr('e-frequency','活動頻度を選択してください'); errors=true; }
-    if (!level) { showErr('e-level','活動レベルを選択してください'); errors=true; }
-    if (description.length < 50 || description.length > 500) { showErr('e-description-m','50〜500文字で入力してください'); errors=true; }
-    if (!contact) { showErr('e-contact-m','連絡先を入力してください'); errors=true; }
-    if (!errors) payload = { ...payload, action:'post_member', title, recruit_type, my_part, recruit_parts: recruit_parts.join(','), recruit_parts_notes: JSON.stringify(recruit_notes), genres: genres.join(','), region, frequency, level, description, contact, sample_link: val('f-sample-m') };
-  } else if (selectedType === 'event') {
-    const title = val('f-title-e'), event_type = val('f-event_type');
-    const event_date = val('f-event_date'), format = val('f-format');
-    const description = val('f-description-e'), contact = val('f-contact-e');
-    const fee_type = val('f-fee_type');
-    const region = format !== 'オンライン' ? val('f-region-e') : '';
-    if (title.length < 10 || title.length > 80) { showErr('e-title-e','10〜80文字で入力してください'); errors=true; }
-    if (!event_type) { showErr('e-event_type','イベント種別を選択してください'); errors=true; }
-    if (!event_date) { showErr('e-event_date','開催日を入力してください'); errors=true; }
-    else { const d=new Date(event_date),t=new Date();t.setHours(0,0,0,0);if(d<t){showErr('e-event_date','今日以降の日付を入力してください');errors=true;} }
-    if (!format) { showErr('e-format','開催形式を選択してください'); errors=true; }
-    if (format !== 'オンライン' && !region) { showErr('e-region-e','開催都道府県を選択してください'); errors=true; }
-    if (!fee_type) { showErr('e-fee_type','参加費を選択してください'); errors=true; }
-    if (description.length < 100 || description.length > 1000) { showErr('e-description-e','100〜1000文字で入力してください'); errors=true; }
-    if (!contact) { showErr('e-contact-e','連絡先を入力してください'); errors=true; }
-    if (!errors) payload = { ...payload, action:'post_event', title, event_type, event_date, event_time: val('f-event_time'), format, region, venue: val('f-venue'), fee_type, fee_amount: val('f-fee_amount'), capacity: val('f-capacity'), description, contact, sample_link: val('f-sample-e') };
+  if (selectedTypes.has('showcase')) {
+    const title=val('f-title-s'), genre=val('f-genre'), main_link=val('f-main_link');
+    const description=val('f-description-s'), gear=val('f-gear');
+    const agree_original=document.getElementById('f-agree_original').checked;
+    const agree_rights=document.getElementById('f-agree_rights').checked;
+    if (title.length<5||title.length>60)          { showErr('e-title-s','5〜60文字で入力してください'); errors=true; }
+    if (!genre)                                    { showErr('e-genre','ジャンルを選択してください'); errors=true; }
+    if (!main_link)                                { showErr('e-main_link','リンクを入力してください'); errors=true; }
+    if (description.length<50||description.length>400){ showErr('e-description-s','50〜400文字で入力してください'); errors=true; }
+    if (!gear)                                     { showErr('e-gear','使用機材を入力してください'); errors=true; }
+    if (!agree_original||!agree_rights)            { showErr('e-consent','すべての同意事項にチェックしてください'); errors=true; }
+    if (!errors) payloads.push({...common, action:'submit', title, genre, main_link,
+      extra_link:val('f-extra_link'), description, gear, sns_link:val('f-sns_link'),
+      agree_original:'true', agree_rights:'true'});
   }
 
-  if (errors) return;
+  if (selectedTypes.has('member')) {
+    const title=val('f-title-m'), recruit_type=val('f-recruit_type');
+    const my_part=val('f-my_part'), region=val('f-region');
+    const frequency=val('f-frequency'), level=val('f-level');
+    const description=val('f-description-m'), contact=val('f-contact-m');
+    const {parts:recruit_parts, notes:recruit_notes}=getPartsWithNotes();
+    const genres=getChecked('genres_group');
+    if (title.length<10||title.length>60)         { showErr('e-title-m','10〜60文字で入力してください'); errors=true; }
+    if (!recruit_type)                             { showErr('e-recruit_type','募集種別を選択してください'); errors=true; }
+    if (!my_part)                                  { showErr('e-my_part','あなたのパートを選択してください'); errors=true; }
+    if (recruit_parts.length===0)                  { showErr('e-recruit_parts','1つ以上選択してください'); errors=true; }
+    if (genres.length===0||genres.length>3)        { showErr('e-genres','1〜3つ選択してください'); errors=true; }
+    if (!region)                                   { showErr('e-region-m','活動地域を選択してください'); errors=true; }
+    if (!frequency)                                { showErr('e-frequency','活動頻度を選択してください'); errors=true; }
+    if (!level)                                    { showErr('e-level','活動レベルを選択してください'); errors=true; }
+    if (description.length<50||description.length>500){ showErr('e-description-m','50〜500文字で入力してください'); errors=true; }
+    if (!contact)                                  { showErr('e-contact-m','連絡先を入力してください'); errors=true; }
+    if (!errors) payloads.push({...common, action:'post_member', title, recruit_type, my_part,
+      recruit_parts:recruit_parts.join(','), recruit_parts_notes:JSON.stringify(recruit_notes),
+      genres:genres.join(','), region, frequency, level, description, contact, sample_link:val('f-sample-m')});
+  }
+
+  if (selectedTypes.has('event')) {
+    const title=val('f-title-e'), event_type=val('f-event_type');
+    const event_date=val('f-event_date'), format=val('f-format');
+    const description=val('f-description-e'), contact=val('f-contact-e');
+    const fee_type=val('f-fee_type');
+    const region = format!=='オンライン' ? val('f-region-e') : '';
+    if (title.length<10||title.length>80)         { showErr('e-title-e','10〜80文字で入力してください'); errors=true; }
+    if (!event_type)                               { showErr('e-event_type','イベント種別を選択してください'); errors=true; }
+    if (!event_date)                               { showErr('e-event_date','開催日を入力してください'); errors=true; }
+    else { const d=new Date(event_date),t=new Date();t.setHours(0,0,0,0); if(d<t){showErr('e-event_date','今日以降の日付を入力してください');errors=true;} }
+    if (!format)                                   { showErr('e-format','開催形式を選択してください'); errors=true; }
+    if (format!=='オンライン'&&!region)            { showErr('e-region-e','開催都道府県を選択してください'); errors=true; }
+    if (!fee_type)                                 { showErr('e-fee_type','参加費を選択してください'); errors=true; }
+    if (description.length<100||description.length>1000){ showErr('e-description-e','100〜1000文字で入力してください'); errors=true; }
+    if (!contact)                                  { showErr('e-contact-e','連絡先を入力してください'); errors=true; }
+    if (!errors) payloads.push({...common, action:'post_event', title, event_type, event_date,
+      event_time:val('f-event_time'), format, region, venue:val('f-venue'), fee_type,
+      fee_amount:val('f-fee_amount'), capacity:val('f-capacity'), description, contact, sample_link:val('f-sample-e')});
+  }
+
+  return { payloads, errors };
+}
+
+// ── フォーム送信 ──────────────────────────────────────────────
+document.getElementById('mainForm').addEventListener('submit', async e => {
+  e.preventDefault();
+  document.querySelectorAll('.field-error').forEach(el => { el.textContent=''; el.classList.remove('show'); });
+
+  const nickname = val('f-nickname'), group_name = val('f-group_name'), email = val('f-email');
+  const agree_terms = document.getElementById('f-agree_terms').checked;
+  let baseErrors = false;
+
+  if (nickname.length<2||nickname.length>30)       { showErr('e-nickname','2〜30文字で入力してください'); baseErrors=true; }
+  if (group_name&&(group_name.length<2||group_name.length>50)){ showErr('e-nickname','バンド・ユニット名は2〜50文字です'); baseErrors=true; }
+  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email))  { showErr('e-email','正しいメールアドレスを入力してください'); baseErrors=true; }
+  if (!agree_terms)                                 { showErr('e-consent','投稿規約への同意が必要です'); baseErrors=true; }
+  if (baseErrors) return;
+
+  const common = { nickname, group_name, email, agree_terms:'true' };
+  const { payloads, errors } = buildPayloads(common);
+  if (errors || payloads.length === 0) return;
 
   const btn = document.getElementById('btn-submit');
   btn.disabled = true;
   btn.innerHTML = '<span class="spinner"></span>送信中…';
 
   try {
-    const res = await fetch(WORKER, { method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(payload) });
-    const data = await res.json();
-    if (data.ok) {
+    // 並列送信
+    const results = await Promise.all(payloads.map(p =>
+      fetch(WORKER, { method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(p) })
+        .then(r => r.json())
+    ));
+    const failed = results.filter(r => !r.ok);
+    if (failed.length === 0) {
+      const submittedLabels = TYPE_ORDER.filter(t => selectedTypes.has(t)).map(t => TYPE_LABELS[t]);
+      document.getElementById('success-msg').textContent =
+        submittedLabels.join('・') + 'の投稿を受け付けました。担当による審査後（通常3〜7日）に掲載されます。';
       setStep(3);
     } else {
-      const msg = data.error || (data.errors && (Array.isArray(data.errors) ? data.errors.join(' / ') : Object.values(data.errors).join(' / '))) || 'エラーが発生しました';
+      const msg = failed.map(r => r.error||(r.errors&&(Array.isArray(r.errors)?r.errors.join('/'):Object.values(r.errors).join('/')))||'エラー').join(' / ');
       showErr('e-consent', '⚠️ ' + msg);
       btn.disabled = false;
-      btn.innerHTML = '送信する';
+      btn.innerHTML = document.querySelector('#btn-submit').textContent;
+      goStep2(); // ラベル再設定
     }
   } catch(err) {
     showErr('e-consent', 'ネットワークエラーが発生しました。しばらく後にお試しください。');
