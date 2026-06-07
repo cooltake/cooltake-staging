@@ -37,13 +37,13 @@ image: /assets/images/thumb-stratocaster.jpg
 
 | シリーズ | 価格帯 | 特徴 | おすすめ対象 |
 |---------|--------|------|------------|
-| **Squier Affinity** | ¥37,000〜 | Fenderブランドの入門機 | 完全初心者 |
-| **Squier Classic Vibe** | ¥62,000〜 | コスパ最高。ヴィンテージ寄りの音 | 中級者・予算重視 |
 | **Player Series（MIM）** | ¥100,000〜 | Fender正規・メキシコ製 | 本格的に弾きたい方 |
 | **American Professional II** | ¥235,000〜 | USA製。現代スペック | 上級者・プロ |
 | **American Vintage II** | ¥390,000〜 | ヴィンテージスペック忠実再現 | コレクター・ヴィンテージ好き |
+| **Squier Classic Vibe**（※他社） | ¥62,000〜 | Fender系列の別ブランド。同型モデルの入門機 | 予算を抑えたい方 |
+| **Squier Affinity**（※他社） | ¥37,000〜 | Fender系列の別ブランド。入門用 | 完全初心者 |
 
-予算とレベルに応じてシリーズを選ぶのがポイントです。「まず弾いてみたい」ならSquier、「本物のFenderを持ちたい」ならPlayer Seriesがバランスの良い選択肢です。
+予算とレベルに応じてシリーズを選ぶのがポイントです。本物のFenderを持ちたいならPlayer Seriesがバランスの良い選択肢です。
 
 ---
 
