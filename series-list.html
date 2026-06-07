@@ -418,7 +418,7 @@ const SERIES_DATA = {
   countEl.textContent = (series.articles || series.posts || []).length + '本の記事';
 
   gridEl.innerHTML = (series.articles || series.posts || []).map(a => `
-    <a href="${a.url}" class="article-card" target="_blank" rel="noopener">
+    <a href="${a.url}" class="article-card">
       <div class="card-thumb">
         <img src="${a.img}" alt="" loading="lazy" onerror="this.style.display='none'">
       </div>
