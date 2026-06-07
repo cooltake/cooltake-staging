@@ -13,9 +13,26 @@ image: /assets/images/thumb-les-paul-custom.jpg
 
 <figure style="text-align:center;margin:2rem auto;max-width:800px;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 170" style="max-width:100%;height:auto;border-radius:10px;display:block;"><rect width="800" height="170" fill="#0f172a" rx="10"/><rect x="30" y="40" width="160" height="90" fill="#1e293b" rx="8" stroke="#f59e0b" stroke-width="1.5"/><text x="110" y="82" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#fcd34d" font-weight="bold">マホガニーボディ</text><text x="110" y="98" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#94a3b8">重厚サステイン</text><rect x="210" y="40" width="160" height="90" fill="#1e293b" rx="8" stroke="#f59e0b" stroke-width="1.5"/><text x="290" y="82" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#fcd34d" font-weight="bold">メイプルトップ</text><text x="290" y="98" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#94a3b8">中高域の明瞭感</text><rect x="390" y="40" width="160" height="90" fill="#292524" rx="8" stroke="#fbbf24" stroke-width="2"/><text x="470" y="74" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#fde68a" font-weight="bold">eBony指板</text><text x="470" y="90" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#fbbf24">アタック明確・</text><text x="470" y="103" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#fbbf24">Les Paul Customの証</text><rect x="570" y="40" width="200" height="90" fill="#1e293b" rx="8" stroke="#f59e0b" stroke-width="1.5"/><text x="670" y="74" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#fcd34d" font-weight="bold">Burstbucker Proハム</text><text x="670" y="90" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#94a3b8">ハムバッカー2基搭載</text><text x="670" y="103" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#94a3b8">クリーン〜ヘビーまで</text></svg><figcaption style="font-size:.82em;color:#64748b;margin-top:.4em;font-family:sans-serif;">図：Les Paul Customの主要スペック構成</figcaption></figure>
 
-**Gibson Les Paul Custom**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%2F%3Fsearch_all%3DGibson%2520Les%2520Paul%2520Custom" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒</a>（ブラックビューティーとも呼ばれる）は、1954年に登場したレスポールシリーズの最上位モデルです。Les Paul Standardと比べてより豪華な仕様を持ち、プロのステージから録音現場まで幅広く使われています。
+**Gibson Les Paul Custom**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%2F%3Fsearch_all%3DGibson%2520Les%2520Paul%2520Custom" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒</a>（ブラックビューティーとも呼ばれる）は、1954年に登場したレスポールシリーズの格式最上位モデルです。エボニー指板・ゴールドハードウェア・多重バインディングが特徴で、プロのステージから録音現場まで幅広く使われています。
 
 特徴的なブラックカラーとゴールドハードウェアの組み合わせは「ブラックビューティー」として知られ、スラッシュ（Guns N' Roses）やピーター・フランプトンなど多くのギタリストが愛用してきました。
+
+---
+
+## Les Paulシリーズ全体の中でのCustomの位置付け
+
+Gibsonの現行Les Paulラインナップは複数のシリーズに分かれており、Customはその中で格式・仕様ともに最上位に位置します。
+
+| シリーズ | 価格帯 | 特徴 | 向いている人 |
+|---------|--------|------|------------|
+| **Les Paul Junior** | ¥120,000〜 | P-90×1基のシンプル構造。軽量 | ブルース・パンク・シンプルな音を求める方 |
+| **Les Paul Classic** | ¥300,000〜 | '60年代スペック寄り。スリムネック | ヴィンテージ感と弾きやすさを両立したい方 |
+| **Les Paul Standard** | ¥340,000〜 | フレイムメイプルトップ・定番仕様 | オールラウンドに使いたい方 |
+| **Les Paul Traditional** | ¥340,000〜 | ウエイトリリーフなし・よりヴィンテージ寄り | 本物の重さと音を重視する方 |
+| **Les Paul Custom** | ¥590,000〜 | エボニー指板・ゴールドHW・多重バインディング | 格式と最高仕様を求める方 |
+| **Gibson Custom Shop** | ¥900,000〜 | 職人手仕上げ・オーダー対応 | コレクター・プロ |
+
+Customの立ち位置を一言で言うと「量産ラインの頂点」です。Custom Shopがオーダー・特注路線であるのに対し、Customは正規製品としてラインナップされた最高格式のモデルです。
 
 ---
 
