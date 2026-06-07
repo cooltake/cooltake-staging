@@ -446,7 +446,6 @@ const SERIES_DATA = {
     if (overlay) { overlay.addEventListener('click', closeDrawer); }
     if (drawer) { drawer.querySelectorAll('a').forEach(function(a) { a.addEventListener('click', closeDrawer); }); }
     if (nav) { nav.querySelectorAll('a').forEach(function(a) { a.addEventListener('click', function() { nav.classList.remove('open'); if (toggle) { toggle.classList.remove('open'); toggle.setAttribute('aria-label', 'メニューを開く'); } }); }); }
-    });
   })();
 </script>
 
