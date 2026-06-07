@@ -482,18 +482,25 @@
             <label>会場名（任意）</label>
             <input type="text" id="f-venue" placeholder="例: 渋谷 〇〇スタジオ">
           </div>
+          <div class="field">
+            <label>参加費<span class="req">*</span></label>
+            <select id="f-fee_type" onchange="toggleFeeFields()">
+              <option value="">選択してください</option>
+              <option>無料</option>
+              <option>有料</option>
+              <option>ワンドリンク制（入場無料）</option>
+              <option>有料＋ワンドリンク制</option>
+            </select>
+            <div class="field-error" id="e-fee_type"></div>
+          </div>
           <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;">
-            <div class="field">
-              <label>参加費<span class="req">*</span></label>
-              <select id="f-fee_type">
-                <option value="">選択</option>
-                <option>無料</option><option>有料</option>
-              </select>
-              <div class="field-error" id="e-fee_type"></div>
-            </div>
-            <div class="field">
-              <label>金額（任意）</label>
+            <div class="field" id="fee-amount-row" style="display:none">
+              <label>入場料（任意）</label>
               <input type="text" id="f-fee_amount" placeholder="例: ¥1,000">
+            </div>
+            <div class="field" id="fee-drink-row" style="display:none">
+              <label>ドリンク代（任意）</label>
+              <input type="text" id="f-drink_fee" placeholder="例: ¥600〜">
             </div>
           </div>
           <div class="field">
@@ -682,6 +689,15 @@ function showErr(id, msg) {
   el.textContent=msg; el.classList.toggle('show',!!msg);
 }
 
+// ── 参加費フィールド 表示切替 ─────────────────────────────────
+function toggleFeeFields() {
+  const t = document.getElementById('f-fee_type').value;
+  const showAmount = (t === '有料' || t === '有料＋ワンドリンク制');
+  const showDrink  = (t === 'ワンドリンク制（入場無料）' || t === '有料＋ワンドリンク制');
+  document.getElementById('fee-amount-row').style.display = showAmount ? '' : 'none';
+  document.getElementById('fee-drink-row').style.display  = showDrink  ? '' : 'none';
+}
+
 // ── バリデーション（タイプ別）─────────────────────────────────
 function buildPayloads(common) {
   const payloads = [];
@@ -742,7 +758,7 @@ function buildPayloads(common) {
     if (!contact)                                  { showErr('e-contact-e','連絡先を入力してください'); errors=true; }
     if (!errors) payloads.push({...common, action:'post_event', title, event_type, event_date,
       event_time:val('f-event_time'), format, region, venue:val('f-venue'), fee_type,
-      fee_amount:val('f-fee_amount'), capacity:val('f-capacity'), description, contact, sample_link:val('f-sample-e')});
+      fee_amount:val('f-fee_amount'), drink_fee:val('f-drink_fee'), capacity:val('f-capacity'), description, contact, sample_link:val('f-sample-e')});
   }
 
   return { payloads, errors };
