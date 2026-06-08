@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
@@ -1404,49 +1404,87 @@
           </div>
         </div>
 
-        <!-- Showcase -->
+        <!-- Showcase + Community -->
         <div class="col-section" id="showcase">
           <div class="col-section-head">
             <span class="section-eyebrow">Creator Showcase</span>
             <div class="section-line"></div>
             <span class="showcase-badge">🎵 クリエイターの作品を発見する</span>
           </div>
-          <div style="border:1px solid rgba(129,140,248,.2);border-radius:18px;padding:32px 28px;background:linear-gradient(135deg,rgba(129,140,248,.06),transparent 60%);">
-            <p style="font-size:.82rem;color:var(--muted);line-height:1.85;margin-bottom:22px;">あなたの楽曲・演奏・宅録作品をShowcaseに掲載しませんか。<br>YouTube・SoundCloud・ニコニコ動画のリンクで投稿できます。</p>
-            <div style="display:flex;gap:10px;flex-wrap:wrap;">
-              <a href="/showcase/" style="display:inline-flex;align-items:center;gap:7px;background:linear-gradient(135deg,#3b82f6,#818cf8);color:#fff;font-weight:700;font-size:.82rem;padding:10px 22px;border-radius:9999px;text-decoration:none;">Showcase を見る →</a>
-              <a href="/showcase/submit.html" style="display:inline-flex;align-items:center;gap:7px;background:rgba(129,140,248,.1);border:1px solid rgba(129,140,248,.3);color:#c4b5fd;font-weight:600;font-size:.82rem;padding:10px 22px;border-radius:9999px;text-decoration:none;">作品を投稿する →</a>
+
+          <!-- 上段: CTA 左 + 最新投稿ミニカード 右 -->
+          <div style="display:grid;grid-template-columns:1fr 1.6fr;gap:12px;align-items:start;">
+            <div style="border:1px solid rgba(129,140,248,.2);border-radius:14px;padding:22px 18px;background:linear-gradient(135deg,rgba(129,140,248,.06),transparent 60%);">
+              <p style="font-size:.79rem;color:var(--muted);line-height:1.8;margin-bottom:18px;">あなたの楽曲・演奏・宅録作品をShowcaseに掲載しませんか。<br>YouTube・SoundCloud・ニコニコ動画のリンクで投稿できます。</p>
+              <div style="display:flex;flex-direction:column;gap:8px;">
+                <a href="/showcase/" style="display:inline-flex;align-items:center;justify-content:center;gap:7px;background:linear-gradient(135deg,#3b82f6,#818cf8);color:#fff;font-weight:700;font-size:.79rem;padding:9px 18px;border-radius:9999px;text-decoration:none;">Showcase を見る →</a>
+                <a href="/community/submit.html" style="display:inline-flex;align-items:center;justify-content:center;gap:7px;background:rgba(129,140,248,.1);border:1px solid rgba(129,140,248,.3);color:#c4b5fd;font-weight:600;font-size:.79rem;padding:9px 18px;border-radius:9999px;text-decoration:none;">作品を投稿する →</a>
+              </div>
+            </div>
+            <!-- 最新投稿ミニカード (JS動的読込) -->
+            <div id="sc-preview-grid" style="display:grid;grid-template-columns:1fr 1fr;gap:8px;">
+              <div style="border:1px solid rgba(129,140,248,.1);border-radius:10px;padding:14px;background:rgba(129,140,248,.03);animation:pulse 1.5s infinite;" class="sc-skeleton"></div>
+              <div style="border:1px solid rgba(129,140,248,.1);border-radius:10px;padding:14px;background:rgba(129,140,248,.03);animation:pulse 1.5s infinite;" class="sc-skeleton"></div>
+              <div style="border:1px solid rgba(129,140,248,.1);border-radius:10px;padding:14px;background:rgba(129,140,248,.03);animation:pulse 1.5s infinite;" class="sc-skeleton"></div>
+              <div style="border:1px solid rgba(129,140,248,.1);border-radius:10px;padding:14px;background:rgba(129,140,248,.03);animation:pulse 1.5s infinite;" class="sc-skeleton"></div>
+            </div>
+          </div>
+
+          <!-- 下段: イベント情報（左） + メンバー募集（右） -->
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:12px;">
+            <!-- イベント情報 -->
+            <div style="border:1px solid rgba(6,182,212,.25);border-radius:14px;padding:20px 18px;background:linear-gradient(135deg,rgba(6,182,212,.06),transparent 60%);">
+              <div style="display:flex;align-items:center;gap:8px;margin-bottom:10px;">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><rect x="3" y="4" width="18" height="17" rx="3" stroke="#22d3ee" stroke-width="1.6" opacity=".8"/><line x1="3" y1="9" x2="21" y2="9" stroke="#22d3ee" stroke-width="1.6" opacity=".6"/><line x1="8" y1="2" x2="8" y2="6" stroke="#22d3ee" stroke-width="1.6" stroke-linecap="round" opacity=".8"/><line x1="16" y1="2" x2="16" y2="6" stroke="#22d3ee" stroke-width="1.6" stroke-linecap="round" opacity=".8"/></svg>
+                <span style="font-size:.88rem;font-weight:700;color:#67e8f9;">イベント情報</span>
+              </div>
+              <p style="font-size:.76rem;color:var(--muted);line-height:1.75;margin-bottom:14px;">ライブ・練習会・セッション・音楽イベントを投稿・発見できます。地元のシーンをもっと身近に。</p>
+              <div style="display:flex;gap:8px;flex-wrap:wrap;">
+                <a href="/community/events.html" style="display:inline-flex;align-items:center;gap:5px;background:rgba(6,182,212,.12);border:1px solid rgba(6,182,212,.3);color:#67e8f9;font-weight:600;font-size:.76rem;padding:7px 14px;border-radius:9999px;text-decoration:none;">イベントを見る →</a>
+                <a href="/community/submit.html" style="display:inline-flex;align-items:center;gap:5px;background:rgba(6,182,212,.06);border:1px solid rgba(6,182,212,.2);color:#a5f3fc;font-weight:500;font-size:.76rem;padding:7px 14px;border-radius:9999px;text-decoration:none;">投稿する →</a>
+              </div>
+            </div>
+            <!-- メンバー募集 -->
+            <div style="border:1px solid rgba(52,211,153,.25);border-radius:14px;padding:20px 18px;background:linear-gradient(135deg,rgba(52,211,153,.06),transparent 60%);">
+              <div style="display:flex;align-items:center;gap:8px;margin-bottom:10px;">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none"><circle cx="9" cy="7" r="4" stroke="#34d399" stroke-width="1.6" opacity=".8"/><circle cx="17" cy="9" r="3" stroke="#34d399" stroke-width="1.6" opacity=".5"/><path d="M2 20 C2 16 5 14 9 14 C13 14 16 16 16 20" stroke="#34d399" stroke-width="1.6" fill="none" stroke-linecap="round" opacity=".8"/><path d="M16 14 C18 14 21 15 21 19" stroke="#34d399" stroke-width="1.6" fill="none" stroke-linecap="round" opacity=".5"/></svg>
+                <span style="font-size:.88rem;font-weight:700;color:#6ee7b7;">メンバー募集</span>
+              </div>
+              <p style="font-size:.76rem;color:var(--muted);line-height:1.75;margin-bottom:14px;">バンドメンバーや音楽仲間を募集・発見できます。パート・ジャンル・活動地域で絞り込み可能。</p>
+              <div style="display:flex;gap:8px;flex-wrap:wrap;">
+                <a href="/community/members.html" style="display:inline-flex;align-items:center;gap:5px;background:rgba(52,211,153,.12);border:1px solid rgba(52,211,153,.3);color:#6ee7b7;font-weight:600;font-size:.76rem;padding:7px 14px;border-radius:9999px;text-decoration:none;">メンバーを探す →</a>
+                <a href="/community/submit.html" style="display:inline-flex;align-items:center;gap:5px;background:rgba(52,211,153,.06);border:1px solid rgba(52,211,153,.2);color:#a7f3d0;font-weight:500;font-size:.76rem;padding:7px 14px;border-radius:9999px;text-decoration:none;">募集を出す →</a>
+              </div>
             </div>
           </div>
         </div>
 
-        <!-- Community 機能（WBS 2.4b） — 非表示（実装完了後に復元）
-        <div class="col-section">
-          <div class="col-section-head">
-            <span class="section-eyebrow">Community</span>
-            <div class="section-line"></div>
-            <span style="font-size:.63rem;font-weight:700;color:var(--accent);background:rgba(6,182,212,.1);border:1px solid rgba(6,182,212,.25);padding:3px 10px;border-radius:9999px;white-space:nowrap;">近日公開</span>
-          </div>
-          <div class="community-grid">
-            <div class="community-tile">
-              <span class="community-badge">Coming Soon</span>
-              <div class="community-icon">
-                <svg width="22" height="22" viewBox="0 0 26 26" fill="none"><circle cx="10" cy="9" r="5" stroke="#06b6d4" stroke-width="1.5" opacity=".7"/><circle cx="18" cy="11" r="3.5" stroke="#06b6d4" stroke-width="1.5" opacity=".5"/><path d="M2 22 C2 17 6 15 10 15 C14 15 18 17 18 22" stroke="#06b6d4" stroke-width="1.5" fill="none" stroke-linecap="round" opacity=".7"/><path d="M18 15 C20 15 23 16 23 20" stroke="#06b6d4" stroke-width="1.5" fill="none" stroke-linecap="round" opacity=".5"/></svg>
-              </div>
-              <p class="community-title">メンバー募集コーナー</p>
-              <p class="community-desc">バンドメンバーや音楽仲間を探せるマッチング機能を開発中。ジャンル・パート・地域で絞り込んで一緒に音楽を作る仲間を見つけよう。</p>
-            </div>
-            <div class="community-tile">
-              <span class="community-badge">Coming Soon</span>
-              <div class="community-icon">
-                <svg width="22" height="22" viewBox="0 0 26 26" fill="none"><rect x="3" y="5" width="20" height="16" rx="3" stroke="#06b6d4" stroke-width="1.5" opacity=".7"/><line x1="3" y1="10" x2="23" y2="10" stroke="#06b6d4" stroke-width="1.5" opacity=".5"/><line x1="9" y1="3" x2="9" y2="7" stroke="#06b6d4" stroke-width="1.5" stroke-linecap="round" opacity=".7"/><line x1="17" y1="3" x2="17" y2="7" stroke="#06b6d4" stroke-width="1.5" stroke-linecap="round" opacity=".7"/></svg>
-              </div>
-              <p class="community-title">ライブ・イベント情報</p>
-              <p class="community-desc">近くで開催されるライブや練習会、音楽イベントを投稿・発見できる情報ボードを準備中。地元のシーンをもっと身近に。</p>
-            </div>
-          </div>
-        </div>
-        -->
+        <!-- Showcase 最新投稿 動的読込スクリプト -->
+        <script>
+        (function(){
+          var WORKER = 'https://cooltake-showcase.cooltakestudio.workers.dev/';
+          function esc(s){ return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+          fetch(WORKER+'?action=api&limit=4&sort=latest')
+            .then(function(r){ return r.json(); })
+            .then(function(d){
+              var el = document.getElementById('sc-preview-grid');
+              if(!el) return;
+              var posts = (d.posts||[]).slice(0,4);
+              if(posts.length === 0){
+                el.innerHTML = '<p style="font-size:.74rem;color:var(--muted);grid-column:span 2;padding:12px 0;">まだ投稿がありません。最初の作品を投稿してみませんか？</p>';
+                return;
+              }
+              el.innerHTML = posts.map(function(p){
+                return '<a href="/showcase/" style="display:block;border:1px solid rgba(129,140,248,.18);border-radius:10px;padding:12px;background:rgba(129,140,248,.04);text-decoration:none;transition:background .2s;" onmouseover="this.style.background=\'rgba(129,140,248,.1)\'" onmouseout="this.style.background=\'rgba(129,140,248,.04)\'">'
+                  +'<div style="font-size:.68rem;color:#818cf8;font-weight:700;margin-bottom:3px;">'+esc(p.genre||'Music')+'</div>'
+                  +'<div style="font-size:.78rem;color:#e2e8f0;font-weight:600;line-height:1.35;margin-bottom:4px;">'+esc((p.title||'').substring(0,28))+'</div>'
+                  +'<div style="font-size:.68rem;color:var(--muted);">'+esc(p.artist||p.group_name||'')+'</div>'
+                  +'</a>';
+              }).join('');
+            })
+            .catch(function(){ /* サイレント失敗 */ });
+        })();
+        </script>
 
         <!-- Coming Soon: 機能テザー — 非表示（実装完了後に復元）
         <div class="col-section">
