@@ -104,7 +104,11 @@ image: /assets/images/thumb-guitar.png
 | ぼっち・ざ・ろっく！で学べるギター教則本 | リットーミュージック編集部 | 完全初心者 | 人気アニメの楽曲でテクニックを楽しく習得。モチベーション維持しやすい |
 | 人気曲ではじめる！エレキギター ビギナーズBOOK | リットーミュージック編集部 | 完全初心者 | 2024年刊。人気J-POPでコード・リズムを習得 |
 
-<!-- AFFILIATE_PLACEHOLDER: Amazon教則本リンク（もしもアフィリエイト Amazon審査通過後に設置予定 site_id=672391） -->
+<div style="margin:.8rem 0 1.5rem;">
+<span style="display:block;font-size:.82rem;font-weight:bold;color:#374151;margin-bottom:6px;">📖 ギター教則本を楽天ブックスで探す</span>
+<a href="//af.moshimo.com/af/c/click?a_id=5565352&amp;p_id=54&amp;pc_id=54&amp;pl_id=616&amp;url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AE%25E3%2582%25BF%25E3%2583%25BC+%25E6%2595%2599%25E5%2589%2587%25E6%259C%25AC%2F212%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天ブックスで探す" width="200" style="height:auto;border-radius:8px;display:inline-block;"></a>
+<img src="//i.moshimo.com/af/i/impression?a_id=5565352&amp;p_id=54&amp;pc_id=54&amp;pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy">
+</div>
 
 <div style="display:flex;gap:.75rem;margin:2rem 0;">
 <div style="flex:1;padding:.8rem 1rem 1rem;background:#e8f4fb;border-radius:10px;border:1px solid rgba(8,145,178,.25);">
