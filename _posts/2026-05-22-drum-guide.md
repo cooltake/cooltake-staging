@@ -120,14 +120,41 @@ image: /assets/images/thumb-drum.png
 
 ドラムセットを手に入れたら、「基本の4ビートとスティックワーク」を正しく習得するのが上達への近道です。動画・DVD連動の入門書を厳選しました。
 
-| 書名 | 著者 | 対象 | 特徴 |
-|------|------|------|------|
-| できる ゼロからはじめるドラム超入門 | RCCドラムスクール | 完全初心者 | 2024年12月刊。アコースティック・電子ドラム両対応。動画連動で映像確認できる |
-| DVDで今日から叩ける！かんたんドラム New Edition | 神谷重徳 | 完全初心者 | Amazonランキング常連の定番書。DVD付きで即実践できる |
-| 1日5分ではじめるドラム超入門 CD付&YouTube連動 | アルファノート編集部 | 完全初心者 | 3か月プランで段階的に練習。忙しい社会人にも取り組みやすい |
-| 3000円でできるドラマーになれる！超ドラム初心者本 | 長野祐亮 | 完全初心者 | 練習パッドのみでスタートできる超低コスト入門。スペースがない方にも |
+<table style="width:100%;border-collapse:collapse;font-size:.9rem;">
+<thead><tr style="background:#1e293b;color:#e2e8f0;">
+<th style="padding:.6rem .8rem;text-align:left;border-bottom:1px solid #334155;">書名</th>
+<th style="padding:.6rem .8rem;text-align:left;border-bottom:1px solid #334155;">著者</th>
+<th style="padding:.6rem .8rem;text-align:left;border-bottom:1px solid #334155;">対象</th>
+<th style="padding:.6rem .8rem;text-align:left;border-bottom:1px solid #334155;">特徴</th>
+</tr></thead>
+<tbody>
+<tr style="border-bottom:1px solid #334155;">
+<td style="padding:.6rem .8rem;">できる ゼロからはじめるドラム超入門<a href="//af.moshimo.com/af/c/click?a_id=5565352&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%81%A7%E3%81%8D%E3%82%8B%20%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E3%83%89%E3%83%A9%E3%83%A0%E8%B6%85%E5%85%A5%E9%96%80%2F212%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin-left:.3em;vertical-align:middle;" title="楽天ブックスで探す"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" style="vertical-align:middle;"><rect width="24" height="24" rx="5" fill="#f0a090"/><circle cx="10.5" cy="10" r="4.5" stroke="#fff" stroke-width="1.8" fill="none"/><line x1="14" y1="14" x2="18" y2="18" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg></a><img src="//i.moshimo.com/af/i/impression?a_id=5565352&p_id=54&pc_id=54&pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy"></td>
+<td style="padding:.6rem .8rem;">RCCドラムスクール</td>
+<td style="padding:.6rem .8rem;">完全初心者</td>
+<td style="padding:.6rem .8rem;">2024年12月刊。アコースティック・電子ドラム両対応。動画連動で映像確認できる</td>
+</tr>
+<tr style="border-bottom:1px solid #334155;">
+<td style="padding:.6rem .8rem;">DVDで今日から叩ける！かんたんドラム New Edition<a href="//af.moshimo.com/af/c/click?a_id=5565352&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDVD%E3%81%A7%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E5%8F%A9%E3%81%91%E3%82%8B%EF%BC%81%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93%E3%83%89%E3%83%A9%E3%83%A0%20New%20Edition%2F212%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin-left:.3em;vertical-align:middle;" title="楽天ブックスで探す"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" style="vertical-align:middle;"><rect width="24" height="24" rx="5" fill="#f0a090"/><circle cx="10.5" cy="10" r="4.5" stroke="#fff" stroke-width="1.8" fill="none"/><line x1="14" y1="14" x2="18" y2="18" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg></a><img src="//i.moshimo.com/af/i/impression?a_id=5565352&p_id=54&pc_id=54&pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy"></td>
+<td style="padding:.6rem .8rem;">神谷重徳</td>
+<td style="padding:.6rem .8rem;">完全初心者</td>
+<td style="padding:.6rem .8rem;">Amazonランキング常連の定番書。DVD付きで即実践できる</td>
+</tr>
+<tr style="border-bottom:1px solid #334155;">
+<td style="padding:.6rem .8rem;">1日5分ではじめるドラム超入門 CD付&YouTube連動<a href="//af.moshimo.com/af/c/click?a_id=5565352&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F1%E6%97%A55%E5%88%86%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E3%83%89%E3%83%A9%E3%83%A0%E8%B6%85%E5%85%A5%E9%96%80%20CD%E4%BB%98%26YouTube%E9%80%A3%E5%8B%95%2F212%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin-left:.3em;vertical-align:middle;" title="楽天ブックスで探す"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" style="vertical-align:middle;"><rect width="24" height="24" rx="5" fill="#f0a090"/><circle cx="10.5" cy="10" r="4.5" stroke="#fff" stroke-width="1.8" fill="none"/><line x1="14" y1="14" x2="18" y2="18" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg></a><img src="//i.moshimo.com/af/i/impression?a_id=5565352&p_id=54&pc_id=54&pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy"></td>
+<td style="padding:.6rem .8rem;">アルファノート編集部</td>
+<td style="padding:.6rem .8rem;">完全初心者</td>
+<td style="padding:.6rem .8rem;">3か月プランで段階的に練習。忙しい社会人にも取り組みやすい</td>
+</tr>
+<tr style="">
+<td style="padding:.6rem .8rem;">3000円でできるドラマーになれる！超ドラム初心者本<a href="//af.moshimo.com/af/c/click?a_id=5565352&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F3000%E5%86%86%E3%81%A7%E3%81%A7%E3%81%8D%E3%82%8B%E3%83%89%E3%83%A9%E3%83%9E%E3%83%BC%E3%81%AB%E3%81%AA%E3%82%8C%E3%82%8B%EF%BC%81%E8%B6%85%E3%83%89%E3%83%A9%E3%83%A0%E5%88%9D%E5%BF%83%E8%80%85%E6%9C%AC%2F212%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin-left:.3em;vertical-align:middle;" title="楽天ブックスで探す"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" style="vertical-align:middle;"><rect width="24" height="24" rx="5" fill="#f0a090"/><circle cx="10.5" cy="10" r="4.5" stroke="#fff" stroke-width="1.8" fill="none"/><line x1="14" y1="14" x2="18" y2="18" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg></a><img src="//i.moshimo.com/af/i/impression?a_id=5565352&p_id=54&pc_id=54&pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy"></td>
+<td style="padding:.6rem .8rem;">長野祐亮</td>
+<td style="padding:.6rem .8rem;">完全初心者</td>
+<td style="padding:.6rem .8rem;">練習パッドのみでスタートできる超低コスト入門。スペースがない方にも</td>
+</tr>
+</tbody>
+</table>
 
-<!-- AFFILIATE_PLACEHOLDER: Amazon教則本リンク（もしもアフィリエイト Amazon審査通過後に設置予定 site_id=672391） -->
 
 <div style="display:flex;gap:.75rem;margin:2rem 0;">
 <div style="flex:1;padding:.8rem 1rem 1rem;background:#e8f4fb;border-radius:10px;border:1px solid rgba(8,145,178,.25);">

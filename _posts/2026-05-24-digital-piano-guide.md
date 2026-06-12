@@ -140,14 +140,41 @@ image: /assets/images/thumb-digital-piano.jpg
 
 ピアノの基礎を正しく身に付けるための教材を厳選しました。
 
-| 書名 | 著者 | 対象 | 特徴 |
-|------|------|------|------|
-| 大人のための独習バイエル 上 | ドレミ楽譜出版社 | 大人初心者 | 大人に特化した解説で読みやすい。独学者の定番 |
-| 大人のためのピアノ悠々塾 入門編 | ドレミ楽譜出版社 | 大人初心者 | ゆっくりペースで進む入門書。動画QRコード付き |
-| ピアノ・スタートブック（改訂版） | ヤマハミュージック | 完全初心者 | ヤマハが作った定番入門書。楽典から丁寧に解説 |
-| 大人が弾けるピアノ曲集 J-POP＆映画音楽 | 各社 | 初級者 | モチベーション維持に人気な曲集。弾いていて楽しい |
+<table style="width:100%;border-collapse:collapse;font-size:.9rem;">
+<thead><tr style="background:#1e293b;color:#e2e8f0;">
+<th style="padding:.6rem .8rem;text-align:left;border-bottom:1px solid #334155;">書名</th>
+<th style="padding:.6rem .8rem;text-align:left;border-bottom:1px solid #334155;">著者</th>
+<th style="padding:.6rem .8rem;text-align:left;border-bottom:1px solid #334155;">対象</th>
+<th style="padding:.6rem .8rem;text-align:left;border-bottom:1px solid #334155;">特徴</th>
+</tr></thead>
+<tbody>
+<tr style="border-bottom:1px solid #334155;">
+<td style="padding:.6rem .8rem;">大人のための独習バイエル 上<a href="//af.moshimo.com/af/c/click?a_id=5565352&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%A4%A7%E4%BA%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E7%8B%AC%E7%BF%92%E3%83%90%E3%82%A4%E3%82%A8%E3%83%AB%20%E4%B8%8A%2F212%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin-left:.3em;vertical-align:middle;" title="楽天ブックスで探す"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" style="vertical-align:middle;"><rect width="24" height="24" rx="5" fill="#f0a090"/><circle cx="10.5" cy="10" r="4.5" stroke="#fff" stroke-width="1.8" fill="none"/><line x1="14" y1="14" x2="18" y2="18" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg></a><img src="//i.moshimo.com/af/i/impression?a_id=5565352&p_id=54&pc_id=54&pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy"></td>
+<td style="padding:.6rem .8rem;">ドレミ楽譜出版社</td>
+<td style="padding:.6rem .8rem;">大人初心者</td>
+<td style="padding:.6rem .8rem;">大人に特化した解説で読みやすい。独学者の定番</td>
+</tr>
+<tr style="border-bottom:1px solid #334155;">
+<td style="padding:.6rem .8rem;">大人のためのピアノ悠々塾 入門編<a href="//af.moshimo.com/af/c/click?a_id=5565352&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%A4%A7%E4%BA%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%83%94%E3%82%A2%E3%83%8E%E6%82%A0%E3%80%85%E5%A1%BE%20%E5%85%A5%E9%96%80%E7%B7%A8%2F212%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin-left:.3em;vertical-align:middle;" title="楽天ブックスで探す"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" style="vertical-align:middle;"><rect width="24" height="24" rx="5" fill="#f0a090"/><circle cx="10.5" cy="10" r="4.5" stroke="#fff" stroke-width="1.8" fill="none"/><line x1="14" y1="14" x2="18" y2="18" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg></a><img src="//i.moshimo.com/af/i/impression?a_id=5565352&p_id=54&pc_id=54&pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy"></td>
+<td style="padding:.6rem .8rem;">ドレミ楽譜出版社</td>
+<td style="padding:.6rem .8rem;">大人初心者</td>
+<td style="padding:.6rem .8rem;">ゆっくりペースで進む入門書。動画QRコード付き</td>
+</tr>
+<tr style="border-bottom:1px solid #334155;">
+<td style="padding:.6rem .8rem;">ピアノ・スタートブック（改訂版）<a href="//af.moshimo.com/af/c/click?a_id=5565352&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%94%E3%82%A2%E3%83%8E%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%96%E3%83%83%E3%82%AF%EF%BC%88%E6%94%B9%E8%A8%82%E7%89%88%EF%BC%89%2F212%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin-left:.3em;vertical-align:middle;" title="楽天ブックスで探す"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" style="vertical-align:middle;"><rect width="24" height="24" rx="5" fill="#f0a090"/><circle cx="10.5" cy="10" r="4.5" stroke="#fff" stroke-width="1.8" fill="none"/><line x1="14" y1="14" x2="18" y2="18" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg></a><img src="//i.moshimo.com/af/i/impression?a_id=5565352&p_id=54&pc_id=54&pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy"></td>
+<td style="padding:.6rem .8rem;">ヤマハミュージック</td>
+<td style="padding:.6rem .8rem;">完全初心者</td>
+<td style="padding:.6rem .8rem;">ヤマハが作った定番入門書。楽典から丁寧に解説</td>
+</tr>
+<tr style="">
+<td style="padding:.6rem .8rem;">大人が弾けるピアノ曲集 J-POP＆映画音楽<a href="//af.moshimo.com/af/c/click?a_id=5565352&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%A4%A7%E4%BA%BA%E3%81%8C%E5%BC%BE%E3%81%91%E3%82%8B%E3%83%94%E3%82%A2%E3%83%8E%E6%9B%B2%E9%9B%86%20J-POP%EF%BC%86%E6%98%A0%E7%94%BB%E9%9F%B3%E6%A5%BD%2F212%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin-left:.3em;vertical-align:middle;" title="楽天ブックスで探す"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" style="vertical-align:middle;"><rect width="24" height="24" rx="5" fill="#f0a090"/><circle cx="10.5" cy="10" r="4.5" stroke="#fff" stroke-width="1.8" fill="none"/><line x1="14" y1="14" x2="18" y2="18" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg></a><img src="//i.moshimo.com/af/i/impression?a_id=5565352&p_id=54&pc_id=54&pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy"></td>
+<td style="padding:.6rem .8rem;">各社</td>
+<td style="padding:.6rem .8rem;">初級者</td>
+<td style="padding:.6rem .8rem;">モチベーション維持に人気な曲集。弾いていて楽しい</td>
+</tr>
+</tbody>
+</table>
 
-<!-- AFFILIATE_PLACEHOLDER: Amazon教則本リンク（もしもアフィリエイト Amazon審査通過後に設置予定 site_id=672391） -->
 
 <div style="display:flex;gap:.75rem;margin:2rem 0;">
 <div style="flex:1;padding:.8rem 1rem 1rem;background:#e8f4fb;border-radius:10px;border:1px solid rgba(8,145,178,.25);">

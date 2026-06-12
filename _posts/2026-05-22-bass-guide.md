@@ -125,14 +125,41 @@ image: /assets/images/thumb-bass.png
 
 ベースを手に入れたら、「正しいフォームとリズムキープの基礎」を学ぶことで土台が固まります。初心者でもすぐ使えるDVD付き入門書を厳選しました。
 
-| 書名 | 著者 | 対象 | 特徴 |
-|------|------|------|------|
-| DVD&CD付 これからはじめる!! エレキベース入門 | BEAT MUSIC | 完全初心者 | 書籍とDVDが完全連動。ベース入門の定番書。100件超の高評価 |
-| いちばんわかりやすい入門書 エレキベース入門 レッスンDVD付 | 宮下智 | 完全初心者 | DVD付で運指・フォームを映像確認しながら学べる |
-| 文字と楽譜が大きいエレキベース入門 CD付 | ヤマハミュージックメディア編集部 | 完全初心者 | 大きな譜面で見やすい。楽譜が苦手な方にもやさしい構成 |
-| エレキベースの教科書 DVD+CD付 | ドレミ楽譜出版社 | 完全初心者〜初級者 | 基礎から音楽理論まで1冊で網羅。長く使えるリファレンス本 |
+<table style="width:100%;border-collapse:collapse;font-size:.9rem;">
+<thead><tr style="background:#1e293b;color:#e2e8f0;">
+<th style="padding:.6rem .8rem;text-align:left;border-bottom:1px solid #334155;">書名</th>
+<th style="padding:.6rem .8rem;text-align:left;border-bottom:1px solid #334155;">著者</th>
+<th style="padding:.6rem .8rem;text-align:left;border-bottom:1px solid #334155;">対象</th>
+<th style="padding:.6rem .8rem;text-align:left;border-bottom:1px solid #334155;">特徴</th>
+</tr></thead>
+<tbody>
+<tr style="border-bottom:1px solid #334155;">
+<td style="padding:.6rem .8rem;">DVD&CD付 これからはじめる!! エレキベース入門<a href="//af.moshimo.com/af/c/click?a_id=5565352&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDVD%26CD%E4%BB%98%20%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%21%21%20%E3%82%A8%E3%83%AC%E3%82%AD%E3%83%99%E3%83%BC%E3%82%B9%E5%85%A5%E9%96%80%2F212%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin-left:.3em;vertical-align:middle;" title="楽天ブックスで探す"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" style="vertical-align:middle;"><rect width="24" height="24" rx="5" fill="#f0a090"/><circle cx="10.5" cy="10" r="4.5" stroke="#fff" stroke-width="1.8" fill="none"/><line x1="14" y1="14" x2="18" y2="18" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg></a><img src="//i.moshimo.com/af/i/impression?a_id=5565352&p_id=54&pc_id=54&pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy"></td>
+<td style="padding:.6rem .8rem;">BEAT MUSIC</td>
+<td style="padding:.6rem .8rem;">完全初心者</td>
+<td style="padding:.6rem .8rem;">書籍とDVDが完全連動。ベース入門の定番書。100件超の高評価</td>
+</tr>
+<tr style="border-bottom:1px solid #334155;">
+<td style="padding:.6rem .8rem;">いちばんわかりやすい入門書 エレキベース入門 レッスンDVD付<a href="//af.moshimo.com/af/c/click?a_id=5565352&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%84%E5%85%A5%E9%96%80%E6%9B%B8%20%E3%82%A8%E3%83%AC%E3%82%AD%E3%83%99%E3%83%BC%E3%82%B9%E5%85%A5%E9%96%80%20%E3%83%AC%E3%83%83%E3%82%B9%E3%83%B3DVD%E4%BB%98%2F212%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin-left:.3em;vertical-align:middle;" title="楽天ブックスで探す"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" style="vertical-align:middle;"><rect width="24" height="24" rx="5" fill="#f0a090"/><circle cx="10.5" cy="10" r="4.5" stroke="#fff" stroke-width="1.8" fill="none"/><line x1="14" y1="14" x2="18" y2="18" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg></a><img src="//i.moshimo.com/af/i/impression?a_id=5565352&p_id=54&pc_id=54&pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy"></td>
+<td style="padding:.6rem .8rem;">宮下智</td>
+<td style="padding:.6rem .8rem;">完全初心者</td>
+<td style="padding:.6rem .8rem;">DVD付で運指・フォームを映像確認しながら学べる</td>
+</tr>
+<tr style="border-bottom:1px solid #334155;">
+<td style="padding:.6rem .8rem;">文字と楽譜が大きいエレキベース入門 CD付<a href="//af.moshimo.com/af/c/click?a_id=5565352&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%96%87%E5%AD%97%E3%81%A8%E6%A5%BD%E8%AD%9C%E3%81%8C%E5%A4%A7%E3%81%8D%E3%81%84%E3%82%A8%E3%83%AC%E3%82%AD%E3%83%99%E3%83%BC%E3%82%B9%E5%85%A5%E9%96%80%20CD%E4%BB%98%2F212%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin-left:.3em;vertical-align:middle;" title="楽天ブックスで探す"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" style="vertical-align:middle;"><rect width="24" height="24" rx="5" fill="#f0a090"/><circle cx="10.5" cy="10" r="4.5" stroke="#fff" stroke-width="1.8" fill="none"/><line x1="14" y1="14" x2="18" y2="18" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg></a><img src="//i.moshimo.com/af/i/impression?a_id=5565352&p_id=54&pc_id=54&pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy"></td>
+<td style="padding:.6rem .8rem;">ヤマハミュージックメディア編集部</td>
+<td style="padding:.6rem .8rem;">完全初心者</td>
+<td style="padding:.6rem .8rem;">大きな譜面で見やすい。楽譜が苦手な方にもやさしい構成</td>
+</tr>
+<tr style="">
+<td style="padding:.6rem .8rem;">エレキベースの教科書 DVD+CD付<a href="//af.moshimo.com/af/c/click?a_id=5565352&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%AC%E3%82%AD%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8%20DVD%2BCD%E4%BB%98%2F212%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin-left:.3em;vertical-align:middle;" title="楽天ブックスで探す"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" style="vertical-align:middle;"><rect width="24" height="24" rx="5" fill="#f0a090"/><circle cx="10.5" cy="10" r="4.5" stroke="#fff" stroke-width="1.8" fill="none"/><line x1="14" y1="14" x2="18" y2="18" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg></a><img src="//i.moshimo.com/af/i/impression?a_id=5565352&p_id=54&pc_id=54&pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy"></td>
+<td style="padding:.6rem .8rem;">ドレミ楽譜出版社</td>
+<td style="padding:.6rem .8rem;">完全初心者〜初級者</td>
+<td style="padding:.6rem .8rem;">基礎から音楽理論まで1冊で網羅。長く使えるリファレンス本</td>
+</tr>
+</tbody>
+</table>
 
-<!-- AFFILIATE_PLACEHOLDER: Amazon教則本リンク（もしもアフィリエイト Amazon審査通過後に設置予定 site_id=672391） -->
 
 <div style="display:flex;gap:.75rem;margin:2rem 0;">
 <div style="flex:1;padding:.8rem 1rem 1rem;background:#e8f4fb;border-radius:10px;border:1px solid rgba(8,145,178,.25);">
