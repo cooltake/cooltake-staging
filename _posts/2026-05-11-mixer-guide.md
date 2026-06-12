@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "ミキサーの使い方・選び方入門 - ゲイン・フェーダー・EQの基本を解説"
 description: "ミキサーの基本的な使い方をわかりやすく解説。ゲインとフェーダーの違い、EQの役割、ホームスタジオやバンド演奏での活用法まで初心者向けに紹介します。"
@@ -131,12 +131,12 @@ EQは音の周波数バランスを調整するツールです。
 <div style="display:flex;gap:.75rem;margin:2rem 0;">
 <div style="flex:1;padding:.8rem 1rem 1rem;background:#e8f4fb;border-radius:10px;border:1px solid rgba(8,145,178,.25);">
 <p style="margin:0 0 .5rem;color:#374151;font-size:.82rem;font-weight:bold;">ミキサー をサウンドハウスで探す</p>
-<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%2F%3Fsearch_all%3D%25E3%2583%259F%25E3%2582%25AD%25E3%2582%25B5%25E3%2583%25BC" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;margin:0 auto;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="240" style="height:auto;border-radius:8px;display:block;"></a>
+<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%2F%3Fsearch_all%3D%25E3%2583%259F%25E3%2582%25AD%25E3%2582%25B5%25E3%2583%25BC" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="240" style="height:auto;border-radius:8px;display:inline-block;"></a>
 <img src="https://h.accesstrade.net/sp/rr?rk=01001xqc00os63" width="1" height="1" border="0" alt="" loading="lazy">
 </div>
 <div style="flex:1;padding:.8rem 1rem 1rem;background:#fdf3ee;border-radius:10px;border:1px solid rgba(234,88,12,.25);">
 <p style="margin:0 0 .5rem;color:#374151;font-size:.82rem;font-weight:bold;">ミキサー を楽天市場で探す</p>
-<a href="//af.moshimo.com/af/c/click?a_id=5565352&amp;p_id=54&amp;pc_id=54&amp;pl_id=616&amp;url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259F%25E3%2582%25AD%25E3%2582%25B5%25E3%2583%25BC%2520%25E9%259F%25B3%25E6%25A5%25BD%25E5%2588%25B6%25E4%25BD%259C%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;margin:0 auto;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="240" style="height:auto;border-radius:8px;display:block;"></a>
+<a href="//af.moshimo.com/af/c/click?a_id=5565352&amp;p_id=54&amp;pc_id=54&amp;pl_id=616&amp;url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259F%25E3%2582%25AD%25E3%2582%25B5%25E3%2583%25BC%2520%25E9%259F%25B3%25E6%25A5%25BD%25E5%2588%25B6%25E4%25BD%259C%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="240" style="height:auto;border-radius:8px;display:inline-block;"></a>
 <img src="//i.moshimo.com/af/i/impression?a_id=5565352&amp;p_id=54&amp;pc_id=54&amp;pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy">
 </div>
 </div>
