@@ -59,76 +59,13 @@ DAWで打ち込んだ音やリアルタイムで演奏した音は、スピー�
 
 ## おすすめモデル比較
 
-<table style="width:100%;border-collapse:collapse;font-size:.9rem;">
-<thead><tr style="background:#1e293b;color:#e2e8f0;">
-<th style="padding:.7rem 1rem;text-align:left;font-weight:600;">モデル</th>
-<th style="padding:.7rem 1rem;text-align:left;font-weight:600;">価格帯</th>
-<th style="padding:.7rem 1rem;text-align:left;font-weight:600;">入力数</th>
-<th style="padding:.7rem 1rem;text-align:left;font-weight:600;">特徴</th>
-</tr></thead>
-<tbody>
-<tr style="border-bottom:1px solid #e2e8f0;">
-<td style="padding:.8rem 1rem;">
-<span style="font-weight:600;">Focusrite Scarlett Solo (4th Gen)</span><br>
-<span style="display:inline-flex;gap:.4rem;margin-top:.4rem;">
-<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F328778%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;padding:.25rem .6rem;background:#1d4ed8;color:#fff;font-size:.72rem;font-weight:600;border-radius:4px;text-decoration:none;">サウンドハウスで見る</a>
-<a href="//af.moshimo.com/af/c/click?a_id=5565352&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFocusrite+Scarlett+Solo+4th%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;padding:.25rem .6rem;background:#bf0000;color:#fff;font-size:.72rem;font-weight:600;border-radius:4px;text-decoration:none;">楽天で見る</a>
-</span>
-</td>
-<td style="padding:.8rem 1rem;">約¥15,000</td>
-<td style="padding:.8rem 1rem;">1 mic + 1 inst</td>
-<td style="padding:.8rem 1rem;">初心者定番。ソフト付属</td>
-</tr>
-<tr style="border-bottom:1px solid #e2e8f0;">
-<td style="padding:.8rem 1rem;">
-<span style="font-weight:600;">Focusrite Scarlett 2i2 (4th Gen)</span><br>
-<span style="display:inline-flex;gap:.4rem;margin-top:.4rem;">
-<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F328775%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;padding:.25rem .6rem;background:#1d4ed8;color:#fff;font-size:.72rem;font-weight:600;border-radius:4px;text-decoration:none;">サウンドハウスで見る</a>
-<a href="//af.moshimo.com/af/c/click?a_id=5565352&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFocusrite+Scarlett+2i2+4th%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;padding:.25rem .6rem;background:#bf0000;color:#fff;font-size:.72rem;font-weight:600;border-radius:4px;text-decoration:none;">楽天で見る</a>
-</span>
-</td>
-<td style="padding:.8rem 1rem;">約¥22,000</td>
-<td style="padding:.8rem 1rem;">2 mic/inst</td>
-<td style="padding:.8rem 1rem;">コスパ最強。2チャンネル</td>
-</tr>
-<tr style="border-bottom:1px solid #e2e8f0;">
-<td style="padding:.8rem 1rem;">
-<span style="font-weight:600;">Roland Rubix22</span><br>
-<span style="display:inline-flex;gap:.4rem;margin-top:.4rem;">
-<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F238227%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;padding:.25rem .6rem;background:#1d4ed8;color:#fff;font-size:.72rem;font-weight:600;border-radius:4px;text-decoration:none;">サウンドハウスで見る</a>
-<a href="//af.moshimo.com/af/c/click?a_id=5565352&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRoland+Rubix22%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;padding:.25rem .6rem;background:#bf0000;color:#fff;font-size:.72rem;font-weight:600;border-radius:4px;text-decoration:none;">楽天で見る</a>
-</span>
-</td>
-<td style="padding:.8rem 1rem;">約¥18,000</td>
-<td style="padding:.8rem 1rem;">2 mic/inst</td>
-<td style="padding:.8rem 1rem;">ローランド品質。堅牢な設計</td>
-</tr>
-<tr style="border-bottom:1px solid #e2e8f0;">
-<td style="padding:.8rem 1rem;">
-<span style="font-weight:600;">MOTU M2</span><br>
-<span style="display:inline-flex;gap:.4rem;margin-top:.4rem;">
-<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F269730%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;padding:.25rem .6rem;background:#1d4ed8;color:#fff;font-size:.72rem;font-weight:600;border-radius:4px;text-decoration:none;">サウンドハウスで見る</a>
-<a href="//af.moshimo.com/af/c/click?a_id=5565352&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMOTU+M2%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;padding:.25rem .6rem;background:#bf0000;color:#fff;font-size:.72rem;font-weight:600;border-radius:4px;text-decoration:none;">楽天で見る</a>
-</span>
-</td>
-<td style="padding:.8rem 1rem;">約¥28,000</td>
-<td style="padding:.8rem 1rem;">2 mic/inst</td>
-<td style="padding:.8rem 1rem;">192kHz対応。音質重視派に</td>
-</tr>
-<tr>
-<td style="padding:.8rem 1rem;">
-<span style="font-weight:600;">SSL 2+</span><br>
-<span style="display:inline-flex;gap:.4rem;margin-top:.4rem;">
-<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F272140%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;padding:.25rem .6rem;background:#1d4ed8;color:#fff;font-size:.72rem;font-weight:600;border-radius:4px;text-decoration:none;">サウンドハウスで見る</a>
-<a href="//af.moshimo.com/af/c/click?a_id=5565352&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSSL+2%2B%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;padding:.25rem .6rem;background:#bf0000;color:#fff;font-size:.72rem;font-weight:600;border-radius:4px;text-decoration:none;">楽天で見る</a>
-</span>
-</td>
-<td style="padding:.8rem 1rem;">約¥32,000</td>
-<td style="padding:.8rem 1rem;">2 mic + 2 inst</td>
-<td style="padding:.8rem 1rem;">プロ仕様。ループバック搭載</td>
-</tr>
-</tbody>
-</table>
+| モデル | 価格帯 | 入力数 | 特徴 |
+|--------|--------|--------|------|
+| Focusrite Scarlett Solo (4th Gen)<br><a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F328778%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin-top:.3rem;margin-right:.3rem;"><img src="/assets/images/btn-soundhouse.jpg" width="100" style="height:auto;border-radius:5px;display:inline-block;vertical-align:middle;"></a><a href="//af.moshimo.com/af/c/click?a_id=5565352&amp;p_id=54&amp;pc_id=54&amp;pl_id=616&amp;url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFocusrite+Scarlett+Solo+4th%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin-top:.3rem;"><img src="/assets/images/btn-rakuten.jpg" width="100" style="height:auto;border-radius:5px;display:inline-block;vertical-align:middle;"></a><img src="//i.moshimo.com/af/i/impression?a_id=5565352&amp;p_id=54&amp;pc_id=54&amp;pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy"> | 約¥15,000 | 1 mic + 1 inst | 初心者定番。ソフト付属 |
+| Focusrite Scarlett 2i2 (4th Gen)<br><a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F328775%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin-top:.3rem;margin-right:.3rem;"><img src="/assets/images/btn-soundhouse.jpg" width="100" style="height:auto;border-radius:5px;display:inline-block;vertical-align:middle;"></a><a href="//af.moshimo.com/af/c/click?a_id=5565352&amp;p_id=54&amp;pc_id=54&amp;pl_id=616&amp;url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFocusrite+Scarlett+2i2+4th%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin-top:.3rem;"><img src="/assets/images/btn-rakuten.jpg" width="100" style="height:auto;border-radius:5px;display:inline-block;vertical-align:middle;"></a><img src="//i.moshimo.com/af/i/impression?a_id=5565352&amp;p_id=54&amp;pc_id=54&amp;pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy"> | 約¥22,000 | 2 mic/inst | コスパ最強。2チャンネル |
+| Roland Rubix22<br><a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F238227%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin-top:.3rem;margin-right:.3rem;"><img src="/assets/images/btn-soundhouse.jpg" width="100" style="height:auto;border-radius:5px;display:inline-block;vertical-align:middle;"></a><a href="//af.moshimo.com/af/c/click?a_id=5565352&amp;p_id=54&amp;pc_id=54&amp;pl_id=616&amp;url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FRoland+Rubix22%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin-top:.3rem;"><img src="/assets/images/btn-rakuten.jpg" width="100" style="height:auto;border-radius:5px;display:inline-block;vertical-align:middle;"></a><img src="//i.moshimo.com/af/i/impression?a_id=5565352&amp;p_id=54&amp;pc_id=54&amp;pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy"> | 約¥18,000 | 2 mic/inst | ローランド品質。堅牢な設計 |
+| MOTU M2<br><a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F269730%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin-top:.3rem;margin-right:.3rem;"><img src="/assets/images/btn-soundhouse.jpg" width="100" style="height:auto;border-radius:5px;display:inline-block;vertical-align:middle;"></a><a href="//af.moshimo.com/af/c/click?a_id=5565352&amp;p_id=54&amp;pc_id=54&amp;pl_id=616&amp;url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMOTU+M2%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin-top:.3rem;"><img src="/assets/images/btn-rakuten.jpg" width="100" style="height:auto;border-radius:5px;display:inline-block;vertical-align:middle;"></a><img src="//i.moshimo.com/af/i/impression?a_id=5565352&amp;p_id=54&amp;pc_id=54&amp;pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy"> | 約¥28,000 | 2 mic/inst | 192kHz対応。音質重視派に |
+| SSL 2+<br><a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F272140%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin-top:.3rem;margin-right:.3rem;"><img src="/assets/images/btn-soundhouse.jpg" width="100" style="height:auto;border-radius:5px;display:inline-block;vertical-align:middle;"></a><a href="//af.moshimo.com/af/c/click?a_id=5565352&amp;p_id=54&amp;pc_id=54&amp;pl_id=616&amp;url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSSL+2%2B%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin-top:.3rem;"><img src="/assets/images/btn-rakuten.jpg" width="100" style="height:auto;border-radius:5px;display:inline-block;vertical-align:middle;"></a><img src="//i.moshimo.com/af/i/impression?a_id=5565352&amp;p_id=54&amp;pc_id=54&amp;pl_id=616" width="1" height="1" style="border:none;" alt="" loading="lazy"> | 約¥32,000 | 2 mic + 2 inst | プロ仕様。ループバック搭載 |
 
 ---
 
