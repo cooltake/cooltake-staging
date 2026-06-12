@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Fender Telecasterの特徴・音・選び方ガイド【2026年版】テレキャスターを徹底解説"
 description: "Fender Telecasterの特徴・音の傾向・Stratocasterとの違い・Playerシリーズの選び方を解説。カントリー・ロックンロール・オルタナを弾きたいギタリスト必見。"
@@ -63,12 +63,12 @@ Telecasterの音の特徴は**シンプルさの中にある力強いキャラ�
 <div style="display:flex;gap:.75rem;margin:2rem 0;">
 <div style="flex:1;padding:.8rem 1rem 1rem;background:#e8f4fb;border-radius:10px;border:1px solid rgba(8,145,178,.25);">
 <p style="margin:0 0 .5rem;color:#374151;font-size:.82rem;font-weight:bold;">Fender Telecaster をサウンドハウスで探す</p>
-<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%2F%3Fsearch_all%3DFender%2520Telecaster" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:8px;display:block;"></a>
+<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%2F%3Fsearch_all%3DFender%2520Telecaster" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;margin:0 auto;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:8px;display:block;"></a>
 <img src="https://h.accesstrade.net/sp/rr?rk=01001xqc00os63" width="1" height="1" border="0" alt="" loading="lazy">
 </div>
 <div style="flex:1;padding:.8rem 1rem 1rem;background:#fdf3ee;border-radius:10px;border:1px solid rgba(234,88,12,.25);">
 <p style="margin:0 0 .5rem;color:#374151;font-size:.82rem;font-weight:bold;">Fender Telecaster を楽天市場で探す</p>
-<a href="https://hb.afl.rakuten.co.jp/hgc/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFender%2BTelecaster%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:8px;display:block;"></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FFender%2BTelecaster%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;margin:0 auto;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="600" height="155" style="max-width:100%;height:auto;border-radius:8px;display:block;"></a>
 </div>
 </div>
 
