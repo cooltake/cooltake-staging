@@ -15,7 +15,7 @@ image: /assets/images/thumb-80s-commercial.jpg
 
 <figure style="margin:1.5rem 0;">
 <img src="/assets/images/japan-music-07-img1.jpg" alt="1985年 日本 シティポップ バブル前夜" style="width:100%;border-radius:10px;height:auto;" loading="lazy">
-<figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>バブル前夜の東京——ネオンと電子音楽が交差した1985年頃の音楽シーン（イメージ）</figcaption>
+
 </figure>
 
 
@@ -86,7 +86,7 @@ Aメロ：DX7系シンセベース + TR-909ドラム
 
 <figure style="margin:1.5rem 0;">
 <img src="/assets/images/japan-music-07-img2.jpg" alt="1985年 日本のレコーディングスタジオ DX7 D-50 Korg M1" style="width:100%;border-radius:10px;height:auto;" loading="lazy">
-<figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>バブル前夜のスタジオ。DX7・D-50・Korg M1が並ぶ最先端のデジタル環境（イメージ）</figcaption>
+
 </figure>
 
 | 機材 | 特徴 | 代表的な使われ方 |
@@ -110,7 +110,7 @@ Aメロ：DX7系シンセベース + TR-909ドラム
 
 <figure style="margin:1.5rem 0;">
 <img src="/assets/images/japan-music-07-img3.jpg" alt="1980年代 カセットテープ ウォークマン シティポップ" style="width:100%;border-radius:10px;height:auto;" loading="lazy">
-<figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>ウォークマンでシティポップを聴く1980年代の情景（イメージ）</figcaption>
+
 </figure>
 
 

@@ -15,7 +15,7 @@ image: /assets/images/thumb-folk-new-music.jpg
 
 <figure style="margin:1.5rem 0;">
 <img src="/assets/images/japan-music-02-img1.jpg" alt="1970年代 日本のフォークシンガー" style="width:100%;border-radius:10px;height:auto;" loading="lazy">
-<figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>喫茶店でギターを弾く1970年代のフォークシンガー（イメージ）</figcaption>
+
 </figure>
 
 
@@ -86,7 +86,7 @@ image: /assets/images/thumb-folk-new-music.jpg
 
 <figure style="margin:1.5rem 0;">
 <img src="/assets/images/japan-music-02-img2.jpg" alt="Martin D-28 Gibson J-45 アコースティックギター" style="width:100%;border-radius:10px;height:auto;" loading="lazy">
-<figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>フォーク時代の定番アコギ Martin D-28（左）と Gibson J-45（右）</figcaption>
+
 </figure>
 
 

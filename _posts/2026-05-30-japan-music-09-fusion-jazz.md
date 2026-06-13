@@ -15,7 +15,7 @@ image: /assets/images/thumb-godiego.jpg
 
 <figure style="margin:1.5rem 0;">
 <img src="/assets/images/japan-music-05-img1.jpg" alt="1980年代日本のフュージョンバンド、キーボードとエレキギターのステージパフォーマンス" style="width:100%;border-radius:10px;height:auto;" loading="lazy">
-<figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>1980年代、カシオペアとT-SQUAREが日本のフュージョンシーンを牽引した</figcaption>
+
 </figure>
 
 
@@ -58,7 +58,7 @@ image: /assets/images/thumb-godiego.jpg
 
 <figure style="margin:1.5rem 0;">
 <img src="/assets/images/japan-music-05-img2.jpg" alt="Ibanezエレキギターとアンプ、1980年代フュージョンスタジオ機材" style="width:100%;border-radius:10px;height:auto;" loading="lazy">
-<figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>野呂一生が多用したIbanezカスタムギターとRoland JC-120（ジャズコーラス）</figcaption>
+
 </figure>
 
 
@@ -103,7 +103,7 @@ T-SQUAREの「TRUTH」（1987年）は、日本フュージョン史上最も有
 
 <figure style="margin:1.5rem 0;">
 <img src="/assets/images/japan-music-05-img3.jpg" alt="1980年代日本のスタジオ、キーボードシンセと録音機材が並ぶプロスタジオ" style="width:100%;border-radius:10px;height:auto;" loading="lazy">
-<figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>1980年代のプロスタジオ。シンセサイザーとデジタル機材が制作の中心になった</figcaption>
+
 </figure>
 
 フュージョンの高度な演奏技術と音楽理論は、1990年代以降の日本音楽に広く受け継がれた：

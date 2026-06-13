@@ -13,7 +13,7 @@ image: /assets/images/thumb-gs-boom.jpg
 
 <figure style="margin:1.5rem 0;">
 <img src="/assets/images/japan-music-01-img1.jpg" alt="1960年代 グループサウンズ ステージ" style="width:100%;border-radius:10px;height:auto;" loading="lazy">
-<figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>1960年代のGSバンドたちが熱演するステージ（イメージ）</figcaption>
+
 </figure>
 
 
@@ -51,7 +51,7 @@ GSサウンドの核心はエレキギター。当時使われていた主なモ
 
 <figure style="margin:1.5rem 0;">
 <img src="/assets/images/japan-music-01-img2.jpg" alt="1960年代 ビンテージエレキギター コレクション" style="width:100%;border-radius:10px;height:auto;" loading="lazy">
-<figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>GSブームを支えたビンテージエレキギター（左からMosrite、Gretsch、Stratocaster）</figcaption>
+
 </figure>
 
 **Mosriteの復刻・類似モデル**は現在も人気で、ビザールギターとして注目されています。
@@ -135,7 +135,7 @@ DAWユーザーなら以下のプラグインでGS的なサウンドを作れま
 
 <figure style="margin:1.5rem 0;">
 <img src="/assets/images/japan-music-01-img3.jpg" alt="グループサウンズ コンサート 熱狂するファン" style="width:100%;border-radius:10px;height:auto;" loading="lazy">
-<figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>GSブーム全盛期のコンサート会場（イメージ）</figcaption>
+
 </figure>
 
 ### 関連書籍・教則本を探す

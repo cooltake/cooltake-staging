@@ -19,7 +19,7 @@ image: /assets/images/thumb-idol-candies.jpg
 
 <figure style="margin:1.5rem 0;">
 <img src="/assets/images/japan-music-03-img1.jpg" alt="1970年代 日本のレコーディングスタジオ" style="width:100%;border-radius:10px;height:auto;" loading="lazy">
-<figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>歌謡曲黄金期の大型スタジオ。16トラックのテープレコーダーと大型コンソールが並ぶ（イメージ）</figcaption>
+
 </figure>
 
 
@@ -89,7 +89,7 @@ E → F#m → C#m → A → E → B（転調感を出す）
 
 <figure style="margin:1.5rem 0;">
 <img src="/assets/images/japan-music-03-img2.jpg" alt="Fender Rhodes と Moog Minimoog シンセサイザー" style="width:100%;border-radius:10px;height:auto;" loading="lazy">
-<figcaption style='font-size:.8rem;color:#9ca3af;text-align:center;margin-top:.3rem;'>歌謡曲黄金期のキーボード陣。FenderRhodesとMoogが70年代のサウンドを作った</figcaption>
+
 </figure>
 
 
