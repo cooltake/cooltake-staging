@@ -90,8 +90,7 @@ Fenderとの比較でStingRayの個性がより明確になります。
 <div style="display:flex;gap:.75rem;margin:2rem 0;">
 <div style="flex:1;padding:.8rem 1rem;background:#fef2f2;border-radius:10px;border:1px solid rgba(239,68,68,.25);">
 <p style="margin:0 0 .5rem;color:#374151;font-size:.82rem;font-weight:bold;">&#x1F3B8; Music Man StingRay をサウンドハウスで探す</p>
-<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%2F%3Fsearch_all%3DMusic%2520Man%2520StingRay" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:flex;justify-content:center;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="300" height="78" style="max-width:100%;height:auto;border-radius:8px;display:block;"></a>
-<img src="https://h.accesstrade.net/sp/rr?rk=01001xqc00os63" width="1" height="1" border="0" alt="" loading="lazy">
+<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%2F%3Fsearch_all%3DMusic%2520Man%2520StingRay" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:flex;justify-content:center;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="300" height="78" style="max-width:100%;height:auto;border-radius:8px;display:block;"></a><img src="https://h.accesstrade.net/sp/rr?rk=01001xqc00os63" width="1" height="1" border="0" alt="" loading="lazy">
 </div>
 <div style="flex:1;padding:.8rem 1rem;background:#fdf3ee;border-radius:10px;border:1px solid rgba(234,88,12,.25);">
 <p style="margin:0 0 .5rem;color:#374151;font-size:.82rem;font-weight:bold;">&#x1F6D2; Music Man StingRay を楽天市場で探す</p>
