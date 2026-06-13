@@ -43,7 +43,7 @@ image: /assets/images/thumb-ymo-techno.jpg
 
 ### TR-808とMC-8——リズムマシンの革命
 
-<div style="background:#e8edf2;border-radius:12px;padding:1.5rem;margin:1.5rem 0;border-left:4px solid #1e3a5f;"><h3 style="color:#111827;margin-top:0;">🥁 TR-808の革命</h3><p style="color:#374151;">Roland TR-808（1980年）——YMOが世界ツアーで使用したことで一躍世界的に知名度を上げたリズムマシン。その独特のキック音、スネア音は後にヒップホップ・R&B・ハウスミュージックの礎となり、現代でも世界中で使われている。</p><p style="color:#374151;">もう一台の重要機材が<strong>Roland MC-8</strong>——世界初の本格的なマイクロコンポーザー（ステップシーケンサー）。これにより複雑なアレンジを自動演奏させることが可能になった。</p></div>
+<div style="background:#e8edf2;border-radius:12px;padding:1.5rem;margin:1.5rem 0;border-left:4px solid #1e3a5f;"><h3 style="color:#111827;margin-top:0;">🥁 TR-808の革命</h3><span style="display:block;color:#374151;">Roland TR-808（1980年）——YMOが世界ツアーで使用したことで一躍世界的に知名度を上げたリズムマシン。その独特のキック音、スネア音は後にヒップホップ・R&B・ハウスミュージックの礎となり、現代でも世界中で使われている。</span><span style="display:block;color:#374151;">もう一台の重要機材が<strong>Roland MC-8</strong>——世界初の本格的なマイクロコンポーザー（ステップシーケンサー）。これにより複雑なアレンジを自動演奏させることが可能になった。</span></div>
 
 
 ## 「Rydeen」の音作りを分析

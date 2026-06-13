@@ -53,7 +53,7 @@ image: /assets/images/thumb-godiego.jpg
 
 T-SQUAREの「TRUTH」（1987年）は、日本フュージョン史上最も有名な曲になった。フジテレビF1中継のオープニングテーマとして1987〜1991年の4年間使用され、週末の夕方に日本中に流れた。
 
-<div style="border-left:3px solid #60a5fa;padding:.8rem 1rem;margin:1rem 0;background:rgba(96,165,250,.08);border-radius:0 8px 8px 0;"><p style="color:#374151;margin:0;">「TRUTH」は「フュージョンを聴いたことがない人にも届いた曲」。F1中継の興奮と絡み合い、日本人の集合的記憶に深く刻まれた。</p></div>
+<div style="border-left:3px solid #60a5fa;padding:.8rem 1rem;margin:1rem 0;background:rgba(96,165,250,.08);border-radius:0 8px 8px 0;"><span style="display:block;color:#374151;margin:0;">「TRUTH」は「フュージョンを聴いたことがない人にも届いた曲」。F1中継の興奮と絡み合い、日本人の集合的記憶に深く刻まれた。</span></div>
 
 **「TRUTH」が残した功績**:
 - フュージョンというジャンルを一般層に認知させた
