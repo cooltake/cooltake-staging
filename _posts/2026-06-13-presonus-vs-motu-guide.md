@@ -245,7 +245,7 @@ MOTU 828<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%
 
 ### シナリオ③：ドラムフルマイキング（予算〜¥60,000）
 
-**おすすめ：Focusrite Scarlett 16i16（¥36,800）または PreSonus Quantum ES ULTIMATE（¥56,800）**
+**おすすめ：Focusrite Scarlett 16i16（約¥47,000）または PreSonus Quantum ES ULTIMATE（約¥56,800）**
 
 ドラムのフルマイキングには最低8chが必要。**Scarlett 16i16**は8ch+ADAT対応で最もコスパが高く、Focusriteのプリアンプ品質も評価が高い。ADAT拡張で将来24chまで増設できるなら**Quantum ES ULTIMATE**。なお、MOTU 848・10preはプロ向け高機能機で¥278,000〜¥298,000の価格帯になる。
 
