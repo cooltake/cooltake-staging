@@ -121,11 +121,11 @@ image: /assets/images/thumb-drum.png
 ドラムセットを手に入れたら、「基本の4ビートとスティックワーク」を正しく習得するのが上達への近道です。動画・DVD連動の入門書を厳選しました。
 
 <table style="width:100%;border-collapse:collapse;font-size:.9rem;">
-<thead><tr style="background:#1e293b;color:#e2e8f0;">
-<th style="padding:.6rem .8rem;text-align:left;border-bottom:1px solid #334155;">書名</th>
-<th style="padding:.6rem .8rem;text-align:left;border-bottom:1px solid #334155;">著者</th>
-<th style="padding:.6rem .8rem;text-align:left;border-bottom:1px solid #334155;">対象</th>
-<th style="padding:.6rem .8rem;text-align:left;border-bottom:1px solid #334155;">特徴</th>
+<thead><tr>
+<th style="padding:.6rem .8rem;text-align:left;">書名</th>
+<th style="padding:.6rem .8rem;text-align:left;">著者</th>
+<th style="padding:.6rem .8rem;text-align:left;">対象</th>
+<th style="padding:.6rem .8rem;text-align:left;">特徴</th>
 </tr></thead>
 <tbody>
 <tr style="border-bottom:1px solid #334155;">
