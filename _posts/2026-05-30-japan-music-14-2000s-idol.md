@@ -23,23 +23,7 @@ image: /assets/images/thumb-2000s-idol.jpg
 
 
 
-<div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(99,102,241,0.75);">
-
-<h3 style="color:#c7d2fe;margin-top:0;">📱 着うた時代の数字</h3>
-
-<ul style="color:#374151;">
-
-<li>2007年：着うたフル市場規模 約900億円（CDシングルを逆転）</li>
-
-<li>2008年：着うた市場ピーク 約920億円</li>
-
-<li>2010年：スマートフォン普及開始→着うた市場が急速縮小</li>
-
-<li>CDアルバム市場：2000年代を通じて右肩下がり（ピーク1998年比で約半減）</li>
-
-</ul>
-
-</div>
+<div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(99,102,241,0.75);"><h3 style="color:#c7d2fe;margin-top:0;">📱 着うた時代の数字</h3><ul style="color:#374151;"><li>2007年：着うたフル市場規模 約900億円（CDシングルを逆転）</li><li>2008年：着うた市場ピーク 約920億円</li><li>2010年：スマートフォン普及開始→着うた市場が急速縮小</li><li>CDアルバム市場：2000年代を通じて右肩下がり（ピーク1998年比で約半減）</li></ul></div>
 
 
 
@@ -112,23 +96,7 @@ EXILEの成功は後に**LDH**（Love Dream Happiness）という大きなエン
 
 
 
-<div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(244,63,94,0.75);">
-
-<h3 style="color:#fda4af;margin-top:0;">📊 AKBの記録</h3>
-
-<ul style="color:#374151;">
-
-<li>「Everyday、カチューシャ」（2011年）：初週192万枚——CDシングル歴代最高記録</li>
-
-<li>AKB総選挙：テレビの特番として成立するほどの国民的イベントに</li>
-
-<li>姉妹グループ：SKE48（名古屋）、NMB48（大阪）、HKT48（福岡）など全国展開</li>
-
-<li>海外展開：JKT48（インドネシア）、BNK48（タイ）など「48グループ」が世界へ</li>
-
-</ul>
-
-</div>
+<div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(244,63,94,0.75);"><h3 style="color:#fda4af;margin-top:0;">📊 AKBの記録</h3><ul style="color:#374151;"><li>「Everyday、カチューシャ」（2011年）：初週192万枚——CDシングル歴代最高記録</li><li>AKB総選挙：テレビの特番として成立するほどの国民的イベントに</li><li>姉妹グループ：SKE48（名古屋）、NMB48（大阪）、HKT48（福岡）など全国展開</li><li>海外展開：JKT48（インドネシア）、BNK48（タイ）など「48グループ」が世界へ</li></ul></div>
 
 
 
@@ -177,12 +145,7 @@ EXILEの成功は後に**LDH**（Love Dream Happiness）という大きなエン
 
 
 
-<div style="margin:1.5rem 0;">
-
-<span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span>
-<a href="https://search.rakuten.co.jp/search/mall/EXILE+モーニング娘。+AKB48+CD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="240" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
-
-</div>
+<div style="margin:1.5rem 0;"><span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span><a href="https://search.rakuten.co.jp/search/mall/EXILE+モーニング娘。+AKB48+CD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="240" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a></div>
 
 
 
@@ -190,12 +153,7 @@ EXILEの成功は後に**LDH**（Love Dream Happiness）という大きなエン
 
 
 
-<div style="margin:1.5rem 0;">
-
-<span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span>
-<a href="https://search.rakuten.co.jp/search/mall/ダンス+振り付け+音楽制作+本/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="240" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
-
-</div>
+<div style="margin:1.5rem 0;"><span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span><a href="https://search.rakuten.co.jp/search/mall/ダンス+振り付け+音楽制作+本/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="240" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a></div>
 
 
 
@@ -204,20 +162,7 @@ EXILEの成功は後に**LDH**（Love Dream Happiness）という大きなエン
 
 
 
-<div style="display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin:1.5rem 0;">
-<div>
-
-<span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span>
-<a href="https://search.rakuten.co.jp/search/mall/MIDIキーボード+シンセサイザー+Roland/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="240" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
-
-</div>
-<div>
-
-<span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🛒 サウンドハウスで探す</span>
-<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D311%26s_maker_cd%3D%26s_search_all%3D%26s_ord%3D" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.6rem 0;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="240" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
-
-</div>
-</div>
+<div style="display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin:1.5rem 0;"><div><span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span><a href="https://search.rakuten.co.jp/search/mall/MIDIキーボード+シンセサイザー+Roland/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="240" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a></div><div><span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🛒 サウンドハウスで探す</span><a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D311%26s_maker_cd%3D%26s_search_all%3D%26s_ord%3D" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin:.6rem 0;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="240" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a></div></div>
 
 
 
