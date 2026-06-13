@@ -75,7 +75,7 @@ image: /assets/images/thumb-folk-new-music.jpg
 ### CDを探す
 
 <div style="margin:.8rem 0;"><span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span>
-<a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%90%89%E7%94%B0%E6%8B%93%E9%83%8E%20%E4%BA%95%E4%B8%8A%E9%99%BD%E6%B0%B4%20%E8%8D%92%E4%BA%95%E7%94%B1%E5%AE%9F%20CD%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="240" style="height:auto;border-radius:8px;display:inline-block;"></a></div>
+<a href="https://search.rakuten.co.jp/search/mall/吉田拓郎 井上陽水 荒井由実 CD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="240" style="height:auto;border-radius:8px;display:inline-block;"></a></div>
 
 
 ## 現代でこのサウンドを再現する
@@ -112,7 +112,7 @@ Roland RE-201の温かいエコーサウンドは、現代ではプラグイン�
 ### 関連書籍・教則本を探す
 
 <div style="margin:.8rem 0;"><span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span>
-<a href="https://hb.afl.rakuten.co.jp/ichiba/0b15ddc7.28c5c9ed.0b15ddc8.5d23dd4d/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%AE%E3%82%BF%E3%83%BC%20%E6%95%99%E5%89%87%E6%9C%AC%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="240" style="height:auto;border-radius:8px;display:inline-block;"></a></div>
+<a href="https://search.rakuten.co.jp/search/mall/アコースティックギター 教則本/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="240" style="height:auto;border-radius:8px;display:inline-block;"></a></div>
 
 ### 関連機材を探す
 
