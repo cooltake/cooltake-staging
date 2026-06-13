@@ -32,7 +32,7 @@ image: /assets/images/thumb-godiego.jpg
 | 世界的評価 | テクニカルギタリストに高評価 | F1テーマで国際的知名度 |
 | 活動スタイル | インスト中心・テクニック勝負 | 歌モノも取り入れた幅広さ |
 
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://www.youtube.com/results?search_query=%E3%82%AB%E3%82%B7%E3%82%AA%E3%83%9A%E3%82%A2+ASAYAKE" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;margin-right:1rem;">▶ カシオペア「ASAYAKE」を聴く</a><div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://www.youtube.com/results?search_query=T-SQUARE+TRUTH" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ T-SQUARE「TRUTH」を聴く</a></div></div>
+<div style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://www.youtube.com/results?search_query=%E3%82%AB%E3%82%B7%E3%82%AA%E3%83%9A%E3%82%A2+ASAYAKE" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;margin-right:1rem;">▶ カシオペア「ASAYAKE」を聴く</a><div style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://www.youtube.com/results?search_query=T-SQUARE+TRUTH" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ T-SQUARE「TRUTH」を聴く</a></div></div>
 
 
 ## 野呂一生とカシオペアの「テクニカル革命」

@@ -56,7 +56,7 @@ Aメロ：DX7系シンセベース + TR-909ドラム
 特徴：Yamaha DX7、Roland D-50、Korg M1をフル活用
 ```
 
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://www.youtube.com/results?search_query=TM%20NETWORK%20Get%20Wild" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「Get Wild」を聴く</a></div>
+<div style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://www.youtube.com/results?search_query=TM%20NETWORK%20Get%20Wild" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「Get Wild」を聴く</a></div>
 
 ### 「My Revolution」（渡辺美里, 1986年）——小室哲哉の転換点
 
@@ -66,7 +66,7 @@ Aメロ：DX7系シンセベース + TR-909ドラム
 - **アレンジ**：デジタルシンセの層にロックギターを重ねる手法
 - **歌詞の方向性**：アイドル的な「恋愛」ではなく「自立と挑戦」を歌う
 
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://www.youtube.com/results?search_query=%E6%B8%A1%E8%BE%BA%E7%BE%8E%E9%87%8C%20My%20Revolution" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「My Revolution」を聴く</a></div>
+<div style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://www.youtube.com/results?search_query=%E6%B8%A1%E8%BE%BA%E7%BE%8E%E9%87%8C%20My%20Revolution" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「My Revolution」を聴く</a></div>
 
 
 ## 機材——1985〜87年のスタジオ

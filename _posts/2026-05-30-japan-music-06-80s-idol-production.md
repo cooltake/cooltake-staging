@@ -76,7 +76,7 @@ image: /assets/images/thumb-80s-idol.jpg
 2. **ピアノのスタッカート**：アコースティックピアノを短く刻んでリズム感を演出
 3. **コーラスの3度重ね**：メインボーカル + 2本のハーモニーで「天使感」を出す
 
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://www.youtube.com/results?search_query=%E6%9D%BE%E7%94%B0%E8%81%96%E5%AD%90%20%E8%B5%A4%E3%81%84%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88%E3%83%94%E3%83%BC" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「赤いスイートピー」を聴く</a></div>
+<div style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://www.youtube.com/results?search_query=%E6%9D%BE%E7%94%B0%E8%81%96%E5%AD%90%20%E8%B5%A4%E3%81%84%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88%E3%83%94%E3%83%BC" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「赤いスイートピー」を聴く</a></div>
 
 ### コーラスエフェクト——80年代シンセの広がり感の正体
 

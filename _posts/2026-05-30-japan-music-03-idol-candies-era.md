@@ -39,7 +39,7 @@ image: /assets/images/thumb-idol-candies.jpg
 - **サビ**：「もうすぐ春ですね」の上昇するメロディラインにストリングスが絡む
 - **ブリッジ**：コーラスの3重ハーモニーが最高音に達する「感情の頂点」
 
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://www.youtube.com/results?search_query=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%BA%20%E6%98%A5%E4%B8%80%E7%95%AA" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「春一番」を聴く</a></div>
+<div style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://www.youtube.com/results?search_query=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%BA%20%E6%98%A5%E4%B8%80%E7%95%AA" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「春一番」を聴く</a></div>
 
 ### 「UFO」（ピンクレディー、1977年）のサウンド解剖
 
@@ -52,7 +52,7 @@ image: /assets/images/thumb-idol-candies.jpg
 
 「UFO」の最大の秘密は**ブラスとリズムセクションの絡み方**。ファンクに近いグルーヴを歌謡曲として成立させた都倉俊一の職人技だ。
 
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://www.youtube.com/results?search_query=%E3%83%94%E3%83%B3%E3%82%AF%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%20UFO" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「UFO」を聴く</a></div>
+<div style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://www.youtube.com/results?search_query=%E3%83%94%E3%83%B3%E3%82%AF%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%20UFO" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「UFO」を聴く</a></div>
 
 ### 「渚のシンドバッド」（ピンクレディー、1977年）のコード進行分析
 
