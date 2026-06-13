@@ -42,7 +42,7 @@ MOTUのオーディオI/Fは大きく3世代に分かれる：
 | アナログ出力 | 2ch |
 | 接続 | USB-C |
 | 特徴 | 大型VUメーター搭載、192kHz対応 |
-| 価格帯 | 約¥12,800 |
+| 価格帯 | 約¥36,000 |
 
 Focusrite Scarlett 2i2と並ぶ「入門I/F最強」候補。ESS DACを採用した高品質なDA変換が価格帯で突出しており、ヘッドフォンで聴いた際の解像度がひときわ高い。前面の大型VUメーターはアナログライクな視覚的フィードバックを提供する。
 
@@ -65,9 +65,9 @@ Focusrite Scarlett 2i2と並ぶ「入門I/F最強」候補。ESS DACを採用し
 | アナログ入力 | 4ch（XLR/TRS コンボ×2 + ライン×2） |
 | アナログ出力 | 4ch |
 | 接続 | USB-C |
-| 価格帯 | 約¥20,800 |
+| 価格帯 | 約¥48,000 |
 
-M2と同じ価格帯で4ch入力に対応。ギター直録音とボーカルを同時に収録しながら、ライン入力にキーボードを接続するなど、少人数バンド・ポッドキャストの複数マイク録音に使いやすい構成。
+M2より約¥12,000高い価格で4ch入力に対応。ギター直録音とボーカルを同時に収録しながら、ライン入力にキーボードを接続するなど、少人数バンド・ポッドキャストの複数マイク録音に使いやすい構成。
 
 <a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F269731%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-flex;align-items:center;gap:.4em;text-decoration:none;margin-right:.5em;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none"><rect width="24" height="24" rx="5" fill="#b8aee8"/><circle cx="10.5" cy="10" r="4.5" stroke="#fff" stroke-width="1.8" fill="none"/><line x1="14" y1="14" x2="18" y2="18" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg>サウンドハウスで見る</a>
 <a href="https://search.rakuten.co.jp/search/mall/MOTU+M4/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-flex;align-items:center;gap:.4em;text-decoration:none;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none"><rect width="24" height="24" rx="5" fill="#f0a090"/><circle cx="10.5" cy="10" r="4.5" stroke="#fff" stroke-width="1.8" fill="none"/><line x1="14" y1="14" x2="18" y2="18" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg>楽天市場で見る</a>
@@ -88,9 +88,9 @@ M2と同じ価格帯で4ch入力に対応。ギター直録音とボーカルを
 | アナログ入力 | 6ch（XLR/TRS コンボ×2 + ライン×4） |
 | アナログ出力 | 4ch |
 | 接続 | USB-C |
-| 価格帯 | 約¥20,800 |
+| 価格帯 | 約¥80,000 |
 
-M4と同価格で6ch入力。ドラムの簡易マイキング（バスドラ・スネア・オーバーヘッド×2の4本）にギターとベースを加えた6ch同時録音が可能。**バンド録音の入門として最小コストで試せる機種**。
+M4より約¥32,000高いが6ch入力に対応。ドラムの簡易マイキング（バスドラ・スネア・オーバーヘッド×2の4本）にギターとベースを加えた6ch同時録音が可能。**バンド録音の入門として最小コストで試せる機種**。
 
 <a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F318391%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-flex;align-items:center;gap:.4em;text-decoration:none;margin-right:.5em;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none"><rect width="24" height="24" rx="5" fill="#b8aee8"/><circle cx="10.5" cy="10" r="4.5" stroke="#fff" stroke-width="1.8" fill="none"/><line x1="14" y1="14" x2="18" y2="18" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg>サウンドハウスで見る</a>
 <a href="https://search.rakuten.co.jp/search/mall/MOTU+M6/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-flex;align-items:center;gap:.4em;text-decoration:none;"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none"><rect width="24" height="24" rx="5" fill="#f0a090"/><circle cx="10.5" cy="10" r="4.5" stroke="#fff" stroke-width="1.8" fill="none"/><line x1="14" y1="14" x2="18" y2="18" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg>楽天市場で見る</a>
