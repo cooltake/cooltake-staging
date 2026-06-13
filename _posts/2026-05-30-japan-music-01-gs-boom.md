@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "グループサウンズ革命【1960年代】エレキギターが日本を変えた日"
 date: 2026-05-30
@@ -103,7 +103,7 @@ DAWユーザーなら以下のプラグインでGS的なサウンドを作れま
 
 - **Valhalla Vintage Verb**：スプリングリバーブモード
 - **IK Multimedia AmpliTube**：VOX AC30モデリング搭載
-- **Universal Audio OX**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F248772%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a>：ビンテージアンプシミュレーター
+- **Universal Audio OX**：ビンテージアンプシミュレーター
 
 
 ## 覚えておきたい豆知識

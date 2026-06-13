@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "ソロDTM完全セットアップガイド【2026年版】一人で完結する宅録環境の作り方"
 description: "一人で作曲・録音・MIX・配信まで完結させるためのDTM環境構築ガイド。パソコン選び・DAW・オーディオIF・マイク・モニター環境まで、予算別に最適な構成を解説します。"
@@ -66,7 +66,7 @@ image: /assets/images/thumb-solo-dtm.jpg
 | **GarageBand** | Mac | 無料 | シンプル・直感的操作 | Mac初心者・スマートなUI好き |
 | **Logic Pro** | Mac | ¥32,400 | 豊富な音源・プロ品質 | Mac愛用者・本格志向 |
 | **Cubase** | Win/Mac | ¥33,000〜 | 業界標準・機能豊富 | レコーディング・ポップス制作 |
-| **Ableton Live**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F364520%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin-left:.4em;vertical-align:middle;" title="サウンドハウスで見る"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" style="vertical-align:middle;"><rect width="24" height="24" rx="5" fill="#b8aee8"/><circle cx="10.5" cy="10" r="4.5" stroke="#fff" stroke-width="1.8" fill="none"/><line x1="14" y1="14" x2="18" y2="18" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg></a> | Win/Mac | ¥43,780〜 | ループ・ライブ演奏が強い | EDM・ライブパフォーマンス |
+| **Ableton Live** | Win/Mac | ¥43,780〜 | ループ・ライブ演奏が強い | EDM・ライブパフォーマンス |
 | **FL Studio**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F372831%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;margin-left:.4em;vertical-align:middle;" title="サウンドハウスで見る"><svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" style="vertical-align:middle;"><rect width="24" height="24" rx="5" fill="#b8aee8"/><circle cx="10.5" cy="10" r="4.5" stroke="#fff" stroke-width="1.8" fill="none"/><line x1="14" y1="14" x2="18" y2="18" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg></a> | Win/Mac | ¥17,600〜 | ビート制作・直感的UI | ビートメイカー・ヒップホップ |
 | **Reaper** | Win/Mac | ¥6,000〜 | 軽量・安価・高カスタマイズ | 予算重視・自由に設定したい |
 

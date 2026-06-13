@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "キャンディーズ・ピンクレディーと歌謡曲黄金期【1970年代中期】アイドルが生んだ職人サウンド"
 date: 2026-05-30
@@ -97,7 +97,7 @@ E → F#m → C#m → A → E → B（転調感を出す）
 
 Fender Rhodesの音色は、以下のプラグインで高品質に再現できる：
 - **Arturia Wurli V**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F286994%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a>（Wurlitzer再現）
-- **Native Instruments Vintage Organs**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F241657%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a>
+- **Native Instruments Vintage Organs**
 - **Lounge Lizard EP-4**（Applied Acoustics）
 
 ### ストリングスアレンジ

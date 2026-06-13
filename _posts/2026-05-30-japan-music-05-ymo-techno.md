@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "YMOとテクノポップ革命【1978〜1983年】シンセとシーケンサーが世界を変えた"
 date: 2026-05-30
@@ -38,8 +38,8 @@ image: /assets/images/thumb-ymo-techno.jpg
 | **Moog System 55** | リードシンセ | モジュラー式の巨大シンセ。坂本龍一が多用 |
 | **Roland SYSTEM-700** | ベース・パッド | ローランド初のモジュラーシステム |
 | **Prophet-5** | 和音・パッド | 5音ポリのアナログシンセ。YMOサウンドの核心 |
-| **Yamaha CS-80**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F128462%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a> | メロディ・ソロ | 坂本龍一の「愛のコリーダ」でも使用 |
-| **Roland Juno-60**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F320018%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a> | パッド・コード | 後期YMOのサウンドを支えた |
+| **Yamaha CS-80** | メロディ・ソロ | 坂本龍一の「愛のコリーダ」でも使用 |
+| **Roland Juno-60** | パッド・コード | 後期YMOのサウンドを支えた |
 
 ### TR-808とMC-8——リズムマシンの革命
 
