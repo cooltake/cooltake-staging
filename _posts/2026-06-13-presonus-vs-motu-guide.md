@@ -307,10 +307,6 @@ Quantum 2626はThunderbolt 3接続で超低レイテンシーを実現（約¥10
 
 どのモデルも**サウンドハウスで現行品・在庫あり**で購入可能。用途に合った一台を選んで、録音クオリティを一段階引き上げよう。
 
-<div style="margin:2em 0;padding:1.2em 1.5em;background:rgba(147,197,253,.08);border:1px solid rgba(147,197,253,.25);border-radius:8px;">
-<strong>サウンドハウスで比較・購入する</strong><br>
-<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%2F%3Fsearch_all%3DPreSonus%26category_cd%3D161" rel="nofollow" referrerpolicy="no-referrer-when-downgrade">PreSonus 全製品を見る →</a>　
-<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%2F%3Fsearch_all%3DMOTU%26category_cd%3D161" rel="nofollow" referrerpolicy="no-referrer-when-downgrade">MOTU 全製品を見る →</a>
-</div>
+<div style="margin:2em 0;padding:1.2em 1.5em;background:rgba(147,197,253,.08);border:1px solid rgba(147,197,253,.25);border-radius:8px;"><strong>サウンドハウスで比較・購入する</strong><br><a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%2F%3Fsearch_all%3DPreSonus%26category_cd%3D161" rel="nofollow" referrerpolicy="no-referrer-when-downgrade">PreSonus 全製品を見る →</a>　<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%2F%3Fsearch_all%3DMOTU%26category_cd%3D161" rel="nofollow" referrerpolicy="no-referrer-when-downgrade">MOTU 全製品を見る →</a></div>
 
 ※本記事にはアフィリエイトリンクが含まれます。
