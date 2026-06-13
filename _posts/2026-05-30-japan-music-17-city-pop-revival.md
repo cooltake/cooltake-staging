@@ -77,7 +77,25 @@ image: /assets/images/thumb-city-pop-revival.jpg
 
 
 
-<div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(110,231,183,0.75);"><h3 style="color:#a7f3d0;margin-top:0;">🌙 シティポップの音楽的要素</h3><ul style="color:#374151;"><li><strong>maj7・9thコードの多用</strong>：浮遊感のあるオシャレなコード感</li><li><strong>ファルセットボーカル</strong>：裏声を使ったなめらかな歌い方</li><li><strong>スラップベース</strong>：ファンク由来のパーカッシブなベース</li><li><strong>フレットレスベース</strong>：Jaco Pastoriusの影響。竹内まりや楽曲に多い</li><li><strong>コーラスとフランジャー</strong>：空間系エフェクトで広がりを出す</li></ul></div>
+<div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(110,231,183,0.75);">
+
+<h3 style="color:#a7f3d0;margin-top:0;">🌙 シティポップの音楽的要素</h3>
+
+<ul style="color:#374151;">
+
+<li><strong>maj7・9thコードの多用</strong>：浮遊感のあるオシャレなコード感</li>
+
+<li><strong>ファルセットボーカル</strong>：裏声を使ったなめらかな歌い方</li>
+
+<li><strong>スラップベース</strong>：ファンク由来のパーカッシブなベース</li>
+
+<li><strong>フレットレスベース</strong>：Jaco Pastoriusの影響。竹内まりや楽曲に多い</li>
+
+<li><strong>コーラスとフランジャー</strong>：空間系エフェクトで広がりを出す</li>
+
+</ul>
+
+</div>
 
 
 
@@ -126,7 +144,12 @@ Fmaj7 → Em7 → Am7 → Dm7 → G7sus4 → G7
 
 
 
-<div style="margin:1.5rem 0;"><span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🛒 サウンドハウスで探す</span><a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D120%26s_maker_cd%3D%26s_search_all%3D%26s_ord%3D" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="240" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a></div>
+<div style="margin:1.5rem 0;">
+
+<span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🛒 サウンドハウスで探す</span>
+<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D120%26s_maker_cd%3D%26s_search_all%3D%26s_ord%3D" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="240" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
+
+</div>
 
 
 
@@ -140,7 +163,12 @@ Fmaj7 → Em7 → Am7 → Dm7 → G7sus4 → G7
 
 
 
-<div style="margin:1.5rem 0;"><span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span><a href="https://search.rakuten.co.jp/search/mall/����������������������/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="240" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a></div>
+<div style="margin:1.5rem 0;">
+
+<span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span>
+<a href="https://search.rakuten.co.jp/search/mall/����������������������/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="240" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
+
+</div>
 
 
 
@@ -170,7 +198,12 @@ Fmaj7 → Em7 → Am7 → Dm7 → G7sus4 → G7
 
 
 
-<div style="margin:1.5rem 0;"><span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span><a href="https://search.rakuten.co.jp/search/mall/山下達郎+竹内まりや+シティポップ+CD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="240" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a></div>
+<div style="margin:1.5rem 0;">
+
+<span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span>
+<a href="https://search.rakuten.co.jp/search/mall/山下達郎+竹内まりや+シティポップ+CD/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="240" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
+
+</div>
 
 
 
@@ -178,7 +211,12 @@ Fmaj7 → Em7 → Am7 → Dm7 → G7sus4 → G7
 
 
 
-<div style="margin:1.5rem 0;"><span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span><a href="https://search.rakuten.co.jp/search/mall/コード進行+ギター+本/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="240" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a></div>
+<div style="margin:1.5rem 0;">
+
+<span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span>
+<a href="https://search.rakuten.co.jp/search/mall/コード進行+ギター+本/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="240" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
+
+</div>
 
 
 
@@ -187,7 +225,20 @@ Fmaj7 → Em7 → Am7 → Dm7 → G7sus4 → G7
 
 
 
-<div style="display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin:1.5rem 0;"><div><span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span><a href="https://search.rakuten.co.jp/search/mall/アコースティックギター+MIDIキーボード/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="240" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a></div><div><span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🛒 サウンドハウスで探す</span><a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D120%26s_maker_cd%3D%26s_search_all%3D%26s_ord%3D" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="240" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a></div></div>
+<div style="display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin:1.5rem 0;">
+<div>
+
+<span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span>
+<a href="https://search.rakuten.co.jp/search/mall/アコースティックギター+MIDIキーボード/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="240" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
+
+</div>
+<div>
+
+<span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🛒 サウンドハウスで探す</span>
+<a href="https://h.accesstrade.net/sp/cc?rk=0100pdhv00n9hy&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_category_cd%3D120%26s_maker_cd%3D%26s_search_all%3D%26s_ord%3D" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="240" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
+
+</div>
+</div>
 
 
 

@@ -52,7 +52,10 @@ image: /assets/images/thumb-80s-idol.jpg
 | **Roland D-50** | 1987年 | PCM+デジタルシンセ。バブル期サウンドの核心 |
 | **Lexicon 224**<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fproducts%2Fdetail%2Fitem%2F360986%2F" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="font-size:.8rem;color:#1e3a5f;font-weight:600;margin-left:.3em;">🛒 サウンドハウスで見る</a> | 1978年〜 | デジタルリバーブ。80年代の「広がり感」の正体 |
 
-<div style="background:#e8edf2;border-radius:12px;padding:1.5rem;margin:1.5rem 0;border-left:4px solid #1e3a5f;"><h3 style="color:#111827;margin-top:0;">🎹 DX7が変えた音楽の世界</h3><p style="color:#374151;">Yamaha DX7（1983年）は当時19万8千円という価格でありながら、飛ぶように売れた。FM音源による金属的な電子ピアノ音・ベル音・ブラス音は、80年代のポップミュージックを文字通り「定義」した。あの時代の音楽に必ずと言っていいほど入っているEレズ（DXベース）やマリンバ系の音——すべてDX7の仕業だ。</p></div>
+<div style="background:#e8edf2;border-radius:12px;padding:1.5rem;margin:1.5rem 0;border-left:4px solid #1e3a5f;">
+<h3 style="color:#111827;margin-top:0;">🎹 DX7が変えた音楽の世界</h3>
+<p style="color:#374151;">Yamaha DX7（1983年）は当時19万8千円という価格でありながら、飛ぶように売れた。FM音源による金属的な電子ピアノ音・ベル音・ブラス音は、80年代のポップミュージックを文字通り「定義」した。あの時代の音楽に必ずと言っていいほど入っているEレズ（DXベース）やマリンバ系の音——すべてDX7の仕業だ。</p>
+</div>
 
 
 ## 80年代アイドルの音作りの特徴と技法
@@ -76,7 +79,9 @@ image: /assets/images/thumb-80s-idol.jpg
 2. **ピアノのスタッカート**：アコースティックピアノを短く刻んでリズム感を演出
 3. **コーラスの3度重ね**：メインボーカル + 2本のハーモニーで「天使感」を出す
 
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://www.youtube.com/results?search_query=%E6%9D%BE%E7%94%B0%E8%81%96%E5%AD%90%20%E8%B5%A4%E3%81%84%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88%E3%83%94%E3%83%BC" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「赤いスイートピー」を聴く</a></div>
+<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;">
+<a href="https://www.youtube.com/results?search_query=%E6%9D%BE%E7%94%B0%E8%81%96%E5%AD%90%20%E8%B5%A4%E3%81%84%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88%E3%83%94%E3%83%BC" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「赤いスイートピー」を聴く</a>
+</div>
 
 ### コーラスエフェクト——80年代シンセの広がり感の正体
 

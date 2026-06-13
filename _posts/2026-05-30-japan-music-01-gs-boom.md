@@ -31,7 +31,9 @@ image: /assets/images/thumb-gs-boom.jpg
 
 来日公演を見た若者たちが「俺もあのギターを弾きたい」と楽器屋に殺到。国内のエレキギター需要が急増し、テスコ・グヤトーン・ヤマハなどの国産メーカーが急成長した。ベンチャーズ自身も「ベンチャーズのテーマ」「10番街の殺人」などで演奏法を見せ、後のGSバンドたちの教師となった。
 
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://www.youtube.com/results?search_query=%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BA%20%E6%97%A5%E6%9C%AC%E5%85%AC%E6%BC%94%201960%E5%B9%B4%E4%BB%A3" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ ベンチャーズのライブ映像を見る</a></div>
+<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;">
+<a href="https://www.youtube.com/results?search_query=%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BA%20%E6%97%A5%E6%9C%AC%E5%85%AC%E6%BC%94%201960%E5%B9%B4%E4%BB%A3" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ ベンチャーズのライブ映像を見る</a>
+</div>
 
 
 ## GSブームを支えた楽器・機材
@@ -66,7 +68,14 @@ GSサウンドの核心はエレキギター。当時使われていた主なモ
 
 ## GSサウンドの音作りの特徴
 
-<div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(99,102,241,0.75);"><h3 style="color:#c7d2fe;margin-top:0;">🎸 GSサウンドの3要素</h3><ul style="color:#374151;"><li><strong>クリーントーン中心</strong>：歪みは少なく、ブライトでカラッとした音</li><li><strong>トレモロ・ビブラート</strong>：アームを使ったサーフサウンド的揺らぎ</li><li><strong>リバーブたっぷり</strong>：スプリングリバーブで広がりを演出</li></ul></div>
+<div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(99,102,241,0.75);">
+<h3 style="color:#c7d2fe;margin-top:0;">🎸 GSサウンドの3要素</h3>
+<ul style="color:#374151;">
+<li><strong>クリーントーン中心</strong>：歪みは少なく、ブライトでカラッとした音</li>
+<li><strong>トレモロ・ビブラート</strong>：アームを使ったサーフサウンド的揺らぎ</li>
+<li><strong>リバーブたっぷり</strong>：スプリングリバーブで広がりを演出</li>
+</ul>
+</div>
 
 
 ## GSサウンドを今すぐ体験できる楽曲・動画ガイド

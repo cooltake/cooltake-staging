@@ -27,7 +27,15 @@ image: /assets/images/thumb-idol-candies.jpg
 
 ### リズムセクションの特徴
 
-<div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(192,132,252,.3);"><h3 style="color:#e9d5ff;margin-top:0;">🥁 70年代歌謡サウンドの核心</h3><ul style="color:#374151;"><li><strong>タイトなドラム</strong>：生ドラムを近接マイキングで録音。パキッとしたスネア</li><li><strong>うねるベースライン</strong>：フェンダーベースの指弾き、歌のメロディと絡む動くライン</li><li><strong>カッティングギター</strong>：16分音符を刻むリズムギター、ファンクの影響</li><li><strong>ストリングスセクション</strong>：生オーケストラによる弦楽アレンジ</li></ul></div>
+<div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(192,132,252,.3);">
+<h3 style="color:#e9d5ff;margin-top:0;">🥁 70年代歌謡サウンドの核心</h3>
+<ul style="color:#374151;">
+<li><strong>タイトなドラム</strong>：生ドラムを近接マイキングで録音。パキッとしたスネア</li>
+<li><strong>うねるベースライン</strong>：フェンダーベースの指弾き、歌のメロディと絡む動くライン</li>
+<li><strong>カッティングギター</strong>：16分音符を刻むリズムギター、ファンクの影響</li>
+<li><strong>ストリングスセクション</strong>：生オーケストラによる弦楽アレンジ</li>
+</ul>
+</div>
 
 ### 「春一番」（キャンディーズ、1976年）のアレンジを解剖
 
@@ -39,7 +47,9 @@ image: /assets/images/thumb-idol-candies.jpg
 - **サビ**：「もうすぐ春ですね」の上昇するメロディラインにストリングスが絡む
 - **ブリッジ**：コーラスの3重ハーモニーが最高音に達する「感情の頂点」
 
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://www.youtube.com/results?search_query=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%BA%20%E6%98%A5%E4%B8%80%E7%95%AA" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「春一番」を聴く</a></div>
+<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;">
+<a href="https://www.youtube.com/results?search_query=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%BA%20%E6%98%A5%E4%B8%80%E7%95%AA" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「春一番」を聴く</a>
+</div>
 
 ### 「UFO」（ピンクレディー、1977年）のサウンド解剖
 
@@ -52,7 +62,9 @@ image: /assets/images/thumb-idol-candies.jpg
 
 「UFO」の最大の秘密は**ブラスとリズムセクションの絡み方**。ファンクに近いグルーヴを歌謡曲として成立させた都倉俊一の職人技だ。
 
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://www.youtube.com/results?search_query=%E3%83%94%E3%83%B3%E3%82%AF%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%20UFO" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「UFO」を聴く</a></div>
+<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;">
+<a href="https://www.youtube.com/results?search_query=%E3%83%94%E3%83%B3%E3%82%AF%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%20UFO" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「UFO」を聴く</a>
+</div>
 
 ### 「渚のシンドバッド」（ピンクレディー、1977年）のコード進行分析
 

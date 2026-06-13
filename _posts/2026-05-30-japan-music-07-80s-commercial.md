@@ -41,7 +41,16 @@ image: /assets/images/thumb-80s-commercial.jpg
 
 ## サウンドの特徴——「バブル前夜」の音作り
 
-<div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(74,222,128,.3);"><h3 style="color:#111827;margin-top:0;">🎹 1984〜1987年サウンドの核心</h3><ul style="color:#374151;"><li><strong>シンセの多層重ね</strong>：Yamaha DX7、Roland D-50を複数重ねて豊かな音壁を作る</li><li><strong>デジタルリバーブの空間感</strong>：Lexicon 224の「広い空間」が当時の「豊かさ」の象徴</li><li><strong>コーラスエフェクト多用</strong>：Roland JC-120の内蔵コーラスを基本とした「広がり感」</li><li><strong>ビートの精密化</strong>：TR-909・LinnDrum等リズムマシンの完璧なタイミング</li><li><strong>AORの影響</strong>：アメリカのMichael McDonald、Toto等の影響を受けた洗練されたアレンジ</li></ul></div>
+<div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(74,222,128,.3);">
+<h3 style="color:#111827;margin-top:0;">🎹 1984〜1987年サウンドの核心</h3>
+<ul style="color:#374151;">
+<li><strong>シンセの多層重ね</strong>：Yamaha DX7、Roland D-50を複数重ねて豊かな音壁を作る</li>
+<li><strong>デジタルリバーブの空間感</strong>：Lexicon 224の「広い空間」が当時の「豊かさ」の象徴</li>
+<li><strong>コーラスエフェクト多用</strong>：Roland JC-120の内蔵コーラスを基本とした「広がり感」</li>
+<li><strong>ビートの精密化</strong>：TR-909・LinnDrum等リズムマシンの完璧なタイミング</li>
+<li><strong>AORの影響</strong>：アメリカのMichael McDonald、Toto等の影響を受けた洗練されたアレンジ</li>
+</ul>
+</div>
 
 ### 「Get Wild」（TM NETWORK, 1987年）のサウンド解剖
 
@@ -56,7 +65,9 @@ Aメロ：DX7系シンセベース + TR-909ドラム
 特徴：Yamaha DX7、Roland D-50、Korg M1をフル活用
 ```
 
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://www.youtube.com/results?search_query=TM%20NETWORK%20Get%20Wild" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「Get Wild」を聴く</a></div>
+<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;">
+<a href="https://www.youtube.com/results?search_query=TM%20NETWORK%20Get%20Wild" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「Get Wild」を聴く</a>
+</div>
 
 ### 「My Revolution」（渡辺美里, 1986年）——小室哲哉の転換点
 
@@ -66,7 +77,9 @@ Aメロ：DX7系シンセベース + TR-909ドラム
 - **アレンジ**：デジタルシンセの層にロックギターを重ねる手法
 - **歌詞の方向性**：アイドル的な「恋愛」ではなく「自立と挑戦」を歌う
 
-<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://www.youtube.com/results?search_query=%E6%B8%A1%E8%BE%BA%E7%BE%8E%E9%87%8C%20My%20Revolution" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「My Revolution」を聴く</a></div>
+<div class="video-link-box" style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;">
+<a href="https://www.youtube.com/results?search_query=%E6%B8%A1%E8%BE%BA%E7%BE%8E%E9%87%8C%20My%20Revolution" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「My Revolution」を聴く</a>
+</div>
 
 
 ## 機材——1985〜87年のスタジオ
