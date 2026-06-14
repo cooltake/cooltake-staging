@@ -15,13 +15,28 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
 
 <div style="background:#eceae7;border-radius:8px;padding:1.4rem 1.6rem;margin:1.5rem 0;border-left:4px solid #1e3a5f;"><h3 style="color:#111827;margin-top:0;font-size:1rem;font-weight:700;">🎵 コード進行図（Cキー）</h3><span style="display:block;color:#374151;font-size:.9rem;margin:.4rem 0 1.2rem;"><strong>C</strong> → <strong>CB</strong> → <strong>CBb</strong> → <strong>CA</strong> → <strong>Am</strong></span><div style="display:grid;grid-template-columns:repeat(4,1fr);gap:1rem;overflow-x:auto;"><div style="text-align:center;min-width:0;"><span style="display:block;font-size:.85rem;font-weight:700;color:#111827;margin:0 0 6px;">C</span><span style="display:block;font-size:.7rem;color:#6b7280;margin:0 0 4px;">ギター</span><img src="/assets/chord-diagrams/guitar-c.svg" alt="C ギター" style="width:100%;max-width:150px;height:auto;display:block;margin:0 auto 10px;"><span style="display:block;font-size:.7rem;color:#6b7280;margin:0 0 4px;">ピアノ</span><img src="/assets/chord-diagrams/piano-c.svg" alt="C ピアノ" style="width:100%;max-width:230px;height:auto;display:block;margin:0 auto;"></div><div style="text-align:center;min-width:0;"><span style="display:block;font-size:.85rem;font-weight:700;color:#111827;margin:0 0 6px;">C/B</span><span style="display:block;font-size:.7rem;color:#6b7280;margin:0 0 4px;">ギター</span><img src="/assets/chord-diagrams/guitar-cb.svg" alt="C/B ギター" style="width:100%;max-width:150px;height:auto;display:block;margin:0 auto 10px;"><span style="display:block;font-size:.7rem;color:#6b7280;margin:0 0 4px;">ピアノ</span><img src="/assets/chord-diagrams/piano-cb.svg" alt="C/B ピアノ" style="width:100%;max-width:230px;height:auto;display:block;margin:0 auto;"></div><div style="text-align:center;min-width:0;"><span style="display:block;font-size:.85rem;font-weight:700;color:#111827;margin:0 0 6px;">C/Bb</span><span style="display:block;font-size:.7rem;color:#6b7280;margin:0 0 4px;">ギター</span><img src="/assets/chord-diagrams/guitar-cbb.svg" alt="C/Bb ギター" style="width:100%;max-width:150px;height:auto;display:block;margin:0 auto 10px;"><span style="display:block;font-size:.7rem;color:#6b7280;margin:0 0 4px;">ピアノ</span><img src="/assets/chord-diagrams/piano-cbb.svg" alt="C/Bb ピアノ" style="width:100%;max-width:230px;height:auto;display:block;margin:0 auto;"></div><div style="text-align:center;min-width:0;"><span style="display:block;font-size:.85rem;font-weight:700;color:#111827;margin:0 0 6px;">C/A</span><span style="display:block;font-size:.7rem;color:#6b7280;margin:0 0 4px;">ギター</span><img src="/assets/chord-diagrams/guitar-ca.svg" alt="C/A ギター" style="width:100%;max-width:150px;height:auto;display:block;margin:0 auto 10px;"><span style="display:block;font-size:.7rem;color:#6b7280;margin:0 0 4px;">ピアノ</span><img src="/assets/chord-diagrams/piano-ca.svg" alt="C/A ピアノ" style="width:100%;max-width:230px;height:auto;display:block;margin:0 auto;"></div><div style="text-align:center;min-width:0;"><span style="display:block;font-size:.85rem;font-weight:700;color:#111827;margin:0 0 6px;">Am</span><span style="display:block;font-size:.7rem;color:#6b7280;margin:0 0 4px;">ギター</span><img src="/assets/chord-diagrams/guitar-am.svg" alt="Am ギター" style="width:100%;max-width:150px;height:auto;display:block;margin:0 auto 10px;"><span style="display:block;font-size:.7rem;color:#6b7280;margin:0 0 4px;">ピアノ</span><img src="/assets/chord-diagrams/piano-am.svg" alt="Am ピアノ" style="width:100%;max-width:230px;height:auto;display:block;margin:0 auto;"></div></div><span style="display:block;color:#6b7280;font-size:.75rem;margin:.8rem 0 0;">※ Cキー表示。実際の楽曲は移調される場合があります。</span></div>
 
-<div style="background:#f0fdf4;border:1px solid #bbf7d0;border-radius:10px;padding:1.2rem 1.4rem;margin:1.5rem 0;">
-<p style="font-size:.88rem;font-weight:700;color:#166534;margin:0 0 .8rem;">🎸 演奏する楽器を探してみよう</p>
-<div style="display:flex;gap:.8rem;flex-wrap:wrap;">
-<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_cat%3D271%26s_word%3D%25A5%25AE%25A5%25BF%25A1%25BC%26s_ord%3D2" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:6px;background:#16a34a;color:#fff;font-weight:700;font-size:.8rem;padding:8px 16px;border-radius:8px;text-decoration:none;">🎸 フォークギターをサウンドハウスで探す</a>
-<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_cat%3D276%26s_word%3D%25A5%25AD%25A1%25BC%25A5%25DC%25A1%25BC%25A5%25C9%26s_ord%3D2" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:6px;background:#16a34a;color:#fff;font-weight:700;font-size:.8rem;padding:8px 16px;border-radius:8px;text-decoration:none;">🎹 ポータブルキーボードをサウンドハウスで探す</a>
+
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:.8rem;margin:1.5rem 0;">
+<div style="background:#f0f9ff;border:1px solid #bae6fd;border-radius:10px;padding:1rem 1.2rem;">
+<p style="font-size:.8rem;font-weight:700;color:#0369a1;margin:0 0 .6rem;">🎸 フォークギターをサウンドハウスで探す</p>
+<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_cat%3D271%26s_word%3D%25A5%25AE%25A5%25BF%25A1%25BC%26s_ord%3D2" target="_blank" rel="nofollow noopener" style="display:block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="フォークギターをサウンドハウスで探す" width="200" style="max-width:100%;height:auto;border-radius:8px;display:block;"></a>
+</div>
+<div style="background:#fff7ed;border:1px solid #fed7aa;border-radius:10px;padding:1rem 1.2rem;">
+<p style="font-size:.8rem;font-weight:700;color:#c2410c;margin:0 0 .6rem;">🎸 フォークギターを楽天市場で探す</p>
+<a href="https://search.rakuten.co.jp/search/mall/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%82%AE%E3%82%BF%E3%83%BC+%E5%88%9D%E5%BF%83%E8%80%85/" target="_blank" rel="nofollow noopener" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="フォークギターを楽天市場で探す" width="200" style="max-width:100%;height:auto;border-radius:8px;display:block;"></a>
 </div>
 </div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:.8rem;margin:1rem 0 1.5rem;">
+<div style="background:#f0f9ff;border:1px solid #bae6fd;border-radius:10px;padding:1rem 1.2rem;">
+<p style="font-size:.8rem;font-weight:700;color:#0369a1;margin:0 0 .6rem;">🎹 ポータブルキーボードをサウンドハウスで探す</p>
+<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_cat%3D276%26s_word%3D%25A5%25AD%25A1%25BC%25A5%25DC%25A1%25BC%25A5%25C9%26s_ord%3D2" target="_blank" rel="nofollow noopener" style="display:block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="ポータブルキーボードをサウンドハウスで探す" width="200" style="max-width:100%;height:auto;border-radius:8px;display:block;"></a>
+</div>
+<div style="background:#fff7ed;border:1px solid #fed7aa;border-radius:10px;padding:1rem 1.2rem;">
+<p style="font-size:.8rem;font-weight:700;color:#c2410c;margin:0 0 .6rem;">🎹 ポータブルキーボードを楽天市場で探す</p>
+<a href="https://search.rakuten.co.jp/search/mall/%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/" target="_blank" rel="nofollow noopener" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="ポータブルキーボードを楽天市場で探す" width="200" style="max-width:100%;height:auto;border-radius:8px;display:block;"></a>
+</div>
+</div>
+
 
 
 ## クリシェ進行とは？半音下降が生む哀愁
@@ -59,10 +74,17 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
 
 ## 教則本・コードブック
 
-<div style="background:#fef3c7;border:1px solid #fde68a;border-radius:10px;padding:1.2rem 1.4rem;margin:1rem 0;">
-<p style="font-size:.85rem;font-weight:700;color:#92400e;margin:0 0 .6rem;">📖 コード進行・音楽理論の教則本</p>
-<a href="https://books.rakuten.co.jp/search?sitem=%E3%82%B3%E3%83%BC%E3%83%89%E9%80%B2%E8%A1%8C+%E6%95%99%E5%89%87%E6%9C%AC&g=212" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:6px;background:#bf360c;color:#fff;font-weight:700;font-size:.8rem;padding:8px 18px;border-radius:8px;text-decoration:none;">楽天ブックスで購入する →</a>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:.8rem;margin:1rem 0;">
+<div style="background:#f0f9ff;border:1px solid #bae6fd;border-radius:10px;padding:1rem 1.2rem;">
+<p style="font-size:.8rem;font-weight:700;color:#0369a1;margin:0 0 .6rem;">📖 コード進行の教則本をサウンドハウスで探す</p>
+<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_word%3D%25A5%25B3%25A1%25BC%25A5%25C9%25BF%25CA%25B9%25D4%26s_ord%3D2" target="_blank" rel="nofollow noopener" style="display:block;text-decoration:none;"><img src="/assets/images/btn-soundhouse.jpg" alt="コード進行の教則本をサウンドハウスで探す" width="200" style="max-width:100%;height:auto;border-radius:8px;display:block;"></a>
 </div>
+<div style="background:#fff7ed;border:1px solid #fed7aa;border-radius:10px;padding:1rem 1.2rem;">
+<p style="font-size:.8rem;font-weight:700;color:#c2410c;margin:0 0 .6rem;">📖 コード進行の教則本を楽天ブックスで購入</p>
+<a href="https://books.rakuten.co.jp/search?sitem=%E3%82%B3%E3%83%BC%E3%83%89%E9%80%B2%E8%A1%8C+%E6%95%99%E5%89%87%E6%9C%AC&g=212" target="_blank" rel="nofollow noopener" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="コード進行の教則本を楽天ブックスで購入" width="200" style="max-width:100%;height:auto;border-radius:8px;display:block;"></a>
+</div>
+</div>
+
 ---
 
 <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:.8rem;margin:2rem 0;"><a href="/2026/05/30/chord-progression-07-blues/" style="display:inline-block;padding:.5rem 1rem;background:rgba(30,58,95,.15);border:1px solid rgba(30,58,95,.25);border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">← #07 ブルース進行</a><span></span></div>
