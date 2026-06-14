@@ -7,7 +7,9 @@ image: /assets/images/thumb-chord-05.jpg
 description: "50年代ロカビリーから現代J-POPまで使われる「循環コード（Ⅰ-Ⅵm-Ⅳ-Ⅴ）」を徹底解説。Stand By Me・亜麻色の髪の乙女・ロビンソンなど代表曲20曲を楽天購入リンク付きで完全網羅。"
 ---
 
-<div style="text-align:center;"><span style="display:block;font-size:.75rem;font-weight:700;color:#374151;margin:0 0 4px;">Am</span><img src="/assets/chord-diagrams/guitar-am.svg" alt="Am ギター" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto 4px;"><img src="/assets/chord-diagrams/piano-am.svg" alt="Am ピアノ" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto;"></div><div style="text-align:center;"><span style="display:block;font-size:.75rem;font-weight:700;color:#374151;margin:0 0 4px;">F</span><img src="/assets/chord-diagrams/guitar-f.svg" alt="F ギター" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto 4px;"><img src="/assets/chord-diagrams/piano-f.svg" alt="F ピアノ" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto;"></div><div style="text-align:center;"><span style="display:block;font-size:.75rem;font-weight:700;color:#374151;margin:0 0 4px;">G</span><img src="/assets/chord-diagrams/guitar-g.svg" alt="G ギター" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto 4px;"><img src="/assets/chord-diagrams/piano-g.svg" alt="G ピアノ" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto;"></div></div><span style="display:block;color:#6b7280;font-size:.78rem;margin:.8rem 0 0;">※ Cキー表示。実際の楽曲は移調される場合があります。</span></div>
+
+
+
 
 
 
@@ -46,11 +48,17 @@ Cキーで：**C → Am → F → G（Ⅰ-Ⅵm-Ⅳ-Ⅴ）**
 C → Am → F → G
 ```
 
-<span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🎸 アコースティックギターを楽天で探す</span>
-<a href="https://search.rakuten.co.jp/search/mall/アコースティックギター+初心者+セット/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="アコースティックギターを楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
-<span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🎸 ギター教則本を楽天で探す</span>
-<a href="https://search.rakuten.co.jp/search/mall/ギター+コード+教則本+初心者/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="ギター教則本を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
 
+
+
+---
+
+## 教則本・コードブック
+
+<div style="background:#fef3c7;border:1px solid #fde68a;border-radius:10px;padding:1.2rem 1.4rem;margin:1rem 0;">
+<p style="font-size:.85rem;font-weight:700;color:#92400e;margin:0 0 .6rem;">📖 コード進行・音楽理論の教則本</p>
+<a href="https://books.rakuten.co.jp/search?sitem=%E3%82%B3%E3%83%BC%E3%83%89%E9%80%B2%E8%A1%8C+%E6%95%99%E5%89%87%E6%9C%AC&g=212" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:6px;background:#bf360c;color:#fff;font-weight:700;font-size:.8rem;padding:8px 18px;border-radius:8px;text-decoration:none;">楽天ブックスで購入する →</a>
+</div>
 ---
 
 <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:.8rem;margin:2rem 0;"><a href="/2026/05/30/chord-progression-04-marusa/" style="display:inline-block;padding:.5rem 1rem;background:rgba(30,58,95,.15);border:1px solid rgba(30,58,95,.25);border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">← #04 丸サ進行</a><a href="/2026/05/30/chord-progression-06-kanashii/" style="display:inline-block;padding:.5rem 1rem;background:rgba(30,58,95,.15);border:1px solid rgba(30,58,95,.25);border-radius:8px;color:#1e3a5f;text-decoration:none;font-size:.9rem;">#06 切ない系進行 →</a></div>
