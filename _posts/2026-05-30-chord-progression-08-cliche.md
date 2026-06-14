@@ -7,7 +7,9 @@ image: /assets/images/thumb-chord-08.jpg
 description: "半音下降ベースラインが生む哀愁「クリシェ進行」を徹底解説。津軽海峡・Michelle（Beatles）・Hotel California（Eagles）など日本・海外の代表曲20曲を楽天購入リンク付きで完全網羅。"
 ---
 
-<div style="text-align:center;"><span style="display:block;font-size:.75rem;font-weight:700;color:#374151;margin:0 0 4px;">C/B</span><img src="/assets/chord-diagrams/guitar-cb.svg" alt="C/B ギター" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto 4px;"><img src="/assets/chord-diagrams/piano-cb.svg" alt="C/B ピアノ" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto;"></div><div style="text-align:center;"><span style="display:block;font-size:.75rem;font-weight:700;color:#374151;margin:0 0 4px;">C/Bb</span><img src="/assets/chord-diagrams/guitar-cbb.svg" alt="C/Bb ギター" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto 4px;"><img src="/assets/chord-diagrams/piano-cbb.svg" alt="C/Bb ピアノ" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto;"></div><div style="text-align:center;"><span style="display:block;font-size:.75rem;font-weight:700;color:#374151;margin:0 0 4px;">C/A</span><img src="/assets/chord-diagrams/guitar-ca.svg" alt="C/A ギター" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto 4px;"><img src="/assets/chord-diagrams/piano-ca.svg" alt="C/A ピアノ" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto;"></div><div style="text-align:center;"><span style="display:block;font-size:.75rem;font-weight:700;color:#374151;margin:0 0 4px;">Am</span><img src="/assets/chord-diagrams/guitar-am.svg" alt="Am ギター" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto 4px;"><img src="/assets/chord-diagrams/piano-am.svg" alt="Am ピアノ" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto;"></div></div><span style="display:block;color:#6b7280;font-size:.78rem;margin:.8rem 0 0;">※ Cキー表示。実際の楽曲は移調される場合があります。</span></div>
+
+
+
 
 
 
