@@ -1509,6 +1509,7 @@
           var WORKER = 'https://cooltake-showcase.cooltakestudio.workers.dev/';
           function esc(s){ return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
 
+          /* ── Showcase pickup 6件 ── */
           fetch(WORKER+'?action=api&limit=6&sort=latest')
             .then(function(r){ return r.json(); })
             .then(function(d){
@@ -1544,6 +1545,50 @@
               }).join('');
             })
             .catch(function(){ /* サイレント失敗 */ });
+
+          /* ── イベント情報 最新3件 ── */
+          fetch(WORKER+'?action=get_events')
+            .then(function(r){ return r.json(); })
+            .then(function(d){
+              var el = document.getElementById('sc-events-list');
+              if(!el) return;
+              var events = (d.events||[]).slice(0,3);
+              if(events.length === 0) return; /* 投稿なし: 静的表示のまま */
+              el.innerHTML = events.map(function(ev){
+                var date = ev.event_date ? ev.event_date.replace(/T.*/,'') : '';
+                return '<div style="display:flex;justify-content:space-between;align-items:baseline;padding:5px 0;border-bottom:1px solid rgba(6,182,212,.1);">'
+                  +'<div>'
+                  +'<div style="font-size:.73rem;color:#e2e8f0;font-weight:600;line-height:1.35;">'+esc((ev.title||'').substring(0,22))+'</div>'
+                  +'<div style="font-size:.64rem;color:var(--muted);margin-top:1px;">'+esc(ev.region||'')+(ev.region&&date?' · ':'')+date+'</div>'
+                  +'</div>'
+                  +'<span style="font-size:.62rem;color:#67e8f9;white-space:nowrap;margin-left:6px;">by '+esc(ev.nickname||'匿名')+'</span>'
+                  +'</div>';
+              }).join('')
+              + '<div style="margin-top:8px;"></div>';
+            })
+            .catch(function(){});
+
+          /* ── メンバー募集 最新3件 ── */
+          fetch(WORKER+'?action=get_members')
+            .then(function(r){ return r.json(); })
+            .then(function(d){
+              var el = document.getElementById('sc-members-list');
+              if(!el) return;
+              var members = (d.members||[]).slice(0,3);
+              if(members.length === 0) return; /* 投稿なし: 静的表示のまま */
+              el.innerHTML = members.map(function(m){
+                var parts = (m.recruit_parts||'').split(',').filter(Boolean).slice(0,2).join(' / ');
+                return '<div style="display:flex;justify-content:space-between;align-items:baseline;padding:5px 0;border-bottom:1px solid rgba(52,211,153,.1);">'
+                  +'<div>'
+                  +'<div style="font-size:.73rem;color:#e2e8f0;font-weight:600;line-height:1.35;">'+esc((m.title||'').substring(0,22))+'</div>'
+                  +'<div style="font-size:.64rem;color:var(--muted);margin-top:1px;">'+esc(m.region||'')+(parts?' · '+parts:'')+'</div>'
+                  +'</div>'
+                  +'<span style="font-size:.62rem;color:#6ee7b7;white-space:nowrap;margin-left:6px;">by '+esc(m.nickname||'匿名')+'</span>'
+                  +'</div>';
+              }).join('')
+              + '<div style="margin-top:8px;"></div>';
+            })
+            .catch(function(){});
         })();
         </script>
 
