@@ -7,7 +7,9 @@ image: /assets/images/thumb-chord-02.jpg
 description: "パッヘルベルのカノンに由来する「カノン進行」を徹底解説。千本桜・愛は勝つ・Let It Beなど世界中の代表曲20曲を楽天購入リンク付きで紹介。ギター・ピアノでの弾き方も完全網羅。"
 ---
 
-<div style="text-align:center;"><span style="display:block;font-size:.75rem;font-weight:700;color:#374151;margin:0 0 4px;">G</span><img src="/assets/chord-diagrams/guitar-g.svg" alt="G ギター" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto 4px;"><img src="/assets/chord-diagrams/piano-g.svg" alt="G ピアノ" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto;"></div><div style="text-align:center;"><span style="display:block;font-size:.75rem;font-weight:700;color:#374151;margin:0 0 4px;">Am</span><img src="/assets/chord-diagrams/guitar-am.svg" alt="Am ギター" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto 4px;"><img src="/assets/chord-diagrams/piano-am.svg" alt="Am ピアノ" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto;"></div><div style="text-align:center;"><span style="display:block;font-size:.75rem;font-weight:700;color:#374151;margin:0 0 4px;">Em</span><img src="/assets/chord-diagrams/guitar-em.svg" alt="Em ギター" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto 4px;"><img src="/assets/chord-diagrams/piano-em.svg" alt="Em ピアノ" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto;"></div><div style="text-align:center;"><span style="display:block;font-size:.75rem;font-weight:700;color:#374151;margin:0 0 4px;">F</span><img src="/assets/chord-diagrams/guitar-f.svg" alt="F ギター" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto 4px;"><img src="/assets/chord-diagrams/piano-f.svg" alt="F ピアノ" style="width:100%;max-width:110px;height:auto;display:block;margin:0 auto;"></div></div><span style="display:block;color:#6b7280;font-size:.78rem;margin:.8rem 0 0;">※ Cキー表示。実際の楽曲は移調される場合があります。</span></div>
+
+
+
 
 
 
@@ -49,8 +51,7 @@ description: "パッヘルベルのカノンに由来する「カノン進行」
 C → G → Am → Em → F → C → F → G
 ```
 
-<span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🎸 アコースティックギターを楽天で探す</span>
-<a href="https://search.rakuten.co.jp/search/mall/アコースティックギター+初心者+セット/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="アコースティックギターを楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
+
 
 ## ピアノでの弾き方
 
