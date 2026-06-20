@@ -2,6 +2,7 @@
 layout: post
 title: "クリシェ進行（半音下降ライン）完全解説【コード進行シリーズ #08】代表曲20選＋演歌から映画音楽まで"
 date: 2026-05-30
+categories: []
 tags: [ギター, キーボード, 作曲, 音楽制作, DTM]
 image: /assets/images/thumb-chord-08.jpg
 description: "半音下降ベースラインが生む哀愁「クリシェ進行」を徹底解説。津軽海峡・Michelle（Beatles）・Hotel California（Eagles）など日本・海外の代表曲20曲を楽天購入リンク付きで完全網羅。"
