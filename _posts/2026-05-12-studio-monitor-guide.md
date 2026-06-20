@@ -3,7 +3,7 @@ layout: post
 title: "スタジオモニタースピーカー入門 — 自宅DTMでの選び方と設置のコツ"
 description: "スタジオモニタースピーカーの選び方を初心者向けに解説。YAMAHA HS・KRK ROKIT・Genelecなどの定番モデルを比較し、自宅DTMでの設置方法と使い方を紹介します。"
 date: 2026-05-12
-categories: [gear]
+categories: []
 tags: [スタジオモニター, スピーカー, YAMAHA, KRK, Genelec, DTM, ミックス]
 image: /assets/images/thumb-studio-monitor.png
 ---
