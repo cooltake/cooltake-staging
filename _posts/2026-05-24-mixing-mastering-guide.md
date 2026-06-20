@@ -3,7 +3,7 @@ layout: post
 title: "MIX・マスタリング入門【2026年版】DAWで始める音楽制作の仕上げ工程"
 description: "MIX（ミキシング）とマスタリングの違いをわかりやすく解説。初心者が最初に覚えるべきEQ・コンプ・リバーブの基礎から、無料DAWで実践できる仕上げ手順まで丁寧に説明します。"
 date: 2026-05-24
-categories: [production]
+categories: []
 tags: [MIX, ミキシング, マスタリング, DAW, 音楽制作, 初心者]
 image: /assets/images/thumb-mixing.jpg
 ---
