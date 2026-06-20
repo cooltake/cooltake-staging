@@ -2,7 +2,7 @@
 layout: post
 title: "カノン進行完全解説【コード進行シリーズ #02】代表曲20選＋300年愛される理由"
 date: 2026-05-30
-categories: []
+categories: [chord]
 tags: [ギター, キーボード, 作曲, 音楽制作, DTM, 初心者]
 image: /assets/images/thumb-chord-02.jpg
 description: "パッヘルベルのカノンに由来する「カノン進行」を徹底解説。千本桜・愛は勝つ・Let It Beなど世界中の代表曲20曲を楽天購入リンク付きで紹介。ギター・ピアノでの弾き方も完全網羅。"
