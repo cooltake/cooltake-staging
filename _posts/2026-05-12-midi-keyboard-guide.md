@@ -3,7 +3,7 @@ layout: post
 title: "MIDIキーボード初心者おすすめ5選【鍵盤数・機能別ガイド2026年版】"
 description: "MIDIキーボードの選び方を鍵盤数・機能別に解説。AKAI・Roland・Arturia・Nektar など主要モデルを比較し、DTM初心者が最初に選ぶべき1台を紹介します。"
 date: 2026-05-12
-categories: []
+categories: [gear]
 tags: [MIDIキーボード, AKAI, Roland, Arturia, DTM, 打ち込み]
 image: /assets/images/thumb-midi-keyboard.png
 ---
