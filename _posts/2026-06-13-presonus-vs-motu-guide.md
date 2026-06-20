@@ -3,7 +3,7 @@ layout: post
 title: "PreSonus vs MOTU 徹底比較｜2chから多入力まで全ラインナップと選び方"
 description: "宅録から本格スタジオまで。PreSonusとMOTUのオーディオインターフェイス全ラインナップを価格・用途・組み合わせ例で徹底比較。あなたの用途に最適な一台を見つける完全ガイド。"
 date: 2026-06-13
-categories: [gear]
+categories: []
 tags: [オーディオインターフェイス, PreSonus, MOTU, 録音機材, スタジオ]
 image: /assets/images/thumb-presonus-vs-motu.jpg
 ---
