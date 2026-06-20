@@ -3,7 +3,7 @@ layout: post
 title: "ラックケース・楽器ケース完全ガイド【ARMOR・DUPLEX・SKBの定番メーカー比較】"
 description: "音楽機材の運搬・保護に使うラックケースと楽器ケースの選び方を解説。ARMOR・DUPLEX・SKBの定番3メーカーを比較し、運搬用フライトケースと据え置きラックの違いも詳しく紹介します。"
 date: 2026-05-17
-categories: []
+categories: [gear]
 tags: [ラックケース, フライトケース, ARMOR, DUPLEX, SKB, 楽器ケース, ライブ機材, スタジオ]
 image: /assets/images/thumb-rack-case.png
 ---
