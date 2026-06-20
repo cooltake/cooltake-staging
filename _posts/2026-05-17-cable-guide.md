@@ -3,7 +3,7 @@ layout: post
 title: "音楽制作ケーブル全種類ガイド【XLR・シールド・USB・Thunderbolt・INSERTの違いと高品位ケーブルの必要性】"
 description: "音楽制作・宅録で使うケーブルの種類と用途を網羅解説。XLRケーブル・シールド・INSERTケーブル・スピーカーケーブル・USBケーブル・Thunderboltケーブルの違いと、高品位ケーブルを選ぶ基準を紹介します。"
 date: 2026-05-17
-categories: []
+categories: [gear]
 tags: [XLRケーブル, シールドケーブル, INSERTケーブル, スピーカーケーブル, USB, Thunderbolt, ケーブル, DTM, 宅録]
 image: /assets/images/thumb-cable.png
 ---
