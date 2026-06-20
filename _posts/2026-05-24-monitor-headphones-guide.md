@@ -3,7 +3,7 @@ layout: post
 title: "モニターヘッドフォン選び方ガイド【DTM・宅録・ミックス用おすすめ機種比較2026】"
 description: "DTM・宅録・ミックスに使うモニターヘッドフォンの選び方を解説。リスニング用との違い、密閉型と開放型の使い分け、予算別おすすめ機種（ATH-M50x・MDR-7506・DT770 PRO等）を比較します。"
 date: 2026-05-24
-categories: [gear]
+categories: []
 tags: [モニターヘッドフォン, DTM, 宅録, ミックス, Audio-Technica, SONY, Beyerdynamic, ヘッドフォン選び]
 image: /assets/images/thumb-monitor-headphones.jpg
 ---
