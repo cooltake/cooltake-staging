@@ -3,7 +3,7 @@ layout: post
 title: "VST・AUプラグイン選び方【2026年版】初心者向け無料・有料おすすめ20選"
 description: "VST・AUプラグインとは何かから、初心者が最初に揃えるべき無料・有料プラグインまで徹底解説。シンセ・エフェクト・サンプラーの種類別おすすめを紹介します。"
 date: 2026-05-24
-categories: [production]
+categories: []
 tags: [VST, プラグイン, DAW, 音楽制作, シンセサイザー, エフェクト, 初心者]
 image: /assets/images/thumb-vst-plugin.png
 ---
