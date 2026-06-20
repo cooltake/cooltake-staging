@@ -3,7 +3,7 @@ layout: post
 title: "カシオペア vs T-SQUARE【1980年代フュージョン】バークリー世代が極めた日本発インストゥルメンタル"
 date: 2026-05-30
 tags: [日本音楽史, カシオペア, T-SQUARE, フュージョン, インストゥルメンタル]
-description: "1980年代、カシオペアとT-SQUAREが日本フュージョンを世界水準に押し上げた。野呂一生の超絶ギター、F1テーマ「TRUTH」の誕生——ジャズ×ロックが生んだ日本独自のインスト音楽史を解説。"
+description: "1980年代、カシオペアとT-SQUAREが日本フュージョンを世界水準に押し上げた。野呂一生の超絶ギター、F1テーマ<a href="https://music.youtube.com/search?q=T-SQUARE%20TRUTH" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「TRUTH」</a>の誕生——ジャズ×ロックが生んだ日本独自のインスト音楽史を解説。"
 image: /assets/images/thumb-godiego.jpg
 ---
 
@@ -28,7 +28,7 @@ image: /assets/images/thumb-godiego.jpg
 | 結成 | 1976年 | 1976年（旧名THE SQUARE） |
 | サウンド | 硬質・タイト・超絶テクニカル | メロディアス・ポップ寄り |
 | ギタリスト | **野呂一生**（刻みの速さと正確さ） | 安藤まさひろ（メロディ重視） |
-| 代表曲 | 「ASAYAKE」「GALACTIC FUNK」 | 「TRUTH」「ADVENTURES」 |
+| 代表曲 | <a href="https://music.youtube.com/search?q=%E3%82%AB%E3%82%B7%E3%82%AA%E3%83%9A%E3%82%A2%20ASAYAKE" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「ASAYAKE」</a><a href="https://music.youtube.com/search?q=%E3%82%AB%E3%82%B7%E3%82%AA%E3%83%9A%E3%82%A2%20GALACTIC%20FUNK" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「GALACTIC FUNK」</a> | 「TRUTH」<a href="https://music.youtube.com/search?q=T-SQUARE%20ADVENTURES" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「ADVENTURES」</a> |
 | 世界的評価 | テクニカルギタリストに高評価 | F1テーマで国際的知名度 |
 | 活動スタイル | インスト中心・テクニック勝負 | 歌モノも取り入れた幅広さ |
 

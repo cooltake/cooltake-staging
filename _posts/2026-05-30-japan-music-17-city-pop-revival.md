@@ -15,7 +15,7 @@ image: /assets/images/thumb-city-pop-revival.jpg
 
 
 
-2019年頃から始まったシティポップリバイバル——竹内まりや「Plastic Love」（1984年）がYouTubeのアルゴリズムで世界中に拡散し、数千万回再生を記録したことが一つのきっかけだ。
+2019年頃から始まったシティポップリバイバル——竹内まりや<a href="https://music.youtube.com/search?q=%E7%AB%B9%E5%86%85%E3%81%BE%E3%82%8A%E3%82%84%20Plastic%20Love" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「Plastic Love」</a>（1984年）がYouTubeのアルゴリズムで世界中に拡散し、数千万回再生を記録したことが一つのきっかけだ。
 
 
 
@@ -62,11 +62,11 @@ image: /assets/images/thumb-city-pop-revival.jpg
 
 | アーティスト | 代表作 | 特徴 |
 |---|---|---|
-| **山下達郎** | 「Ride On Time」「クリスマス・イブ」 | コーラスワークの職人 |
-| **竹内まりや** | 「Plastic Love」「September」 | AOR×J-POP |
-| **大貫妙子** | 「都会」「4:00 A.M.」 | フレンチポップ×シティポップ |
-| **松原みき** | 「真夜中のドア〜Stay With Me」 | 世界的バイラルヒット |
-| **杏里** | 「悲しみがとまらない」 | AORの傑作 |
+| **山下達郎** | <a href="https://music.youtube.com/search?q=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E%20Ride%20On%20Time" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「Ride On Time」</a><a href="https://music.youtube.com/search?q=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E%20%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%A4%E3%83%96" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「クリスマス・イブ」</a> | コーラスワークの職人 |
+| **竹内まりや** | 「Plastic Love」<a href="https://music.youtube.com/search?q=%E7%AB%B9%E5%86%85%E3%81%BE%E3%82%8A%E3%82%84%20September" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「September」</a> | AOR×J-POP |
+| **大貫妙子** | <a href="https://music.youtube.com/search?q=%E5%A4%A7%E8%B2%AB%E5%A6%99%E5%AD%90%20%E9%83%BD%E4%BC%9A" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「都会」</a>「4:00 A.M.」 | フレンチポップ×シティポップ |
+| **松原みき** | <a href="https://music.youtube.com/search?q=%E6%9D%BE%E5%8E%9F%E3%81%BF%E3%81%8D%20%E7%9C%9F%E5%A4%9C%E4%B8%AD%E3%81%AE%E3%83%89%E3%82%A2%20Stay%20With%20Me" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「真夜中のドア〜Stay With Me」</a> | 世界的バイラルヒット |
+| **杏里** | <a href="https://music.youtube.com/search?q=%E6%9D%8F%E9%87%8C%20%E6%82%B2%E3%81%97%E3%81%BF%E3%81%8C%E3%81%A8%E3%81%BE%E3%82%89%E3%81%AA%E3%81%84" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「悲しみがとまらない」</a> | AORの傑作 |
 
 
 

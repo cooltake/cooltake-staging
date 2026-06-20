@@ -13,20 +13,20 @@ image: /assets/images/thumb-80s-idol.jpg
 
 ### 主要プロデューサー・作曲家
 
-- **筒美京平**（作曲）：松田聖子「裸足の季節」「青い珊瑚礁」など初期の代表曲を手がけた、日本ポップス史上最多ヒット曲を持つ作曲家。80年代アイドル黄金期を事実上設計した存在。
-- **細野晴臣**（作曲・プロデュース）：松田聖子「ハートをRock」など。YMO解散後も日本ポップスの中核に。
-- **大瀧詠一**（作曲・プロデュース）：松田聖子「風立ちぬ」「A面で恋をして（角松敏生向け含む）」への楽曲提供でシティポップとアイドルを結びつけた。
+- **筒美京平**（作曲）：松田聖子<a href="https://music.youtube.com/search?q=%E6%9D%BE%E7%94%B0%E8%81%96%E5%AD%90%20%E8%A3%B8%E8%B6%B3%E3%81%AE%E5%AD%A3%E7%AF%80" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「裸足の季節」</a>「青い珊瑚礁」など初期の代表曲を手がけた、日本ポップス史上最多ヒット曲を持つ作曲家。80年代アイドル黄金期を事実上設計した存在。
+- **細野晴臣**（作曲・プロデュース）：松田聖子<a href="https://music.youtube.com/search?q=%E6%9D%BE%E7%94%B0%E8%81%96%E5%AD%90%20%E3%83%8F%E3%83%BC%E3%83%88%E3%82%92Rock" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「ハートをRock」</a>など。YMO解散後も日本ポップスの中核に。
+- **大瀧詠一**（作曲・プロデュース）：松田聖子<a href="https://music.youtube.com/search?q=%E6%9D%BE%E7%94%B0%E8%81%96%E5%AD%90%20%E9%A2%A8%E7%AB%8B%E3%81%A1%E3%81%AC" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「風立ちぬ」</a>「A面で恋をして（角松敏生向け含む）」への楽曲提供でシティポップとアイドルを結びつけた。
 
 ### 主要編曲家（アレンジャー）
 
 編曲家こそが「80年代サウンド」の実際の設計者だ。
 
-- **大村雅朗**：松田聖子の多くの楽曲を編曲。「赤いスイートピー」「SWEET MEMORIES」「青い珊瑚礁」——彼のアレンジは弦楽とシンセを自在に組み合わせ、聖子の声を最大限に引き立てた。1994年に47歳で急逝。
-- **松任谷正隆**（ユーミンの夫）：松田聖子「渚のバルコニー」など多数。YMO解散後の坂本龍一とも連携し、最先端のシンセサウンドをアイドル楽曲に持ち込んだ。
-- **船山基紀**：中森明菜「少女A」「DESIRE」などを手がけた鬼才。リズムの切れ味と歌詞のシンクロが特徴。
-- **萩田光雄**：山口百恵から引き続き80年代アイドルを広く担当。百恵の「プレイバックPart2」から聖子の初期アルバムまで幅広く手がけた。
+- **大村雅朗**：松田聖子の多くの楽曲を編曲。「赤いスイートピー」<a href="https://music.youtube.com/search?q=%E6%9D%BE%E7%94%B0%E8%81%96%E5%AD%90%20SWEET%20MEMORIES" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「SWEET MEMORIES」</a><a href="https://music.youtube.com/search?q=%E6%9D%BE%E7%94%B0%E8%81%96%E5%AD%90%20%E9%9D%92%E3%81%84%E7%8F%8A%E7%91%9A%E7%A4%81" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「青い珊瑚礁」</a>——彼のアレンジは弦楽とシンセを自在に組み合わせ、聖子の声を最大限に引き立てた。1994年に47歳で急逝。
+- **松任谷正隆**（ユーミンの夫）：松田聖子<a href="https://music.youtube.com/search?q=%E6%9D%BE%E7%94%B0%E8%81%96%E5%AD%90%20%E6%B8%9A%E3%81%AE%E3%83%90%E3%83%AB%E3%82%B3%E3%83%8B%E3%83%BC" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「渚のバルコニー」</a>など多数。YMO解散後の坂本龍一とも連携し、最先端のシンセサウンドをアイドル楽曲に持ち込んだ。
+- **船山基紀**：中森明菜<a href="https://music.youtube.com/search?q=%E4%B8%AD%E6%A3%AE%E6%98%8E%E8%8F%9C%20%E5%B0%91%E5%A5%B3A" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「少女A」</a><a href="https://music.youtube.com/search?q=%E4%B8%AD%E6%A3%AE%E6%98%8E%E8%8F%9C%20DESIRE%20%E6%83%85%E7%86%B1" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「DESIRE」</a>などを手がけた鬼才。リズムの切れ味と歌詞のシンクロが特徴。
+- **萩田光雄**：山口百恵から引き続き80年代アイドルを広く担当。百恵の<a href="https://music.youtube.com/search?q=%E5%B1%B1%E5%8F%A3%E7%99%BE%E6%81%B5%20%E3%83%97%E3%83%AC%E3%82%A4%E3%83%90%E3%83%83%E3%82%AFPart2" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「プレイバックPart2」</a>から聖子の初期アルバムまで幅広く手がけた。
 - **武部聡志**：後期アイドルから中島みゆき、吉田拓郎のプロデュースへと活動を広げた。アコースティックとデジタルの橋渡し役。
-- **後藤次利**（ベーシスト兼編曲家）：中森明菜「十戒」などのダークなサウンドを設計。ベーシストとしての感覚が生きたリズム主導のアレンジが特徴。
+- **後藤次利**（ベーシスト兼編曲家）：中森明菜<a href="https://music.youtube.com/search?q=%E4%B8%AD%E6%A3%AE%E6%98%8E%E8%8F%9C%20%E5%8D%81%E6%88%92" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「十戒」</a>などのダークなサウンドを設計。ベーシストとしての感覚が生きたリズム主導のアレンジが特徴。
 
 ### 主要レコーディングエンジニア
 
@@ -78,7 +78,7 @@ image: /assets/images/thumb-80s-idol.jpg
 2. **ピアノのスタッカート**：アコースティックピアノを短く刻んでリズム感を演出
 3. **コーラスの3度重ね**：メインボーカル + 2本のハーモニーで「天使感」を出す
 
-<div style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://www.youtube.com/results?search_query=%E6%9D%BE%E7%94%B0%E8%81%96%E5%AD%90%20%E8%B5%A4%E3%81%84%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88%E3%83%94%E3%83%BC" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「赤いスイートピー」を聴く</a></div>
+<div style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://music.youtube.com/search?q=%E6%9D%BE%E7%94%B0%E8%81%96%E5%AD%90%20%E8%B5%A4%E3%81%84%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%88%E3%83%94%E3%83%BC" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「赤いスイートピー」を聴く</a></div>
 
 ### コーラスエフェクト——80年代シンセの広がり感の正体
 

@@ -38,17 +38,17 @@ image: /assets/images/thumb-2000s-idol.jpg
 
 
 
-つんく♂が手がけるサウンドは、ディスコ・ファンク・R&Bを日本語アイドルポップに昇華した独自スタイル。「LOVEマシーン」（1999年）の爆発的ヒットから2000年代前半にかけて、グループは日本の音楽シーンを席巻した。
+つんく♂が手がけるサウンドは、ディスコ・ファンク・R&Bを日本語アイドルポップに昇華した独自スタイル。<a href="https://music.youtube.com/search?q=%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E5%A8%98%20LOVE%E3%83%9E%E3%82%B7%E3%83%BC%E3%83%B3" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「LOVEマシーン」</a>（1999年）の爆発的ヒットから2000年代前半にかけて、グループは日本の音楽シーンを席巻した。
 
 
 
 **代表曲**:
 
-- 「恋愛レボリューション21」（2000年）
+- <a href="https://music.youtube.com/search?q=%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E5%A8%98%20%E6%81%8B%E6%84%9B%E3%83%AC%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B321" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「恋愛レボリューション21」</a>（2000年）
 
-- 「ザ☆ピース！」（2001年）
+- <a href="https://music.youtube.com/search?q=%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E5%A8%98%20%E3%82%B6%E2%98%86%E3%83%94%E3%83%BC%E3%82%B9" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「ザ☆ピース！」</a>（2001年）
 
-- 「そうだ！We're ALIVE」（2002年）
+- <a href="https://music.youtube.com/search?q=%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E5%A8%98%20%E3%81%9D%E3%81%86%E3%81%A0%20We%27re%20ALIVE" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「そうだ！We're ALIVE」</a>（2002年）
 
 
 
@@ -69,11 +69,11 @@ image: /assets/images/thumb-2000s-idol.jpg
 
 **代表曲**:
 
-- 「Lovers Again」（2004年）
+- <a href="https://music.youtube.com/search?q=EXILE%20Lovers%20Again" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「Lovers Again」</a>（2004年）
 
-- 「EXILE PRIDE 〜こんな世界を愛するため〜」（2013年）
+- <a href="https://music.youtube.com/search?q=EXILE%20EXILE%20PRIDE%20%E3%81%93%E3%82%93%E3%81%AA%E4%B8%96%E7%95%8C%E3%82%92%E6%84%9B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「EXILE PRIDE 〜こんな世界を愛するため〜」</a>（2013年）
 
-- 「Ti Amo」（2007年）
+- <a href="https://music.youtube.com/search?q=EXILE%20Ti%20Amo" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「Ti Amo」</a>（2007年）
 
 
 
@@ -96,7 +96,7 @@ EXILEの成功は後に**LDH**（Love Dream Happiness）という大きなエン
 
 
 
-<div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(244,63,94,0.75);"><h3 style="color:#fda4af;margin-top:0;">📊 AKBの記録</h3><ul style="color:#374151;"><li>「Everyday、カチューシャ」（2011年）：初週192万枚——CDシングル歴代最高記録</li><li>AKB総選挙：テレビの特番として成立するほどの国民的イベントに</li><li>姉妹グループ：SKE48（名古屋）、NMB48（大阪）、HKT48（福岡）など全国展開</li><li>海外展開：JKT48（インドネシア）、BNK48（タイ）など「48グループ」が世界へ</li></ul></div>
+<div style="background:rgba(255,255,255,0.10);border-radius:12px;padding:1.5rem;margin:1.5rem 0;border:1px solid rgba(244,63,94,0.75);"><h3 style="color:#fda4af;margin-top:0;">📊 AKBの記録</h3><ul style="color:#374151;"><li><a href="https://music.youtube.com/search?q=AKB48%20Everyday%20%E3%82%AB%E3%83%81%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A3" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「Everyday、カチューシャ」</a>（2011年）：初週192万枚——CDシングル歴代最高記録</li><li>AKB総選挙：テレビの特番として成立するほどの国民的イベントに</li><li>姉妹グループ：SKE48（名古屋）、NMB48（大阪）、HKT48（福岡）など全国展開</li><li>海外展開：JKT48（インドネシア）、BNK48（タイ）など「48グループ」が世界へ</li></ul></div>
 
 
 

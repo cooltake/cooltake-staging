@@ -23,19 +23,19 @@ image: /assets/images/thumb-80s-commercial.jpg
 
 ### シティポップ系
 
-- **角松敏生**：「For You…」「Summer Moments」——AOR（アダルト・オリエンテッド・ロック）の日本的解釈。緻密なアレンジと高品質な録音がトレードマーク。
-- **杉山清貴&オメガトライブ**：「ふたりの夏物語」「君のハートはマリンブルー」——爽やかなリゾートサウンドとシンセの組み合わせ。
-- **稲垣潤一**：「ドラマティック・レイン」「ビー・マイ・ベイビー」——都会的なメロウサウンド。
+- **角松敏生**：<a href="https://music.youtube.com/search?q=%E8%A7%92%E6%9D%BE%E6%95%8F%E7%94%9F%20For%20You" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「For You…」</a><a href="https://music.youtube.com/search?q=%E8%A7%92%E6%9D%BE%E6%95%8F%E7%94%9F%20Summer%20Moments" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「Summer Moments」</a>——AOR（アダルト・オリエンテッド・ロック）の日本的解釈。緻密なアレンジと高品質な録音がトレードマーク。
+- **杉山清貴&オメガトライブ**：<a href="https://music.youtube.com/search?q=%E6%9D%89%E5%B1%B1%E6%B8%85%E8%B2%B4%20%E3%82%AA%E3%83%A1%E3%82%AC%E3%83%88%E3%83%A9%E3%82%A4%E3%83%96%20%E3%81%B5%E3%81%9F%E3%82%8A%E3%81%AE%E5%A4%8F%E7%89%A9%E8%AA%9E" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「ふたりの夏物語」</a><a href="https://music.youtube.com/search?q=%E6%9D%89%E5%B1%B1%E6%B8%85%E8%B2%B4%20%E3%82%AA%E3%83%A1%E3%82%AC%E3%83%88%E3%83%A9%E3%82%A4%E3%83%96%20%E5%90%9B%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%88%E3%81%AF%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%96%E3%83%AB%E3%83%BC" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「君のハートはマリンブルー」</a>——爽やかなリゾートサウンドとシンセの組み合わせ。
+- **稲垣潤一**：<a href="https://music.youtube.com/search?q=%E7%A8%B2%E5%9E%A3%E6%BD%A4%E4%B8%80%20%E3%83%89%E3%83%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%B3" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「ドラマティック・レイン」</a><a href="https://music.youtube.com/search?q=%E7%A8%B2%E5%9E%A3%E6%BD%A4%E4%B8%80%20%E3%83%93%E3%83%BC%E3%83%9E%E3%82%A4%E3%83%99%E3%82%A4%E3%83%93%E3%83%BC" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「ビー・マイ・ベイビー」</a>——都会的なメロウサウンド。
 
 ### ロック・ポップス寄り
 
 - **渡辺美里**：「My Revolution」（1986年）——小室哲哉が手がけた爆発的ヒット。ロックとアイドルの境界を壊した。
-- **小比類巻かほる**：「Hold On Me」「Time After Time」——洋楽的な発声と力強いボーカルで新境地を開いた。
-- **岡村靖幸**：「だいすき」「Out of Blue」——R&B・ファンクの要素をJ-POPに持ち込んだ先駆者。
+- **小比類巻かほる**：<a href="https://music.youtube.com/search?q=%E5%B0%8F%E6%AF%94%E9%A1%9E%E5%B7%BB%E3%81%8B%E3%81%BB%E3%82%8B%20Hold%20On%20Me" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「Hold On Me」</a><a href="https://music.youtube.com/search?q=%E5%B0%8F%E6%AF%94%E9%A1%9E%E5%B7%BB%E3%81%8B%E3%81%BB%E3%82%8B%20Time%20After%20Time" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「Time After Time」</a>——洋楽的な発声と力強いボーカルで新境地を開いた。
+- **岡村靖幸**：<a href="https://music.youtube.com/search?q=%E5%B2%A1%E6%9D%91%E9%9D%96%E5%B9%B8%20%E3%81%A0%E3%81%84%E3%81%99%E3%81%8D" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「だいすき」</a><a href="https://music.youtube.com/search?q=%E5%B2%A1%E6%9D%91%E9%9D%96%E5%B9%B8%20Out%20of%20Blue" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「Out of Blue」</a>——R&B・ファンクの要素をJ-POPに持ち込んだ先駆者。
 
 ### グループ
 
-- **CHAGE and ASKA**：「男と女」「モーニングムーン」——フォークとポップスの融合から商業音楽へと進化。
+- **CHAGE and ASKA**：<a href="https://music.youtube.com/search?q=CHAGE%20and%20ASKA%20%E7%94%B7%E3%81%A8%E5%A5%B3" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「男と女」</a><a href="https://music.youtube.com/search?q=CHAGE%20and%20ASKA%20%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%A0%E3%83%BC%E3%83%B3" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「モーニングムーン」</a>——フォークとポップスの融合から商業音楽へと進化。
 - **TM NETWORK**：「Get Wild」（1987年）——小室哲哉率いるシンセポップユニット。テクノとロックを融合させ、後の「小室サウンド」の原型を作った。
 
 
@@ -56,7 +56,7 @@ Aメロ：DX7系シンセベース + TR-909ドラム
 特徴：Yamaha DX7、Roland D-50、Korg M1をフル活用
 ```
 
-<div style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://www.youtube.com/results?search_query=TM%20NETWORK%20Get%20Wild" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「Get Wild」を聴く</a></div>
+<div style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://music.youtube.com/search?q=TM%20NETWORK%20Get%20Wild" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「Get Wild」を聴く</a></div>
 
 ### 「My Revolution」（渡辺美里, 1986年）——小室哲哉の転換点
 
@@ -66,7 +66,7 @@ Aメロ：DX7系シンセベース + TR-909ドラム
 - **アレンジ**：デジタルシンセの層にロックギターを重ねる手法
 - **歌詞の方向性**：アイドル的な「恋愛」ではなく「自立と挑戦」を歌う
 
-<div style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://www.youtube.com/results?search_query=%E6%B8%A1%E8%BE%BA%E7%BE%8E%E9%87%8C%20My%20Revolution" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「My Revolution」を聴く</a></div>
+<div style="margin:1rem 0;padding:.7rem 1rem;background:#eef1f5;border-left:3px solid #1e3a5f;border-radius:6px;"><a href="https://music.youtube.com/search?q=%E6%B8%A1%E8%BE%BA%E7%BE%8E%E9%87%8C%20My%20Revolution" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 「My Revolution」を聴く</a></div>
 
 
 ## 機材——1985〜87年のスタジオ

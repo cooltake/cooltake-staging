@@ -223,7 +223,7 @@ TKが90年代にMac+Logic Audioでやっていたことを、今は誰でもiPho
 
 
 
-### 「Overnight Sensation」制作の裏側
+### <a href="https://music.youtube.com/search?q=TRF%20Overnight%20Sensation" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「Overnight Sensation」</a>制作の裏側
 
 
 
