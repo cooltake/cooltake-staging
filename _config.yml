@@ -9,7 +9,7 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   parse_block_html: false
-permalink: /:year/:month/:day/:title/
+permalink: /:categories/:slug/
 plugins:
   - jekyll-feed
   - jekyll-sitemap
