@@ -2,7 +2,7 @@
 layout: post
 title: "ブルース進行（Ⅰ-Ⅳ-Ⅴ）完全解説【コード進行シリーズ #07】代表曲20選＋すべてのロックの母胎"
 date: 2026-05-30
-categories: []
+categories: [chord]
 tags: [ギター, エレキギター, 音楽制作, 作曲]
 image: /assets/images/thumb-chord-07.jpg
 description: "すべてのロックの起源「ブルース進行（Ⅰ-Ⅳ-Ⅴ）」を徹底解説。尾崎豊・B'z・Chuck Berry・Led Zeppelinなど日本・海外の代表曲20曲を楽天購入リンク付きで完全網羅。12小節ブルースの弾き方も解説。"
