@@ -3,7 +3,7 @@ layout: post
 title: "音楽制作を始める前に揃えるべき機材・環境【初心者ガイド2026】"
 description: "音楽制作を始めたい初心者向けに、必要な機材・ソフトウェア・環境を解説。予算別スターターセットから最初の一歩まで、無駄なく始められる方法を紹介します。"
 date: 2026-05-11
-categories: [basics]
+categories: []
 tags: [初心者, 機材, 準備, オーディオインターフェース, DAW]
 image: /assets/images/thumb-basics.png
 ---
