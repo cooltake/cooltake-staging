@@ -3,7 +3,7 @@ layout: post
 title: "MOTUプロ機種ガイド｜AVBネットワーク世代の青い液晶機を用途別に選ぶ"
 description: "MOTU UltraLite AVB・1248・24Ao・24Ai・Monitor8・8Mなど、AVBネットワーク対応プロ機種の違いと用途別選び方を徹底解説。スタジオ・ライブ・DAW制作まで最適な一台を見つけるガイド。"
 date: 2026-06-13
-categories: [gear]
+categories: []
 tags: [オーディオインターフェイス, MOTU, AVB, スタジオ, 録音機材, プロ機材]
 image: /assets/images/thumb-motu-avb-guide.jpg
 ---
