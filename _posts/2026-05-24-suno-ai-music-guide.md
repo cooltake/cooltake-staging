@@ -3,7 +3,7 @@ layout: post
 title: "Suno AI音楽生成 使い方ガイド【2026年版】初心者でも1分でプロ品質の楽曲を作る方法"
 description: "Suno AIで音楽を生成する方法を初心者向けに解説。無料プランの使い方・プロンプトの書き方・生成曲の活用法・有料プランの判断基準まで徹底的に説明します。"
 date: 2026-05-24
-categories: [production]
+categories: []
 tags: [Suno AI, AI音楽, 音楽生成, DTM, 初心者, 楽曲制作]
 image: /assets/images/thumb-suno-ai.png
 ---
