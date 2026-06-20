@@ -100,7 +100,7 @@ image: /assets/images/thumb-band-boom.jpg
 
 ---
 
-## 参考：登場バンド一覧
+## バンドブームを牽引したバンドたち
 
 ### BOØWY（ボウイ）
 
