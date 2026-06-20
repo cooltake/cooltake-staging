@@ -3,7 +3,7 @@ layout: post
 title: "MOTU オーディオインターフェイス全機種ガイド｜M-Seriesから828まで用途別選び方"
 description: "MOTUのM2/M4/M6から848・10pre・UltraLite mk5・828まで全機種を解説。AVBネットワーク・スタンドアローン・Thunderboltの特徴と用途別選び方を徹底ガイド。"
 date: 2026-06-13
-categories: [gear]
+categories: []
 tags: [オーディオインターフェイス, MOTU, AVB, DTM, 録音機材, スタジオ]
 image: /assets/images/thumb-motu-guide.jpg
 ---
