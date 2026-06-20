@@ -2,7 +2,7 @@
 layout: post
 title: "循環コード（Ⅰ-Ⅵm-Ⅳ-Ⅴ）完全解説【コード進行シリーズ #05】代表曲20選＋50年代から令和まで"
 date: 2026-05-30
-categories: []
+categories: [chord]
 tags: [ギター, キーボード, 作曲, 音楽制作, 初心者]
 image: /assets/images/thumb-chord-05.jpg
 description: "50年代ロカビリーから現代J-POPまで使われる「循環コード（Ⅰ-Ⅵm-Ⅳ-Ⅴ）」を徹底解説。Stand By Me・亜麻色の髪の乙女・ロビンソンなど代表曲20曲を楽天購入リンク付きで完全網羅。"
