@@ -153,7 +153,7 @@ wowaka（<a href="https://www.nicovideo.jp/search/wowaka%20%E3%83%AF%E3%83%BC%E3
 
 - **ryo（supercell）** → メジャーデビュー
 
-- **kz(livetune)** → ハチ名義でも活動
+- **kz(livetune)** → 「Tell Your World」でGoogleのCMに起用され広く知られる
 
 - **ハチ（米津玄師）** → <a href="https://music.youtube.com/search?q=%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB%20Lemon" target="_blank" rel="nofollow noopener" style="color:#1e3a5f;text-decoration:none;font-weight:600;">「Lemon」</a>で国民的アーティストへ
 
