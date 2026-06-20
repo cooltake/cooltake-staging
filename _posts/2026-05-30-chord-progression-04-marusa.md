@@ -2,7 +2,7 @@
 layout: post
 title: "丸サ進行（ツーファイブ系）完全解説【コード進行シリーズ #04】代表曲20選＋シティポップの核心"
 date: 2026-05-30
-categories: []
+categories: [chord]
 tags: [キーボード, ギター, 作曲, 音楽制作, DTM]
 image: /assets/images/thumb-chord-04.jpg
 description: "シティポップとジャズを繋ぐ「丸サ進行」を徹底解説。Plastic Love・真夜中のドア・夜に駆けるなど日本・海外の代表曲20曲を楽天購入リンク付きで完全網羅。オシャレなコードの弾き方も解説。"
