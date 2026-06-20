@@ -3,7 +3,7 @@ layout: post
 title: "Focusrite Scarlett 第4世代 全機種ガイド｜ラインナップと用途別の選び方"
 description: "Focusrite Scarlett 4th Gen のSolo・2i2・4i4・16i16・18i20を全機種比較。DTM初心者から本格マルチch録音まで、用途別おすすめを解説します。"
 date: 2026-06-13
-categories: [gear]
+categories: []
 tags: [オーディオインターフェイス, Focusrite, Scarlett, DTM, 録音機材]
 image: /assets/images/thumb-focusrite-scarlett-guide.jpg
 ---
