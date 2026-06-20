@@ -2,7 +2,7 @@
 layout: post
 title: "小室進行（Ⅵm-Ⅳ-Ⅰ-Ⅴ）完全解説【コード進行シリーズ #03】代表曲20選＋90年代J-POP完全攻略"
 date: 2026-05-30
-categories: []
+categories: [chord]
 tags: [キーボード, DAW, 作曲, 音楽制作, DTM, MIDI]
 image: /assets/images/thumb-chord-03.jpg
 description: "小室哲哉が多用した小室進行（Ⅵm-Ⅳ-Ⅰ-Ⅴ）を徹底解説。globe・TRF・宇多田ヒカル・安室奈美恵など90年代J-POPの代表曲20曲を楽天購入リンク付きで完全網羅。"
