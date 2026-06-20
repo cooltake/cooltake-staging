@@ -3,7 +3,7 @@ layout: post
 title: "宅録防音対策ガイド【2026年版】自宅スタジオの騒音・反響を解決する方法"
 description: "宅録・DTMでの防音に悩む方向けに、遮音・吸音・防振の違いから予算別DIY対策、おすすめ防音グッズまで徹底解説。集合住宅でも実践できる現実的な防音対策をまとめました。"
 date: 2026-05-24
-categories: []
+categories: [production]
 tags: [防音, 宅録, 吸音, 遮音, スタジオ環境, DIY, 録音]
 image: /assets/images/thumb-soundproofing.jpg
 ---
