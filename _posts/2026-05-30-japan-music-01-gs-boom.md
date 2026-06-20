@@ -81,7 +81,7 @@ GSサウンドの核心はエレキギター。当時使われていた主なモ
 | 「エメラルドの伝説」 | テンプターズ（1968年） | <a href="https://www.youtube.com/results?search_query=%E3%83%86%E3%83%B3%E3%83%97%E3%82%BF%E3%83%BC%E3%82%BA%20%E3%82%A8%E3%83%A1%E3%83%A9%E3%83%AB%E3%83%89%E3%81%AE%E4%BC%9D%E8%AA%AC" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 動画を見る</a> |
 | 「花の首飾り」 | ザ・タイガース（1968年） | <a href="https://www.youtube.com/results?search_query=%E3%82%B6%E3%83%BB%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%B9%20%E8%8A%B1%E3%81%AE%E9%A6%96%E9%A3%BE%E3%82%8A" target="_blank" rel="nofollow noopener" style="display:inline-flex;align-items:center;gap:.4em;color:#1e3a5f;text-decoration:none;font-weight:600;">▶ 動画を見る</a> |
 
-### アルバム・CDを探す
+### GSブームのサウンドを聴く——スパイダース・タイガース・テンプターズのCD
 
 <div style="margin:.8rem 0;"><span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span><a href="https://search.rakuten.co.jp/search/mall/グループサウンズ CD ベスト/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="240" style="height:auto;border-radius:8px;display:inline-block;"></a></div>
 
@@ -128,7 +128,7 @@ DAWユーザーなら以下のプラグインでGS的なサウンドを作れま
 
 </figure>
 
-### 関連書籍・教則本を探す
+### この記事を読んでエレキギターを始めたくなったら
 
 <div style="margin:.8rem 0;"><span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🔍 楽天市場で探す</span><a href="https://search.rakuten.co.jp/search/mall/エレキギター 教則本 初心者/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" width="240" style="height:auto;border-radius:8px;display:inline-block;"></a></div>
 
