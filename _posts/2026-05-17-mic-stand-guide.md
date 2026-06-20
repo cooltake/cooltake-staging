@@ -3,7 +3,7 @@ layout: post
 title: "マイクスタンドの種類と選び方【K&Mスタンド購入ガイド2026】"
 description: "マイクスタンドのストレート・ブーム・デスクアームの違いを解説。K&M（König & Meyer）の定番モデル比較と、用途別おすすめの選び方を初心者にもわかりやすく紹介します。"
 date: 2026-05-17
-categories: []
+categories: [gear]
 tags: [マイクスタンド, K&M, ブームスタンド, ストレートスタンド, 宅録, ライブ, レコーディング]
 image: /assets/images/thumb-mic-stand.png
 ---
