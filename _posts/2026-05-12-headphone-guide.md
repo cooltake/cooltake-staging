@@ -3,7 +3,7 @@ layout: post
 title: "DTM・宅録用ヘッドフォンおすすめ6選【予算別・2026年版】"
 description: "DTMや宅録に使うヘッドフォンの選び方とおすすめ機種を予算別に解説。モニタリング用途に適した密閉型・開放型の違いや、SONY・AKG・audio-technicaの特徴を比較します。"
 date: 2026-05-12
-categories: [gear]
+categories: []
 tags: [ヘッドフォン, モニタリング, DTM, 宅録, SONY, AKG, audio-technica]
 image: /assets/images/thumb-headphone.png
 ---
