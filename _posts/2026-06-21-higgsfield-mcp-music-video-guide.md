@@ -41,6 +41,48 @@ MCP（Model Context Protocol）とは、AIエージェント（Claude Codeなど
 
 ---
 
+## 始める前に — 必要なサービスと費用の目安
+
+このワークフローで使うサービスは4つです。それぞれの最低限のプランと、月にどのくらい作れるかをまとめました。
+
+<figure style="text-align:center;margin:2rem auto;max-width:800px;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 260" style="max-width:100%;height:auto;border-radius:10px;display:block;"><rect width="800" height="260" fill="#0f172a" rx="10"/><text x="400" y="30" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#94a3b8" font-weight="bold">月1本MVを作るための最低コスト試算</text><rect x="20" y="48" width="175" height="190" fill="#1e293b" rx="8" stroke="#6366f1" stroke-width="2"/><text x="107" y="74" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#818cf8" font-weight="bold">Claude Code</text><text x="107" y="96" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#f1f5f9" font-weight="bold">$20/月</text><text x="107" y="116" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#94a3b8">Proプラン</text><text x="107" y="140" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#64748b">AIエージェント本体</text><text x="107" y="158" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#64748b">MCP接続・映像指示</text><text x="107" y="176" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#64748b">シーン設計・歌詞作成</text><text x="107" y="218" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#34d399">✓ 無制限で使用可</text><rect x="207" y="48" width="175" height="190" fill="#1e293b" rx="8" stroke="#7c3aed" stroke-width="2"/><text x="294" y="74" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#c084fc" font-weight="bold">Higgsfield AI</text><text x="294" y="96" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#f1f5f9" font-weight="bold">$15/月〜</text><text x="294" y="116" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#94a3b8">Starterプラン（年払い）</text><text x="294" y="140" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#64748b">映像生成 200cr/月</text><text x="294" y="158" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#64748b">Kling: 約33本/月</text><text x="294" y="176" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#64748b">Veo/Sora: 約3〜5本/月</text><text x="294" y="218" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#fbbf24">△ 月1本MVなら足りる</text><rect x="394" y="48" width="175" height="190" fill="#1e293b" rx="8" stroke="#0ea5e9" stroke-width="2"/><text x="481" y="74" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#38bdf8" font-weight="bold">Suno AI</text><text x="481" y="96" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#f1f5f9" font-weight="bold">$10/月</text><text x="481" y="116" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#94a3b8">Proプラン</text><text x="481" y="140" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#64748b">楽曲生成 2,500cr/月</text><text x="481" y="158" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#64748b">約500曲/月</text><text x="481" y="176" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#64748b">商業利用・配信OK</text><text x="481" y="218" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#34d399">✓ 十分すぎる量</text><rect x="581" y="48" width="200" height="190" fill="#1e293b" rx="8" stroke="#22c55e" stroke-width="2"/><text x="681" y="74" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#34d399" font-weight="bold">CapCut</text><text x="681" y="96" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#f1f5f9" font-weight="bold">無料</text><text x="681" y="116" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#94a3b8">フリープラン</text><text x="681" y="140" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#64748b">動画編集・字幕追加</text><text x="681" y="158" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#64748b">1080p書き出しOK</text><text x="681" y="176" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#64748b">ウォーターマークなし</text><text x="681" y="218" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#34d399">✓ 無料で十分</text></svg><figcaption style="font-size:.82em;color:#64748b;margin-top:.4em;font-family:sans-serif;">図：月1本MVを作るための最低コスト — 合計$45/月（約¥6,700）から始められる</figcaption></figure>
+
+### サービス別 詳細
+
+| サービス | 役割 | 最低プラン | 月額 | 月にどのくらい作れるか |
+|---------|------|----------|------|----------------------|
+| **Claude Code** | AIエージェント本体。シーン設計・プロンプト生成・MCP操作 | Proプラン | $20（約¥3,000） | 制限なし。日常的に使い放題 |
+| **Higgsfield AI** | AI映像生成（Kling・Veo・Seedance等） | Starterプラン（年払い） | $15（約¥2,200） | 200クレジット/月。Kling使用で約33クリップ、Veo/Soraで5〜8クリップ |
+| **Suno AI** | 楽曲・ボーカル生成 | Proプラン | $10（約¥1,500） | 2,500クレジット/月 = 約500曲。商業利用・YouTube収益化OK |
+| **CapCut** | 動画編集・歌詞字幕・書き出し | **無料プラン** | ¥0 | 月15分以内の動画を無制限で書き出し。1080p・ウォーターマークなし |
+| **合計** | | | **$45/月（約¥6,700）** | **月1〜2本のMVを制作可能** |
+
+### Higgsfieldのクレジット消費の目安
+
+映像1クリップ（8〜10秒）あたりのクレジット消費数です。
+
+| モデル | クレジット消費 | Starterプラン(200cr)で作れる本数 | 映像の特徴 |
+|------|-------------|-------------------------------|---------|
+| **Kling 3.0** | 約6cr | 約33クリップ | 人物動作・表情が自然。歌唱シーンに最適 |
+| **Seedance 2.0** | 約15〜20cr | 約10〜13クリップ | 音楽同期対応・多入力。MV全体の柱に |
+| **Veo 3.1** | 約40〜50cr | 約4〜5クリップ | 映画的な映像品質。風景・アクションに |
+| **Sora 2** | 約60〜70cr | 約3クリップ | 複雑なカメラワーク・物理表現 |
+
+**実践的な使い方のコツ：** MV1本あたり6〜8クリップ必要です。Starterプランでは**Kling中心（1クリップ6cr）でシーンを生成し、サビだけVeo/Soraに切り替える**のがコスパの良い構成です（合計80〜100cr程度）。
+
+### まず無料で試す方法
+
+いきなり課金せずに動作確認したい場合：
+
+1. **Higgsfield AI** — 無料アカウントで毎日10クレジット付与（Kling換算で約1クリップ/日）
+2. **Suno AI** — 無料プランで毎日50クレジット付与（約10曲/日、非商業利用）
+3. **Claude Code** — 無料プランでもMCP接続・映像指示は可能（ただし使用量に上限あり）
+4. **CapCut** — 完全無料で使い続けられる
+
+無料枠で一連の流れを体験してから、必要に応じて有料プランに移行するのがおすすめです。
+
+---
+
 ## STEP 0：Higgsfield MCPをClaude Codeに接続する（セットアップ）
 
 ### 1. Higgsfield AIのアカウントを作成する
