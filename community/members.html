@@ -195,8 +195,8 @@ function daysLeft(ts) {
 }
 
 function renderCard(m) {
-  const parts = (m.recruit_parts || '').split(',').filter(Boolean);
-  const genres = (m.genres || '').split(',').filter(Boolean);
+  const parts = Array.isArray(m.recruit_parts) ? m.recruit_parts : (m.recruit_parts || '').split(',').filter(Boolean);
+  const genres = Array.isArray(m.genres) ? m.genres : (m.genres || '').split(',').filter(Boolean);
   const expLabel = m.expires_at ? daysLeft(m.expires_at) : null;
   let notes = {};
   try { notes = m.recruit_parts_notes ? JSON.parse(m.recruit_parts_notes) : {}; } catch(e) {}
