@@ -141,6 +141,7 @@
       <div class="drawer-section-label">シリーズ</div>
       <a href="/series-list.html?series=japan-music-series" class="drawer-link"><span class="drawer-link-icon di-rose">&#x1F1EF;&#x1F1F5;</span>音楽史シリーズ</a>
       <a href="/series-list.html?series=chord-progression" class="drawer-link"><span class="drawer-link-icon di-violet">&#x1F3B5;</span>コード進行シリーズ</a>
+      <a href="/series-list.html?series=suno-guide" class="drawer-link"><span class="drawer-link-icon di-sky">&#x1F3B6;</span>Suno AIで曲を作るシリーズ</a>
     </div>
     <div style="height:32px;"></div>
   </div>
@@ -390,6 +391,24 @@ const SERIES_DATA = {
       {url:'/chord/chord-progression-06-kanashii/',title:'切ない系進行（Ⅵm-Ⅳ-Ⅴ-Ⅵm）完全解説【コード進行シリーズ #06】代表曲20選',img:'/assets/images/thumb-chord-06.jpg',date:'2026-05-30',desc:'切ない感情を表現する進行を解説。バラード・アニソンの名曲20曲＋楽天購入リンク付き。'},
       {url:'/chord/chord-progression-07-blues/',title:'ブルース進行（12小節ブルース）完全解説【コード進行シリーズ #07】代表曲20選',img:'/assets/images/thumb-chord-07.jpg',date:'2026-05-30',desc:'すべての音楽の源流、12小節ブルースを解説。ブルース・ロックの名曲20曲＋楽天購入リンク付き。'},
       {url:'/chord/chord-progression-08-cliche/',title:'クリシェ進行（半音下降）完全解説【コード進行シリーズ #08】代表曲20選',img:'/assets/images/thumb-chord-08.jpg',date:'2026-05-30',desc:'ベースラインが半音ずつ動くクリシェ進行を解説。ドラマチックな名曲20曲＋楽天購入リンク付き。'}
+    ]
+  },
+  'suno-guide': {
+    title: 'Suno AIで曲を作るシリーズ',
+    desc: 'AIツールSunoを使って音楽を作る方法を入門から応用まで全12回で解説。プロンプト・楽器コントロール・DAW連携・配信まで。',
+    posts: [
+      {url:'/production/suno-guide-01/',title:'Suno AIとは？無料・有料プランの違いと始め方【第1回】',img:'/assets/images/thumb-suno-guide-01.jpg',date:'2026-06-22',desc:'アカウント作成・料金プラン・商用利用の条件を解説。最初の1曲を生成するまでをガイド。'},
+      {url:'/production/suno-guide-02/',title:'Sunoで最初の1曲を作る — シンプルプロンプトの書き方【第2回】',img:'/assets/images/thumb-suno-guide-02.jpg',date:'2026-06-22',desc:'ジャンル・楽器・BPM・ムードの指定方法を実例付きで紹介。狙ったサウンドに近づける技術を習得。'},
+      {url:'/production/suno-guide-03/',title:'Sunoで曲の構造を設計する — セクションタグの使い方【第3回】',img:'/assets/images/thumb-suno-guide-03.jpg',date:'2026-06-22',desc:'[intro][verse][chorus]などのセクションタグで曲の展開を自分でコントロールする方法を解説。'},
+      {url:'/production/suno-guide-04/',title:'Sunoでボーカル入りの楽曲を作る — 歌詞の書き方とコツ【第4回】',img:'/assets/images/thumb-suno-guide-04.jpg',date:'2026-06-23',desc:'歌詞の構成・日本語歌詞の扱い方・サビの深め方を実例付きで解説。'},
+      {url:'/production/suno-guide-05/',title:'SunoのCustom Modeを使いこなす — 全パラメータ解説【第5回】',img:'/assets/images/thumb-suno-guide-05.jpg',date:'2026-06-23',desc:'Style・Lyrics・Titleの役割と組み合わせを体系的に解説。Extend機能も紹介。'},
+      {url:'/production/suno-guide-06/',title:'Sunoで楽器をコントロールする — ギター・ピアノ・ドラム・ストリングス【第6回】',img:'/assets/images/thumb-suno-guide-06.jpg',date:'2026-06-23',desc:'特定の楽器を前面に出す・抑える・除外するプロンプト技法を楽器別キーワード一覧で解説。'},
+      {url:'/production/suno-guide-07/',title:'Sunoでフレーズ単位の制御 — イントロ・ソロ・ブレイクを意図通りに作る【第7回】',img:'/assets/images/thumb-suno-guide-07.jpg',date:'2026-06-23',desc:'[guitar solo][build up][drop]などフレーズタグで瞬間の表情を設計する方法を解説。'},
+      {url:'/production/suno-guide-08/',title:'Sunoジャンル別プロンプトレシピ — ロック・ジャズ・ローファイ・80sシンセ【第8回】',img:'/assets/images/thumb-suno-guide-08.jpg',date:'2026-06-23',desc:'第6・7回の技法をジャンル別に応用したコピペ可能なプロンプトテンプレート集。'},
+      {url:'/production/suno-guide-09/',title:'Sunoのインスト・BGMをDAWに読み込んで仕上げる【第9回】',img:'/assets/images/thumb-suno-guide-09.jpg',date:'2026-06-23',desc:'Sunoで生成したオーディオをDAWに取り込み、MIX・加工する実践フローを解説。'},
+      {url:'/production/suno-guide-10/',title:'Sunoと宅録を組み合わせる — AIトラック＋生演奏のハイブリッド制作【第10回】',img:'/assets/images/thumb-suno-guide-10.jpg',date:'2026-06-23',desc:'SunoのバッキングトラックにDAWで生演奏を重ねるハイブリッド制作手法を紹介。'},
+      {url:'/production/suno-guide-11/',title:'Sunoで作った曲を配信する — RouteNoteでSpotify・Apple Musicへ【第11回】',img:'/assets/images/thumb-suno-guide-11.jpg',date:'2026-06-23',desc:'Suno有料プランの商用利用権からRouteNote登録・配信申請までの実際のフローを解説。'},
+      {url:'/production/suno-guide-12/',title:'Sunoの限界と対策 — 音程制御・著作権・クオリティの壁を乗り越える【第12回】',img:'/assets/images/thumb-suno-guide-12.jpg',date:'2026-06-23',desc:'音程制御の限界・歌詞崩れ・著作権問題への対処法。Sunoと長く付き合うための視点。'}
     ]
   },
 };
