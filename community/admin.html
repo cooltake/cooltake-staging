@@ -251,7 +251,23 @@ function cardHtml(p, type, showActions) {
       ['投稿日時', fmtDate(p.submitted_at)],
     ]);
   } else {
-    detailHtml = tableRows([
+    // ジャケ写プレビュー＋サイズ情報
+    let jacketHtml = '';
+    if (p.jacket_url) {
+      const m = p.jacket_meta || {};
+      const resized = m.orig_w && (m.orig_w !== m.new_w || m.orig_h !== m.new_h);
+      const sizeInfo = m.orig_w
+        ? (resized
+            ? `元: ${m.orig_w}×${m.orig_h}px / ${fmtBytes(m.orig_size)} → 縮小後: ${m.new_w}×${m.new_h}px / ${fmtBytes(m.new_size)}`
+            : `${m.new_w}×${m.new_h}px / ${fmtBytes(m.new_size)}（縮小なし）`)
+        : '';
+      jacketHtml = `<div style="margin-bottom:12px;">
+        <img src="${esc(p.jacket_url)}" alt="ジャケ写" style="width:120px;height:120px;object-fit:cover;border-radius:8px;border:1px solid #334155;display:block;">
+        ${sizeInfo ? `<div style="font-size:.72rem;color:#64748b;margin-top:4px;">${esc(sizeInfo)}</div>` : ''}
+      </div>`;
+    }
+    detailHtml = (p.jacket_url ? `<tr><td style="color:#94a3b8;white-space:nowrap;width:120px;padding:4px 8px;vertical-align:top;font-size:.82rem;">ジャケ写</td><td style="padding:4px 8px;">${jacketHtml}</td></tr>` : '') +
+    tableRows([
       ['ニックネーム', p.nickname],
       ['ジャンル', p.genre],
       ['リンク', p.main_link ? `<a href="${esc(p.main_link)}" target="_blank" style="color:#60a5fa;">${esc(p.main_link)}</a>` : ''],
@@ -402,6 +418,13 @@ function fmtDate(iso) {
   if (!iso) return '';
   const d = new Date(iso);
   return `${d.getFullYear()}/${String(d.getMonth()+1).padStart(2,'0')}/${String(d.getDate()).padStart(2,'0')} ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
+}
+
+function fmtBytes(b) {
+  b = Number(b) || 0;
+  if (b < 1024) return b + ' B';
+  if (b < 1024 * 1024) return (b/1024).toFixed(1) + ' KB';
+  return (b/(1024*1024)).toFixed(2) + ' MB';
 }
 </script>
 </body>

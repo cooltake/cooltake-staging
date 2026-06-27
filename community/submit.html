@@ -292,6 +292,24 @@
             <label>SNSリンク（任意）</label>
             <input type="url" id="f-sns_link" name="sns_link" placeholder="https://x.com/yourname">
           </div>
+          <div class="field" id="f-jacket-wrap">
+            <label>ジャケット画像（任意）</label>
+            <div id="jacket-dropzone" style="border:2px dashed var(--border);border-radius:12px;padding:28px 16px;text-align:center;cursor:pointer;transition:border-color .2s;" onclick="document.getElementById('f-jacket').click()" ondragover="event.preventDefault();this.style.borderColor='var(--primary)'" ondragleave="this.style.borderColor='var(--border)'" ondrop="handleJacketDrop(event)">
+              <div id="jacket-placeholder" style="color:var(--muted);font-size:.88rem;">
+                <div style="font-size:2rem;margin-bottom:8px;">🖼</div>
+                クリックまたはドラッグ&amp;ドロップで画像を選択<br>
+                <span style="font-size:.78rem;">JPG / PNG / GIF　720×720px を超えると自動縮小</span>
+              </div>
+              <div id="jacket-preview-wrap" style="display:none;">
+                <img id="jacket-preview" style="max-width:180px;max-height:180px;border-radius:8px;object-fit:cover;" alt="プレビュー">
+                <div id="jacket-size-info" style="font-size:.75rem;color:var(--muted);margin-top:8px;line-height:1.6;"></div>
+                <button type="button" onclick="clearJacket(event)" style="margin-top:8px;font-size:.75rem;background:none;border:none;color:var(--muted);cursor:pointer;text-decoration:underline;">✕ 削除</button>
+              </div>
+              <input type="file" id="f-jacket" accept="image/jpeg,image/png,image/gif" style="display:none" onchange="handleJacketFile(this.files[0])">
+            </div>
+            <div class="hint">SoundCloud など音声のみのリンクにサムネイルを付けたい場合にアップロードしてください。YouTubeはリンクから自動取得するため不要です。</div>
+            <div class="field-error" id="e-jacket"></div>
+          </div>
         </div>
 
         <!-- MEMBER FIELDS -->
@@ -764,6 +782,96 @@ function buildPayloads(common) {
   return { payloads, errors };
 }
 
+// ── ジャケット画像処理 ────────────────────────────────────────
+const MAX_DIM = 720;
+let jacketBlob = null;       // リサイズ後 Blob
+let jacketMeta = null;       // { orig_w, orig_h, orig_size, new_w, new_h, new_size }
+
+function fmtBytes(b) {
+  if (b < 1024) return b + ' B';
+  if (b < 1024 * 1024) return (b/1024).toFixed(1) + ' KB';
+  return (b/(1024*1024)).toFixed(2) + ' MB';
+}
+
+async function handleJacketFile(file) {
+  if (!file) return;
+  const ALLOWED = ['image/jpeg','image/png','image/gif'];
+  if (!ALLOWED.includes(file.type)) { showErr('e-jacket','JPG / PNG / GIF のみ対応しています'); return; }
+  showErr('e-jacket', '');
+
+  const orig_size = file.size;
+
+  // 画像をImageBitmapで読み込んで元サイズ取得
+  const bmp = await createImageBitmap(file);
+  const orig_w = bmp.width, orig_h = bmp.height;
+
+  // リサイズが必要か判定
+  let new_w = orig_w, new_h = orig_h;
+  if (orig_w > MAX_DIM || orig_h > MAX_DIM) {
+    const ratio = Math.min(MAX_DIM / orig_w, MAX_DIM / orig_h);
+    new_w = Math.round(orig_w * ratio);
+    new_h = Math.round(orig_h * ratio);
+  }
+
+  // Canvasでリサイズ
+  const canvas = document.createElement('canvas');
+  canvas.width = new_w; canvas.height = new_h;
+  const ctx = canvas.getContext('2d');
+  ctx.drawImage(bmp, 0, 0, new_w, new_h);
+  bmp.close();
+
+  // Blobに変換（GIFは静止画として扱いPNG化）
+  const mimeOut = file.type === 'image/png' ? 'image/png' : 'image/jpeg';
+  const quality = mimeOut === 'image/jpeg' ? 0.88 : undefined;
+  jacketBlob = await new Promise(r => canvas.toBlob(r, mimeOut, quality));
+  const new_size = jacketBlob.size;
+
+  jacketMeta = { orig_w, orig_h, orig_size, new_w, new_h, new_size };
+
+  // プレビュー表示
+  const previewUrl = URL.createObjectURL(jacketBlob);
+  document.getElementById('jacket-preview').src = previewUrl;
+  document.getElementById('jacket-placeholder').style.display = 'none';
+  document.getElementById('jacket-preview-wrap').style.display = 'block';
+
+  const resized = (orig_w !== new_w || orig_h !== new_h);
+  document.getElementById('jacket-size-info').innerHTML =
+    `元: ${orig_w}×${orig_h}px　${fmtBytes(orig_size)}` +
+    (resized ? `<br>縮小後: ${new_w}×${new_h}px　${fmtBytes(new_size)}` : `<br>（縮小なし）`);
+}
+
+function handleJacketDrop(e) {
+  e.preventDefault();
+  document.getElementById('jacket-dropzone').style.borderColor = 'var(--border)';
+  const file = e.dataTransfer.files[0];
+  if (file) handleJacketFile(file);
+}
+
+function clearJacket(e) {
+  e.stopPropagation();
+  jacketBlob = null; jacketMeta = null;
+  document.getElementById('f-jacket').value = '';
+  document.getElementById('jacket-preview').src = '';
+  document.getElementById('jacket-placeholder').style.display = 'block';
+  document.getElementById('jacket-preview-wrap').style.display = 'none';
+  document.getElementById('jacket-size-info').textContent = '';
+}
+
+async function uploadJacketIfNeeded() {
+  if (!jacketBlob || !jacketMeta) return null;
+  const fd = new FormData();
+  fd.append('file', jacketBlob, 'jacket.' + (jacketBlob.type === 'image/png' ? 'png' : 'jpg'));
+  fd.append('orig_w',    String(jacketMeta.orig_w));
+  fd.append('orig_h',    String(jacketMeta.orig_h));
+  fd.append('orig_size', String(jacketMeta.orig_size));
+  fd.append('new_w',     String(jacketMeta.new_w));
+  fd.append('new_h',     String(jacketMeta.new_h));
+  const res = await fetch(WORKER + '?action=upload_image', { method: 'POST', body: fd });
+  const data = await res.json();
+  if (!data.ok) throw new Error(data.error || '画像アップロードに失敗しました');
+  return data; // { url, key, meta }
+}
+
 // ── フォーム送信 ──────────────────────────────────────────────
 document.getElementById('mainForm').addEventListener('submit', async e => {
   e.preventDefault();
@@ -788,6 +896,25 @@ document.getElementById('mainForm').addEventListener('submit', async e => {
   btn.innerHTML = '<span class="spinner"></span>送信中…';
 
   try {
+    // ジャケ写アップロード（Showcaseのみ）
+    let jacketResult = null;
+    if (selectedTypes.has('showcase') && jacketBlob) {
+      btn.innerHTML = '<span class="spinner"></span>画像アップロード中…';
+      jacketResult = await uploadJacketIfNeeded();
+    }
+
+    // ジャケ写情報をShowcaseペイロードに付加
+    if (jacketResult) {
+      const scPayload = payloads.find(p => p.action === 'submit');
+      if (scPayload) {
+        scPayload.jacket_url  = jacketResult.url;
+        scPayload.jacket_key  = jacketResult.key;
+        scPayload.jacket_meta = jacketResult.meta;
+      }
+    }
+
+    btn.innerHTML = '<span class="spinner"></span>送信中…';
+
     // 並列送信
     const results = await Promise.all(payloads.map(p =>
       fetch(WORKER, { method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(p) })
@@ -804,10 +931,11 @@ document.getElementById('mainForm').addEventListener('submit', async e => {
       showErr('e-consent', '⚠️ ' + msg);
       btn.disabled = false;
       btn.innerHTML = document.querySelector('#btn-submit').textContent;
-      goStep2(); // ラベル再設定
+      goStep2();
     }
   } catch(err) {
-    showErr('e-consent', 'ネットワークエラーが発生しました。しばらく後にお試しください。');
+    showErr('e-jacket', err.message.includes('画像') ? err.message : '');
+    showErr('e-consent', err.message.includes('画像') ? '' : 'ネットワークエラーが発生しました。しばらく後にお試しください。');
     btn.disabled = false;
     btn.innerHTML = '送信する';
   }
