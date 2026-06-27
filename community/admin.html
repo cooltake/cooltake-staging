@@ -18,10 +18,14 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 header{background:#1e293b;padding:16px 24px;display:flex;align-items:center;gap:16px;border-bottom:1px solid #334155;}
 header h1{font-size:1rem;font-weight:700;color:#f1f5f9;flex:1;}
 header span{font-size:.8rem;color:#94a3b8;}
-.tabs{display:flex;gap:4px;padding:16px 24px 0;background:#0f172a;border-bottom:1px solid #1e293b;}
+.tabs{display:flex;align-items:center;gap:4px;padding:12px 24px 0;background:#0f172a;border-bottom:1px solid #1e293b;flex-wrap:wrap;}
+.tab-group-label{font-size:.68rem;font-weight:700;color:#475569;letter-spacing:.08em;text-transform:uppercase;padding:0 6px 8px;white-space:nowrap;}
+.tab-separator{width:1px;height:28px;background:#334155;margin:0 6px 8px;}
 .tab-btn{padding:8px 18px;border:none;border-radius:8px 8px 0 0;cursor:pointer;font-size:.85rem;font-weight:600;background:#1e293b;color:#94a3b8;transition:.15s;}
 .tab-btn.active{background:#3b82f6;color:#fff;}
 .tab-btn .badge{display:inline-block;background:#ef4444;color:#fff;border-radius:99px;font-size:.7rem;padding:1px 6px;margin-left:6px;}
+.tab-btn .badge.badge-approved{background:#334155;color:#94a3b8;}
+.tab-btn.active .badge.badge-approved{background:rgba(255,255,255,.2);color:#fff;}
 .content{padding:24px;max-width:900px;}
 .section-title{font-size:.75rem;font-weight:700;color:#64748b;letter-spacing:.08em;text-transform:uppercase;margin-bottom:12px;}
 .card{background:#1e293b;border-radius:12px;padding:20px;margin-bottom:12px;border:1px solid #334155;}
@@ -86,10 +90,15 @@ header span{font-size:.8rem;color:#94a3b8;}
   </header>
 
   <div class="tabs">
+    <div class="tab-group-label">審査待ち</div>
     <button class="tab-btn active" onclick="switchTab('members')" id="tab-members">メンバー募集<span class="badge" id="badge-members">0</span></button>
     <button class="tab-btn" onclick="switchTab('events')" id="tab-events">イベント情報<span class="badge" id="badge-events">0</span></button>
     <button class="tab-btn" onclick="switchTab('showcase')" id="tab-showcase">Showcase<span class="badge" id="badge-showcase">0</span></button>
-    <button class="tab-btn" onclick="switchTab('approved')" id="tab-approved">掲載済み管理</button>
+    <div class="tab-separator"></div>
+    <div class="tab-group-label">掲載済み</div>
+    <button class="tab-btn" onclick="switchTab('approved-members')" id="tab-approved-members">メンバー募集<span class="badge badge-approved" id="badge-approved-members">0</span></button>
+    <button class="tab-btn" onclick="switchTab('approved-events')" id="tab-approved-events">イベント情報<span class="badge badge-approved" id="badge-approved-events">0</span></button>
+    <button class="tab-btn" onclick="switchTab('approved-showcase')" id="tab-approved-showcase">Showcase<span class="badge badge-approved" id="badge-approved-showcase">0</span></button>
   </div>
 
   <div class="content" id="tab-content">
@@ -149,6 +158,7 @@ function switchTab(tab) {
   renderTab(tab);
 }
 
+
 // ──────── 全データ読み込み ────────
 let allData = { members: [], events: [], showcase: [], approvedMembers: [], approvedEvents: [], approvedShowcase: [] };
 
@@ -177,16 +187,23 @@ function updateBadges() {
   document.getElementById('badge-members').textContent  = allData.members.length;
   document.getElementById('badge-events').textContent   = allData.events.length;
   document.getElementById('badge-showcase').textContent = allData.showcase.length;
-  document.getElementById('header-counts').textContent  =
-    `審査待ち: ${allData.members.length + allData.events.length + allData.showcase.length}件`;
+  document.getElementById('badge-approved-members').textContent  = allData.approvedMembers.length;
+  document.getElementById('badge-approved-events').textContent   = allData.approvedEvents.length;
+  document.getElementById('badge-approved-showcase').textContent = allData.approvedShowcase.length;
+  const pending = allData.members.length + allData.events.length + allData.showcase.length;
+  const approved = allData.approvedMembers.length + allData.approvedEvents.length + allData.approvedShowcase.length;
+  document.getElementById('header-counts').textContent =
+    `審査待ち: ${pending}件　掲載中: ${approved}件`;
 }
 
 function renderTab(tab) {
   const el = document.getElementById('tab-content');
-  if (tab === 'members')  renderList(el, allData.members,  'member');
-  if (tab === 'events')   renderList(el, allData.events,   'event');
-  if (tab === 'showcase') renderList(el, allData.showcase, 'showcase');
-  if (tab === 'approved') renderApproved(el);
+  if (tab === 'members')           renderList(el, allData.members,          'member');
+  if (tab === 'events')            renderList(el, allData.events,           'event');
+  if (tab === 'showcase')          renderList(el, allData.showcase,         'showcase');
+  if (tab === 'approved-members')  renderApprovedSingle(el, allData.approvedMembers,  'member',   'メンバー募集');
+  if (tab === 'approved-events')   renderApprovedSingle(el, allData.approvedEvents,   'event',    'イベント情報');
+  if (tab === 'approved-showcase') renderApprovedSingle(el, allData.approvedShowcase, 'showcase', 'Showcase');
 }
 
 // ──────── 審査待ち一覧レンダリング ────────
@@ -273,25 +290,13 @@ function tableRows(rows) {
     `<tr><td>${esc(k)}</td><td>${v}</td></tr>`).join('');
 }
 
-// ──────── 掲載済み管理 ────────
-function renderApproved(el) {
-  const mHtml = allData.approvedMembers.length
-    ? allData.approvedMembers.map(p => cardHtml(p, 'member', false)).join('')
-    : '<div class="empty" style="padding:12px;">掲載中のメンバー募集はありません</div>';
-  const eHtml = allData.approvedEvents.length
-    ? allData.approvedEvents.map(p => cardHtml(p, 'event', false)).join('')
-    : '<div class="empty" style="padding:12px;">掲載中のイベントはありません</div>';
-  const sHtml = allData.approvedShowcase.length
-    ? allData.approvedShowcase.map(p => cardHtml(p, 'showcase', false)).join('')
-    : '<div class="empty" style="padding:12px;">掲載中のShowcase投稿はありません</div>';
-
-  el.innerHTML = `
-    <div class="section-title">掲載中 — メンバー募集 (${allData.approvedMembers.length}件)</div>
-    ${mHtml}
-    <div class="section-title" style="margin-top:24px;">掲載中 — イベント情報 (${allData.approvedEvents.length}件)</div>
-    ${eHtml}
-    <div class="section-title" style="margin-top:24px;">掲載中 — Showcase (${allData.approvedShowcase.length}件)</div>
-    ${sHtml}`;
+// ──────── 掲載済み管理（カテゴリ別単一タブ） ────────
+function renderApprovedSingle(el, items, type, label) {
+  const emptyMsg = `掲載中の${label}はありません`;
+  const html = items.length
+    ? items.map(p => cardHtml(p, type, false)).join('')
+    : `<div class="empty">${emptyMsg}</div>`;
+  el.innerHTML = `<div class="section-title">掲載中 — ${label} (${items.length}件)</div>${html}`;
 }
 
 // ──────── 承認・却下 ────────
