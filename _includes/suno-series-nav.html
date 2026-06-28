@@ -1,11 +1,13 @@
-{% assign suno_series = site.posts | where_exp: "p", "p.path contains 'suno-guide-'" | sort: "path" %}
+{% assign suno_series = site.posts | where: "series", "suno-guide" | sort: "series_num" %}
 {% assign current_num = include.current | plus: 0 %}
 {% assign prev_post = nil %}
 {% assign next_post = nil %}
 {% for post in suno_series %}
-  {% assign post_num = post.path | split: 'suno-guide-' | last | split: '.' | first | plus: 0 %}
-  {% if post_num == current_num | minus: 1 %}{% assign prev_post = post %}{% endif %}
-  {% if post_num == current_num | plus: 1 %}{% assign next_post = post %}{% endif %}
+  {% assign n = post.series_num | plus: 0 %}
+  {% assign prev_num = current_num | minus: 1 %}
+  {% assign next_num = current_num | plus: 1 %}
+  {% if n == prev_num %}{% assign prev_post = post %}{% endif %}
+  {% if n == next_num %}{% assign next_post = post %}{% endif %}
 {% endfor %}
 <nav class="series-nav" style="display:flex;justify-content:space-between;align-items:center;margin:2rem 0;padding:1rem;background:rgba(59,130,246,.06);border:1px solid rgba(59,130,246,.2);border-radius:10px;font-size:.88rem;">
   <div>
