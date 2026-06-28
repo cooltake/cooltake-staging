@@ -266,12 +266,21 @@ function cardHtml(p, type, showActions) {
         ${sizeInfo ? `<div style="font-size:.72rem;color:#64748b;margin-top:4px;">${esc(sizeInfo)}</div>` : ''}
       </div>`;
     }
+    const snsLinks = [
+      p.sns_x        ? `<a href="${esc(p.sns_x)}" target="_blank" style="color:#60a5fa;">𝕏</a>` : '',
+      p.sns_youtube  ? `<a href="${esc(p.sns_youtube)}" target="_blank" style="color:#60a5fa;">YouTube</a>` : '',
+      p.sns_instagram? `<a href="${esc(p.sns_instagram)}" target="_blank" style="color:#60a5fa;">Instagram</a>` : '',
+      p.sns_soundcloud?`<a href="${esc(p.sns_soundcloud)}" target="_blank" style="color:#60a5fa;">SoundCloud</a>` : '',
+      p.sns_spotify  ? `<a href="${esc(p.sns_spotify)}" target="_blank" style="color:#60a5fa;">Spotify</a>` : '',
+      p.sns_tiktok   ? `<a href="${esc(p.sns_tiktok)}" target="_blank" style="color:#60a5fa;">TikTok</a>` : '',
+    ].filter(Boolean).join('　');
     detailHtml = (p.jacket_url ? `<tr><td style="color:#94a3b8;white-space:nowrap;width:120px;padding:4px 8px;vertical-align:top;font-size:.82rem;">ジャケ写</td><td style="padding:4px 8px;">${jacketHtml}</td></tr>` : '') +
     tableRows([
       ['ニックネーム', p.nickname],
-      ['ジャンル', p.genre],
+      ['カテゴリ', (p.categories||p.genre||'')],
       ['リンク', p.main_link ? `<a href="${esc(p.main_link)}" target="_blank" style="color:#60a5fa;">${esc(p.main_link)}</a>` : ''],
       ['機材', (p.gear||[]).join('、')],
+      ['SNS', snsLinks || '—'],
       ['メール', p.email],
       ['投稿日時', fmtDate(p.submitted_at)],
     ]);

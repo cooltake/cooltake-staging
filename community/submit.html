@@ -250,19 +250,20 @@
             <div class="field-error" id="e-title-s"></div>
           </div>
           <div class="field">
-            <label>ジャンル<span class="req">*</span></label>
-            <select id="f-genre" name="genre">
-              <option value="">選択してください</option>
-              <optgroup label="🎙 歌・演奏動画">
-                <option>歌ってみた</option><option>演奏してみた</option><option>叩いてみた</option>
-              </optgroup>
-              <optgroup label="🎵 オリジナル・制作">
-                <option>宅録・弾き語り</option><option>DTM・電子音楽</option><option>バンド演奏</option>
-                <option>ボカロ・UTAU</option><option>ビートメイク・ヒップホップ</option>
-                <option>アンビエント・実験音楽</option><option>その他</option>
-              </optgroup>
-            </select>
-            <div class="field-error" id="e-genre"></div>
+            <label>カテゴリ<span class="req">*</span>（最大3つ）</label>
+            <div class="check-group" id="category_group">
+              <label class="check-chip"><input type="checkbox" name="category" value="オリジナル楽曲"> 🎵 オリジナル楽曲</label>
+              <label class="check-chip"><input type="checkbox" name="category" value="MV・映像作品"> 🎬 MV・映像作品</label>
+              <label class="check-chip"><input type="checkbox" name="category" value="歌ってみた"> 🎤 歌ってみた</label>
+              <label class="check-chip"><input type="checkbox" name="category" value="演奏してみた"> 🎸 演奏してみた</label>
+              <label class="check-chip"><input type="checkbox" name="category" value="DTM・トラック"> 💻 DTM・トラック</label>
+              <label class="check-chip"><input type="checkbox" name="category" value="宅録・弾き語り"> 🎙 宅録・弾き語り</label>
+              <label class="check-chip"><input type="checkbox" name="category" value="セッション・バンド"> 🥁 セッション・バンド</label>
+              <label class="check-chip"><input type="checkbox" name="category" value="ボカロ・UTAU"> 🤖 ボカロ・UTAU</label>
+              <label class="check-chip"><input type="checkbox" name="category" value="その他"> その他</label>
+            </div>
+            <div class="hint">純粋に楽曲を聴いてほしい方は「オリジナル楽曲」/ MVを作成した方は「MV・映像作品」も合わせて選択できます</div>
+            <div class="field-error" id="e-category"></div>
           </div>
           <div class="field">
             <label>メイン作品リンク<span class="req">*</span></label>
@@ -289,8 +290,33 @@
             <div class="field-error" id="e-gear"></div>
           </div>
           <div class="field">
-            <label>SNSリンク（任意）</label>
-            <input type="url" id="f-sns_link" name="sns_link" placeholder="https://x.com/yourname">
+            <label>SNSリンク（任意・入力したものが掲載されます）</label>
+            <div style="display:flex;flex-direction:column;gap:8px;margin-top:4px;">
+              <div style="display:flex;align-items:center;gap:8px;">
+                <span style="width:100px;font-size:.78rem;color:var(--muted);flex-shrink:0;">𝕏 (Twitter)</span>
+                <input type="url" id="f-sns_x" name="sns_x" placeholder="https://x.com/yourname" style="flex:1;">
+              </div>
+              <div style="display:flex;align-items:center;gap:8px;">
+                <span style="width:100px;font-size:.78rem;color:var(--muted);flex-shrink:0;">YouTube</span>
+                <input type="url" id="f-sns_youtube" name="sns_youtube" placeholder="https://youtube.com/@yourname" style="flex:1;">
+              </div>
+              <div style="display:flex;align-items:center;gap:8px;">
+                <span style="width:100px;font-size:.78rem;color:var(--muted);flex-shrink:0;">Instagram</span>
+                <input type="url" id="f-sns_instagram" name="sns_instagram" placeholder="https://instagram.com/yourname" style="flex:1;">
+              </div>
+              <div style="display:flex;align-items:center;gap:8px;">
+                <span style="width:100px;font-size:.78rem;color:var(--muted);flex-shrink:0;">SoundCloud</span>
+                <input type="url" id="f-sns_soundcloud" name="sns_soundcloud" placeholder="https://soundcloud.com/yourname" style="flex:1;">
+              </div>
+              <div style="display:flex;align-items:center;gap:8px;">
+                <span style="width:100px;font-size:.78rem;color:var(--muted);flex-shrink:0;">Spotify</span>
+                <input type="url" id="f-sns_spotify" name="sns_spotify" placeholder="https://open.spotify.com/artist/..." style="flex:1;">
+              </div>
+              <div style="display:flex;align-items:center;gap:8px;">
+                <span style="width:100px;font-size:.78rem;color:var(--muted);flex-shrink:0;">TikTok</span>
+                <input type="url" id="f-sns_tiktok" name="sns_tiktok" placeholder="https://www.tiktok.com/@yourname" style="flex:1;">
+              </div>
+            </div>
           </div>
           <div class="field" id="f-jacket-wrap">
             <label>ジャケット画像（任意）</label>
@@ -672,10 +698,27 @@ bindCounter('f-title-s','cnt-title-s'); bindCounter('f-description-s','cnt-desc-
 bindCounter('f-title-m','cnt-title-m'); bindCounter('f-description-m','cnt-desc-m');
 bindCounter('f-title-e','cnt-title-e'); bindCounter('f-description-e','cnt-desc-e');
 
-// チェックボックスチップスタイル
+// チェックボックスチップスタイル（カテゴリは最大3つ制限）
 document.querySelectorAll('.check-chip').forEach(chip => {
   const cb = chip.querySelector('input[type=checkbox]');
-  cb.addEventListener('change', () => chip.classList.toggle('checked', cb.checked));
+  cb.addEventListener('change', () => {
+    chip.classList.toggle('checked', cb.checked);
+    // カテゴリグループの最大3つ制限
+    if (cb.name === 'category') {
+      const checked = document.querySelectorAll('#category_group input:checked');
+      if (checked.length >= 3) {
+        document.querySelectorAll('#category_group input:not(:checked)').forEach(c => {
+          c.closest('.check-chip').style.opacity = '0.4';
+          c.closest('.check-chip').style.pointerEvents = 'none';
+        });
+      } else {
+        document.querySelectorAll('#category_group input').forEach(c => {
+          c.closest('.check-chip').style.opacity = '';
+          c.closest('.check-chip').style.pointerEvents = '';
+        });
+      }
+    }
+  });
 });
 
 // ── ユーティリティ ────────────────────────────────────────────
@@ -722,18 +765,22 @@ function buildPayloads(common) {
   let errors = false;
 
   if (selectedTypes.has('showcase')) {
-    const title=val('f-title-s'), genre=val('f-genre'), main_link=val('f-main_link');
+    const title=val('f-title-s'), main_link=val('f-main_link');
     const description=val('f-description-s'), gear=val('f-gear');
+    const categories=getChecked('category_group');
     const agree_original=document.getElementById('f-agree_original').checked;
     const agree_rights=document.getElementById('f-agree_rights').checked;
-    if (title.length<5||title.length>60)          { showErr('e-title-s','5〜60文字で入力してください'); errors=true; }
-    if (!genre)                                    { showErr('e-genre','ジャンルを選択してください'); errors=true; }
-    if (!main_link)                                { showErr('e-main_link','リンクを入力してください'); errors=true; }
+    if (title.length<5||title.length>60)              { showErr('e-title-s','5〜60文字で入力してください'); errors=true; }
+    if (categories.length===0||categories.length>3)   { showErr('e-category','1〜3つ選択してください'); errors=true; }
+    if (!main_link)                                    { showErr('e-main_link','リンクを入力してください'); errors=true; }
     if (description.length<50||description.length>400){ showErr('e-description-s','50〜400文字で入力してください'); errors=true; }
-    if (!gear)                                     { showErr('e-gear','使用機材を入力してください'); errors=true; }
-    if (!agree_original||!agree_rights)            { showErr('e-consent','すべての同意事項にチェックしてください'); errors=true; }
-    if (!errors) payloads.push({...common, action:'submit', title, genre, main_link,
-      extra_link:val('f-extra_link'), description, gear, sns_link:val('f-sns_link'),
+    if (!gear)                                         { showErr('e-gear','使用機材を入力してください'); errors=true; }
+    if (!agree_original||!agree_rights)                { showErr('e-consent','すべての同意事項にチェックしてください'); errors=true; }
+    if (!errors) payloads.push({...common, action:'submit', title, categories:categories.join(','), main_link,
+      extra_link:val('f-extra_link'), description, gear,
+      sns_x:val('f-sns_x'), sns_youtube:val('f-sns_youtube'),
+      sns_instagram:val('f-sns_instagram'), sns_soundcloud:val('f-sns_soundcloud'),
+      sns_spotify:val('f-sns_spotify'), sns_tiktok:val('f-sns_tiktok'),
       agree_original:'true', agree_rights:'true'});
   }
 
