@@ -9,8 +9,7 @@
   {% if n == prev_num %}{% assign prev_post = post %}{% endif %}
   {% if n == next_num %}{% assign next_post = post %}{% endif %}
 {% endfor %}
-<div style="margin:2rem 0 .5rem;"><a href="/series-list.html?series=suno-guide" style="font-size:.85rem;color:#60a5fa;text-decoration:none;">← 同シリーズ記事一覧に戻る</a></div>
-<nav class="series-nav" style="display:flex;justify-content:space-between;align-items:center;margin:0 0 2rem;padding:1rem;background:rgba(59,130,246,.06);border:1px solid rgba(59,130,246,.2);border-radius:10px;font-size:.88rem;">
+<nav class="series-nav" style="display:flex;justify-content:space-between;align-items:center;margin:2rem 0;padding:1rem;background:rgba(59,130,246,.06);border:1px solid rgba(59,130,246,.2);border-radius:10px;font-size:.88rem;">
   <div>
     {% if prev_post %}
       <a href="{{ prev_post.url }}" style="color:#60a5fa;">← 前の記事: {{ prev_post.title | truncate: 30 }}</a>
