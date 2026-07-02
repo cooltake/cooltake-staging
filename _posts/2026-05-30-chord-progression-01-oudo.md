@@ -73,11 +73,6 @@ Am : ラ・ド・ミ
 
 ## 教則本・コードブック
 
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:.8rem;margin:1rem 0;">
-<div style="background:#f0f9ff;border:1px solid #bae6fd;border-radius:10px;padding:1rem 1.2rem;">
-<p style="font-size:.8rem;font-weight:700;color:#0369a1;margin:0 0 .6rem;">📖 コード進行の教則本をサウンドハウスで探す</p>
-<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_word%3D%25A5%25B3%25A1%25BC%25A5%25C9%25BF%25CA%25B9%25D4%26s_ord%3D2" target="_blank" rel="nofollow noopener" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-soundhouse.jpg" alt="コード進行の教則本をサウンドハウスで探す" width="200" style="max-width:100%;height:auto;border-radius:8px;display:block;margin:0 auto;"></a>
-</div>
 <div style="background:#fff7ed;border:1px solid #fed7aa;border-radius:10px;padding:1rem 1.2rem;">
 <p style="font-size:.8rem;font-weight:700;color:#c2410c;margin:0 0 .6rem;">📖 コード進行の教則本を楽天ブックスで購入</p>
 <a href="https://books.rakuten.co.jp/search?sitem=%E3%82%B3%E3%83%BC%E3%83%89%E9%80%B2%E8%A1%8C+%E6%95%99%E5%89%87%E6%9C%AC&g=212" target="_blank" rel="nofollow noopener" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="コード進行の教則本を楽天ブックスで購入" width="200" style="max-width:100%;height:auto;border-radius:8px;display:block;margin:0 auto;"></a>
