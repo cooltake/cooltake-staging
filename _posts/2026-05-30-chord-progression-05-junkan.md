@@ -39,10 +39,22 @@ Cキーで：**C → Am → F → G（Ⅰ-Ⅵm-Ⅳ-Ⅴ）**
 C → Am → F → G
 ```
 
-<span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🎸 アコースティックギターを楽天で探す</span>
-<a href="https://search.rakuten.co.jp/search/mall/アコースティックギター+初心者+セット/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="アコースティックギターを楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
-<span style="display:block;font-size:.78rem;color:#4b5563;margin-bottom:3px;margin-top:6px;">🎸 ギター教則本を楽天で探す</span>
-<a href="https://search.rakuten.co.jp/search/mall/ギター+コード+教則本+初心者/" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="ギター教則本を楽天で探す" width="200" style="max-width:100%;height:auto;border-radius:14px;display:block;"></a>
+<div style="display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin-top:.8rem;"><a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_cat%3D271%26s_word%3D%25A5%25AE%25A5%25BF%25A1%25BC%26s_ord%3D2" target="_blank" rel="nofollow noopener" title="ギターをサウンドハウスで探す"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" height="36" style="height:36px;width:auto;border-radius:6px;display:block;"></a><a href="https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%AE%E3%82%BF%E3%83%BC+%E5%88%9D%E5%BF%83%E8%80%85+%E3%82%BB%E3%83%83%E3%83%88/" target="_blank" rel="nofollow noopener" title="アコースティックギターを楽天市場で探す"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" height="36" style="height:36px;width:auto;border-radius:6px;display:block;"></a><a href="https://books.rakuten.co.jp/search?sitem=%E3%82%AE%E3%82%BF%E3%83%BC+%E3%82%B3%E3%83%BC%E3%83%89+%E6%95%99%E5%89%87%E6%9C%AC&g=212" target="_blank" rel="nofollow noopener" title="ギターコード教則本を楽天ブックスで探す"><img src="/assets/images/btn-rakuten.jpg" alt="ギターコード教則本 楽天ブックス" height="36" style="height:36px;width:auto;border-radius:6px;display:block;"></a></div>
+
+---
+
+## ピアノ・キーボードでの弾き方
+
+左手ベースラインが5度ずつ下がる動きを意識する：
+
+```
+C  : ド・ミ・ソ
+Am : ラ・ド・ミ
+F  : ファ・ラ・ド
+G  : ソ・シ・レ
+```
+
+<div style="display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin-top:.8rem;"><a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%3Fs_cat%3D276%26s_word%3D%25A5%25AD%25A1%25BC%25A5%25DC%25A1%25BC%25A5%25C9%26s_ord%3D2" target="_blank" rel="nofollow noopener" title="キーボードをサウンドハウスで探す"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" height="36" style="height:36px;width:auto;border-radius:6px;display:block;"></a><a href="https://search.rakuten.co.jp/search/mall/%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89/" target="_blank" rel="nofollow noopener" title="キーボードを楽天市場で探す"><img src="/assets/images/btn-rakuten.jpg" alt="楽天市場で探す" height="36" style="height:36px;width:auto;border-radius:6px;display:block;"></a><a href="https://books.rakuten.co.jp/search?sitem=%E3%83%94%E3%82%A2%E3%83%8E+%E3%82%B3%E3%83%BC%E3%83%89+%E6%95%99%E5%89%87%E6%9C%AC&g=212" target="_blank" rel="nofollow noopener" title="ピアノコード教則本を楽天ブックスで探す"><img src="/assets/images/btn-rakuten.jpg" alt="ピアノコード教則本 楽天ブックス" height="36" style="height:36px;width:auto;border-radius:6px;display:block;"></a></div>
 
 ---
 
