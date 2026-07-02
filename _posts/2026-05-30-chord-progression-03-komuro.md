@@ -76,7 +76,6 @@ G  : 3フレット定番フォーム
 <p style="font-size:.8rem;font-weight:700;color:#c2410c;margin:0 0 .6rem;">📖 コード進行の教則本を楽天ブックスで購入</p>
 <a href="https://books.rakuten.co.jp/search?sitem=%E3%82%B3%E3%83%BC%E3%83%89%E9%80%B2%E8%A1%8C+%E6%95%99%E5%89%87%E6%9C%AC&g=212" target="_blank" rel="nofollow noopener" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-rakuten.jpg" alt="コード進行の教則本を楽天ブックスで購入" width="200" style="max-width:100%;height:auto;border-radius:8px;display:block;margin:0 auto;"></a>
 </div>
-</div>
 
 ---
 
