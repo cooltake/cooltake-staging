@@ -2921,7 +2921,7 @@ const CAT_INFO = {
 // サイドバーのカテゴリ本数: series-list.html の SERIES_DATA から実件数を取得
 // （series-list.html の遷移先ページで実際に表示される記事数を正とする）
 (function() {
-  fetch('/series-list.html')
+  fetch('/series-list.html', { cache: 'no-cache' })
     .then(function(r) { return r.text(); })
     .then(function(html) {
       var m = html.match(/const SERIES_DATA = \{([\s\S]*?)\n\};/);
