@@ -2906,22 +2906,8 @@ const CAT_INFO = {
   });
 })();
 
-// 動的カテゴリー本数更新（サイドバー + シリーズブロック「すべて表示」共通）
+// シリーズブロック「すべて表示」本数: ブロック内の実カード数から算出
 (function() {
-  var counts = {};
-  ALL_POSTS.forEach(function(p) {
-    counts[p.cat] = (counts[p.cat] || 0) + 1;
-  });
-  document.querySelectorAll('.cat-sidebar-item').forEach(function(item) {
-    var href = item.getAttribute('href') || '';
-    var m = href.match(/series=([^&]+)/);
-    if (!m) return;
-    var cat = m[1];
-    var countEl = item.querySelector('.cat-sidebar-count');
-    if (countEl && counts[cat]) {
-      countEl.textContent = counts[cat] + '本';
-    }
-  });
   document.querySelectorAll('.series-block').forEach(function(block) {
     var link = block.querySelector('.series-all-link');
     if (!link) return;
@@ -2930,6 +2916,43 @@ const CAT_INFO = {
       link.textContent = 'すべて表示（' + cardCount + '本）→';
     }
   });
+})();
+
+// サイドバーのカテゴリ本数: series-list.html の SERIES_DATA から実件数を取得
+// （series-list.html の遷移先ページで実際に表示される記事数を正とする）
+(function() {
+  fetch('/series-list.html')
+    .then(function(r) { return r.text(); })
+    .then(function(html) {
+      var m = html.match(/const SERIES_DATA = \{([\s\S]*?)\n\};/);
+      if (!m) return;
+      var body = m[1];
+      var keyRe = /["']([a-zA-Z0-9\-]+)["']:\s*\{\s*(?:label|title):/g;
+      var keyMatches = [];
+      var km;
+      while ((km = keyRe.exec(body)) !== null) {
+        keyMatches.push({ key: km[1], index: km.index });
+      }
+      var counts = {};
+      keyMatches.forEach(function(entry, i) {
+        var start = entry.index;
+        var end = i + 1 < keyMatches.length ? keyMatches[i + 1].index : body.length;
+        var section = body.slice(start, end);
+        var articleCount = (section.match(/\{\s*url\s*:/g) || []).length;
+        counts[entry.key] = articleCount;
+      });
+      document.querySelectorAll('.cat-sidebar-item').forEach(function(item) {
+        var href = item.getAttribute('href') || '';
+        var sm = href.match(/series=([^&]+)/);
+        if (!sm) return;
+        var cat = sm[1];
+        var countEl = item.querySelector('.cat-sidebar-count');
+        if (countEl && counts[cat]) {
+          countEl.textContent = counts[cat] + '本';
+        }
+      });
+    })
+    .catch(function() { /* フェッチ失敗時は既存の静的表示を維持 */ });
 })();
 
 </script>
