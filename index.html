@@ -2906,7 +2906,7 @@ const CAT_INFO = {
   });
 })();
 
-// 動的カテゴリー本数更新
+// 動的カテゴリー本数更新（サイドバー + シリーズブロック「すべて表示」共通）
 (function() {
   var counts = {};
   ALL_POSTS.forEach(function(p) {
@@ -2920,6 +2920,14 @@ const CAT_INFO = {
     var countEl = item.querySelector('.cat-sidebar-count');
     if (countEl && counts[cat]) {
       countEl.textContent = counts[cat] + '本';
+    }
+  });
+  document.querySelectorAll('.series-block').forEach(function(block) {
+    var link = block.querySelector('.series-all-link');
+    if (!link) return;
+    var cardCount = block.querySelectorAll('.series-card').length;
+    if (cardCount > 0) {
+      link.textContent = 'すべて表示（' + cardCount + '本）→';
     }
   });
 })();
