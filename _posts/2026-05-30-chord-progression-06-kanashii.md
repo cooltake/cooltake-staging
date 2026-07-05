@@ -285,7 +285,10 @@ description: "ヴィジュアル系・アニソンに多い「切ない系進行
 
   // timbre: 'piano' | 'organ' | 'strings' | 'soft'
   // pattern: 'block' (all notes together) | 'arpeggio-up' | 'arpeggio-updown' | 'rhythm' (quarter-note comping)
-  ChordMetronomeEngine.prototype.playChordNotes = function (semitones, durationSec, timbre, pattern) {
+  // beatDurSec/beatsInChord: the actual metronome beat grid this chord spans, so 'rhythm' can
+  // hit exactly on each beat instead of guessing sub-divisions from the chord's total hold time
+  // (with beatsInChord omitted/1, falls back to a single hit — same as 'block' timing-wise).
+  ChordMetronomeEngine.prototype.playChordNotes = function (semitones, durationSec, timbre, pattern, beatDurSec, beatsInChord) {
     var ctx = this._ensureCtx();
     var vol = this.chordGain;
     if (vol <= 0) return;
@@ -303,13 +306,19 @@ description: "ヴィジュアル系・アニソンに多い「切ない系進行
         self._playVoice(semitoneToFreq(st), now + i * step, step * 0.95, timbre, vol);
       });
     } else if (pattern === 'rhythm') {
-      // Simple comping: hit on beat 1 and the "and" of beat 2 (durationSec assumed = 1 chord's full hold)
-      var hits = [0, durationSec * 0.5];
-      hits.forEach(function (t) {
-        semitones.forEach(function (st) {
-          self._playVoice(semitoneToFreq(st), now + t, durationSec * 0.4, timbre, vol);
-        });
-      });
+      // Comping on every beat of the metronome grid this chord actually spans (1 hit for a
+      // 1-beat chord, 4 for a whole-note chord, etc.) — using the real beat duration keeps the
+      // cutting locked to the metronome's clicks instead of drifting from it.
+      var bd = beatDurSec || durationSec;
+      var beats = beatsInChord || 1;
+      var noteLen = Math.min(bd * 0.85, durationSec);
+      for (var b = 0; b < beats; b++) {
+        (function (t) {
+          semitones.forEach(function (st) {
+            self._playVoice(semitoneToFreq(st), now + t, noteLen, timbre, vol);
+          });
+        })(b * bd);
+      }
     } else {
       // 'block' (default): all notes together, sustained
       semitones.forEach(function (st) {
@@ -475,7 +484,7 @@ description: "ヴィジュアル系・アニソンに多い「切ない系進行
       var notes = buildChordNotes(chordDef, keyRootSemitone, isMinorKey, shift);
       notes = applyVoicingOps(notes, voicingOps[idx]);
       var durSec = currentChordBeats * beatDurSec * 0.95;
-      self.playChordNotes(notes, durSec, options.timbre, options.pattern);
+      self.playChordNotes(notes, durSec, options.timbre, options.pattern, beatDurSec, currentChordBeats);
       if (typeof self.onChordChange === 'function') {
         self.onChordChange(idx, chordDef, notes);
       }
