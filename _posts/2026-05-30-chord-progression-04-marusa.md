@@ -112,6 +112,9 @@ description: "シティポップとジャズを繋ぐ「丸サ進行」を徹底
   <div class="ctp-dots" id="ctp4BeatDots"></div>
   <div id="ctp4StateLabel" style="font-size:.7rem;color:#a8acc0;text-align:center;margin-top:4px;"></div>
 
+  <div id="ctp4Timeline" style="display:flex;gap:2px;margin:14px 0 4px;overflow-x:auto;"></div>
+  <div style="font-size:.68rem;color:#7a7e90;margin-bottom:10px;">▲ 小節番号・拍位置（1小節=4拍換算）。再生中は現在位置がハイライトされます。</div>
+
   <div id="ctp4ProgressionSeq" style="display:flex;flex-wrap:wrap;gap:10px;margin:12px 0;"></div>
 
   <div style="font-size:.72rem;color:#a8acc0;margin-top:6px;">🎼 各コードの構成音をト音記号（上声）＋ヘ音記号（ベース）の大譜表で表示。度数表記の下に、選んだキーで実際に鳴るコード名を表示します。「最高音↓」「最低音↑」でその場で鳴る上声の音を動かせます（ベース音は固定・次回も記憶）。進行内は自動でボイスリーディング（滑らかな声部進行）を適用します。</div>
@@ -228,7 +231,7 @@ description: "シティポップとジャズを繋ぐ「丸サ進行」を徹底
     this.chordIndex = 0;
     this.state = 'idle'; // 'idle' | 'countdown' | 'playing'
     this.countdownBeatsLeft = 0;
-    this.onBeat = null;          // (beatInBar, beatsPerBar, state)
+    this.onBeat = null;          // (beatInBar, beatsPerBar, state, progressionBeatIndex)
     this.onChordChange = null;   // (chordIndex, chordDef, notes)
     this.metronomeGain = 0.8;    // 0..1
     this.chordGain = 0.8;        // 0..1
@@ -518,7 +521,19 @@ description: "シティポップとジャズを繋ぐ「丸サ進行」を徹底
         }
       }
 
-      if (typeof self.onBeat === 'function') self.onBeat(beatInBar, beatsPerBar, self.state);
+      // progressionBeatIndex: how many beats into the progression LOOP we are (chord index's
+      // own beat offset + beatsIntoChord), so a timeline UI can highlight the exact beat cell
+      // without recomputing chord boundaries itself. null during countdown (no chord is sounding
+      // yet, so there's no meaningful position within the progression).
+      var progressionBeatIndex = null;
+      if (self.state === 'playing') {
+        progressionBeatIndex = 0;
+        for (var ci = 0; ci < self.chordIndex % progression.chords.length; ci++) {
+          progressionBeatIndex += beatsForChord(progression.chords[ci]);
+        }
+        progressionBeatIndex += beatsIntoChord;
+      }
+      if (typeof self.onBeat === 'function') self.onBeat(beatInBar, beatsPerBar, self.state, progressionBeatIndex);
 
       if (self.state === 'playing') {
         if (beatsIntoChord === 0) soundChord();
@@ -697,6 +712,42 @@ function ctpActualChordName(chordDef, keyRoot, isMinor) {
   var ctp4Engine = null;
   var ctp4VoicingOps = {};
   var ctp4CurrentChordIdx = 0;
+  var CTP4_BEATS_PER_BAR = 4;
+
+  // Builds one timeline "cell" per beat the progression spans (bar.beat numbering, 1-indexed),
+  // so a chord that starts mid-bar (e.g. the 3rd beat) or spans a bar line is visible as exactly
+  // that many cells rather than one undifferentiated block per chord. Chords with an odd beat
+  // count (e.g. a 12-bar blues) read correctly here because the cells are laid out by actual
+  // elapsed beats, not by chord index.
+  function ctp4BuildTimelineCells() {
+    var cells = [];
+    var beatCursor = 0;
+    ctp4PROGRESSION.chords.forEach(function (chordDef, chordIdx) {
+      var beats = chordDef.beats != null ? chordDef.beats : CTP4_BEATS_PER_BAR;
+      for (var b = 0; b < beats; b++) {
+        var bar = Math.floor(beatCursor / CTP4_BEATS_PER_BAR) + 1;
+        var beatInBar = (beatCursor % CTP4_BEATS_PER_BAR) + 1;
+        cells.push({ chordIdx: chordIdx, bar: bar, beatInBar: beatInBar, isChordStart: b === 0 });
+        beatCursor++;
+      }
+    });
+    return cells;
+  }
+  var ctp4TimelineCells = ctp4BuildTimelineCells();
+
+  function ctp4RenderTimeline(activeChordIdx, activeBeatCursor) {
+    var wrap = document.getElementById('ctp4Timeline');
+    if (!wrap) return;
+    wrap.innerHTML = ctp4TimelineCells.map(function (cell, i) {
+      var isActive = activeBeatCursor != null ? i === activeBeatCursor : cell.chordIdx === activeChordIdx;
+      var label = cell.isChordStart ? (cell.bar + '.' + cell.beatInBar) : '·';
+      return '<div style="flex:1;min-width:26px;text-align:center;padding:4px 2px;border-radius:5px;' +
+        'font-size:.62rem;font-weight:' + (cell.isChordStart ? '700' : '400') + ';' +
+        'border-left:' + (cell.isChordStart ? '2px solid #545872' : 'none') + ';' +
+        'color:' + (isActive ? '#0d0f16' : '#8a8ea4') + ';' +
+        'background:' + (isActive ? '#8b9bff' : '#1c1f2b') + ';">' + label + '</div>';
+    }).join('');
+  }
 
   function ctp4LoadShifts() {
     try {
@@ -837,13 +888,15 @@ function ctpActualChordName(chordDef, keyRoot, isMinor) {
       btn.textContent = '▶ 再生開始';
       document.getElementById('ctp4StateLabel').textContent = '';
       document.querySelectorAll('#ctp4BeatDots .ctp-dot').forEach(function (d) { d.style.background = '#383c4d'; });
+      ctp4RenderTimeline(ctp4CurrentChordIdx, null);
     } else {
       ctp4BuildDots();
-      ctp4Engine.onBeat = function (beatInBar, beatsPerBar, state) {
+      ctp4Engine.onBeat = function (beatInBar, beatsPerBar, state, progressionBeatIndex) {
         document.querySelectorAll('#ctp4BeatDots .ctp-dot').forEach(function (d, i) {
           d.style.background = i === beatInBar ? (state === 'countdown' ? '#f59e0b' : '#8b9bff') : '#383c4d';
         });
         document.getElementById('ctp4StateLabel').textContent = state === 'countdown' ? 'カウント中…' : '';
+        ctp4RenderTimeline(null, progressionBeatIndex);
       };
       ctp4Engine.onChordChange = function (idx) {
         ctp4CurrentChordIdx = idx;
@@ -872,11 +925,13 @@ function ctpActualChordName(chordDef, keyRoot, isMinor) {
     }
     ctp4BuildDots();
     ctp4RenderSequence(ctp4CurrentChordIdx);
+    ctp4RenderTimeline(ctp4CurrentChordIdx, null);
   };
 
   ctp4LoadShifts();
   ctp4BuildDots();
   ctp4RenderSequence(0);
+  ctp4RenderTimeline(0, null);
 })();
 </script>
 
