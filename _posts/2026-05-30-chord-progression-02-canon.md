@@ -151,8 +151,19 @@ description: "パッヘルベルのカノンに由来する「カノン進行」
 
   function noteNameToMidiBase(name) { return NOTE_NAMES.indexOf(name); }
 
+  // Keys are stored as a 0-11 semitone-from-C index (NOTE_NAMES_V2.indexOf), so a key like A (9)
+  // or B (11) would otherwise shift the whole progression up nearly an octave relative to C (0)
+  // just from how far its letter name sits in the array — nothing to do with the actual pitch
+  // register the chords should sit in. Fold to the nearest C (range -6..+5) so every key produces
+  // chords centered on the same octave; only the pitch classes differ, not the register.
+  function ctpNormalizeKeyRoot(keyRootSemitone) {
+    var k = ((keyRootSemitone % 12) + 12) % 12;
+    return k > 6 ? k - 12 : k;
+  }
+
   // Build a chord's absolute note list (semitones from C4=0), applying a per-chord octave shift.
   function buildChordNotes(chordDef, keyRootSemitone, isMinorKey, octaveShift) {
+    keyRootSemitone = ctpNormalizeKeyRoot(keyRootSemitone);
     var scaleMap = isMinorKey ? DEGREE_MINOR : DEGREE_MAJOR;
     var rootOffset = scaleMap[chordDef.deg];
     var intervals = QUALITY_INTERVALS[chordDef.q] || QUALITY_INTERVALS[''];
