@@ -708,7 +708,11 @@ function ctpActualChordName(chordDef, keyRoot, isMinor) {
 
 
 
-  var ctp4PROGRESSION = { chords: [{deg:'II',q:'m7',beats:2},{deg:'V',q:'7',beats:2},{deg:'I',q:'maj7',beats:2},{deg:'VII',q:'m7b5',beats:2},{deg:'III',q:'7',beats:2}] };
+  // 1 chord = 1 bar (4 beats): with 5 chords this loops every 5 bars, so bar 1 always starts on
+  // Dm7 again — unlike the previous 2-beats-per-chord setup, which looped every 2.5 bars and
+  // drifted the chord-vs-barline alignment on every repeat (hiro flagged this after seeing the
+  // beat timeline highlight bar numbers that kept shifting).
+  var ctp4PROGRESSION = { chords: [{deg:'II',q:'m7',beats:4},{deg:'V',q:'7',beats:4},{deg:'I',q:'maj7',beats:4},{deg:'VII',q:'m7b5',beats:4},{deg:'III',q:'7',beats:4}] };
   var ctp4Engine = null;
   var ctp4VoicingOps = {};
   var ctp4CurrentChordIdx = 0;
