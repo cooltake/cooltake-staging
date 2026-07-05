@@ -444,7 +444,13 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
     var keyRootSemitone = noteNameToMidiBase(options.keyRoot || 'C');
     var isMinorKey = options.keyMode === 'minor';
     var chordBeatMap = { whole: beatsPerBar, half: beatsPerBar / 2, quarter: 1, eighth: 0.5 };
-    var chordBeats = chordBeatMap[options.chordDuration] || beatsPerBar;
+    var defaultChordBeats = chordBeatMap[options.chordDuration] || beatsPerBar;
+    // A chord definition may carry its own `beats` (e.g. a 12-bar blues where each chord holds
+    // a different number of bars, or a jazz turnaround where some chords get half a bar) — this
+    // takes priority over the tool's global chordDuration setting for that one chord.
+    function beatsForChord(chordDef) {
+      return chordDef.beats != null ? chordDef.beats : defaultChordBeats;
+    }
     var octaveShifts = options.octaveShifts || [];
     var voicingOps = options.voicingOps || [];
     var countdownBars = options.countdownBars || 0;
@@ -454,6 +460,7 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
     // beatsIntoChord counts how many "playing" beats have elapsed for the CURRENT chord,
     // BEFORE this tick. When it's 0, this tick must sound a new chord.
     var beatsIntoChord = 0;
+    var currentChordBeats = beatsForChord(progression.chords[0]);
     this.state = (countdownBars > 0 && options.chordsOn) ? 'countdown' : 'playing';
     this.countdownBeatsLeft = countdownBars * beatsPerBar;
 
@@ -463,10 +470,11 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
       if (!options.chordsOn) return;
       var idx = self.chordIndex % progression.chords.length;
       var chordDef = progression.chords[idx];
+      currentChordBeats = beatsForChord(chordDef);
       var shift = octaveShifts[idx] || 0;
       var notes = buildChordNotes(chordDef, keyRootSemitone, isMinorKey, shift);
       notes = applyVoicingOps(notes, voicingOps[idx]);
-      var durSec = chordBeats * beatDurSec * 0.95;
+      var durSec = currentChordBeats * beatDurSec * 0.95;
       self.playChordNotes(notes, durSec, options.timbre, options.pattern);
       if (typeof self.onChordChange === 'function') {
         self.onChordChange(idx, chordDef, notes);
@@ -495,7 +503,7 @@ description: "半音下降ベースラインが生む哀愁「クリシェ進行
       if (self.state === 'playing') {
         if (beatsIntoChord === 0) soundChord();
         beatsIntoChord++;
-        if (beatsIntoChord >= chordBeats) {
+        if (beatsIntoChord >= currentChordBeats) {
           beatsIntoChord = 0;
           self.chordIndex++;
           // Countdown only ever happens once, right after start() is called (see the initial
