@@ -723,7 +723,10 @@ function ctpActualChordName(chordDef, keyRoot, isMinor) {
         prevUpper = upper.length ? upper : [bass];
         return;
       }
-      var bestUpper = upper.map(function (n) { return ctp3ClosestOctave(n, prevUpper); });
+      var bestUpper = upper.map(function (n, i) {
+        var partner = prevUpper[i] != null ? [prevUpper[i]] : prevUpper;
+        return ctp3ClosestOctave(n, partner);
+      });
       result.push([bass].concat(bestUpper));
       prevUpper = bestUpper;
     });

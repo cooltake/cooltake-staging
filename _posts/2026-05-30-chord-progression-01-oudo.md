@@ -721,7 +721,14 @@ function ctpActualChordName(chordDef, keyRoot, isMinor) {
         prevUpper = upper.length ? upper : [bass];
         return;
       }
-      var bestUpper = upper.map(function (n) { return ctp1ClosestOctave(n, prevUpper); });
+      // Pair each upper-voice note with the previous chord's upper voice at the same
+      // index (same chord-tone role: 3rd->3rd, 5th->5th, 7th->7th), so each voice moves
+      // independently toward its own predecessor instead of every note competing for
+      // whichever single previous note happens to be closest.
+      var bestUpper = upper.map(function (n, i) {
+        var partner = prevUpper[i] != null ? [prevUpper[i]] : prevUpper;
+        return ctp1ClosestOctave(n, partner);
+      });
       result.push([bass].concat(bestUpper));
       prevUpper = bestUpper;
     });
