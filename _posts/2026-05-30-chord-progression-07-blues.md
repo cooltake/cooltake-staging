@@ -88,7 +88,7 @@ description: "すべてのロックの起源「ブルース進行（Ⅰ-Ⅳ-Ⅴ�
       </select>
     </div>
     <div class="ctp-row">
-      <label>コード変更前のカウント</label>
+      <label>開始前のカウント</label>
       <select id="ctp7Countdown" class="ctp-select" onchange="ctp7ApplyIfPlaying()">
         <option value="0">なし</option>
         <option value="1">1小節</option>
@@ -100,11 +100,11 @@ description: "すべてのロックの起源「ブルース進行（Ⅰ-Ⅳ-Ⅴ�
   <div class="ctp-pair">
     <div class="ctp-row">
       <label>メトロノーム音量</label>
-      <input id="ctp7MetroVol" type="range" min="0" max="100" value="80" oninput="ctp7ApplyIfPlaying()">
+      <input id="ctp7MetroVol" type="range" min="0" max="100" value="80" oninput="ctp7ApplyVolume()">
     </div>
     <div class="ctp-row">
       <label>コード音量</label>
-      <input id="ctp7ChordVol" type="range" min="0" max="100" value="80" oninput="ctp7ApplyIfPlaying()">
+      <input id="ctp7ChordVol" type="range" min="0" max="100" value="80" oninput="ctp7ApplyVolume()">
     </div>
   </div>
 
@@ -112,17 +112,9 @@ description: "すべてのロックの起源「ブルース進行（Ⅰ-Ⅳ-Ⅴ�
   <div class="ctp-dots" id="ctp7BeatDots"></div>
   <div id="ctp7StateLabel" style="font-size:.7rem;color:#a8acc0;text-align:center;margin-top:4px;"></div>
 
-  <div id="ctp7ProgressionSeq" style="display:flex;flex-wrap:wrap;gap:6px;margin:12px 0;"></div>
+  <div id="ctp7ProgressionSeq" style="display:flex;flex-wrap:wrap;gap:10px;margin:12px 0;"></div>
 
-  <div style="margin-top:8px;">
-    <div style="font-size:.75rem;font-weight:700;color:#a8acc0;margin-bottom:6px;">🎼 現在のコードの構成音（オクターブ上下可・次回も記憶）</div>
-    <div style="display:flex;align-items:center;gap:10px;margin-bottom:6px;">
-      <button class="ctp-btn" onclick="ctp7ShiftOctave(-1)" style="width:auto;padding:6px 14px;">－1oct</button>
-      <span id="ctp7OctaveLabel" style="font-size:.78rem;color:#a8acc0;">オクターブ: 0</span>
-      <button class="ctp-btn" onclick="ctp7ShiftOctave(1)" style="width:auto;padding:6px 14px;">+1oct</button>
-    </div>
-    <div id="ctp7Staff" style="background:#0d0f16;border-radius:8px;padding:8px;"></div>
-  </div>
+  <div style="font-size:.72rem;color:#a8acc0;margin-top:6px;">🎼 各コードの構成音をト音記号（上声）＋ヘ音記号（ベース）の大譜表で表示。度数表記の下に、選んだキーで実際に鳴るコード名を表示します。「最高音↓」「最低音↑」でその場で鳴る上声の音を動かせます（ベース音は固定・次回も記憶）。進行内は自動でボイスリーディング（滑らかな声部進行）を適用します。</div>
 </div>
 
 <style>
@@ -136,6 +128,7 @@ description: "すべてのロックの起源「ブルース進行（Ⅰ-Ⅳ-Ⅴ�
 .ctp-dots { display:flex; gap:6px; justify-content:center; margin-top:12px; }
 .ctp-dot { width:14px; height:14px; border-radius:50%; background:#383c4d; transition:background .1s; }
 .ctp-bpmnum { text-align:right; font-weight:900; font-size:1.15rem; color:#8b9bff; }
+.rate-btn { border:1px solid #383c4d; background:#1c1f2b; color:#e8e8ef; border-radius:8px; cursor:pointer; font-family:inherit; }
 </style>
 
 <script>
@@ -176,6 +169,30 @@ description: "すべてのロックの起源「ブルース進行（Ⅰ-Ⅳ-Ⅴ�
     }
     var shift = (octaveShift || 0) * 12;
     return notes.map(function (n) { return n + shift; });
+  }
+
+  // Applies a voicing operation HISTORY to a chord's note list, in the exact order the user
+  // clicked: 'high' lowers whichever note is currently highest by an octave, 'up' raises
+  // whichever note is currently lowest by an octave. Replaying the clicks in original order
+  // (rather than tallying "N highs + M ups" and applying all highs then all ups) means
+  // alternating high/up presses behave the way a user watching the notes move would expect —
+  // e.g. high then up on the note that became the new lowest raises it back, matching
+  // "undo what I just did" rather than silently cancelling to a different, unintended voicing.
+  // ops: array of 'high' | 'up', in click order.
+  function applyVoicingOps(notes, ops) {
+    var result = notes.slice();
+    (ops || []).forEach(function (op) {
+      if (op === 'high') {
+        var maxIdx = 0;
+        for (var a = 1; a < result.length; a++) if (result[a] > result[maxIdx]) maxIdx = a;
+        result[maxIdx] -= 12;
+      } else if (op === 'up') {
+        var minIdx = 0;
+        for (var b = 1; b < result.length; b++) if (result[b] < result[minIdx]) minIdx = b;
+        result[minIdx] += 12;
+      }
+    });
+    return result;
   }
 
   function semitoneToFreq(semitoneFromC4) {
@@ -221,7 +238,7 @@ description: "すべてのロックの起源「ブルース進行（Ⅰ-Ⅳ-Ⅴ�
 
     if (sound === 'wood') {
       // Short noise burst through a bandpass filter -> woodblock-like tick
-      var bufferSize = ctx.sampleRate * 0.05;
+      var bufferSize = Math.floor(ctx.sampleRate * 0.05);
       var buffer = ctx.createBuffer(1, bufferSize, ctx.sampleRate);
       var data = buffer.getChannelData(0);
       for (var i = 0; i < bufferSize; i++) data[i] = (Math.random() * 2 - 1) * Math.pow(1 - i / bufferSize, 3);
@@ -232,7 +249,12 @@ description: "すべてのロックの起源「ブルース進行（Ⅰ-Ⅳ-Ⅴ�
       filter.frequency.value = accent ? 1800 : 1200;
       filter.Q.value = 3;
       var gain = ctx.createGain();
-      gain.gain.setValueAtTime((accent ? 0.9 : 0.6) * vol, now);
+      // A narrow bandpass filter on white noise cuts most of the signal's energy
+      // (only the ~Q-wide band around `frequency` survives), so the post-filter level is
+      // far quieter than the pre-filter gain value suggests — boost to compensate, or the
+      // woodblock sound is effectively inaudible next to the other metronome sounds.
+      var boost = 6;
+      gain.gain.setValueAtTime((accent ? 0.9 : 0.6) * vol * boost, now);
       gain.gain.exponentialRampToValueAtTime(0.001, now + 0.05);
       noise.connect(filter).connect(gain).connect(ctx.destination);
       noise.start(now);
@@ -271,7 +293,10 @@ description: "すべてのロックの起源「ブルース進行（Ⅰ-Ⅳ-Ⅴ�
     var self = this;
 
     if (pattern === 'arpeggio-up' || pattern === 'arpeggio-updown') {
-      var seq = semitones.slice();
+      // Always play arpeggios in ascending pitch order (lowest to highest, matching how the
+      // notes read top-to-bottom on the treble staff), regardless of the order the chord's
+      // intervals were built in.
+      var seq = semitones.slice().sort(function (a, b) { return a - b; });
       if (pattern === 'arpeggio-updown') seq = seq.concat(seq.slice(0, -1).reverse());
       var step = durationSec / seq.length;
       seq.forEach(function (st, i) {
@@ -298,6 +323,8 @@ description: "すべてのロックの起源「ブルース進行（Ⅰ-Ⅳ-Ⅴ�
     var master = ctx.createGain();
     master.connect(ctx.destination);
     vol = vol == null ? 1 : vol;
+    if (!this.activeVoices) this.activeVoices = [];
+    this.activeVoices.push(master);
 
     if (timbre === 'organ') {
       var partials = [1, 2, 3, 4];
@@ -367,12 +394,33 @@ description: "すべてのロックの起源「ブルース進行（Ⅰ-Ⅳ-Ⅴ�
     }
   };
 
+  // Immediately fades out and disconnects every currently-sounding chord voice.
+  // Needed because playChordNotes() schedules oscillators ahead of time via startTime/stop() —
+  // clearing the tick timer alone does not silence notes already in flight, so without this,
+  // starting a new chord (e.g. after a settings change) would overlap with the previous one
+  // and stack in volume.
+  ChordMetronomeEngine.prototype.silenceActiveVoices = function () {
+    if (!this.activeVoices || !this.ctx) { this.activeVoices = []; return; }
+    var ctx = this.ctx;
+    var now = ctx.currentTime;
+    this.activeVoices.forEach(function (master) {
+      try {
+        master.gain.cancelScheduledValues(now);
+        master.gain.setValueAtTime(master.gain.value, now);
+        master.gain.linearRampToValueAtTime(0.0001, now + 0.03);
+        setTimeout(function () { try { master.disconnect(); } catch (e) {} }, 50);
+      } catch (e) {}
+    });
+    this.activeVoices = [];
+  };
+
   ChordMetronomeEngine.prototype.stop = function () {
     this.isPlaying = false;
     this.state = 'idle';
     if (this.timerId) { clearTimeout(this.timerId); this.timerId = null; }
     this.beatCount = 0;
     this.chordIndex = 0;
+    this.silenceActiveVoices();
   };
 
   /**
@@ -381,7 +429,9 @@ description: "すべてのロックの起源「ブルース進行（Ⅰ-Ⅳ-Ⅴ�
    *  chordDuration ('whole'|'half'|'quarter'|'eighth'),
    *  timbre, pattern, metronomeSound ('click'|'wood'|'beep'),
    *  metronomeOn, chordsOn, octaveShifts (array parallel to chords, semitone-octave shift per chord index),
-   *  countdownBars (int, number of metronome-only bars to play before EACH chord change; 0 = off)
+   *  countdownBars (int, number of metronome-only bars to play once at the START of this
+   *    playback run, before the first chord sounds; 0 = off. Does NOT repeat on later chord
+   *    changes within the same run — only on the next explicit start() call.)
    */
   ChordMetronomeEngine.prototype.start = function (options) {
     this.stop();
@@ -396,6 +446,7 @@ description: "すべてのロックの起源「ブルース進行（Ⅰ-Ⅳ-Ⅴ�
     var chordBeatMap = { whole: beatsPerBar, half: beatsPerBar / 2, quarter: 1, eighth: 0.5 };
     var chordBeats = chordBeatMap[options.chordDuration] || beatsPerBar;
     var octaveShifts = options.octaveShifts || [];
+    var voicingOps = options.voicingOps || [];
     var countdownBars = options.countdownBars || 0;
 
     this.beatCount = 0;
@@ -410,13 +461,15 @@ description: "すべてのロックの起源「ブルース進行（Ⅰ-Ⅳ-Ⅴ�
 
     function soundChord() {
       if (!options.chordsOn) return;
-      var chordDef = progression.chords[self.chordIndex % progression.chords.length];
-      var shift = octaveShifts[self.chordIndex % progression.chords.length] || 0;
+      var idx = self.chordIndex % progression.chords.length;
+      var chordDef = progression.chords[idx];
+      var shift = octaveShifts[idx] || 0;
       var notes = buildChordNotes(chordDef, keyRootSemitone, isMinorKey, shift);
+      notes = applyVoicingOps(notes, voicingOps[idx]);
       var durSec = chordBeats * beatDurSec * 0.95;
       self.playChordNotes(notes, durSec, options.timbre, options.pattern);
       if (typeof self.onChordChange === 'function') {
-        self.onChordChange(self.chordIndex % progression.chords.length, chordDef, notes);
+        self.onChordChange(idx, chordDef, notes);
       }
     }
 
@@ -445,10 +498,10 @@ description: "すべてのロックの起源「ブルース進行（Ⅰ-Ⅳ-Ⅴ�
         if (beatsIntoChord >= chordBeats) {
           beatsIntoChord = 0;
           self.chordIndex++;
-          if (countdownBars > 0 && options.chordsOn) {
-            self.state = 'countdown';
-            self.countdownBeatsLeft = countdownBars * beatsPerBar;
-          }
+          // Countdown only ever happens once, right after start() is called (see the initial
+          // `this.state` assignment below) — NOT on every subsequent chord change within the
+          // same playback run. Re-entering 'countdown' here on every chord change was the old
+          // (undesired) behavior.
         }
       }
 
@@ -458,44 +511,120 @@ description: "すべてのロックの起源「ブルース進行（Ⅰ-Ⅳ-Ⅴ�
     tick();
   };
 
+  var NOTE_NAMES_V2 = NOTE_NAMES;
+  var ChordMetronomeEngineV2 = ChordMetronomeEngine;
+
 /* ============================================================
    UI helper functions shared by ToolsLab + Cooltake embeds (v2)
    Requires: engine-v2.js loaded first (window.ChordMetronomeEngineV2, buildChordNotes, semitoneToLabel)
    ============================================================ */
 
-// Very small staff renderer: draws a 5-line treble staff and note heads for given semitone offsets (relative to C4=0).
-// Returns an SVG string. Good enough for "which notes will sound" reference, not full notation engraving.
-function ctpRenderStaffSVG(semitones, width) {
-  width = width || 260;
-  var height = 100;
-  var lineGap = 10;
-  var top = 20;
-  var linesY = [0,1,2,3,4].map(function(i){ return top + i*lineGap; });
-  // Staff line pitches (treble clef): E4 F4 G4 A4 B4 C5 D5 E5 F5 (bottom to top: E4,G4,B4,D5,F5)
-  // Map semitone-from-C4 to a vertical position using a simple diatonic step approximation.
-  var REF = { // semitone-from-C4 -> staff step (0 = bottom line E4), fractional steps for accidentals
-    '-8':-3.5,'-7':-3,'-6':-2.5,'-5':-2,'-4':-1.5,'-3':-1,'-2':-0.5,'-1':0,
-    '0':0.5,'1':1,'2':1.5,'3':2,'4':2.5,'5':3,'6':3.5,'7':4,'8':4.5,'9':5,'10':5.5,'11':6,
-    '12':6.5,'13':7,'14':7.5,'15':8,'16':8.5,'17':9,'18':9.5,'19':10,'20':10.5,'21':11,'22':11.5,'23':12
-  };
-  function stepFor(s) {
-    var v = REF[String(s)];
-    if (v == null) v = 6 + (s - 11) * 0.5; // fallback extrapolation for far-out notes
-    return v;
+// Diatonic letter/accidental spelling for a semitone-in-octave value (0-11), C=0.
+// Uses "nearest natural, sharp if needed" — a simplified reference spelling, not full
+// key-signature-aware notation engraving.
+var CTP_LETTER_ORDER = ['C','D','E','F','G','A','B'];
+var CTP_LETTER_SEMI = { C:0, D:2, E:4, F:5, G:7, A:9, B:11 };
+function ctpSpellSemitone(semiInOctave) {
+  for (var i = 0; i < CTP_LETTER_ORDER.length; i++) {
+    var l = CTP_LETTER_ORDER[i];
+    if (CTP_LETTER_SEMI[l] === semiInOctave) return { letter: l, accidental: 0 };
   }
-  var noteEls = semitones.map(function (s, i) {
-    var step = stepFor(s);
-    var y = top + 4*lineGap - step*lineGap*0.7; // bottom line (E4)=step0 anchored near line index4
-    var x = 60 + i*28;
+  for (var j = 0; j < CTP_LETTER_ORDER.length; j++) {
+    var l2 = CTP_LETTER_ORDER[j];
+    if (CTP_LETTER_SEMI[l2] === semiInOctave - 1) return { letter: l2, accidental: 1 };
+  }
+  return { letter: 'C', accidental: 0 };
+}
+// Returns a "staff position" integer: number of diatonic letter-steps above C0 (arbitrary origin),
+// used purely to compute vertical placement consistently across both clefs.
+function ctpDiatonicPosition(semitoneFromC4) {
+  var octave = 4 + Math.floor(semitoneFromC4 / 12);
+  var semiInOctave = ((semitoneFromC4 % 12) + 12) % 12;
+  var spelled = ctpSpellSemitone(semiInOctave);
+  var letterIndex = CTP_LETTER_ORDER.indexOf(spelled.letter);
+  return { pos: octave * 7 + letterIndex, accidental: spelled.accidental, letter: spelled.letter, octave: octave };
+}
+
+// Renders one 5-line staff (treble or bass) for a set of semitone-from-C4 notes.
+// refPos/refY anchor a known diatonic position to a known pixel Y so treble/bass share one coordinate system.
+function ctpRenderStaffLines(semitones, clef, x0, width, top, lineGap, colorNote) {
+  var lines = [0,1,2,3,4].map(function (i) { return top + i * lineGap; });
+  // Anchor: treble bottom line = E4, bass bottom line = G2.
+  var anchorSemitone = clef === 'bass' ? -17 : 4; // G2=-17, E4=4 (semitone-from-C4)
+  var anchorPos = ctpDiatonicPosition(anchorSemitone).pos;
+  var bottomLineY = top + 4 * lineGap;
+  var stepPx = lineGap / 2; // each diatonic step = half a line-gap (line-to-space)
+  // All notes of the chord sound on the same beat, so they share one x position (a real
+  // chord symbol, not a staircase of separate beats). Notes a 2nd apart (adjacent line/space,
+  // stepDiff===1) get a small left/right offset so their noteheads don't visually overlap —
+  // standard notation practice for seconds within a chord.
+  var centerX = x0 + width / 2;
+
+  var withPos = semitones.map(function (s) {
+    var d = ctpDiatonicPosition(s);
+    var y = bottomLineY - (d.pos - anchorPos) * stepPx;
+    return { s: s, d: d, y: y, pos: d.pos };
+  }).sort(function (a, b) { return a.pos - b.pos; });
+
+  var noteEls = withPos.map(function (n, i) {
+    var prev = withPos[i - 1];
+    var isSecondFromPrev = prev && (n.pos - prev.pos === 1);
+    var x = centerX + (isSecondFromPrev ? 8 : 0);
     var ledger = '';
-    if (y < top - 2) ledger = '<line x1="'+(x-10)+'" y1="'+top+'" x2="'+(x+10)+'" y2="'+top+'" stroke="#8b9bff" stroke-width="1"/>';
-    if (y > top + 4*lineGap + 2) ledger = '<line x1="'+(x-10)+'" y1="'+(top+4*lineGap)+'" x2="'+(x+10)+'" y2="'+(top+4*lineGap)+'" stroke="#8b9bff" stroke-width="1"/>';
-    return ledger + '<ellipse cx="'+x+'" cy="'+y+'" rx="6" ry="4.5" fill="#8b9bff"/>';
+    if (n.y < top - 1) ledger = '<line x1="' + (x - 9) + '" y1="' + top + '" x2="' + (x + 9) + '" y2="' + top + '" stroke="#8b9bff" stroke-width="1"/>';
+    if (n.y > bottomLineY + 1) ledger = '<line x1="' + (x - 9) + '" y1="' + bottomLineY + '" x2="' + (x + 9) + '" y2="' + bottomLineY + '" stroke="#8b9bff" stroke-width="1"/>';
+    var accidentalEl = n.d.accidental ? '<text x="' + (x - 13 - (isSecondFromPrev ? 8 : 0)) + '" y="' + (n.y + 4) + '" font-size="11" fill="' + colorNote + '">♯</text>' : '';
+    return ledger + accidentalEl + '<ellipse cx="' + x + '" cy="' + n.y + '" rx="5.5" ry="4.2" fill="' + colorNote + '"/>';
   }).join('');
-  var lines = linesY.map(function(y){ return '<line x1="20" y1="'+y+'" x2="'+width+'" y2="'+y+'" stroke="#555" stroke-width="1"/>'; }).join('');
-  return '<svg viewBox="0 0 '+width+' '+height+'" width="100%" height="'+height+'" xmlns="http://www.w3.org/2000/svg">'+
-    '<text x="18" y="'+(top+4*lineGap+4)+'" font-size="30" fill="#8b9bff">𝄞</text>' +
-    lines + noteEls + '</svg>';
+
+  var lineEls = lines.map(function (y) {
+    return '<line x1="' + (x0 - 20) + '" y1="' + y + '" x2="' + (x0 + width) + '" y2="' + y + '" stroke="#555" stroke-width="1"/>';
+  }).join('');
+  var clefGlyph = clef === 'bass'
+    ? '<text x="' + (x0 - 34) + '" y="' + (top + 3 * lineGap + 5) + '" font-size="22" fill="' + colorNote + '">𝄢</text>'
+    : '<text x="' + (x0 - 34) + '" y="' + (top + 4 * lineGap + 4) + '" font-size="26" fill="' + colorNote + '">𝄞</text>';
+  return clefGlyph + lineEls + noteEls;
+}
+
+// Renders a grand staff (treble + bass) for a chord.
+// `semitones` (treble): the FULL set of currently-sounding notes, including root/bass — this is
+// whatever the user's "最高音↓/最低音↑" voicing operations produced, shown as-is with no note removed.
+// `fixedBassSemitone`: the chord's bass/root pitch class as originally defined (unaffected by
+// voicing operations), shown an octave lower on the bass clef purely as a fixed reference —
+// it never moves when the treble voicing is changed.
+// Good enough for "which notes will sound, roughly where" reference — not full music engraving.
+// Drops a pitch by octaves until it sits within the bass clef's comfortable range
+// (between two ledger lines above and below the staff), rather than a single fixed -12.
+// A high bass/root (e.g. B4) would otherwise land far above the bass staff on one -12 shift;
+// this keeps dropping by 12 until it's actually readable on the bass clef.
+function ctpFitToBassRange(semitone) {
+  var s = semitone;
+  // Comfortable bass clef range: G2 (bottom line, -17) up to A3 (top line, -3), with a little
+  // headroom (one ledger line) above and below. A note landing above the staff's top line
+  // (e.g. C4/middle C, semitone 0) sits in the empty gap between the two clefs and visually
+  // reads as overlapping the treble notes above it — so cap the top of the range at the bass
+  // staff's own top line, not up near middle C.
+  while (s > -3) s -= 12;
+  while (s < -20) s += 12;
+  return s;
+}
+
+function ctpRenderStaffSVG(semitones, fixedBassSemitone, width) {
+  width = width || 260;
+  var trebleNotes = semitones.slice();
+  var bassNotes = fixedBassSemitone == null ? [] : [ctpFitToBassRange(fixedBassSemitone)];
+
+  var lineGap = 9;
+  var trebleTop = 8;
+  var bassTop = trebleTop + 4 * lineGap + 22;
+  var height = bassTop + 4 * lineGap + 10;
+  var x0 = 46;
+
+  var trebleSvg = ctpRenderStaffLines(trebleNotes, 'treble', x0, width - x0, trebleTop, lineGap, '#8b9bff');
+  var bassSvg = ctpRenderStaffLines(bassNotes, 'bass', x0, width - x0, bassTop, lineGap, '#f0a878');
+
+  return '<svg viewBox="0 0 ' + width + ' ' + height + '" width="100%" height="' + height + '" xmlns="http://www.w3.org/2000/svg">' +
+    trebleSvg + bassSvg + '</svg>';
 }
 
 function ctpQualityLabel(q) {
@@ -510,29 +639,107 @@ function ctpChordLabel(chordDef) {
   return base;
 }
 
+// Degree (Roman numeral) -> semitone offset from the tonic, duplicated here (matching
+// DEGREE_MAJOR/DEGREE_MINOR inside the engine's own IIFE) because this file's chord-name
+// display logic lives in a separate <script> block from the engine and can't reach its
+// module-scoped constants directly.
+var CTP_DEGREE_MAJOR = { I:0, II:2, III:4, IV:5, V:7, VI:9, VII:11 };
+var CTP_DEGREE_MINOR = { I:0, II:2, IIIb:3, III:3, IV:5, V:7, VIb:8, VI:8, VIIb:10, VII:10 };
+
+// Resolves a chord definition (degree + quality, possibly a slash chord) to the concrete
+// chord name that actually sounds in the given key — e.g. deg:'IV' in key D major -> "G".
+function ctpActualChordName(chordDef, keyRoot, isMinor) {
+  var scaleMap = isMinor ? CTP_DEGREE_MINOR : CTP_DEGREE_MAJOR;
+  var keyRootSemitone = NOTE_NAMES_V2.indexOf(keyRoot);
+  var rootSemitone = ((keyRootSemitone + scaleMap[chordDef.deg]) % 12 + 12) % 12;
+  var rootName = NOTE_NAMES_V2[rootSemitone];
+  var name = rootName + ctpQualityLabel(chordDef.q);
+  if (chordDef.bassDeg && chordDef.bassDeg !== chordDef.deg) {
+    var bassOffset = scaleMap[chordDef.bassDeg];
+    if (chordDef.bassLowered) bassOffset -= 1;
+    var bassSemitone = ((keyRootSemitone + bassOffset) % 12 + 12) % 12;
+    name += '/' + NOTE_NAMES_V2[bassSemitone];
+  }
+  return name;
+}
+
+
 
   var ctp7PROGRESSION = { chords: [{deg:'I',q:'7'},{deg:'IV',q:'7'},{deg:'V',q:'7'}] };
   var ctp7Engine = null;
-  var ctp7OctaveShifts = {};
+  var ctp7VoicingOps = {};
   var ctp7CurrentChordIdx = 0;
 
   function ctp7LoadShifts() {
     try {
-      var raw = localStorage.getItem('cooltake_ctp7_octave_shifts_blues');
-      ctp7OctaveShifts = raw ? JSON.parse(raw) : {};
-    } catch (e) { ctp7OctaveShifts = {}; }
+      var raw = localStorage.getItem('cooltake_ctp7_voicing_ops_blues');
+      ctp7VoicingOps = raw ? JSON.parse(raw) : {};
+    } catch (e) { ctp7VoicingOps = {}; }
   }
   function ctp7SaveShifts() {
-    try { localStorage.setItem('cooltake_ctp7_octave_shifts_blues', JSON.stringify(ctp7OctaveShifts)); } catch (e) {}
+    try { localStorage.setItem('cooltake_ctp7_voicing_ops_blues', JSON.stringify(ctp7VoicingOps)); } catch (e) {}
   }
-  function ctp7GetShiftsArray() {
-    return ctp7PROGRESSION.chords.map(function (_, i) { return ctp7OctaveShifts[i] || 0; });
+  function ctp7OpsKey(chordIdx) { return chordIdx; }
+  function ctp7GetOps(chordIdx) { return ctp7VoicingOps[chordIdx] || []; }
+
+  function ctp7ChordAvg(notes) { return notes.reduce(function(a,b){return a+b;}, 0) / notes.length; }
+
+  // Per-note automatic voice leading (same algorithm as ToolsLab): each upper-voice note
+  // independently seeks the octave nearest to any note the previous chord's upper voices
+  // held, with a weighted cost so it won't jump an extra octave for only a marginal gain —
+  // the bass/root always stays at its natural, fixed octave.
+  function ctp7ClosestOctave(note, prevUpperNotes) {
+    var MARGIN = 3;
+    var best = note, bestDist = Infinity, bestOwnDist = 0;
+    for (var oct = -2; oct <= 2; oct++) {
+      var candidate = note + oct * 12;
+      var ownDist = Math.abs(oct * 12);
+      prevUpperNotes.forEach(function (p) {
+        var dist = Math.abs(candidate - p);
+        if (dist + MARGIN * ownDist / 12 < bestDist + MARGIN * bestOwnDist / 12) {
+          bestDist = dist; best = candidate; bestOwnDist = ownDist;
+        }
+      });
+    }
+    return best;
   }
+  function ctp7VoiceLedBaseNotes(keyRootSemitone, isMinor) {
+    var result = [];
+    var prevUpper = null;
+    ctp7PROGRESSION.chords.forEach(function (chordDef) {
+      var raw = buildChordNotes(chordDef, keyRootSemitone, isMinor, 0);
+      var bass = raw[0];
+      var upper = raw.slice(1);
+      if (upper.length === 0 || prevUpper == null) {
+        result.push(raw);
+        prevUpper = upper.length ? upper : [bass];
+        return;
+      }
+      var bestUpper = upper.map(function (n) { return ctp7ClosestOctave(n, prevUpper); });
+      result.push([bass].concat(bestUpper));
+      prevUpper = bestUpper;
+    });
+    return result;
+  }
+  function ctp7ChordNotesFor(chordIdx) {
+    var keyRoot = document.getElementById('ctp7KeyRoot').value;
+    var keyMode = document.getElementById('ctp7KeyMode').value;
+    var keyRootSemitone = NOTE_NAMES_V2.indexOf(keyRoot);
+    var voiceLed = ctp7VoiceLedBaseNotes(keyRootSemitone, keyMode === 'minor');
+    var baseNotes = voiceLed[chordIdx];
+    var fixedBass = baseNotes.length > 0 ? baseNotes[0] : null;
+    var notes = applyVoicingOps(baseNotes, ctp7GetOps(chordIdx));
+    return { notes: notes, fixedBass: fixedBass };
+  }
+
   window.ctp7Slide = function () {
     document.getElementById('ctp7BpmNum').textContent = document.getElementById('ctp7Bpm').value;
     window.ctp7ApplyIfPlaying();
   };
   function ctp7GetOptions() {
+    var idx;
+    var octaveShifts = [];
+    var voicingOps = ctp7PROGRESSION.chords.map(function (_, i) { return ctp7GetOps(i); });
     return {
       bpm: parseInt(document.getElementById('ctp7Bpm').value, 10),
       beatsPerBar: 4,
@@ -546,7 +753,8 @@ function ctpChordLabel(chordDef) {
       chordsOn: true,
       countdownBars: parseInt(document.getElementById('ctp7Countdown').value, 10),
       metronomeOn: true,
-      octaveShifts: ctp7GetShiftsArray(),
+      octaveShifts: octaveShifts,
+      voicingOps: voicingOps,
     };
   }
   function ctp7BuildDots() {
@@ -554,37 +762,45 @@ function ctpChordLabel(chordDef) {
     wrap.innerHTML = Array.from({length: 4}, function (_, i) { return '<div class="ctp-dot" data-i="' + i + '"></div>'; }).join('');
   }
   function ctp7RenderSequence(activeIdx) {
+    var keyRoot = document.getElementById('ctp7KeyRoot').value;
+    var keyMode = document.getElementById('ctp7KeyMode').value;
     var wrap = document.getElementById('ctp7ProgressionSeq');
     wrap.innerHTML = ctp7PROGRESSION.chords.map(function (c, i) {
       var label = ctpChordLabel(c);
+      var actualName = ctpActualChordName(c, keyRoot, keyMode === 'minor');
       var active = i === activeIdx;
-      return '<div style="padding:6px 12px;border-radius:8px;font-weight:700;font-size:.85rem;' +
+      var r = ctp7ChordNotesFor(i);
+      return '<div style="padding:8px 10px;border-radius:10px;min-width:120px;' +
         'border:2px solid ' + (active ? '#8b9bff' : '#383c4d') + ';' +
-        'background:' + (active ? 'rgba(139,155,255,.15)' : '#1c1f2b') + ';' +
-        'color:' + (active ? '#8b9bff' : '#e8e8ef') + ';">' + label + '</div>';
+        'background:' + (active ? 'rgba(139,155,255,.15)' : '#1c1f2b') + ';">' +
+        '<div style="font-weight:700;font-size:.85rem;text-align:center;margin-bottom:2px;color:' + (active ? '#8b9bff' : '#e8e8ef') + ';">' + label + '</div>' +
+        '<div style="font-weight:900;font-size:1.3rem;text-align:center;margin-bottom:6px;color:' + (active ? '#8b9bff' : '#e8e8ef') + ';">' + actualName + '</div>' +
+        '<div style="background:#0d0f16;border-radius:6px;padding:4px;">' + ctpRenderStaffSVG(r.notes, r.fixedBass, 130) + '</div>' +
+        '<div style="display:flex;gap:4px;margin-top:6px;">' +
+        '<button class="rate-btn" onclick="ctp7VoicingOp(' + i + ',\'high\')" style="flex:1;padding:4px 2px;font-size:.65rem;" title="最高音を1オクターブ下げる">最高音↓</button>' +
+        '<button class="rate-btn" onclick="ctp7VoicingOp(' + i + ',\'up\')" style="flex:1;padding:4px 2px;font-size:.65rem;" title="最低音を1オクターブ上げる">最低音↑</button>' +
+        '</div>' +
+        '<button class="rate-btn" onclick="ctp7VoicingReset(' + i + ')" style="width:100%;margin-top:4px;padding:3px 2px;font-size:.62rem;color:#a8acc0;">リセット</button>' +
+        '</div>';
     }).join('');
   }
-  function ctp7UpdateStaff(activeIdx) {
-    var chordDef = ctp7PROGRESSION.chords[activeIdx];
-    var shift = ctp7OctaveShifts[activeIdx] || 0;
-    var keyRoot = document.getElementById('ctp7KeyRoot').value;
-    var keyMode = document.getElementById('ctp7KeyMode').value;
-    var keyRootSemitone = ['C','C#','D','D#','E','F','F#','G','G#','A','A#','B'].indexOf(keyRoot);
-    var notes = buildChordNotes(chordDef, keyRootSemitone, keyMode === 'minor', shift);
-    document.getElementById('ctp7Staff').innerHTML = ctpRenderStaffSVG(notes);
-    document.getElementById('ctp7OctaveLabel').textContent = 'オクターブ: ' + (shift > 0 ? '+' : '') + shift;
-  }
-  window.ctp7ShiftOctave = function (delta) {
-    var cur = ctp7OctaveShifts[ctp7CurrentChordIdx] || 0;
-    var next = Math.max(-2, Math.min(2, cur + delta));
-    ctp7OctaveShifts[ctp7CurrentChordIdx] = next;
+  window.ctp7VoicingOp = function (chordIdx, which) {
+    var cur = ctp7GetOps(chordIdx);
+    var next = cur.concat([which]).slice(-12);
+    ctp7VoicingOps[chordIdx] = next;
     ctp7SaveShifts();
-    ctp7UpdateStaff(ctp7CurrentChordIdx);
+    ctp7RenderSequence(ctp7CurrentChordIdx);
+    window.ctp7ApplyIfPlaying();
+  };
+  window.ctp7VoicingReset = function (chordIdx) {
+    delete ctp7VoicingOps[chordIdx];
+    ctp7SaveShifts();
+    ctp7RenderSequence(ctp7CurrentChordIdx);
     window.ctp7ApplyIfPlaying();
   };
   window.ctp7Toggle = function () {
     var btn = document.getElementById('ctp7StartBtn');
-    if (!ctp7Engine) ctp7Engine = new ChordMetronomeEngine();
+    if (!ctp7Engine) ctp7Engine = new ChordMetronomeEngineV2();
     if (ctp7Engine.isPlaying) {
       ctp7Engine.stop();
       btn.textContent = '▶ 再生開始';
@@ -601,7 +817,6 @@ function ctpChordLabel(chordDef) {
       ctp7Engine.onChordChange = function (idx) {
         ctp7CurrentChordIdx = idx;
         ctp7RenderSequence(idx);
-        ctp7UpdateStaff(idx);
       };
       ctp7Engine.metronomeGain = parseInt(document.getElementById('ctp7MetroVol').value, 10) / 100;
       ctp7Engine.chordGain = parseInt(document.getElementById('ctp7ChordVol').value, 10) / 100;
@@ -609,19 +824,28 @@ function ctpChordLabel(chordDef) {
       btn.textContent = '■ 停止';
     }
   };
-  window.ctp7ApplyIfPlaying = function () {
+  window.ctp7ApplyVolume = function () {
     if (ctp7Engine) {
       ctp7Engine.metronomeGain = parseInt(document.getElementById('ctp7MetroVol').value, 10) / 100;
       ctp7Engine.chordGain = parseInt(document.getElementById('ctp7ChordVol').value, 10) / 100;
     }
-    if (ctp7Engine && ctp7Engine.isPlaying) ctp7Engine.start(ctp7GetOptions());
+  };
+  window.ctp7ApplyIfPlaying = function () {
+    window.ctp7ApplyVolume();
+    if (ctp7Engine && ctp7Engine.isPlaying) {
+      ctp7Engine.stop();
+      var btn = document.getElementById('ctp7StartBtn');
+      if (btn) btn.textContent = '▶ 再生開始';
+      document.getElementById('ctp7StateLabel').textContent = '';
+      document.querySelectorAll('#ctp7BeatDots .ctp-dot').forEach(function (d) { d.style.background = '#383c4d'; });
+    }
     ctp7BuildDots();
-  }
+    ctp7RenderSequence(ctp7CurrentChordIdx);
+  };
 
   ctp7LoadShifts();
   ctp7BuildDots();
   ctp7RenderSequence(0);
-  ctp7UpdateStaff(0);
 })();
 </script>
 
