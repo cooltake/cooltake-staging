@@ -3,7 +3,7 @@ layout: post
 title: "演奏した楽曲を販売するときの著作権使用料【完全ガイド】カバー・ライブ音源の配信/CD/DVD化"
 description: "他者の楽曲を演奏・カバーして販売する際の著作権使用料を解説。誰の何に対して払うのか、誰が払うのか、JASRAC・NexTone・配信代行サービスでの手続き方法まで、ネット配信/CD・USB/ライブDVDの形態別に整理します。"
 date: 2026-07-07
-categories: [production]
+categories: [learn]
 tags: [著作権, JASRAC, NexTone, カバー曲, ライブ音源, 演奏権, 著作隣接権, 楽曲販売]
 image: /assets/images/thumb-performance-royalty.jpg
 ---
