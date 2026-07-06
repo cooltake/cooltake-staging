@@ -129,9 +129,5 @@ image: /assets/images/thumb-performance-royalty.jpg
 ---
 
 <div style="display:flex;gap:.75rem;margin:2rem 0;">
-<div style="flex:1;padding:1.2rem 1.5rem;background:#f0f9ff;border-left:4px solid #0ea5e9;border-radius:8px;">
-<p style="margin:0 0 .6rem;font-weight:bold;font-size:1rem;">&#x1F3B5; サウンドハウスでライブ録音機材をチェック（国内最大の音楽機材専門店）</p>
-<a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%2F%3Fsearch_all%3D%E3%83%A9%E3%82%A4%E3%83%96%E9%8C%B2%E9%9F%B3" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block;background:#0369a1;color:#fff;padding:.45rem 1.1rem;border-radius:4px;text-decoration:none;font-weight:bold;font-size:.95rem;">サウンドハウスで探す →</a>
-<img src="https://h.accesstrade.net/sp/rr?rk=01001xqc00os63" width="1" height="1" border="0" alt="" loading="lazy">
-</div>
+<div style="flex:1;padding:.8rem 1rem 1rem;background:#eef6fb;border-radius:10px;border:1px solid rgba(3,105,161,.25);"><span style="display:block;margin:0 0 .5rem;color:#374151;font-size:.82rem;font-weight:bold;">ライブ録音機材をサウンドハウスで探す</span><a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%2F%3Fsearch_all%3Drecording" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="240" style="height:auto;border-radius:8px;display:inline-block;"></a><img src="https://h.accesstrade.net/sp/rr?rk=01001xqc00os63" width="1" height="1" border="0" alt="" loading="lazy"></div>
 </div>
