@@ -125,9 +125,3 @@ image: /assets/images/thumb-performance-royalty.jpg
 - [ ] 少部数・非営利であっても使用料申請が必要という前提で動いている
 
 著作権の実務ルールはJASRAC・NexToneの規定改定により変わることがあります。最終的な判断は各管理団体の窓口、または著作権に詳しい専門家に確認することをおすすめします。
-
----
-
-<div style="display:flex;gap:.75rem;margin:2rem 0;">
-<div style="flex:1;padding:.8rem 1rem 1rem;background:#eef6fb;border-radius:10px;border:1px solid rgba(3,105,161,.25);"><span style="display:block;margin:0 0 .5rem;color:#374151;font-size:.82rem;font-weight:bold;">ライブ録音機材をサウンドハウスで探す</span><a href="https://h.accesstrade.net/sp/cc?rk=01001xqc00os63&url=https%3A%2F%2Fwww.soundhouse.co.jp%2Fsearch%2Findex%2F%3Fsearch_all%3Drecording" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:block;text-decoration:none;text-align:center;"><img src="/assets/images/btn-soundhouse.jpg" alt="サウンドハウスで探す" width="240" style="height:auto;border-radius:8px;display:inline-block;"></a><img src="https://h.accesstrade.net/sp/rr?rk=01001xqc00os63" width="1" height="1" border="0" alt="" loading="lazy"></div>
-</div>
