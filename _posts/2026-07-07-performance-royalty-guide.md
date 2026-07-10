@@ -125,3 +125,10 @@ image: /assets/images/thumb-performance-royalty.jpg
 - [ ] 少部数・非営利であっても使用料申請が必要という前提で動いている
 
 著作権の実務ルールはJASRAC・NexToneの規定改定により変わることがあります。最終的な判断は各管理団体の窓口、または著作権に詳しい専門家に確認することをおすすめします。
+
+---
+
+### 参考リンク
+
+- [JASRAC（日本音楽著作権協会）公式サイト](https://www.jasrac.or.jp/)
+- [NexTone 公式サイト](https://www.nex-tone.co.jp/)
