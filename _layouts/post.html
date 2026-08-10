@@ -181,7 +181,8 @@ layout: default
          margin を 0 に戻すため !important で上書きする */
       margin-left: -6% !important;
       margin-right: -6% !important;
-      padding: 0 6%;
+      /* padding は付けない。付けると負マージンで稼いだ幅を打ち消してしまう */
+      padding: 0;
       /* 右端にグラデーションを出し、続きがあることを示す */
       background:
         linear-gradient(to right, #d6d5d2 30%, rgba(214,213,210,0)) left center / 40px 100% no-repeat,
