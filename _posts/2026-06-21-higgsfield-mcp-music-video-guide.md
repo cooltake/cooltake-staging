@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Higgsfield MCP × Claude Codeでミュージックビデオを作る方法【2026年版】入門者でも完結するAI動画制作ガイド"
-description: "Higgsfield MCPをClaude Codeに接続してAIミュージックビデオを作る方法を徹底解説。セットアップから楽曲生成・映像制作・字幕編集まで、AI連携だけで完結するフルワークフローを入門者向けにわかりやすく説明します。"
+title: "Higgsfield MCPの料金と使い方｜AI動画の作り方"
+description: "Higgsfield MCPの料金プランと使い方を解説。Claude Codeに接続してAIミュージックビデオを作る手順を、セットアップから楽曲生成・映像制作・字幕編集まで入門者向けに説明します。"
 date: 2026-06-21
 categories: [production]
 tags: [Higgsfield, MCP, Claude Code, AI動画, ミュージックビデオ, Suno AI, 初心者, AI連携]
