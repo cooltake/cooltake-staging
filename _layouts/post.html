@@ -176,9 +176,11 @@ layout: default
     .post-content figure {
       overflow-x: auto;
       -webkit-overflow-scrolling: touch;
-      /* .post-content の左右パディング(6%)を figure だけ打ち消し、表示幅を最大化 */
-      margin-left: -6%;
-      margin-right: -6%;
+      /* .post-content の左右パディング(6%)を figure だけ打ち消し、表示幅を最大化。
+         style.css の `.post-content figure { margin: 32px 0; }` が後勝ちで
+         margin を 0 に戻すため !important で上書きする */
+      margin-left: -6% !important;
+      margin-right: -6% !important;
       padding: 0 6%;
       /* 右端にグラデーションを出し、続きがあることを示す */
       background:
