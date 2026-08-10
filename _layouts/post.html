@@ -176,14 +176,11 @@ layout: default
     .post-content figure {
       overflow-x: auto;
       -webkit-overflow-scrolling: touch;
-      /* .post-content の左右パディング(6%)を figure だけ打ち消し、表示幅を最大化。
-         style.css の `.post-content figure { margin: 32px 0; }` が後勝ちで
-         margin を 0 に戻すため !important で上書きする */
-      margin-left: -6% !important;
-      margin-right: -6% !important;
-      /* padding は付けない。付けると負マージンで稼いだ幅を打ち消してしまう */
-      padding: 0;
-      /* 右端にグラデーションを出し、続きがあることを示す */
+      /* 注: figure は記事側に inline style="margin:2rem auto" を持つため、
+         負マージンによる表示幅の拡大はCSSからは行えない（inline styleが優先。
+         !important でも margin:auto に負けることを実測で確認済み）。
+         表示幅の拡大が必要な場合は記事側のinline styleを直す必要がある。 */
+      /* 左右にグラデーションを出し、続きがあることを示す */
       background:
         linear-gradient(to right, #d6d5d2 30%, rgba(214,213,210,0)) left center / 40px 100% no-repeat,
         linear-gradient(to left,  #d6d5d2 30%, rgba(214,213,210,0)) right center / 40px 100% no-repeat,
