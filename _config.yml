@@ -19,3 +19,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  - scope:
+      path: "community"
+    values:
+      sitemap: false
+  - scope:
+      path: "showcase"
+    values:
+      sitemap: false
